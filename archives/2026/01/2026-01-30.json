@@ -1,84 +1,84 @@
 {
   "date": "2026-01-30",
-  "updated_at": "2026-01-30 11:03:38",
+  "updated_at": "2026-01-30 11:10:54",
   "count": 14,
   "rankings": [
     {
       "name": "openclaw/openclaw",
       "rank": 1,
-      "stars": "111,278",
-      "stars_today": "16,338",
+      "stars": "111,336",
+      "stars_today": "14,210",
       "language": "TypeScript",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞"
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
       "rank": 2,
-      "stars": "28,150",
-      "stars_today": "1,387",
+      "stars": "28,151",
+      "stars_today": "1,081",
       "language": "JavaScript",
       "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini"
     },
     {
       "name": "lobehub/lobehub",
       "rank": 3,
-      "stars": "71,389",
-      "stars_today": "364",
+      "stars": "71,390",
+      "stars_today": "375",
       "language": "TypeScript",
       "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction."
     },
     {
-      "name": "NevaMind-AI/memU",
-      "rank": 4,
-      "stars": "6,284",
-      "stars_today": "604",
-      "language": "Python",
-      "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot)."
-    },
-    {
       "name": "hashicorp/vault",
-      "rank": 5,
-      "stars": "34,719",
-      "stars_today": "255",
+      "rank": 4,
+      "stars": "34,720",
+      "stars_today": "228",
       "language": "Go",
       "description": "A tool for secrets management, encryption as a service, and privileged access management"
     },
     {
       "name": "protocolbuffers/protobuf",
-      "rank": 6,
+      "rank": 5,
       "stars": "70,542",
-      "stars_today": "87",
+      "stars_today": "66",
       "language": "C++",
       "description": "Protocol Buffers - Google's data interchange format"
     },
     {
       "name": "Shubhamsaboo/awesome-llm-apps",
-      "rank": 7,
-      "stars": "91,078",
+      "rank": 6,
+      "stars": "91,080",
       "stars_today": "208",
       "language": "Python",
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
     },
     {
       "name": "MoonshotAI/kimi-cli",
-      "rank": 8,
-      "stars": "5,151",
-      "stars_today": "492",
+      "rank": 7,
+      "stars": "5,153",
+      "stars_today": "377",
       "language": "Python",
       "description": "Kimi Code CLI is your next CLI agent."
+    },
+    {
+      "name": "NevaMind-AI/memU",
+      "rank": 8,
+      "stars": "6,285",
+      "stars_today": "463",
+      "language": "Python",
+      "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot)."
     },
     {
       "name": "badlogic/pi-mono",
       "rank": 9,
       "stars": "3,597",
-      "stars_today": "396",
+      "stars_today": "285",
       "language": "TypeScript",
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods"
     },
     {
       "name": "TeamNewPipe/NewPipe",
       "rank": 10,
-      "stars": "36,805",
+      "stars": "36,806",
       "stars_today": "63",
       "language": "Java",
       "description": "A libre lightweight streaming front-end for Android."
@@ -87,14 +87,14 @@
       "name": "modelcontextprotocol/ext-apps",
       "rank": 11,
       "stars": "932",
-      "stars_today": "117",
+      "stars_today": "195",
       "language": "TypeScript",
       "description": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers"
     },
     {
       "name": "pedroslopez/whatsapp-web.js",
       "rank": 12,
-      "stars": "20,780",
+      "stars": "20,781",
       "stars_today": "16",
       "language": "JavaScript",
       "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app"
