@@ -1,0 +1,167 @@
+{
+  "date": "2026-01-24",
+  "updated_at": "2026-01-30 15:33:33",
+  "count": 20,
+  "rankings": [
+    {
+      "name": "denoland/deno",
+      "rank": 1,
+      "stars": "105,152",
+      "stars_today": "4417",
+      "language": "Rust",
+      "description": "A modern runtime for JavaScript and TypeScript"
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "rank": 2,
+      "stars": "31,990",
+      "stars_today": "2966",
+      "language": "JavaScript",
+      "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini"
+    },
+    {
+      "name": "pedroslopez/whatsapp-web.js",
+      "rank": 3,
+      "stars": "28,610",
+      "stars_today": "1449",
+      "language": "JavaScript",
+      "description": "A WhatsApp client library for NodeJS"
+    },
+    {
+      "name": "astral-sh/uv",
+      "rank": 4,
+      "stars": "65,920",
+      "stars_today": "762",
+      "language": "Rust",
+      "description": "An extremely fast Python package installer"
+    },
+    {
+      "name": "microsoft/vscode",
+      "rank": 5,
+      "stars": "173,210",
+      "stars_today": "672",
+      "language": "TypeScript",
+      "description": "Visual Studio Code"
+    },
+    {
+      "name": "MoonshotAI/kimi-cli",
+      "rank": 6,
+      "stars": "15,450",
+      "stars_today": "607",
+      "language": "Python",
+      "description": "Kimi Code CLI is your next CLI agent"
+    },
+    {
+      "name": "NevaMind-AI/memU",
+      "rank": 7,
+      "stars": "10,538",
+      "stars_today": "606",
+      "language": "Python",
+      "description": "Memory for 24/7 proactive agents like moltbot"
+    },
+    {
+      "name": "huggingface/transformers",
+      "rank": 8,
+      "stars": "149,882",
+      "stars_today": "580",
+      "language": "Python",
+      "description": "State-of-the-art ML for PyTorch, TensorFlow, and JAX"
+    },
+    {
+      "name": "microsoft/playwright-cli",
+      "rank": 9,
+      "stars": "12,016",
+      "stars_today": "552",
+      "language": "TypeScript",
+      "description": "CLI for common Playwright actions"
+    },
+    {
+      "name": "facebook/react",
+      "rank": 10,
+      "stars": "236,378",
+      "stars_today": "479",
+      "language": "JavaScript",
+      "description": "The library for web and native user interfaces"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "rank": 11,
+      "stars": "54,570",
+      "stars_today": "459",
+      "language": "TypeScript",
+      "description": "Claude Code is an agentic coding tool"
+    },
+    {
+      "name": "TeamNewPipe/NewPipe",
+      "rank": 12,
+      "stars": "39,924",
+      "stars_today": "363",
+      "language": "Java",
+      "description": "A libre lightweight streaming front-end for Android"
+    },
+    {
+      "name": "vercel/ai",
+      "rank": 13,
+      "stars": "14,028",
+      "stars_today": "327",
+      "language": "TypeScript",
+      "description": "Build AI-powered applications with React, Svelte, Vue"
+    },
+    {
+      "name": "tailwindlabs/tailwindcss",
+      "rank": 14,
+      "stars": "89,734",
+      "stars_today": "306",
+      "language": "CSS",
+      "description": "A utility-first CSS framework"
+    },
+    {
+      "name": "langchain-ai/langchain",
+      "rank": 15,
+      "stars": "103,112",
+      "stars_today": "303",
+      "language": "Python",
+      "description": "Building applications with LLMs through composability"
+    },
+    {
+      "name": "badlogic/pi-mono",
+      "rank": 16,
+      "stars": "9,000",
+      "stars_today": "278",
+      "language": "TypeScript",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API"
+    },
+    {
+      "name": "protocolbuffers/protobuf",
+      "rank": 17,
+      "stars": "76,126",
+      "stars_today": "195",
+      "language": "C++",
+      "description": "Protocol Buffers - Google's data interchange format"
+    },
+    {
+      "name": "lobehub/lobehub",
+      "rank": 18,
+      "stars": "75,718",
+      "stars_today": "156",
+      "language": "TypeScript",
+      "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates"
+    },
+    {
+      "name": "openai/codex",
+      "rank": 19,
+      "stars": "43,352",
+      "stars_today": "137",
+      "language": "Python",
+      "description": "Lightweight coding agent that runs in your terminal"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "rank": 20,
+      "stars": "97,200",
+      "stars_today": "117",
+      "language": "TypeScript",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞"
+    }
+  ]
+}

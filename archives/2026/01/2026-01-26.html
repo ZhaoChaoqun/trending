@@ -1,0 +1,1171 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Trending 每日热榜 - 2026-01-26</title>
+    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg" type="image/svg+xml">
+    <link rel="icon" href="https://github.githubassets.com/favicons/favicon-dark.png" type="image/png" media="(prefers-color-scheme: dark)">
+    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.png" type="image/png" media="(prefers-color-scheme: light)">
+    <link rel="apple-touch-icon" href="https://github.githubassets.com/apple-touch-icon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+    <style>
+        /* 深色主题 (默认) */
+        :root {
+            --bg-primary: #0d1117;
+            --bg-secondary: #161b22;
+            --bg-tertiary: #21262d;
+            --text-primary: #f0f6fc;
+            --text-secondary: #8b949e;
+            --text-muted: #6e7681;
+            --border-color: #30363d;
+            --accent-green: #3fb950;
+            --accent-red: #f85149;
+            --accent-blue: #58a6ff;
+            --accent-yellow: #d29922;
+            --card-shadow: rgba(0, 0, 0, 0.4);
+            --banner-gradient: linear-gradient(135deg, #1a1f2e 0%, #0d1117 100%);
+        }
+
+        /* 浅色主题 */
+        [data-theme="light"] {
+            --bg-primary: #ffffff;
+            --bg-secondary: #f6f8fa;
+            --bg-tertiary: #e1e4e8;
+            --text-primary: #24292f;
+            --text-secondary: #57606a;
+            --text-muted: #6e7781;
+            --border-color: #d0d7de;
+            --accent-green: #1a7f37;
+            --accent-red: #cf222e;
+            --accent-blue: #0969da;
+            --accent-yellow: #9a6700;
+            --card-shadow: rgba(0, 0, 0, 0.1);
+            --banner-gradient: linear-gradient(135deg, #fff8e1 0%, #ffffff 100%);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            min-height: 100vh;
+            line-height: 1.5;
+            transition: background 0.3s ease, color 0.3s ease;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        /* 主题切换按钮 */
+        .theme-toggle {
+            position: fixed;
+            top: 1rem;
+            right: 1rem;
+            z-index: 1000;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 50px;
+            padding: 0.5rem;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: all 0.3s ease;
+        }
+
+        .theme-toggle:hover {
+            border-color: var(--accent-blue);
+        }
+
+        .theme-toggle .icon {
+            font-size: 1.2rem;
+            width: 28px;
+            height: 28px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            transition: all 0.3s ease;
+        }
+
+        .theme-toggle .icon.active {
+            background: var(--accent-blue);
+            color: white;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 2rem;
+            padding-bottom: 2rem;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, var(--accent-blue), var(--accent-green));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 0.5rem;
+        }
+
+        header .subtitle {
+            color: var(--text-secondary);
+            font-size: 1.1rem;
+        }
+
+        header .date {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            margin-top: 0.5rem;
+        }
+
+        .stats-bar {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin-top: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .lang-stat {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            color: var(--text-secondary);
+            font-size: 0.85rem;
+        }
+
+        .lang-dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+        }
+
+        /* Heatmap Section - ECharts */
+        .heatmap-section {
+            margin-bottom: 2rem;
+        }
+
+        .heatmap-section h2 {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            color: var(--text-primary);
+        }
+
+        #treemap-chart {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+        }
+
+        /* Banner Section */
+        .banner-section {
+            margin-bottom: 2rem;
+        }
+
+        .banner-section h2 {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            color: var(--text-primary);
+        }
+
+        .banner-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1rem;
+        }
+
+        .banner-card {
+            background: var(--banner-gradient);
+            border: 2px solid var(--accent-yellow);
+            border-radius: 12px;
+            padding: 1.5rem;
+            text-decoration: none;
+            color: inherit;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .banner-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 3px;
+            background: linear-gradient(90deg, var(--accent-yellow), var(--accent-green));
+        }
+
+        .banner-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 12px 40px var(--card-shadow);
+        }
+
+        .banner-badge {
+            display: inline-block;
+            background: var(--accent-yellow);
+            color: #fff;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            margin-bottom: 0.75rem;
+        }
+
+        [data-theme="light"] .banner-badge {
+            color: #000;
+        }
+
+        .banner-card h3 {
+            font-size: 1.1rem;
+            margin-bottom: 0.5rem;
+            color: var(--text-primary);
+        }
+
+        .banner-card p {
+            color: var(--text-secondary);
+            font-size: 0.85rem;
+            margin-bottom: 1rem;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .banner-stats {
+            display: flex;
+            gap: 1rem;
+            color: var(--text-muted);
+            font-size: 0.8rem;
+        }
+
+        /* Project Grid */
+        .project-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 1rem;
+        }
+
+        .project-card {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 1rem;
+            text-decoration: none;
+            color: inherit;
+            transition: all 0.2s ease;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .project-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 3px;
+            background: var(--heat-color);
+        }
+
+        .project-card:hover {
+            transform: translateY(-2px);
+            border-color: var(--heat-color);
+            box-shadow: 0 8px 24px var(--card-shadow);
+        }
+
+        .project-card.new-project {
+            border-color: var(--accent-yellow);
+        }
+
+        .card-header {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            margin-bottom: 0.75rem;
+        }
+
+        .rank {
+            font-weight: 700;
+            color: var(--text-muted);
+            font-size: 0.85rem;
+        }
+
+        .change {
+            font-size: 0.75rem;
+            font-weight: 600;
+            padding: 0.15rem 0.4rem;
+            border-radius: 4px;
+            background: var(--bg-tertiary);
+        }
+
+        .change.up {
+            color: var(--accent-green);
+            background: rgba(63, 185, 80, 0.15);
+        }
+
+        .change.down {
+            color: var(--accent-red);
+            background: rgba(248, 81, 73, 0.15);
+        }
+
+        .new-badge {
+            background: var(--accent-yellow);
+            color: #fff;
+            font-size: 0.65rem;
+            font-weight: 700;
+            padding: 0.15rem 0.4rem;
+            border-radius: 4px;
+            margin-left: auto;
+        }
+
+        [data-theme="light"] .new-badge {
+            color: #000;
+        }
+
+        .card-body {
+            flex: 1;
+        }
+
+        .project-name {
+            font-size: 1rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: 0.25rem;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .project-author {
+            color: var(--text-muted);
+            font-size: 0.8rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .project-desc {
+            color: var(--text-secondary);
+            font-size: 0.8rem;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            min-height: 2.4rem;
+        }
+
+        .card-footer {
+            margin-top: 0.75rem;
+            padding-top: 0.75rem;
+            border-top: 1px solid var(--border-color);
+        }
+
+        .stats {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 0.5rem;
+        }
+
+        .stars {
+            color: var(--accent-yellow);
+            font-weight: 500;
+            font-size: 0.85rem;
+        }
+
+        .today {
+            color: var(--accent-green);
+            font-size: 0.8rem;
+            font-weight: 500;
+        }
+
+        .meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .language {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            display: flex;
+            align-items: center;
+            gap: 0.35rem;
+        }
+
+        .language::before {
+            content: '';
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: var(--lang-color);
+        }
+
+        .score {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            background: var(--bg-tertiary);
+            padding: 0.15rem 0.5rem;
+            border-radius: 10px;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--border-color);
+            color: var(--text-muted);
+            font-size: 0.85rem;
+        }
+
+        footer a {
+            color: var(--accent-blue);
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 1rem;
+            }
+
+            header h1 {
+                font-size: 1.75rem;
+            }
+
+            .project-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .stats-bar {
+                gap: 1rem;
+            }
+
+            .theme-toggle {
+                top: 0.5rem;
+                right: 0.5rem;
+                padding: 0.3rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- 主题切换按钮 -->
+    <div class="theme-toggle" onclick="toggleTheme()" title="切换主题 / Toggle Theme">
+        <span class="icon active" id="darkIcon">🌙</span>
+        <span class="icon" id="lightIcon">☀️</span>
+    </div>
+
+    <div class="container">
+        <header>
+            <h1>GitHub Trending 每日热榜</h1>
+            <p class="subtitle">每日热门项目追踪</p>
+            <p class="date">📅 2026-01-26 · 21 个项目</p>
+            <div class="stats-bar">
+                <span class="lang-stat"><span class="lang-dot" style="background: #3178c6"></span>TypeScript: 8</span><span class="lang-stat"><span class="lang-dot" style="background: #3572A5"></span>Python: 5</span><span class="lang-stat"><span class="lang-dot" style="background: #f1e05a"></span>JavaScript: 2</span><span class="lang-stat"><span class="lang-dot" style="background: #dea584"></span>Rust: 2</span><span class="lang-stat"><span class="lang-dot" style="background: #563d7c"></span>CSS: 1</span><span class="lang-stat"><span class="lang-dot" style="background: #b07219"></span>Java: 1</span>
+            </div>
+        </header>
+
+        
+
+        
+    <section class="heatmap-section">
+        <h2>🔥 热力图</h2>
+        <div id="treemap-wrapper" style="width: 100%; height: 400px; border-radius: 12px; overflow: hidden; position: relative;">
+            <div id="treemap-chart" style="width: 100%; height: 100%;"></div>
+            <div id="treemap-overlays" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none;"></div>
+        </div>
+        <script>
+        (function() {
+            var chartDom = document.getElementById('treemap-chart');
+            var myChart = echarts.init(chartDom);
+
+            var rawData = [{"name": "lobehub", "fullName": "lobehub/lobehub", "value": 135.8019945481206, "starsToday": 3709, "totalStars": 74320, "url": "https://github.com/lobehub/lobehub", "language": "TypeScript", "avatarUrl": "https://github.com/lobehub.png?size=40", "owner": "lobehub"}, {"name": "tailwindcss", "fullName": "tailwindlabs/tailwindcss", "value": 139.31546869353772, "starsToday": 3359, "totalStars": 86828, "url": "https://github.com/tailwindlabs/tailwindcss", "language": "CSS", "avatarUrl": "https://github.com/tailwindlabs.png?size=40", "owner": "tailwindlabs"}, {"name": "vscode", "fullName": "microsoft/vscode", "value": 155.8691738233514, "starsToday": 709, "totalStars": 175892, "url": "https://github.com/microsoft/vscode", "language": "TypeScript", "avatarUrl": "https://github.com/microsoft.png?size=40", "owner": "microsoft"}, {"name": "NewPipe", "fullName": "TeamNewPipe/NewPipe", "value": 123.94589810957491, "starsToday": 704, "totalStars": 43240, "url": "https://github.com/TeamNewPipe/NewPipe", "language": "Java", "avatarUrl": "https://github.com/TeamNewPipe.png?size=40", "owner": "TeamNewPipe"}, {"name": "ollama", "fullName": "ollama/ollama", "value": 147.746017018166, "starsToday": 600, "totalStars": 125056, "url": "https://github.com/ollama/ollama", "language": "Go", "avatarUrl": "https://github.com/ollama.png?size=40", "owner": "ollama"}, {"name": "whatsapp-web.js", "fullName": "pedroslopez/whatsapp-web.js", "value": 109.56217409563806, "starsToday": 532, "totalStars": 21548, "url": "https://github.com/pedroslopez/whatsapp-web.js", "language": "JavaScript", "avatarUrl": "https://github.com/pedroslopez.png?size=40", "owner": "pedroslopez"}, {"name": "codex", "fullName": "openai/codex", "value": 124.41904147716095, "starsToday": 523, "totalStars": 44208, "url": "https://github.com/openai/codex", "language": "Python", "avatarUrl": "https://github.com/openai.png?size=40", "owner": "openai"}, {"name": "playwright-cli", "fullName": "microsoft/playwright-cli", "value": 69.29454621981486, "starsToday": 438, "totalStars": 2208, "url": "https://github.com/microsoft/playwright-cli", "language": "TypeScript", "avatarUrl": "https://github.com/microsoft.png?size=40", "owner": "microsoft"}, {"name": "awesome-llm-apps", "fullName": "Shubhamsaboo/awesome-llm-apps", "value": 141.81504952804175, "starsToday": 434, "totalStars": 96864, "url": "https://github.com/Shubhamsaboo/awesome-llm-apps", "language": "Python", "avatarUrl": "https://github.com/Shubhamsaboo.png?size=40", "owner": "Shubhamsaboo"}, {"name": "langchain", "fullName": "langchain-ai/langchain", "value": 141.57208537506213, "starsToday": 387, "totalStars": 95844, "url": "https://github.com/langchain-ai/langchain", "language": "Python", "avatarUrl": "https://github.com/langchain-ai.png?size=40", "owner": "langchain-ai"}, {"name": "deno", "fullName": "denoland/deno", "value": 142.34052446762578, "starsToday": 334, "totalStars": 99104, "url": "https://github.com/denoland/deno", "language": "Rust", "avatarUrl": "https://github.com/denoland.png?size=40", "owner": "denoland"}, {"name": "ai", "fullName": "vercel/ai", "value": 102.30543349328377, "starsToday": 324, "totalStars": 14876, "url": "https://github.com/vercel/ai", "language": "TypeScript", "avatarUrl": "https://github.com/vercel.png?size=40", "owner": "vercel"}];
+            var maxStars = Math.max(...rawData.map(d => d.starsToday));
+
+            // 使用连续渐变色，让每个项目都有独特的颜色
+            function getItemColor(starsToday, index, total) {
+                // 基于 starsToday 的对数比例，让差异更明显
+                var logMax = Math.log10(maxStars + 1);
+                var logVal = Math.log10(starsToday + 1);
+                var ratio = logVal / logMax;
+
+                // HSL 颜色模型：从青色(180°)到红色(0°)的渐变
+                // 高 stars -> 红色/橙色 (暖色)
+                // 低 stars -> 绿色/青色 (冷色)
+                var hue = (1 - ratio) * 160;  // 0-160 度范围
+                var saturation = 65 + ratio * 20;  // 65%-85%
+                var lightness = 40 + (1 - ratio) * 15;  // 40%-55%
+
+                return 'hsl(' + hue + ', ' + saturation + '%, ' + lightness + '%)';
+            }
+
+            var treeData = rawData.map(function(item, index) {
+                return {
+                    name: item.name,
+                    value: item.value,
+                    starsToday: item.starsToday,
+                    totalStars: item.totalStars,
+                    url: item.url,
+                    fullName: item.fullName,
+                    language: item.language,
+                    avatarUrl: item.avatarUrl,
+                    owner: item.owner,
+                    itemStyle: {
+                        color: getItemColor(item.starsToday, index, rawData.length),
+                        borderColor: 'rgba(0,0,0,0.2)',
+                        borderWidth: 1
+                    }
+                };
+            });
+
+            var option = {
+                tooltip: {
+                    backgroundColor: 'rgba(0,0,0,0.85)',
+                    borderColor: '#333',
+                    textStyle: { color: '#fff', fontSize: 13 },
+                    formatter: function(params) {
+                        var d = params.data;
+                        var starsDisplay = d.starsToday >= 1000 ? (d.starsToday/1000).toFixed(1) + 'k' : d.starsToday;
+                        var totalDisplay = d.totalStars >= 1000 ? (d.totalStars/1000).toFixed(1) + 'k' : d.totalStars;
+                        return '<div style="font-weight:600;margin-bottom:8px;font-size:14px;">' + d.fullName + '</div>' +
+                               '<div style="margin:4px 0;">⭐ 今日新增: <span style="color:#f39c12;font-weight:600;">+' + starsDisplay + '</span></div>' +
+                               '<div style="margin:4px 0;">📊 总 Star: ' + totalDisplay + '</div>' +
+                               '<div>🔧 语言: ' + d.language + '</div>';
+                    }
+                },
+                series: [{
+                    type: 'treemap',
+                    width: '100%',
+                    height: '100%',
+                    roam: false,
+                    nodeClick: false,
+                    breadcrumb: { show: false },
+                    itemStyle: { borderRadius: 4, gapWidth: 2 },
+                    label: {
+                        show: true,
+                        position: 'inside',
+                        formatter: function(params) {
+                            var d = params.data;
+                            var starsDisplay = d.starsToday >= 1000 ? '+' + (d.starsToday/1000).toFixed(1) + 'k' : '+' + d.starsToday;
+                            return d.name + '\n' + starsDisplay;
+                        },
+                        fontSize: 18,
+                        fontWeight: 600,
+                        color: '#fff',
+                        textShadowColor: 'rgba(0,0,0,0.6)',
+                        textShadowBlur: 4,
+                        lineHeight: 26
+                    },
+                    upperLabel: {
+                        show: false
+                    },
+                    data: treeData
+                }]
+            };
+
+            myChart.setOption(option);
+
+            // 渲染背景图片覆盖层（使用图片作为半透明背景）
+            function renderBackgroundOverlays() {
+                var overlayContainer = document.getElementById('treemap-overlays');
+                if (!overlayContainer) return;
+                overlayContainer.innerHTML = '';
+
+                // 获取各节点的布局信息
+                var series = myChart.getModel().getSeriesByIndex(0);
+                if (!series) return;
+
+                var tree = series.getData().tree;
+                if (!tree || !tree.root) return;
+
+                tree.root.children.forEach(function(node) {
+                    var layout = node.getLayout();
+                    if (!layout || layout.invisible) return;
+
+                    var data = node.hostTree.data.getItemModel(node.dataIndex).option;
+                    if (!data.avatarUrl) return;
+
+                    var x = layout.x;
+                    var y = layout.y;
+                    var width = layout.width;
+                    var height = layout.height;
+
+                    // 创建背景图层 - 覆盖整个方块
+                    var bgDiv = document.createElement('div');
+                    bgDiv.style.cssText = 'position:absolute;' +
+                        'left:' + (x + 2) + 'px;' +
+                        'top:' + (y + 2) + 'px;' +
+                        'width:' + (width - 4) + 'px;' +
+                        'height:' + (height - 4) + 'px;' +
+                        'border-radius:4px;' +
+                        'background:url(' + data.avatarUrl + ') center/cover no-repeat;' +
+                        'opacity:0.15;' +
+                        'pointer-events:none;';
+                    overlayContainer.appendChild(bgDiv);
+                });
+            }
+
+            // 初始渲染
+            setTimeout(renderBackgroundOverlays, 100);
+
+            myChart.on('click', function(params) {
+                if (params.data && params.data.url) window.open(params.data.url, '_blank');
+            });
+
+            window.addEventListener('resize', function() {
+                myChart.resize();
+                setTimeout(renderBackgroundOverlays, 100);
+            });
+        })();
+        </script>
+    </section>
+    
+
+        <section class="project-section">
+            <div class="project-grid">
+                
+    <a href="https://github.com/lobehub/lobehub" target="_blank" class="project-card " style="--heat-color: linear-gradient(135deg, hsl(0, 80%, 50%) 0%, hsl(0, 85%, 40%) 100%)">
+        <div class="card-header">
+            <span class="rank">#1</span>
+            <span class="change up">↑15</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">lobehub</h3>
+            <p class="project-author">@lobehub</p>
+            <p class="project-desc">The ultimate space for work and life — to find, build, and collaborate with agen...</p>
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 74.3k</span>
+                <span class="today">+3709</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #3178c6">TypeScript</span>
+                <span class="score">9/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/tailwindlabs/tailwindcss" target="_blank" class="project-card " style="--heat-color: linear-gradient(135deg, hsl(0, 80%, 50%) 0%, hsl(0, 85%, 40%) 100%)">
+        <div class="card-header">
+            <span class="rank">#2</span>
+            <span class="change down">↓1</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">tailwindcss</h3>
+            <p class="project-author">@tailwindlabs</p>
+            <p class="project-desc">A utility-first CSS framework</p>
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 86.8k</span>
+                <span class="today">+3359</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #563d7c">CSS</span>
+                <span class="score">9/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/microsoft/vscode" target="_blank" class="project-card " style="--heat-color: linear-gradient(135deg, hsl(0, 80%, 50%) 0%, hsl(0, 85%, 40%) 100%)">
+        <div class="card-header">
+            <span class="rank">#3</span>
+            <span class="change up">↑19</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">vscode</h3>
+            <p class="project-author">@microsoft</p>
+            <p class="project-desc">Visual Studio Code</p>
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 175.9k</span>
+                <span class="today">+709</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #3178c6">TypeScript</span>
+                <span class="score">9/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/TeamNewPipe/NewPipe" target="_blank" class="project-card " style="--heat-color: linear-gradient(135deg, hsl(0, 80%, 50%) 0%, hsl(0, 85%, 40%) 100%)">
+        <div class="card-header">
+            <span class="rank">#4</span>
+            <span class="change up">↑16</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">NewPipe</h3>
+            <p class="project-author">@TeamNewPipe</p>
+            <p class="project-desc">A libre lightweight streaming front-end for Android</p>
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 43.2k</span>
+                <span class="today">+704</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #b07219">Java</span>
+                <span class="score">9/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/ollama/ollama" target="_blank" class="project-card " style="--heat-color: linear-gradient(135deg, hsl(0, 80%, 50%) 0%, hsl(0, 85%, 40%) 100%)">
+        <div class="card-header">
+            <span class="rank">#5</span>
+            <span class="change up">↑5</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">ollama</h3>
+            <p class="project-author">@ollama</p>
+            <p class="project-desc">Get up and running with Llama 3, Mistral, and more</p>
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 125.1k</span>
+                <span class="today">+600</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #00ADD8">Go</span>
+                <span class="score">9/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/pedroslopez/whatsapp-web.js" target="_blank" class="project-card " style="--heat-color: linear-gradient(135deg, hsl(0, 80%, 50%) 0%, hsl(0, 85%, 40%) 100%)">
+        <div class="card-header">
+            <span class="rank">#6</span>
+            <span class="change up">↑17</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">whatsapp-web.js</h3>
+            <p class="project-author">@pedroslopez</p>
+            <p class="project-desc">A WhatsApp client library for NodeJS</p>
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 21.5k</span>
+                <span class="today">+532</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #f1e05a">JavaScript</span>
+                <span class="score">9/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/openai/codex" target="_blank" class="project-card " style="--heat-color: linear-gradient(135deg, hsl(0, 80%, 50%) 0%, hsl(0, 85%, 40%) 100%)">
+        <div class="card-header">
+            <span class="rank">#7</span>
+            <span class="change up">↑11</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">codex</h3>
+            <p class="project-author">@openai</p>
+            <p class="project-desc">Lightweight coding agent that runs in your terminal</p>
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 44.2k</span>
+                <span class="today">+523</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #3572A5">Python</span>
+                <span class="score">9/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/microsoft/playwright-cli" target="_blank" class="project-card " style="--heat-color: linear-gradient(135deg, hsl(0, 80%, 50%) 0%, hsl(0, 85%, 40%) 100%)">
+        <div class="card-header">
+            <span class="rank">#8</span>
+            <span class="change up">↑13</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">playwright-cli</h3>
+            <p class="project-author">@microsoft</p>
+            <p class="project-desc">CLI for common Playwright actions</p>
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 2.2k</span>
+                <span class="today">+438</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #3178c6">TypeScript</span>
+                <span class="score">8/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank" class="project-card " style="--heat-color: linear-gradient(135deg, hsl(10, 85%, 55%) 0%, hsl(5, 80%, 45%) 100%)">
+        <div class="card-header">
+            <span class="rank">#9</span>
+            <span class="change up">↑4</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">awesome-llm-apps</h3>
+            <p class="project-author">@Shubhamsaboo</p>
+            <p class="project-desc">Collection of awesome LLM apps with AI Agents and RAG</p>
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 96.9k</span>
+                <span class="today">+434</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #3572A5">Python</span>
+                <span class="score">8/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/langchain-ai/langchain" target="_blank" class="project-card " style="--heat-color: linear-gradient(135deg, hsl(10, 85%, 55%) 0%, hsl(5, 80%, 45%) 100%)">
+        <div class="card-header">
+            <span class="rank">#10</span>
+            <span class="change up">↑9</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">langchain</h3>
+            <p class="project-author">@langchain-ai</p>
+            <p class="project-desc">Building applications with LLMs through composability</p>
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 95.8k</span>
+                <span class="today">+387</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #3572A5">Python</span>
+                <span class="score">8/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/denoland/deno" target="_blank" class="project-card " style="--heat-color: linear-gradient(135deg, hsl(10, 85%, 55%) 0%, hsl(5, 80%, 45%) 100%)">
+        <div class="card-header">
+            <span class="rank">#11</span>
+            <span class="change down">↓3</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">deno</h3>
+            <p class="project-author">@denoland</p>
+            <p class="project-desc">A modern runtime for JavaScript and TypeScript</p>
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 99.1k</span>
+                <span class="today">+334</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #dea584">Rust</span>
+                <span class="score">8/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/vercel/ai" target="_blank" class="project-card " style="--heat-color: linear-gradient(135deg, hsl(25, 90%, 55%) 0%, hsl(20, 85%, 45%) 100%)">
+        <div class="card-header">
+            <span class="rank">#12</span>
+            <span class="change down">↓8</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">ai</h3>
+            <p class="project-author">@vercel</p>
+            <p class="project-desc">Build AI-powered applications with React, Svelte, Vue</p>
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 14.9k</span>
+                <span class="today">+324</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #3178c6">TypeScript</span>
+                <span class="score">8/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/badlogic/pi-mono" target="_blank" class="project-card " style="--heat-color: linear-gradient(135deg, hsl(25, 90%, 55%) 0%, hsl(20, 85%, 45%) 100%)">
+        <div class="card-header">
+            <span class="rank">#13</span>
+            <span class="change down">↓4</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">pi-mono</h3>
+            <p class="project-author">@badlogic</p>
+            <p class="project-desc">AI agent toolkit: coding agent CLI, unified LLM API</p>
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 10.7k</span>
+                <span class="today">+289</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #3178c6">TypeScript</span>
+                <span class="score">7/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/facebook/react" target="_blank" class="project-card " style="--heat-color: linear-gradient(135deg, hsl(25, 90%, 55%) 0%, hsl(20, 85%, 45%) 100%)">
+        <div class="card-header">
+            <span class="rank">#14</span>
+            <span class="change down">↓12</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">react</h3>
+            <p class="project-author">@facebook</p>
+            <p class="project-desc">The library for web and native user interfaces</p>
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 232.2k</span>
+                <span class="today">+276</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #f1e05a">JavaScript</span>
+                <span class="score">7/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/astral-sh/uv" target="_blank" class="project-card " style="--heat-color: linear-gradient(135deg, hsl(25, 90%, 55%) 0%, hsl(20, 85%, 45%) 100%)">
+        <div class="card-header">
+            <span class="rank">#15</span>
+            <span class="change ">-</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">uv</h3>
+            <p class="project-author">@astral-sh</p>
+            <p class="project-desc">An extremely fast Python package installer</p>
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 57.8k</span>
+                <span class="today">+270</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #dea584">Rust</span>
+                <span class="score">7/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/MoonshotAI/kimi-cli" target="_blank" class="project-card " style="--heat-color: linear-gradient(135deg, hsl(25, 90%, 55%) 0%, hsl(20, 85%, 45%) 100%)">
+        <div class="card-header">
+            <span class="rank">#16</span>
+            <span class="change down">↓11</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">kimi-cli</h3>
+            <p class="project-author">@MoonshotAI</p>
+            <p class="project-desc">Kimi Code CLI is your next CLI agent</p>
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 12.3k</span>
+                <span class="today">+261</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #3572A5">Python</span>
+                <span class="score">7/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/modelcontextprotocol/ext-apps" target="_blank" class="project-card " style="--heat-color: linear-gradient(135deg, hsl(40, 95%, 55%) 0%, hsl(35, 90%, 45%) 100%)">
+        <div class="card-header">
+            <span class="rank">#17</span>
+            <span class="change down">↓14</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">ext-apps</h3>
+            <p class="project-author">@modelcontextprotocol</p>
+            <p class="project-desc">Official repo for spec & SDK of MCP Apps protocol</p>
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 6.4k</span>
+                <span class="today">+236</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #3178c6">TypeScript</span>
+                <span class="score">7/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/anthropics/claude-code" target="_blank" class="project-card " style="--heat-color: linear-gradient(135deg, hsl(40, 95%, 55%) 0%, hsl(35, 90%, 45%) 100%)">
+        <div class="card-header">
+            <span class="rank">#18</span>
+            <span class="change down">↓6</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">claude-code</h3>
+            <p class="project-author">@anthropics</p>
+            <p class="project-desc">Claude Code is an agentic coding tool</p>
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 48.4k</span>
+                <span class="today">+182</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #3178c6">TypeScript</span>
+                <span class="score">7/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/protocolbuffers/protobuf" target="_blank" class="project-card " style="--heat-color: linear-gradient(135deg, hsl(40, 95%, 55%) 0%, hsl(35, 90%, 45%) 100%)">
+        <div class="card-header">
+            <span class="rank">#19</span>
+            <span class="change down">↓8</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">protobuf</h3>
+            <p class="project-author">@protocolbuffers</p>
+            <p class="project-desc">Protocol Buffers - Google's data interchange format</p>
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 76.9k</span>
+                <span class="today">+151</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #f34b7d">C++</span>
+                <span class="score">7/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/openclaw/openclaw" target="_blank" class="project-card " style="--heat-color: linear-gradient(135deg, hsl(120, 55%, 50%) 0%, hsl(130, 50%, 40%) 100%)">
+        <div class="card-header">
+            <span class="rank">#20</span>
+            <span class="change down">↓6</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">openclaw</h3>
+            <p class="project-author">@openclaw</p>
+            <p class="project-desc">Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞</p>
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 91.8k</span>
+                <span class="today">+132</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #3178c6">TypeScript</span>
+                <span class="score">7/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/huggingface/transformers" target="_blank" class="project-card " style="--heat-color: linear-gradient(135deg, hsl(120, 55%, 50%) 0%, hsl(130, 50%, 40%) 100%)">
+        <div class="card-header">
+            <span class="rank">#21</span>
+            <span class="change down">↓14</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">transformers</h3>
+            <p class="project-author">@huggingface</p>
+            <p class="project-desc">State-of-the-art ML for PyTorch, TensorFlow, and JAX</p>
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 147.3k</span>
+                <span class="today">+87</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #3572A5">Python</span>
+                <span class="score">6/10</span>
+            </div>
+        </div>
+    </a>
+    
+            </div>
+        </section>
+
+        <footer>
+            <p>数据来源: <a href="https://github.com/trending" target="_blank">GitHub Trending</a></p>
+            <p>更新时间: 2026-01-30 15:33:33</p>
+        </footer>
+    </div>
+
+    <script>
+        // 主题切换逻辑
+        function toggleTheme() {
+            const html = document.documentElement;
+            const darkIcon = document.getElementById('darkIcon');
+            const lightIcon = document.getElementById('lightIcon');
+
+            if (html.getAttribute('data-theme') === 'light') {
+                html.removeAttribute('data-theme');
+                darkIcon.classList.add('active');
+                lightIcon.classList.remove('active');
+                localStorage.setItem('theme', 'dark');
+            } else {
+                html.setAttribute('data-theme', 'light');
+                darkIcon.classList.remove('active');
+                lightIcon.classList.add('active');
+                localStorage.setItem('theme', 'light');
+            }
+        }
+
+        // 加载保存的主题
+        (function() {
+            const savedTheme = localStorage.getItem('theme');
+            const darkIcon = document.getElementById('darkIcon');
+            const lightIcon = document.getElementById('lightIcon');
+
+            if (savedTheme === 'light') {
+                document.documentElement.setAttribute('data-theme', 'light');
+                darkIcon.classList.remove('active');
+                lightIcon.classList.add('active');
+            }
+        })();
+    </script>
+</body>
+</html>

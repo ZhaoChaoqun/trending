@@ -1,0 +1,119 @@
+{
+  "date": "2026-01-30",
+  "updated_at": "2026-01-30 18:45:29",
+  "count": 14,
+  "rankings": [
+    {
+      "name": "openclaw/openclaw",
+      "rank": 1,
+      "stars": "111,093",
+      "stars_today": "16,338",
+      "language": "TypeScript",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞"
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "rank": 2,
+      "stars": "28,138",
+      "stars_today": "1,387",
+      "language": "JavaScript",
+      "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini"
+    },
+    {
+      "name": "lobehub/lobehub",
+      "rank": 3,
+      "stars": "71,381",
+      "stars_today": "364",
+      "language": "TypeScript",
+      "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction."
+    },
+    {
+      "name": "NevaMind-AI/memU",
+      "rank": 4,
+      "stars": "6,283",
+      "stars_today": "604",
+      "language": "Python",
+      "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot)."
+    },
+    {
+      "name": "hashicorp/vault",
+      "rank": 5,
+      "stars": "34,716",
+      "stars_today": "255",
+      "language": "Go",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management"
+    },
+    {
+      "name": "protocolbuffers/protobuf",
+      "rank": 6,
+      "stars": "70,542",
+      "stars_today": "87",
+      "language": "C++",
+      "description": "Protocol Buffers - Google's data interchange format"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "rank": 7,
+      "stars": "91,075",
+      "stars_today": "208",
+      "language": "Python",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
+    },
+    {
+      "name": "MoonshotAI/kimi-cli",
+      "rank": 8,
+      "stars": "5,149",
+      "stars_today": "492",
+      "language": "Python",
+      "description": "Kimi Code CLI is your next CLI agent."
+    },
+    {
+      "name": "badlogic/pi-mono",
+      "rank": 9,
+      "stars": "3,593",
+      "stars_today": "396",
+      "language": "TypeScript",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods"
+    },
+    {
+      "name": "TeamNewPipe/NewPipe",
+      "rank": 10,
+      "stars": "36,804",
+      "stars_today": "63",
+      "language": "Java",
+      "description": "A libre lightweight streaming front-end for Android."
+    },
+    {
+      "name": "modelcontextprotocol/ext-apps",
+      "rank": 11,
+      "stars": "931",
+      "stars_today": "117",
+      "language": "TypeScript",
+      "description": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers"
+    },
+    {
+      "name": "pedroslopez/whatsapp-web.js",
+      "rank": 12,
+      "stars": "20,778",
+      "stars_today": "16",
+      "language": "JavaScript",
+      "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app"
+    },
+    {
+      "name": "microsoft/playwright-cli",
+      "rank": 13,
+      "stars": "1,811",
+      "stars_today": "64",
+      "language": null,
+      "description": "CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots."
+    },
+    {
+      "name": "anomalyco/opencode-anthropic-auth",
+      "rank": 14,
+      "stars": "302",
+      "stars_today": "11",
+      "language": "JavaScript",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,1298 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Trending 每日热榜 - 2026-01-30</title>
+    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg" type="image/svg+xml">
+    <link rel="icon" href="https://github.githubassets.com/favicons/favicon-dark.png" type="image/png" media="(prefers-color-scheme: dark)">
+    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.png" type="image/png" media="(prefers-color-scheme: light)">
+    <link rel="apple-touch-icon" href="https://github.githubassets.com/apple-touch-icon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+    <style>
+        /* 深色主题 (默认) */
+        :root {
+            --bg-primary: #0d1117;
+            --bg-secondary: #161b22;
+            --bg-tertiary: #21262d;
+            --text-primary: #f0f6fc;
+            --text-secondary: #8b949e;
+            --text-muted: #6e7681;
+            --border-color: #3d444d;
+            --accent-green: #3fb950;
+            --accent-red: #f85149;
+            --accent-blue: #58a6ff;
+            --accent-yellow: #d29922;
+            --card-shadow: rgba(0, 0, 0, 0.4);
+            --banner-bg: #3d2e00;
+            --banner-border: #9e6a03;
+        }
+
+        /* 浅色主题 */
+        [data-theme="light"] {
+            --bg-primary: #ffffff;
+            --bg-secondary: #f6f8fa;
+            --bg-tertiary: #e1e4e8;
+            --text-primary: #24292f;
+            --text-secondary: #57606a;
+            --text-muted: #6e7781;
+            --border-color: #d1d9e0;
+            --accent-green: #1a7f37;
+            --accent-red: #cf222e;
+            --accent-blue: #0969da;
+            --accent-yellow: #9a6700;
+            --card-shadow: rgba(0, 0, 0, 0.1);
+            --banner-bg: #fff8c5;
+            --banner-border: #9a6700;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            min-height: 100vh;
+            line-height: 1.5;
+            transition: background 0.3s ease, color 0.3s ease;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        /* 主题切换按钮 */
+        .theme-toggle {
+            position: fixed;
+            top: 1rem;
+            right: 1rem;
+            z-index: 1000;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 50px;
+            padding: 0.5rem;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: all 0.3s ease;
+        }
+
+        .theme-toggle:hover {
+            border-color: var(--accent-blue);
+        }
+
+        .theme-toggle .icon {
+            font-size: 1.2rem;
+            width: 28px;
+            height: 28px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            transition: all 0.3s ease;
+        }
+
+        .theme-toggle .icon.active {
+            background: var(--accent-blue);
+            color: white;
+        }
+
+        header {
+            margin-bottom: 2rem;
+            padding-bottom: 2rem;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 0.5rem;
+        }
+
+        .header-title {
+            text-align: left;
+        }
+
+        .header-actions {
+            display: flex;
+            gap: 0.5rem;
+        }
+
+        .subscribe-btn {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.5rem 1rem;
+            background: var(--accent-yellow);
+            color: #000;
+            border-radius: 6px;
+            text-decoration: none;
+            font-size: 0.85rem;
+            font-weight: 500;
+            transition: all 0.2s ease;
+        }
+
+        .subscribe-btn:hover {
+            opacity: 0.9;
+            transform: translateY(-1px);
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, var(--accent-blue), var(--accent-green));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 0.5rem;
+        }
+
+        header .subtitle {
+            color: var(--text-secondary);
+            font-size: 1.1rem;
+        }
+
+        header .date {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            margin-top: 0.5rem;
+        }
+
+        .stats-bar {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin-top: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .lang-stat {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            color: var(--text-secondary);
+            font-size: 0.85rem;
+        }
+
+        .lang-dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+        }
+
+        /* Heatmap Section - ECharts */
+        .heatmap-section {
+            margin-bottom: 2rem;
+        }
+
+        .heatmap-section h2 {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            color: var(--text-primary);
+        }
+
+        #treemap-chart {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+        }
+
+        /* Banner Section */
+        .banner-section {
+            margin-bottom: 2rem;
+        }
+
+        .banner-section h2 {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            color: var(--text-primary);
+        }
+
+        .banner-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 1rem;
+        }
+
+        /* Project Grid */
+        .project-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 1rem;
+        }
+
+        .project-card {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 1rem;
+            text-decoration: none;
+            color: inherit;
+            transition: all 0.2s ease;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .project-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 3px;
+            background: var(--heat-color);
+        }
+
+        .project-card:hover {
+            transform: translateY(-2px);
+            border-color: var(--heat-color);
+            box-shadow: 0 8px 24px var(--card-shadow);
+        }
+
+        .project-card.new-project {
+            border-color: var(--accent-yellow);
+        }
+
+        .card-header {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            margin-bottom: 0.75rem;
+        }
+
+        .rank {
+            font-weight: 700;
+            color: var(--text-muted);
+            font-size: 0.85rem;
+        }
+
+        .change {
+            font-size: 0.75rem;
+            font-weight: 600;
+            padding: 0.15rem 0.4rem;
+            border-radius: 4px;
+            background: var(--bg-tertiary);
+        }
+
+        .change.up {
+            color: var(--accent-green);
+            background: rgba(63, 185, 80, 0.15);
+        }
+
+        .change.down {
+            color: var(--accent-red);
+            background: rgba(248, 81, 73, 0.15);
+        }
+
+        .new-badge {
+            background: var(--accent-yellow);
+            color: #fff;
+            font-size: 0.65rem;
+            font-weight: 700;
+            padding: 0.15rem 0.4rem;
+            border-radius: 4px;
+            margin-left: auto;
+        }
+
+        [data-theme="light"] .new-badge {
+            color: #000;
+        }
+
+        .card-body {
+            flex: 1;
+        }
+
+        .project-name {
+            font-size: 1rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: 0.25rem;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .project-author {
+            color: var(--text-muted);
+            font-size: 0.8rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .project-desc {
+            color: var(--text-secondary);
+            font-size: 0.8rem;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            min-height: 2.4rem;
+        }
+
+        /* AI Summary Styles */
+        .ai-summary {
+            margin-top: 0.75rem;
+            padding: 0.5rem;
+            background: var(--bg-tertiary);
+            border-radius: 6px;
+        }
+
+        .ai-desc {
+            font-size: 0.8rem;
+            color: var(--text-primary);
+            line-height: 1.4;
+            margin-bottom: 0.5rem;
+        }
+
+        .ai-highlights {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            padding-left: 1rem;
+            margin: 0.5rem 0;
+        }
+
+        .ai-highlights li {
+            margin-bottom: 0.25rem;
+        }
+
+        .ai-use-cases {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin: 0;
+        }
+
+        .project-card.has-ai {
+            border-color: var(--accent-yellow);
+            border-width: 1px;
+            border-style: solid;
+        }
+
+        .card-footer {
+            margin-top: 0.75rem;
+            padding-top: 0.75rem;
+            border-top: 1px solid var(--border-color);
+        }
+
+        .stats {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 0.5rem;
+        }
+
+        .stars {
+            color: var(--accent-yellow);
+            font-weight: 500;
+            font-size: 0.85rem;
+        }
+
+        .today {
+            color: var(--accent-green);
+            font-size: 0.8rem;
+            font-weight: 500;
+        }
+
+        .meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .language {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            display: flex;
+            align-items: center;
+            gap: 0.35rem;
+        }
+
+        .language::before {
+            content: '';
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: var(--lang-color);
+        }
+
+        .score {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            background: var(--bg-tertiary);
+            padding: 0.15rem 0.5rem;
+            border-radius: 10px;
+        }
+
+        .contributors {
+            display: flex;
+            align-items: center;
+        }
+
+        .contributor-avatar {
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            border: 2px solid var(--bg-secondary);
+            margin-left: -6px;
+        }
+
+        .contributor-avatar:first-child {
+            margin-left: 0;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--border-color);
+            color: var(--text-muted);
+            font-size: 0.85rem;
+        }
+
+        footer a {
+            color: var(--accent-blue);
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        /* Modal Styles */
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.6);
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        }
+
+        .modal-content {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 2rem;
+            max-width: 400px;
+            width: 90%;
+            position: relative;
+            text-align: center;
+        }
+
+        .modal-close {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            background: none;
+            border: none;
+            font-size: 1.5rem;
+            color: var(--text-muted);
+            cursor: pointer;
+        }
+
+        .modal-close:hover {
+            color: var(--text-primary);
+        }
+
+        .modal-content h3 {
+            margin-bottom: 0.5rem;
+            color: var(--text-primary);
+        }
+
+        .modal-desc {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            margin-bottom: 1.5rem;
+        }
+
+        #subscribeForm {
+            display: flex;
+            gap: 0.5rem;
+        }
+
+        #subscribeEmail {
+            flex: 1;
+            padding: 0.75rem 1rem;
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            font-size: 0.9rem;
+        }
+
+        #subscribeEmail:focus {
+            outline: none;
+            border-color: var(--accent-blue);
+        }
+
+        .submit-btn {
+            padding: 0.75rem 1.5rem;
+            background: var(--accent-green);
+            color: #fff;
+            border: none;
+            border-radius: 6px;
+            font-size: 0.9rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: opacity 0.2s;
+        }
+
+        .submit-btn:hover {
+            opacity: 0.9;
+        }
+
+        .modal-note {
+            margin-top: 1rem;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 1rem;
+            }
+
+            header h1 {
+                font-size: 1.75rem;
+            }
+
+            .project-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .stats-bar {
+                gap: 1rem;
+            }
+
+            .theme-toggle {
+                top: 0.5rem;
+                right: 0.5rem;
+                padding: 0.3rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- 主题切换按钮 -->
+    <div class="theme-toggle" onclick="toggleTheme()" title="切换主题 / Toggle Theme">
+        <span class="icon active" id="darkIcon">🌙</span>
+        <span class="icon" id="lightIcon">☀️</span>
+    </div>
+
+    <div class="container">
+        <header>
+            <div class="header-top">
+                <div class="header-title">
+                    <h1>GitHub Trending 每日热榜</h1>
+                    <p class="subtitle">每日热门项目追踪</p>
+                </div>
+                <div class="header-actions">
+                    <button class="subscribe-btn" onclick="document.getElementById('subscribeModal').style.display='flex'" title="Subscribe">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                            <path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
+                        </svg>
+                        Subscribe
+                    </button>
+                </div>
+            </div>
+            <p class="date">📅 2026-01-30 · 14 个项目</p>
+            <div class="stats-bar">
+                <span class="lang-stat"><span class="lang-dot" style="background: #3178c6"></span>TypeScript: 4</span><span class="lang-stat"><span class="lang-dot" style="background: #f1e05a"></span>JavaScript: 3</span><span class="lang-stat"><span class="lang-dot" style="background: #3572A5"></span>Python: 3</span><span class="lang-stat"><span class="lang-dot" style="background: #00ADD8"></span>Go: 1</span><span class="lang-stat"><span class="lang-dot" style="background: #f34b7d"></span>C++: 1</span><span class="lang-stat"><span class="lang-dot" style="background: #b07219"></span>Java: 1</span>
+            </div>
+        </header>
+
+        
+    <section class="banner-section">
+        <h2>🔥 今日新上榜</h2>
+        <div class="banner-container">
+            
+    <a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank" class="project-card new-project has-ai" style="--heat-color: linear-gradient(135deg, hsl(0, 80%, 50%) 0%, hsl(0, 85%, 40%) 100%)">
+        <div class="card-header">
+            <span class="rank">#1</span>
+            <span class="change ">NEW</span>
+            <span class="new-badge">NEW</span>
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">system_prompts_leaks</h3>
+            <p class="project-author">@asgeirtj</p>
+            <p class="project-desc">Collection of extracted System Prompts from popular chatbots like ChatGPT, Claud...</p>
+            
+        <div class="ai-summary">
+            <p class="ai-desc">✨ 这个项目收集了主流聊天机器人（如ChatGPT）的系统提示和开发者消息。</p>
+            <ul class="ai-highlights"><li>提供多个聊天机器人的系统提示集合</li><li>支持开发者自由贡献和扩展</li></ul>
+            <p class="ai-use-cases"><strong>适用场景:</strong> 适合研究聊天机器人机制或提示设计的开发者。</p>
+        </div>
+        
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 28.1k</span>
+                <span class="today">+1,387</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #f1e05a">JavaScript</span>
+                <div class="contributors"><img src="https://avatars.githubusercontent.com/u/27446620?s=40&v=4" alt="asgeirtj" title="asgeirtj" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/46632417?s=40&v=4" alt="awrreny" title="awrreny" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/4633839?s=40&v=4" alt="bgauryy" title="bgauryy" class="contributor-avatar"></div>
+                <span class="score">9/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/anomalyco/opencode-anthropic-auth" target="_blank" class="project-card new-project " style="--heat-color: linear-gradient(135deg, hsl(170, 55%, 45%) 0%, hsl(180, 50%, 38%) 100%)">
+        <div class="card-header">
+            <span class="rank">#2</span>
+            <span class="change ">NEW</span>
+            <span class="new-badge">NEW</span>
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">opencode-anthropic-auth</h3>
+            <p class="project-author">@anomalyco</p>
+            <p class="project-desc"></p>
+            
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 302</span>
+                <span class="today">+11</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #f1e05a">JavaScript</span>
+                <div class="contributors"><img src="https://avatars.githubusercontent.com/u/63023139?s=40&v=4" alt="rekram1-node" title="rekram1-node" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/81847?s=40&v=4" alt="claude" title="claude" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/615814?s=40&v=4" alt="joachim-isaksson" title="joachim-isaksson" class="contributor-avatar"></div>
+                <span class="score">4/10</span>
+            </div>
+        </div>
+    </a>
+    
+        </div>
+    </section>
+    
+
+        
+    <section class="heatmap-section">
+        <h2>🔥 热力图</h2>
+        <div id="treemap-wrapper" style="width: 100%; height: 400px; border-radius: 12px; overflow: hidden; position: relative;">
+            <div id="treemap-chart" style="width: 100%; height: 100%;"></div>
+        </div>
+        <script>
+        (function() {
+            var chartDom = document.getElementById('treemap-chart');
+            var myChart = echarts.init(chartDom);
+
+            var rawData = [{"name": "openclaw", "fullName": "openclaw/openclaw", "value": 144.98099044372847, "starsToday": 16338, "totalStars": 111093, "url": "https://github.com/openclaw/openclaw", "language": "TypeScript", "avatarUrl": "https://github.com/openclaw.png?size=200", "owner": "openclaw"}, {"name": "system_prompts_leaks", "fullName": "asgeirtj/system_prompts_leaks", "value": 114.95821765524796, "starsToday": 1387, "totalStars": 28138, "url": "https://github.com/asgeirtj/system_prompts_leaks", "language": "JavaScript", "avatarUrl": "https://github.com/asgeirtj.png?size=200", "owner": "asgeirtj"}, {"name": "memU", "fullName": "NevaMind-AI/memU", "value": 86.48835294972075, "starsToday": 604, "totalStars": 6283, "url": "https://github.com/NevaMind-AI/memU", "language": "Python", "avatarUrl": "https://github.com/NevaMind-AI.png?size=200", "owner": "NevaMind-AI"}, {"name": "kimi-cli", "fullName": "MoonshotAI/kimi-cli", "value": 83.04696964109327, "starsToday": 492, "totalStars": 5149, "url": "https://github.com/MoonshotAI/kimi-cli", "language": "Python", "avatarUrl": "https://github.com/MoonshotAI.png?size=200", "owner": "MoonshotAI"}, {"name": "pi-mono", "fullName": "badlogic/pi-mono", "value": 77.02731395712638, "starsToday": 396, "totalStars": 3593, "url": "https://github.com/badlogic/pi-mono", "language": "TypeScript", "avatarUrl": "https://github.com/badlogic.png?size=200", "owner": "badlogic"}, {"name": "lobehub", "fullName": "lobehub/lobehub", "value": 134.89852834262354, "starsToday": 364, "totalStars": 71381, "url": "https://github.com/lobehub/lobehub", "language": "TypeScript", "avatarUrl": "https://github.com/lobehub.png?size=200", "owner": "lobehub"}, {"name": "vault", "fullName": "hashicorp/vault", "value": 119.30670632161062, "starsToday": 255, "totalStars": 34716, "url": "https://github.com/hashicorp/vault", "language": "Go", "avatarUrl": "https://github.com/hashicorp.png?size=200", "owner": "hashicorp"}, {"name": "awesome-llm-apps", "fullName": "Shubhamsaboo/awesome-llm-apps", "value": 140.403829207549, "starsToday": 208, "totalStars": 91075, "url": "https://github.com/Shubhamsaboo/awesome-llm-apps", "language": "Python", "avatarUrl": "https://github.com/Shubhamsaboo.png?size=200", "owner": "Shubhamsaboo"}, {"name": "ext-apps", "fullName": "modelcontextprotocol/ext-apps", "value": 56.74912001877639, "starsToday": 117, "totalStars": 931, "url": "https://github.com/modelcontextprotocol/ext-apps", "language": "TypeScript", "avatarUrl": "https://github.com/modelcontextprotocol.png?size=200", "owner": "modelcontextprotocol"}, {"name": "protobuf", "fullName": "protocolbuffers/protobuf", "value": 134.63439879941367, "starsToday": 87, "totalStars": 70542, "url": "https://github.com/protocolbuffers/protobuf", "language": "C++", "avatarUrl": "https://github.com/protocolbuffers.png?size=200", "owner": "protocolbuffers"}, {"name": "playwright-cli", "fullName": "microsoft/playwright-cli", "value": 66.28280207976752, "starsToday": 64, "totalStars": 1811, "url": "https://github.com/microsoft/playwright-cli", "language": "Unknown", "avatarUrl": "https://github.com/microsoft.png?size=200", "owner": "microsoft"}, {"name": "NewPipe", "fullName": "TeamNewPipe/NewPipe", "value": 120.53134793925469, "starsToday": 63, "totalStars": 36804, "url": "https://github.com/TeamNewPipe/NewPipe", "language": "Java", "avatarUrl": "https://github.com/TeamNewPipe.png?size=200", "owner": "TeamNewPipe"}];
+            var maxStars = Math.max(...rawData.map(d => d.starsToday));
+
+            // 30 个经典配色（参考 GitHub 语言颜色、Material Design 等）
+            var classicColors = [
+                '#3572A5',  // Python 蓝
+                '#f1e05a',  // JavaScript 黄
+                '#e34c26',  // HTML 橙红
+                '#563d7c',  // CSS 紫
+                '#b07219',  // Java 棕
+                '#00ADD8',  // Go 青
+                '#dea584',  // Rust 肉色
+                '#178600',  // C# 绿
+                '#f34b7d',  // C++ 粉
+                '#438eff',  // TypeScript 蓝
+                '#701516',  // Ruby 暗红
+                '#4F5D95',  // PHP 紫蓝
+                '#DA5B0B',  // Jupyter 橙
+                '#89e051',  // Shell 亮绿
+                '#c22d40',  // Scala 红
+                '#12aa51',  // Vue 翠绿
+                '#ff6f00',  // 琥珀色
+                '#00bcd4',  // 青色
+                '#9c27b0',  // 紫色
+                '#e91e63',  // 粉红
+                '#3f51b5',  // 靛蓝
+                '#009688',  // 青绿
+                '#795548',  // 棕色
+                '#607d8b',  // 蓝灰
+                '#ff5722',  // 深橙
+                '#8bc34a',  // 浅绿
+                '#ffc107',  // 琥珀
+                '#03a9f4',  // 浅蓝
+                '#673ab7',  // 深紫
+                '#cddc39'   // 黄绿
+            ];
+
+            // 基于项目名生成稳定的颜色索引（同一项目每次颜色一致）
+            function hashCode(str) {
+                var hash = 0;
+                for (var i = 0; i < str.length; i++) {
+                    hash = ((hash << 5) - hash) + str.charCodeAt(i);
+                    hash = hash & hash;
+                }
+                return Math.abs(hash);
+            }
+
+            function getItemColor(starsToday, index, total, name) {
+                // 使用项目名的哈希值选择颜色，确保同一项目颜色稳定
+                var colorIndex = hashCode(name) % classicColors.length;
+                return classicColors[colorIndex];
+            }
+
+            var treeData = rawData.map(function(item, index) {
+                return {
+                    name: item.name,
+                    value: item.value,
+                    starsToday: item.starsToday,
+                    totalStars: item.totalStars,
+                    url: item.url,
+                    fullName: item.fullName,
+                    language: item.language,
+                    avatarUrl: item.avatarUrl,
+                    owner: item.owner,
+                    itemStyle: {
+                        color: getItemColor(item.starsToday, index, rawData.length, item.name),
+                        borderColor: 'rgba(0,0,0,0.2)',
+                        borderWidth: 1
+                    }
+                };
+            });
+
+            var option = {
+                tooltip: {
+                    backgroundColor: 'rgba(0,0,0,0.85)',
+                    borderColor: '#333',
+                    textStyle: { color: '#fff', fontSize: 13 },
+                    formatter: function(params) {
+                        var d = params.data;
+                        var starsDisplay = d.starsToday >= 1000 ? (d.starsToday/1000).toFixed(1) + 'k' : d.starsToday;
+                        var totalDisplay = d.totalStars >= 1000 ? (d.totalStars/1000).toFixed(1) + 'k' : d.totalStars;
+                        return '<div style="font-weight:600;margin-bottom:8px;font-size:14px;">' + d.fullName + '</div>' +
+                               '<div style="margin:4px 0;">⭐ 今日新增: <span style="color:#f39c12;font-weight:600;">+' + starsDisplay + '</span></div>' +
+                               '<div style="margin:4px 0;">📊 总 Star: ' + totalDisplay + '</div>' +
+                               '<div>🔧 语言: ' + d.language + '</div>';
+                    }
+                },
+                series: [{
+                    type: 'treemap',
+                    width: '100%',
+                    height: '100%',
+                    roam: false,
+                    nodeClick: false,
+                    breadcrumb: { show: false },
+                    itemStyle: { borderRadius: 4, gapWidth: 2 },
+                    label: {
+                        show: true,
+                        position: 'inside',
+                        formatter: function(params) {
+                            var d = params.data;
+                            var starsDisplay = d.starsToday >= 1000 ? '+' + (d.starsToday/1000).toFixed(1) + 'k' : '+' + d.starsToday;
+                            return d.name + '\n' + starsDisplay;
+                        },
+                        fontSize: 16,
+                        fontWeight: 700,
+                        color: '#fff',
+                        textShadowColor: 'rgba(0,0,0,0.8)',
+                        textShadowBlur: 6,
+                        textShadowOffsetX: 1,
+                        textShadowOffsetY: 1,
+                        lineHeight: 24,
+                        textBorderColor: 'rgba(0,0,0,0.5)',
+                        textBorderWidth: 2
+                    },
+                    upperLabel: {
+                        show: false
+                    },
+                    data: treeData
+                }]
+            };
+
+            myChart.setOption(option);
+
+            myChart.on('click', function(params) {
+                if (params.data && params.data.url) window.open(params.data.url, '_blank');
+            });
+
+            window.addEventListener('resize', function() {
+                myChart.resize();
+            });
+        })();
+        </script>
+    </section>
+    
+
+        <section class="project-section">
+            <div class="project-grid">
+                
+    <a href="https://github.com/openclaw/openclaw" target="_blank" class="project-card  has-ai" style="--heat-color: linear-gradient(135deg, hsl(0, 80%, 50%) 0%, hsl(0, 85%, 40%) 100%)">
+        <div class="card-header">
+            <span class="rank">#1</span>
+            <span class="change up">↑18</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">openclaw</h3>
+            <p class="project-author">@openclaw</p>
+            <p class="project-desc">Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞</p>
+            
+        <div class="ai-summary">
+            <p class="ai-desc">✨ OpenClaw 是一个跨平台的个人 AI 助手，可整合多种通信工具提供智能服务。</p>
+            <ul class="ai-highlights"><li>支持主流和扩展通信渠道</li><li>本地运行，快速响应，无需云端依赖</li></ul>
+            <p class="ai-use-cases"><strong>适用场景:</strong> 适用于个人日常助手或智能交流工具整合。</p>
+        </div>
+        
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 111.1k</span>
+                <span class="today">+16,338</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #3178c6">TypeScript</span>
+                <div class="contributors"><img src="https://avatars.githubusercontent.com/u/58493?s=40&v=4" alt="steipete" title="steipete" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/35580099?s=40&v=4" alt="thewilloftheshadow" title="thewilloftheshadow" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/81847?s=40&v=4" alt="claude" title="claude" class="contributor-avatar"></div>
+                <span class="score">9/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank" class="project-card new-project has-ai" style="--heat-color: linear-gradient(135deg, hsl(0, 80%, 50%) 0%, hsl(0, 85%, 40%) 100%)">
+        <div class="card-header">
+            <span class="rank">#2</span>
+            <span class="change ">NEW</span>
+            <span class="new-badge">NEW</span>
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">system_prompts_leaks</h3>
+            <p class="project-author">@asgeirtj</p>
+            <p class="project-desc">Collection of extracted System Prompts from popular chatbots like ChatGPT, Claud...</p>
+            
+        <div class="ai-summary">
+            <p class="ai-desc">✨ 这个项目收集了主流聊天机器人（如ChatGPT）的系统提示和开发者消息。</p>
+            <ul class="ai-highlights"><li>提供多个聊天机器人的系统提示集合</li><li>支持开发者自由贡献和扩展</li></ul>
+            <p class="ai-use-cases"><strong>适用场景:</strong> 适合研究聊天机器人机制或提示设计的开发者。</p>
+        </div>
+        
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 28.1k</span>
+                <span class="today">+1,387</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #f1e05a">JavaScript</span>
+                <div class="contributors"><img src="https://avatars.githubusercontent.com/u/27446620?s=40&v=4" alt="asgeirtj" title="asgeirtj" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/46632417?s=40&v=4" alt="awrreny" title="awrreny" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/4633839?s=40&v=4" alt="bgauryy" title="bgauryy" class="contributor-avatar"></div>
+                <span class="score">9/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/lobehub/lobehub" target="_blank" class="project-card  has-ai" style="--heat-color: linear-gradient(135deg, hsl(10, 85%, 55%) 0%, hsl(5, 80%, 45%) 100%)">
+        <div class="card-header">
+            <span class="rank">#3</span>
+            <span class="change up">↑6</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">lobehub</h3>
+            <p class="project-author">@lobehub</p>
+            <p class="project-desc">The ultimate space for work and life — to find, build, and collaborate with agen...</p>
+            
+        <div class="ai-summary">
+            <p class="ai-desc">✨ LobeHub 是一个支持多人协作的智能代理平台，帮助用户轻松设计和管理工作。</p>
+            <ul class="ai-highlights"><li>支持多代理协作，提升生产力</li><li>提供智能化工作流管理工具</li></ul>
+            <p class="ai-use-cases"><strong>适用场景:</strong> 用于团队协作、高效工作自动化</p>
+        </div>
+        
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 71.4k</span>
+                <span class="today">+364</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #3178c6">TypeScript</span>
+                <div class="contributors"><img src="https://avatars.githubusercontent.com/u/32174276?s=40&v=4" alt="semantic-release-bot" title="semantic-release-bot" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/28616219?s=40&v=4" alt="arvinxx" title="arvinxx" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/134299653?s=40&v=4" alt="lobehubbot" title="lobehubbot" class="contributor-avatar"></div>
+                <span class="score">9/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/NevaMind-AI/memU" target="_blank" class="project-card  has-ai" style="--heat-color: linear-gradient(135deg, hsl(0, 80%, 50%) 0%, hsl(0, 85%, 40%) 100%)">
+        <div class="card-header">
+            <span class="rank">#4</span>
+            <span class="change up">↑12</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">memU</h3>
+            <p class="project-author">@NevaMind-AI</p>
+            <p class="project-desc">Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).</p>
+            
+        <div class="ai-summary">
+            <p class="ai-desc">✨ memU 是为 AI 智能体设计的 24/7 长期记忆框架，可降低上下文成本并主动理解用户意图。</p>
+            <ul class="ai-highlights"><li>支持全天候在线的智能体记忆</li><li>降低 LLM 的上下文 Token 消耗</li></ul>
+            <p class="ai-use-cases"><strong>适用场景:</strong> 适用于需持续运行和主动响应的 AI 系统</p>
+        </div>
+        
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 6.3k</span>
+                <span class="today">+604</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #3572A5">Python</span>
+                <div class="contributors"><img src="https://avatars.githubusercontent.com/u/5654879?s=40&v=4" alt="sairin1202" title="sairin1202" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/33013709?s=40&v=4" alt="evan-ak" title="evan-ak" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/51148505?s=40&v=4" alt="ankaisen" title="ankaisen" class="contributor-avatar"></div>
+                <span class="score">8/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/hashicorp/vault" target="_blank" class="project-card  has-ai" style="--heat-color: linear-gradient(135deg, hsl(25, 90%, 55%) 0%, hsl(20, 85%, 45%) 100%)">
+        <div class="card-header">
+            <span class="rank">#5</span>
+            <span class="change up">↑10</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">vault</h3>
+            <p class="project-author">@hashicorp</p>
+            <p class="project-desc">A tool for secrets management, encryption as a service, and privileged access ma...</p>
+            
+        <div class="ai-summary">
+            <p class="ai-desc">✨ Vault 是一个用于安全管理敏感信息（如密码、API 密钥）的工具。</p>
+            <ul class="ai-highlights"><li>支持集中化管理和加密服务</li><li>提供细粒度权限控制和审计功能</li></ul>
+            <p class="ai-use-cases"><strong>适用场景:</strong> 适用于API密钥、证书等敏感信息的管理与加密。</p>
+        </div>
+        
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 34.7k</span>
+                <span class="today">+255</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #00ADD8">Go</span>
+                <div class="contributors"><img src="https://avatars.githubusercontent.com/u/28627?s=40&v=4" alt="jefferai" title="jefferai" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/3053672?s=40&v=4" alt="vishalnayak" title="vishalnayak" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/82990506?s=40&v=4" alt="hc-github-team-secure-vault-core" title="hc-github-team-secure-vault-core" class="contributor-avatar"></div>
+                <span class="score">8/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/protocolbuffers/protobuf" target="_blank" class="project-card  has-ai" style="--heat-color: linear-gradient(135deg, hsl(120, 55%, 50%) 0%, hsl(130, 50%, 40%) 100%)">
+        <div class="card-header">
+            <span class="rank">#6</span>
+            <span class="change up">↑5</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">protobuf</h3>
+            <p class="project-author">@protocolbuffers</p>
+            <p class="project-desc">Protocol Buffers - Google's data interchange format</p>
+            
+        <div class="ai-summary">
+            <p class="ai-desc">✨ Protocol Buffers 是谷歌开发的高效数据序列化工具，支持跨语言和跨平台的结构化数据交换。</p>
+            <ul class="ai-highlights"><li>支持多语言和多平台</li><li>高效序列化和反序列化性能</li></ul>
+            <p class="ai-use-cases"><strong>适用场景:</strong> 适用于网络通信、数据存储和分布式系统开发。</p>
+        </div>
+        
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 70.5k</span>
+                <span class="today">+87</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #f34b7d">C++</span>
+                <div class="contributors"><img src="https://avatars.githubusercontent.com/u/106703886?s=40&v=4" alt="protobuf-github-bot" title="protobuf-github-bot" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/1270?s=40&v=4" alt="haberman" title="haberman" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/105450428?s=40&v=4" alt="protobuf-team-bot" title="protobuf-team-bot" class="contributor-avatar"></div>
+                <span class="score">8/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank" class="project-card  has-ai" style="--heat-color: linear-gradient(135deg, hsl(40, 95%, 55%) 0%, hsl(35, 90%, 45%) 100%)">
+        <div class="card-header">
+            <span class="rank">#7</span>
+            <span class="change down">↓4</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">awesome-llm-apps</h3>
+            <p class="project-author">@Shubhamsaboo</p>
+            <p class="project-desc">Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, G...</p>
+            
+        <div class="ai-summary">
+            <p class="ai-desc">✨ 汇集了使用各种主流和开源大语言模型构建的优秀 AI 应用合集。</p>
+            <ul class="ai-highlights"><li>支持 OpenAI、Anthropic 等多种模型</li><li>涵盖 RAG、AI代理等多种应用场景</li></ul>
+            <p class="ai-use-cases"><strong>适用场景:</strong> 探索 LLM应用开发，学习 AI项目实践</p>
+        </div>
+        
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 91.1k</span>
+                <span class="today">+208</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #3572A5">Python</span>
+                <div class="contributors"><img src="https://avatars.githubusercontent.com/u/31396011?s=40&v=4" alt="Shubhamsaboo" title="Shubhamsaboo" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/124294538?s=40&v=4" alt="Madhuvod" title="Madhuvod" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/102198332?s=40&v=4" alt="libw0430" title="libw0430" class="contributor-avatar"></div>
+                <span class="score">8/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/MoonshotAI/kimi-cli" target="_blank" class="project-card  has-ai" style="--heat-color: linear-gradient(135deg, hsl(0, 80%, 50%) 0%, hsl(0, 85%, 40%) 100%)">
+        <div class="card-header">
+            <span class="rank">#8</span>
+            <span class="change down">↓7</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">kimi-cli</h3>
+            <p class="project-author">@MoonshotAI</p>
+            <p class="project-desc">Kimi Code CLI is your next CLI agent.</p>
+            
+        <div class="ai-summary">
+            <p class="ai-desc">✨ Kimi Code CLI 是一个 AI 驱动的终端助手，帮助开发者完成代码编辑和命令行操作。</p>
+            <ul class="ai-highlights"><li>支持代码阅读与编辑，自动规划任务</li><li>兼容 IDE，支持 Agent Client Protocol</li></ul>
+            <p class="ai-use-cases"><strong>适用场景:</strong> 适用于加速开发任务与自动化终端操作</p>
+        </div>
+        
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 5.1k</span>
+                <span class="today">+492</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #3572A5">Python</span>
+                <div class="contributors"><img src="https://avatars.githubusercontent.com/u/5317095?s=40&v=4" alt="stdrc" title="stdrc" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/37948597?s=40&v=4" alt="xxchan" title="xxchan" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/3744223?s=40&v=4" alt="Epsirom" title="Epsirom" class="contributor-avatar"></div>
+                <span class="score">7/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/badlogic/pi-mono" target="_blank" class="project-card  has-ai" style="--heat-color: linear-gradient(135deg, hsl(10, 85%, 55%) 0%, hsl(5, 80%, 45%) 100%)">
+        <div class="card-header">
+            <span class="rank">#9</span>
+            <span class="change up">↑8</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">pi-mono</h3>
+            <p class="project-author">@badlogic</p>
+            <p class="project-desc">AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla...</p>
+            
+        <div class="ai-summary">
+            <p class="ai-desc">✨ 一个用于构建 AI 代理和管理大语言模型的工具集，包括 CLI、UI 库和 Slack 机器人。</p>
+            <ul class="ai-highlights"><li>支持多家 LLM API统一接入</li><li>提供交互式编码代理和部署工具</li></ul>
+            <p class="ai-use-cases"><strong>适用场景:</strong> 适用于构建智能代理、开发 AI 应用和部署 LLM服务。</p>
+        </div>
+        
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 3.6k</span>
+                <span class="today">+396</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #3178c6">TypeScript</span>
+                <div class="contributors"><img src="https://avatars.githubusercontent.com/u/514052?s=40&v=4" alt="badlogic" title="badlogic" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/2891702?s=40&v=4" alt="hjanuschka" title="hjanuschka" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/8409947?s=40&v=4" alt="markusylisiurunen" title="markusylisiurunen" class="contributor-avatar"></div>
+                <span class="score">7/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/TeamNewPipe/NewPipe" target="_blank" class="project-card  has-ai" style="--heat-color: linear-gradient(135deg, hsl(120, 55%, 50%) 0%, hsl(130, 50%, 40%) 100%)">
+        <div class="card-header">
+            <span class="rank">#10</span>
+            <span class="change down">↓5</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">NewPipe</h3>
+            <p class="project-author">@TeamNewPipe</p>
+            <p class="project-desc">A libre lightweight streaming front-end for Android.</p>
+            
+        <div class="ai-summary">
+            <p class="ai-desc">✨ NewPipe 是一个免费开源的安卓轻量级流媒体前端应用，支持多平台视频播放。</p>
+            <ul class="ai-highlights"><li>完全开源且无广告</li><li>无需谷歌服务即可使用</li></ul>
+            <p class="ai-use-cases"><strong>适用场景:</strong> 适用于安卓用户流畅观看视频且保护隐私。</p>
+        </div>
+        
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 36.8k</span>
+                <span class="today">+63</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #b07219">Java</span>
+                <div class="contributors"><img src="https://avatars.githubusercontent.com/u/36421898?s=40&v=4" alt="Stypox" title="Stypox" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/17365767?s=40&v=4" alt="TobiGr" title="TobiGr" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/1891273?s=40&v=4" alt="theScrabi" title="theScrabi" class="contributor-avatar"></div>
+                <span class="score">7/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/modelcontextprotocol/ext-apps" target="_blank" class="project-card  " style="--heat-color: linear-gradient(135deg, hsl(120, 55%, 50%) 0%, hsl(130, 50%, 40%) 100%)">
+        <div class="card-header">
+            <span class="rank">#11</span>
+            <span class="change up">↑7</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">ext-apps</h3>
+            <p class="project-author">@modelcontextprotocol</p>
+            <p class="project-desc">Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI...</p>
+            
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 931</span>
+                <span class="today">+117</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #3178c6">TypeScript</span>
+                <div class="contributors"><img src="https://avatars.githubusercontent.com/u/273860?s=40&v=4" alt="ochafik" title="ochafik" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/81847?s=40&v=4" alt="claude" title="claude" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/771968?s=40&v=4" alt="jonathanhefner" title="jonathanhefner" class="contributor-avatar"></div>
+                <span class="score">6/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/pedroslopez/whatsapp-web.js" target="_blank" class="project-card  " style="--heat-color: linear-gradient(135deg, hsl(170, 55%, 45%) 0%, hsl(180, 50%, 38%) 100%)">
+        <div class="card-header">
+            <span class="rank">#12</span>
+            <span class="change down">↓10</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">whatsapp-web.js</h3>
+            <p class="project-author">@pedroslopez</p>
+            <p class="project-desc">A WhatsApp client library for NodeJS that connects through the WhatsApp Web brow...</p>
+            
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 20.8k</span>
+                <span class="today">+16</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #f1e05a">JavaScript</span>
+                <div class="contributors"><img src="https://avatars.githubusercontent.com/u/4368928?s=40&v=4" alt="pedroslopez" title="pedroslopez" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/93551621?s=40&v=4" alt="alechkos" title="alechkos" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/111271321?s=40&v=4" alt="wwebjs-bot" title="wwebjs-bot" class="contributor-avatar"></div>
+                <span class="score">6/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/microsoft/playwright-cli" target="_blank" class="project-card  " style="--heat-color: linear-gradient(135deg, hsl(170, 55%, 45%) 0%, hsl(180, 50%, 38%) 100%)">
+        <div class="card-header">
+            <span class="rank">#13</span>
+            <span class="change up">↑8</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">playwright-cli</h3>
+            <p class="project-author">@microsoft</p>
+            <p class="project-desc">CLI for common Playwright actions. Record and generate Playwright code, inspect ...</p>
+            
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 1.8k</span>
+                <span class="today">+64</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #6e7681">未知</span>
+                <div class="contributors"><img src="https://avatars.githubusercontent.com/u/14912729?s=40&v=4" alt="Skn0tt" title="Skn0tt" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/883973?s=40&v=4" alt="pavelfeldman" title="pavelfeldman" class="contributor-avatar"></div>
+                <span class="score">5/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/anomalyco/opencode-anthropic-auth" target="_blank" class="project-card new-project " style="--heat-color: linear-gradient(135deg, hsl(170, 55%, 45%) 0%, hsl(180, 50%, 38%) 100%)">
+        <div class="card-header">
+            <span class="rank">#14</span>
+            <span class="change ">NEW</span>
+            <span class="new-badge">NEW</span>
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">opencode-anthropic-auth</h3>
+            <p class="project-author">@anomalyco</p>
+            <p class="project-desc"></p>
+            
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 302</span>
+                <span class="today">+11</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #f1e05a">JavaScript</span>
+                <div class="contributors"><img src="https://avatars.githubusercontent.com/u/63023139?s=40&v=4" alt="rekram1-node" title="rekram1-node" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/81847?s=40&v=4" alt="claude" title="claude" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/615814?s=40&v=4" alt="joachim-isaksson" title="joachim-isaksson" class="contributor-avatar"></div>
+                <span class="score">4/10</span>
+            </div>
+        </div>
+    </a>
+    
+            </div>
+        </section>
+
+        <footer>
+            <p>数据来源: <a href="https://github.com/trending" target="_blank">GitHub Trending</a></p>
+            <p>更新时间: 2026-01-30 18:46:04</p>
+        </footer>
+    </div>
+
+    <!-- 订阅弹窗 -->
+    <div id="subscribeModal" class="modal" onclick="if(event.target===this)this.style.display='none'">
+        <div class="modal-content">
+            <button class="modal-close" onclick="document.getElementById('subscribeModal').style.display='none'">&times;</button>
+            <h3>📧 Subscribe to Daily Digest</h3>
+            <p class="modal-desc">Get daily GitHub trending projects delivered to your inbox at 9 AM</p>
+            <form id="subscribeForm" onsubmit="handleSubscribe(event)">
+                <input type="email" id="subscribeEmail" placeholder="Enter your email" required>
+                <button type="submit" class="submit-btn">Subscribe</button>
+            </form>
+            <p class="modal-note">* You can unsubscribe at any time</p>
+        </div>
+    </div>
+
+    <script>
+        // 主题切换逻辑
+        function toggleTheme() {
+            const html = document.documentElement;
+            const darkIcon = document.getElementById('darkIcon');
+            const lightIcon = document.getElementById('lightIcon');
+
+            if (html.getAttribute('data-theme') === 'light') {
+                html.removeAttribute('data-theme');
+                darkIcon.classList.add('active');
+                lightIcon.classList.remove('active');
+                localStorage.setItem('theme', 'dark');
+            } else {
+                html.setAttribute('data-theme', 'light');
+                darkIcon.classList.remove('active');
+                lightIcon.classList.add('active');
+                localStorage.setItem('theme', 'light');
+            }
+        }
+
+        // 加载保存的主题
+        (function() {
+            const savedTheme = localStorage.getItem('theme');
+            const darkIcon = document.getElementById('darkIcon');
+            const lightIcon = document.getElementById('lightIcon');
+
+            if (savedTheme === 'light') {
+                document.documentElement.setAttribute('data-theme', 'light');
+                darkIcon.classList.remove('active');
+                lightIcon.classList.add('active');
+            }
+        })();
+    </script>
+</body>
+</html>

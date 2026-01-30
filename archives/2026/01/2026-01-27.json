@@ -1,0 +1,199 @@
+{
+  "date": "2026-01-27",
+  "updated_at": "2026-01-30 15:33:33",
+  "count": 24,
+  "rankings": [
+    {
+      "name": "langchain-ai/langchain",
+      "rank": 1,
+      "stars": "98,810",
+      "stars_today": "4963",
+      "language": "Python",
+      "description": "Building applications with LLMs through composability"
+    },
+    {
+      "name": "microsoft/vscode",
+      "rank": 2,
+      "stars": "174,545",
+      "stars_today": "4503",
+      "language": "TypeScript",
+      "description": "Visual Studio Code"
+    },
+    {
+      "name": "facebook/react",
+      "rank": 3,
+      "stars": "235,034",
+      "stars_today": "4489",
+      "language": "JavaScript",
+      "description": "The library for web and native user interfaces"
+    },
+    {
+      "name": "vercel/ai",
+      "rank": 4,
+      "stars": "12,669",
+      "stars_today": "4346",
+      "language": "TypeScript",
+      "description": "Build AI-powered applications with React, Svelte, Vue"
+    },
+    {
+      "name": "tailwindlabs/tailwindcss",
+      "rank": 5,
+      "stars": "88,003",
+      "stars_today": "2452",
+      "language": "CSS",
+      "description": "A utility-first CSS framework"
+    },
+    {
+      "name": "modelcontextprotocol/ext-apps",
+      "rank": 6,
+      "stars": "2,551",
+      "stars_today": "1162",
+      "language": "TypeScript",
+      "description": "Official repo for spec & SDK of MCP Apps protocol"
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "rank": 7,
+      "stars": "30,250",
+      "stars_today": "560",
+      "language": "JavaScript",
+      "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "rank": 8,
+      "stars": "92,499",
+      "stars_today": "511",
+      "language": "TypeScript",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞"
+    },
+    {
+      "name": "microsoft/playwright-cli",
+      "rank": 9,
+      "stars": "5,893",
+      "stars_today": "485",
+      "language": "TypeScript",
+      "description": "CLI for common Playwright actions"
+    },
+    {
+      "name": "astral-sh/uv",
+      "rank": 10,
+      "stars": "57,541",
+      "stars_today": "444",
+      "language": "Rust",
+      "description": "An extremely fast Python package installer"
+    },
+    {
+      "name": "pedroslopez/whatsapp-web.js",
+      "rank": 11,
+      "stars": "22,685",
+      "stars_today": "419",
+      "language": "JavaScript",
+      "description": "A WhatsApp client library for NodeJS"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "rank": 12,
+      "stars": "91,770",
+      "stars_today": "359",
+      "language": "Python",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG"
+    },
+    {
+      "name": "protocolbuffers/protobuf",
+      "rank": 13,
+      "stars": "74,599",
+      "stars_today": "351",
+      "language": "C++",
+      "description": "Protocol Buffers - Google's data interchange format"
+    },
+    {
+      "name": "TeamNewPipe/NewPipe",
+      "rank": 14,
+      "stars": "36,300",
+      "stars_today": "321",
+      "language": "Java",
+      "description": "A libre lightweight streaming front-end for Android"
+    },
+    {
+      "name": "ollama/ollama",
+      "rank": 15,
+      "stars": "124,911",
+      "stars_today": "263",
+      "language": "Go",
+      "description": "Get up and running with Llama 3, Mistral, and more"
+    },
+    {
+      "name": "badlogic/pi-mono",
+      "rank": 16,
+      "stars": "8,406",
+      "stars_today": "192",
+      "language": "TypeScript",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API"
+    },
+    {
+      "name": "lobehub/lobehub",
+      "rank": 17,
+      "stars": "73,147",
+      "stars_today": "185",
+      "language": "TypeScript",
+      "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "rank": 18,
+      "stars": "47,610",
+      "stars_today": "159",
+      "language": "TypeScript",
+      "description": "Claude Code is an agentic coding tool"
+    },
+    {
+      "name": "openai/codex",
+      "rank": 19,
+      "stars": "39,437",
+      "stars_today": "158",
+      "language": "Python",
+      "description": "Lightweight coding agent that runs in your terminal"
+    },
+    {
+      "name": "huggingface/transformers",
+      "rank": 20,
+      "stars": "145,166",
+      "stars_today": "124",
+      "language": "Python",
+      "description": "State-of-the-art ML for PyTorch, TensorFlow, and JAX"
+    },
+    {
+      "name": "hashicorp/vault",
+      "rank": 21,
+      "stars": "34,936",
+      "stars_today": "120",
+      "language": "Go",
+      "description": "A tool for secrets management, encryption as a service"
+    },
+    {
+      "name": "NevaMind-AI/memU",
+      "rank": 22,
+      "stars": "7,529",
+      "stars_today": "119",
+      "language": "Python",
+      "description": "Memory for 24/7 proactive agents like moltbot"
+    },
+    {
+      "name": "denoland/deno",
+      "rank": 23,
+      "stars": "103,433",
+      "stars_today": "96",
+      "language": "Rust",
+      "description": "A modern runtime for JavaScript and TypeScript"
+    },
+    {
+      "name": "MoonshotAI/kimi-cli",
+      "rank": 24,
+      "stars": "7,461",
+      "stars_today": "73",
+      "language": "Python",
+      "description": "Kimi Code CLI is your next CLI agent"
+    }
+  ]
+}
