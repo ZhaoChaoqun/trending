@@ -4,7 +4,15 @@ import os
 import re
 import requests
 from dataclasses import dataclass
+from pathlib import Path
 from typing import Optional
+
+# 加载 .env 文件（本地开发用）
+try:
+    from dotenv import load_dotenv
+    load_dotenv(Path(__file__).parent.parent / '.env')
+except ImportError:
+    pass
 
 
 @dataclass
@@ -17,12 +25,14 @@ class AISummary:
 
 
 # Azure OpenAI 配置 (通过环境变量配置)
-AZURE_CONFIG = {
-    'endpoint': os.getenv('AZURE_OPENAI_ENDPOINT', ''),
-    'api_key': os.getenv('AZURE_OPENAI_KEY', ''),
-    'deployment': os.getenv('AZURE_OPENAI_DEPLOYMENT', 'gpt-4o'),
-    'api_version': '2025-04-01-preview'
-}
+def get_azure_config():
+    """延迟获取配置，确保 .env 已加载"""
+    return {
+        'endpoint': os.getenv('AZURE_OPENAI_ENDPOINT', ''),
+        'api_key': os.getenv('AZURE_OPENAI_KEY', ''),
+        'deployment': os.getenv('AZURE_OPENAI_DEPLOYMENT', 'gpt-4o'),
+        'api_version': '2025-04-01-preview'
+    }
 
 
 def fetch_readme(repo_name: str, max_length: int = 2000) -> Optional[str]:
@@ -132,11 +142,12 @@ README 内容摘要:
 }}"""
 
     try:
-        url = f"{AZURE_CONFIG['endpoint'].rstrip('/')}/openai/deployments/{AZURE_CONFIG['deployment']}/chat/completions?api-version={AZURE_CONFIG['api_version']}"
+        config = get_azure_config()
+        url = f"{config['endpoint'].rstrip('/')}/openai/deployments/{config['deployment']}/chat/completions?api-version={config['api_version']}"
 
         headers = {
             'Content-Type': 'application/json',
-            'api-key': AZURE_CONFIG['api_key']
+            'api-key': config['api_key']
         }
 
         payload = {
@@ -145,7 +156,7 @@ README 内容摘要:
                 {'role': 'user', 'content': prompt}
             ],
             'temperature': 0.7,
-            'max_tokens': 300
+            'max_completion_tokens': 300
         }
 
         response = requests.post(url, headers=headers, json=payload, timeout=30)
