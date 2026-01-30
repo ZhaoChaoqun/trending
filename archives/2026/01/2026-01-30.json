@@ -1,12 +1,12 @@
 {
   "date": "2026-01-30",
-  "updated_at": "2026-01-30 11:10:54",
+  "updated_at": "2026-01-30 11:12:10",
   "count": 14,
   "rankings": [
     {
       "name": "openclaw/openclaw",
       "rank": 1,
-      "stars": "111,336",
+      "stars": "111,344",
       "stars_today": "14,210",
       "language": "TypeScript",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞"
@@ -30,7 +30,7 @@
     {
       "name": "hashicorp/vault",
       "rank": 4,
-      "stars": "34,720",
+      "stars": "34,721",
       "stars_today": "228",
       "language": "Go",
       "description": "A tool for secrets management, encryption as a service, and privileged access management"
@@ -38,7 +38,7 @@
     {
       "name": "protocolbuffers/protobuf",
       "rank": 5,
-      "stars": "70,542",
+      "stars": "70,543",
       "stars_today": "66",
       "language": "C++",
       "description": "Protocol Buffers - Google's data interchange format"
@@ -54,7 +54,7 @@
     {
       "name": "MoonshotAI/kimi-cli",
       "rank": 7,
-      "stars": "5,153",
+      "stars": "5,154",
       "stars_today": "377",
       "language": "Python",
       "description": "Kimi Code CLI is your next CLI agent."
@@ -62,7 +62,7 @@
     {
       "name": "NevaMind-AI/memU",
       "rank": 8,
-      "stars": "6,285",
+      "stars": "6,286",
       "stars_today": "463",
       "language": "Python",
       "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot)."
@@ -70,7 +70,7 @@
     {
       "name": "badlogic/pi-mono",
       "rank": 9,
-      "stars": "3,597",
+      "stars": "3,598",
       "stars_today": "285",
       "language": "TypeScript",
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods"
