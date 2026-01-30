@@ -35,7 +35,7 @@ def get_azure_config():
     }
 
 
-def fetch_readme(repo_name: str, max_length: int = 2000) -> Optional[str]:
+def fetch_readme(repo_name: str, max_length: int = 16000) -> Optional[str]:
     """
     从 GitHub 获取仓库的 README 内容
 
