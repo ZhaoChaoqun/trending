@@ -1,12 +1,12 @@
 {
   "date": "2026-01-30",
-  "updated_at": "2026-01-30 10:57:18",
+  "updated_at": "2026-01-30 11:03:38",
   "count": 14,
   "rankings": [
     {
       "name": "openclaw/openclaw",
       "rank": 1,
-      "stars": "111,213",
+      "stars": "111,278",
       "stars_today": "16,338",
       "language": "TypeScript",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞"
@@ -14,7 +14,7 @@
     {
       "name": "asgeirtj/system_prompts_leaks",
       "rank": 2,
-      "stars": "28,148",
+      "stars": "28,150",
       "stars_today": "1,387",
       "language": "JavaScript",
       "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini"
@@ -22,7 +22,7 @@
     {
       "name": "lobehub/lobehub",
       "rank": 3,
-      "stars": "71,387",
+      "stars": "71,389",
       "stars_today": "364",
       "language": "TypeScript",
       "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction."
@@ -38,7 +38,7 @@
     {
       "name": "hashicorp/vault",
       "rank": 5,
-      "stars": "34,718",
+      "stars": "34,719",
       "stars_today": "255",
       "language": "Go",
       "description": "A tool for secrets management, encryption as a service, and privileged access management"
@@ -102,7 +102,7 @@
     {
       "name": "microsoft/playwright-cli",
       "rank": 13,
-      "stars": "1,812",
+      "stars": "1,813",
       "stars_today": "64",
       "language": null,
       "description": "CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots."
