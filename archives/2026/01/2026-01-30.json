@@ -1,12 +1,12 @@
 {
   "date": "2026-01-30",
-  "updated_at": "2026-01-30 11:21:25",
+  "updated_at": "2026-01-30 19:41:46",
   "count": 14,
   "rankings": [
     {
       "name": "openclaw/openclaw",
       "rank": 1,
-      "stars": "111,426",
+      "stars": "111,617",
       "stars_today": "14,210",
       "language": "TypeScript",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞"
@@ -14,7 +14,7 @@
     {
       "name": "asgeirtj/system_prompts_leaks",
       "rank": 2,
-      "stars": "28,153",
+      "stars": "28,168",
       "stars_today": "1,081",
       "language": "JavaScript",
       "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini"
@@ -22,7 +22,7 @@
     {
       "name": "lobehub/lobehub",
       "rank": 3,
-      "stars": "71,390",
+      "stars": "71,391",
       "stars_today": "375",
       "language": "TypeScript",
       "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction."
@@ -30,7 +30,7 @@
     {
       "name": "hashicorp/vault",
       "rank": 4,
-      "stars": "34,723",
+      "stars": "34,725",
       "stars_today": "228",
       "language": "Go",
       "description": "A tool for secrets management, encryption as a service, and privileged access management"
@@ -38,7 +38,7 @@
     {
       "name": "protocolbuffers/protobuf",
       "rank": 5,
-      "stars": "70,543",
+      "stars": "70,544",
       "stars_today": "66",
       "language": "C++",
       "description": "Protocol Buffers - Google's data interchange format"
@@ -46,7 +46,7 @@
     {
       "name": "Shubhamsaboo/awesome-llm-apps",
       "rank": 6,
-      "stars": "91,081",
+      "stars": "91,087",
       "stars_today": "208",
       "language": "Python",
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
@@ -54,7 +54,7 @@
     {
       "name": "MoonshotAI/kimi-cli",
       "rank": 7,
-      "stars": "5,155",
+      "stars": "5,160",
       "stars_today": "377",
       "language": "Python",
       "description": "Kimi Code CLI is your next CLI agent."
@@ -62,7 +62,7 @@
     {
       "name": "NevaMind-AI/memU",
       "rank": 8,
-      "stars": "6,287",
+      "stars": "6,291",
       "stars_today": "463",
       "language": "Python",
       "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot)."
@@ -70,7 +70,7 @@
     {
       "name": "badlogic/pi-mono",
       "rank": 9,
-      "stars": "3,599",
+      "stars": "3,604",
       "stars_today": "285",
       "language": "TypeScript",
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods"
@@ -78,7 +78,7 @@
     {
       "name": "TeamNewPipe/NewPipe",
       "rank": 10,
-      "stars": "36,806",
+      "stars": "36,812",
       "stars_today": "63",
       "language": "Java",
       "description": "A libre lightweight streaming front-end for Android."
@@ -86,7 +86,7 @@
     {
       "name": "modelcontextprotocol/ext-apps",
       "rank": 11,
-      "stars": "934",
+      "stars": "935",
       "stars_today": "195",
       "language": "TypeScript",
       "description": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers"
@@ -94,7 +94,7 @@
     {
       "name": "pedroslopez/whatsapp-web.js",
       "rank": 12,
-      "stars": "20,782",
+      "stars": "20,783",
       "stars_today": "16",
       "language": "JavaScript",
       "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app"
@@ -102,7 +102,7 @@
     {
       "name": "microsoft/playwright-cli",
       "rank": 13,
-      "stars": "1,814",
+      "stars": "1,816",
       "stars_today": "64",
       "language": null,
       "description": "CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots."
@@ -110,7 +110,7 @@
     {
       "name": "anomalyco/opencode-anthropic-auth",
       "rank": 14,
-      "stars": "303",
+      "stars": "307",
       "stars_today": "11",
       "language": "JavaScript",
       "description": ""

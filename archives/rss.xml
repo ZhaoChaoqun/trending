@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 30 Jan 2026 11:21:25 +0000</pubDate><lastBuildDate>Fri, 30 Jan 2026 11:21:25 +0000</lastBuildDate><item><title>#1 openclaw/openclaw (+14,210 stars)</title><link>https://github.com/openclaw/openclaw</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 30 Jan 2026 19:41:46 +0000</pubDate><lastBuildDate>Fri, 30 Jan 2026 19:41:46 +0000</lastBuildDate><item><title>#1 openclaw/openclaw (+14,210 stars)</title><link>https://github.com/openclaw/openclaw</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;openclaw/openclaw&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞&lt;/p&gt;
-&lt;p&gt;⭐ 111,426 | +14,210 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 111,617 | +14,210 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/openclaw/openclaw#2026-01-30</guid><pubDate>Fri, 30 Jan 2026 11:21:25 +0000</pubDate></item><item><title>#2 asgeirtj/system_prompts_leaks (+1,081 stars)</title><link>https://github.com/asgeirtj/system_prompts_leaks</link><description>
+</description><guid isPermaLink="false">https://github.com/openclaw/openclaw#2026-01-30</guid><pubDate>Fri, 30 Jan 2026 19:41:46 +0000</pubDate></item><item><title>#2 asgeirtj/system_prompts_leaks (+1,081 stars)</title><link>https://github.com/asgeirtj/system_prompts_leaks</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;asgeirtj/system_prompts_leaks&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude &amp; Gemini&lt;/p&gt;
-&lt;p&gt;⭐ 28,153 | +1,081 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 28,168 | +1,081 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/asgeirtj/system_prompts_leaks#2026-01-30</guid><pubDate>Fri, 30 Jan 2026 11:21:25 +0000</pubDate></item><item><title>#3 lobehub/lobehub (+375 stars)</title><link>https://github.com/lobehub/lobehub</link><description>
+</description><guid isPermaLink="false">https://github.com/asgeirtj/system_prompts_leaks#2026-01-30</guid><pubDate>Fri, 30 Jan 2026 19:41:46 +0000</pubDate></item><item><title>#3 lobehub/lobehub (+375 stars)</title><link>https://github.com/lobehub/lobehub</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;lobehub/lobehub&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.&lt;/p&gt;
-&lt;p&gt;⭐ 71,390 | +375 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 71,391 | +375 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/lobehub/lobehub#2026-01-30</guid><pubDate>Fri, 30 Jan 2026 11:21:25 +0000</pubDate></item><item><title>#4 hashicorp/vault (+228 stars)</title><link>https://github.com/hashicorp/vault</link><description>
+</description><guid isPermaLink="false">https://github.com/lobehub/lobehub#2026-01-30</guid><pubDate>Fri, 30 Jan 2026 19:41:46 +0000</pubDate></item><item><title>#4 hashicorp/vault (+228 stars)</title><link>https://github.com/hashicorp/vault</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;hashicorp/vault&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A tool for secrets management, encryption as a service, and privileged access management&lt;/p&gt;
-&lt;p&gt;⭐ 34,723 | +228 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;⭐ 34,725 | +228 today | 🔧 Go&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/hashicorp/vault#2026-01-30</guid><pubDate>Fri, 30 Jan 2026 11:21:25 +0000</pubDate></item><item><title>#5 protocolbuffers/protobuf (+66 stars)</title><link>https://github.com/protocolbuffers/protobuf</link><description>
+</description><guid isPermaLink="false">https://github.com/hashicorp/vault#2026-01-30</guid><pubDate>Fri, 30 Jan 2026 19:41:46 +0000</pubDate></item><item><title>#5 protocolbuffers/protobuf (+66 stars)</title><link>https://github.com/protocolbuffers/protobuf</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;protocolbuffers/protobuf&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Protocol Buffers - Google's data interchange format&lt;/p&gt;
-&lt;p&gt;⭐ 70,543 | +66 today | 🔧 C++&lt;/p&gt;
+&lt;p&gt;⭐ 70,544 | +66 today | 🔧 C++&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/protocolbuffers/protobuf#2026-01-30</guid><pubDate>Fri, 30 Jan 2026 11:21:25 +0000</pubDate></item><item><title>#6 Shubhamsaboo/awesome-llm-apps (+208 stars)</title><link>https://github.com/Shubhamsaboo/awesome-llm-apps</link><description>
+</description><guid isPermaLink="false">https://github.com/protocolbuffers/protobuf#2026-01-30</guid><pubDate>Fri, 30 Jan 2026 19:41:46 +0000</pubDate></item><item><title>#6 Shubhamsaboo/awesome-llm-apps (+208 stars)</title><link>https://github.com/Shubhamsaboo/awesome-llm-apps</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;Shubhamsaboo/awesome-llm-apps&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.&lt;/p&gt;
-&lt;p&gt;⭐ 91,081 | +208 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 91,087 | +208 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Shubhamsaboo/awesome-llm-apps#2026-01-30</guid><pubDate>Fri, 30 Jan 2026 11:21:25 +0000</pubDate></item><item><title>#7 MoonshotAI/kimi-cli (+377 stars)</title><link>https://github.com/MoonshotAI/kimi-cli</link><description>
+</description><guid isPermaLink="false">https://github.com/Shubhamsaboo/awesome-llm-apps#2026-01-30</guid><pubDate>Fri, 30 Jan 2026 19:41:46 +0000</pubDate></item><item><title>#7 MoonshotAI/kimi-cli (+377 stars)</title><link>https://github.com/MoonshotAI/kimi-cli</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;MoonshotAI/kimi-cli&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Kimi Code CLI is your next CLI agent.&lt;/p&gt;
-&lt;p&gt;⭐ 5,155 | +377 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 5,160 | +377 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/MoonshotAI/kimi-cli#2026-01-30</guid><pubDate>Fri, 30 Jan 2026 11:21:25 +0000</pubDate></item><item><title>#8 NevaMind-AI/memU (+463 stars)</title><link>https://github.com/NevaMind-AI/memU</link><description>
+</description><guid isPermaLink="false">https://github.com/MoonshotAI/kimi-cli#2026-01-30</guid><pubDate>Fri, 30 Jan 2026 19:41:46 +0000</pubDate></item><item><title>#8 NevaMind-AI/memU (+463 stars)</title><link>https://github.com/NevaMind-AI/memU</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;NevaMind-AI/memU&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).&lt;/p&gt;
-&lt;p&gt;⭐ 6,287 | +463 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 6,291 | +463 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/NevaMind-AI/memU#2026-01-30</guid><pubDate>Fri, 30 Jan 2026 11:21:25 +0000</pubDate></item><item><title>#9 badlogic/pi-mono (+285 stars)</title><link>https://github.com/badlogic/pi-mono</link><description>
+</description><guid isPermaLink="false">https://github.com/NevaMind-AI/memU#2026-01-30</guid><pubDate>Fri, 30 Jan 2026 19:41:46 +0000</pubDate></item><item><title>#9 badlogic/pi-mono (+285 stars)</title><link>https://github.com/badlogic/pi-mono</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;badlogic/pi-mono&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods&lt;/p&gt;
-&lt;p&gt;⭐ 3,599 | +285 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 3,604 | +285 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/badlogic/pi-mono#2026-01-30</guid><pubDate>Fri, 30 Jan 2026 11:21:25 +0000</pubDate></item><item><title>#10 TeamNewPipe/NewPipe (+63 stars)</title><link>https://github.com/TeamNewPipe/NewPipe</link><description>
+</description><guid isPermaLink="false">https://github.com/badlogic/pi-mono#2026-01-30</guid><pubDate>Fri, 30 Jan 2026 19:41:46 +0000</pubDate></item><item><title>#10 TeamNewPipe/NewPipe (+63 stars)</title><link>https://github.com/TeamNewPipe/NewPipe</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;TeamNewPipe/NewPipe&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A libre lightweight streaming front-end for Android.&lt;/p&gt;
-&lt;p&gt;⭐ 36,806 | +63 today | 🔧 Java&lt;/p&gt;
+&lt;p&gt;⭐ 36,812 | +63 today | 🔧 Java&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/TeamNewPipe/NewPipe#2026-01-30</guid><pubDate>Fri, 30 Jan 2026 11:21:25 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/TeamNewPipe/NewPipe#2026-01-30</guid><pubDate>Fri, 30 Jan 2026 19:41:46 +0000</pubDate></item></channel></rss>
