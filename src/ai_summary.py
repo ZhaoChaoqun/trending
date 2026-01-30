@@ -16,12 +16,12 @@ class AISummary:
     use_cases: str  # 适用场景
 
 
-# Azure OpenAI 配置 (可通过环境变量覆盖)
+# Azure OpenAI 配置 (通过环境变量配置)
 AZURE_CONFIG = {
-    'endpoint': os.getenv('AZURE_OPENAI_ENDPOINT', 'https://zcq1.openai.azure.com/'),
-    'api_key': os.getenv('AZURE_OPENAI_KEY', '7d81f6e4806d4d5fbab47c339e0519d1'),
+    'endpoint': os.getenv('AZURE_OPENAI_ENDPOINT', ''),
+    'api_key': os.getenv('AZURE_OPENAI_KEY', ''),
     'deployment': os.getenv('AZURE_OPENAI_DEPLOYMENT', 'gpt-4o'),
-    'api_version': '2024-02-15-preview'
+    'api_version': '2025-04-01-preview'
 }
 
 
