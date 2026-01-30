@@ -1,12 +1,12 @@
 {
   "date": "2026-01-30",
-  "updated_at": "2026-01-30 19:41:46",
+  "updated_at": "2026-01-30 11:42:51",
   "count": 14,
   "rankings": [
     {
       "name": "openclaw/openclaw",
       "rank": 1,
-      "stars": "111,617",
+      "stars": "111,632",
       "stars_today": "14,210",
       "language": "TypeScript",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞"
@@ -70,7 +70,7 @@
     {
       "name": "badlogic/pi-mono",
       "rank": 9,
-      "stars": "3,604",
+      "stars": "3,605",
       "stars_today": "285",
       "language": "TypeScript",
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods"
