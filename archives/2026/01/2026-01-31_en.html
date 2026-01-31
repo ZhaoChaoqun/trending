@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Trending 每日热榜 - 2026-01-31</title>
+    <title>GitHub Trending Dashboard - 2026-01-31</title>
     <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg" type="image/svg+xml">
     <link rel="icon" href="https://github.githubassets.com/favicons/favicon-dark.png" type="image/png" media="(prefers-color-scheme: dark)">
     <link rel="icon" href="https://github.githubassets.com/favicons/favicon.png" type="image/png" media="(prefers-color-scheme: light)">
@@ -596,8 +596,8 @@
         <header>
             <div class="header-top">
                 <div class="header-title">
-                    <h1>GitHub Trending 每日热榜</h1>
-                    <p class="subtitle">每日热门项目追踪</p>
+                    <h1>GitHub Trending Dashboard</h1>
+                    <p class="subtitle">Daily Hot Projects Tracker</p>
                 </div>
                 <div class="header-actions">
                     <button class="subscribe-btn" onclick="document.getElementById('subscribeModal').style.display='flex'" title="Subscribe">
@@ -608,7 +608,7 @@
                     </button>
                 </div>
             </div>
-            <p class="date">📅 2026-01-31 · 14 个项目</p>
+            <p class="date">📅 2026-01-31 · 14 projects</p>
             <div class="stats-bar">
                 <span class="lang-stat"><span class="lang-dot" style="background: #3178c6"></span>TypeScript: 4</span><span class="lang-stat"><span class="lang-dot" style="background: #f1e05a"></span>JavaScript: 3</span><span class="lang-stat"><span class="lang-dot" style="background: #3572A5"></span>Python: 3</span><span class="lang-stat"><span class="lang-dot" style="background: #00ADD8"></span>Go: 1</span><span class="lang-stat"><span class="lang-dot" style="background: #f34b7d"></span>C++: 1</span><span class="lang-stat"><span class="lang-dot" style="background: #b07219"></span>Java: 1</span>
             </div>
@@ -618,7 +618,7 @@
 
         
     <section class="heatmap-section">
-        <h2>🔥 热力图</h2>
+        <h2>🔥 Trending Heatmap</h2>
         <div id="treemap-wrapper" style="width: 100%; height: 400px; border-radius: 12px; overflow: hidden; position: relative;">
             <div id="treemap-chart" style="width: 100%; height: 100%;"></div>
         </div>
@@ -709,9 +709,9 @@
                         var starsDisplay = d.starsToday >= 1000 ? (d.starsToday/1000).toFixed(1) + 'k' : d.starsToday;
                         var totalDisplay = d.totalStars >= 1000 ? (d.totalStars/1000).toFixed(1) + 'k' : d.totalStars;
                         return '<div style="font-weight:600;margin-bottom:8px;font-size:14px;">' + d.fullName + '</div>' +
-                               '<div style="margin:4px 0;">⭐ 今日新增: <span style="color:#f39c12;font-weight:600;">+' + starsDisplay + '</span></div>' +
-                               '<div style="margin:4px 0;">📊 总 Star: ' + totalDisplay + '</div>' +
-                               '<div>🔧 语言: ' + d.language + '</div>';
+                               '<div style="margin:4px 0;">⭐ Stars Today: <span style="color:#f39c12;font-weight:600;">+' + starsDisplay + '</span></div>' +
+                               '<div style="margin:4px 0;">📊 Total Stars: ' + totalDisplay + '</div>' +
+                               '<div>🔧 Language: ' + d.language + '</div>';
                     }
                 },
                 series: [{
@@ -779,7 +779,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ 可在本地设备运行的个人AI助手，接入多种聊天工具随时对话。</p>
             <ul class="ai-highlights"><li>支持WhatsApp/Telegram/Slack等多渠道接入，覆盖常用沟通平台</li><li>提供CLI向导一键上手，跨平台部署并支持语音与画布交互</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 个人专属助手，多平台消息与语音交互</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 个人专属助手，多平台消息与语音交互</p>
         </div>
         
         </div>
@@ -810,7 +810,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ 汇集各大聊天机器人泄露的系统提示词与开发者消息合集。</p>
             <ul class="ai-highlights"><li>集中收录ChatGPT、Claude、Gemini等系统提示词</li><li>支持社区PR持续补充与更新内容</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 研究提示工程与对齐策略参考</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 研究提示工程与对齐策略参考</p>
         </div>
         
         </div>
@@ -841,7 +841,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ 汇集各类LLM应用示例，覆盖RAG、AI代理与多代理团队等玩法。</p>
             <ul class="ai-highlights"><li>按主题收录大量可复用的LLM应用与Agent项目</li><li>兼容OpenAI/Anthropic/Gemini及Qwen、Llama等开源模型</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 快速找灵感、选型与搭建LLM应用原型</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 快速找灵感、选型与搭建LLM应用原型</p>
         </div>
         
         </div>
@@ -872,7 +872,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ 一个可搭建与协作多智能体的工作空间平台，支持设计与管理Agent团队。</p>
             <ul class="ai-highlights"><li>支持多智能体协作与团队化编排，面向“Agent作为工作单元”交互</li><li>生态完善：文档/站点/发布与Docker部署齐全，便于落地</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 构建企业AI助手团队与多Agent工作流协作</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 构建企业AI助手团队与多Agent工作流协作</p>
         </div>
         
         </div>
@@ -903,7 +903,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ Vault 用于集中管理密钥与凭证，提供加密服务和安全访问控制。</p>
             <ul class="ai-highlights"><li>统一接口管理各类密钥/证书/密码等敏感信息</li><li>提供加密即服务与细粒度权限审计能力</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 微服务与云环境的密钥托管与访问控制</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 微服务与云环境的密钥托管与访问控制</p>
         </div>
         
         </div>
@@ -934,7 +934,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ Google推出的高效跨语言数据序列化与交换格式标准实现</p>
             <ul class="ai-highlights"><li>语言无关、平台无关，适合跨服务/跨端数据传输</li><li>提供protoc编译器与多语言运行时，生态成熟稳定</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 微服务RPC通信、存储结构化数据</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 微服务RPC通信、存储结构化数据</p>
         </div>
         
         </div>
@@ -965,7 +965,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ 基于WhatsApp Web的Node.js库，用Puppeteer实现消息收发与自动化</p>
             <ul class="ai-highlights"><li>通过Puppeteer驱动WhatsApp Web，覆盖大部分网页端能力</li><li>提供事件驱动API与会话管理，便于集成到Node服务</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 客服机器人、通知推送、群管理自动化</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 客服机器人、通知推送、群管理自动化</p>
         </div>
         
         </div>
@@ -996,7 +996,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ NewPipe 是一款开源轻量的安卓流媒体前端应用，用于观看多平台内容。</p>
             <ul class="ai-highlights"><li>自由开源、轻量无广告的第三方流媒体前端</li><li>正在大规模重构，提供夜间版并以修复为主</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 安卓设备轻量观看流媒体与订阅管理</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 安卓设备轻量观看流媒体与订阅管理</p>
         </div>
         
         </div>
@@ -1027,7 +1027,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ 一个在终端运行的AI开发助手，可读写代码并执行命令</p>
             <ul class="ai-highlights"><li>集成终端智能体：读改代码、跑命令、抓网页并自动规划步骤</li><li>支持Shell命令模式与VS Code扩展/ACP协议的IDE集成</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 终端开发提效、自动化脚本与日常运维</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 终端开发提效、自动化脚本与日常运维</p>
         </div>
         
         </div>
@@ -1058,7 +1058,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ 面向24/7常驻AI代理的长期记忆框架，降低上下文token成本并支持主动行动。</p>
             <ul class="ai-highlights"><li>持续捕捉并理解用户意图，支持无指令主动响应</li><li>通过更小上下文与记忆管理显著降低LLM token成本</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 常驻助手、机器人客服、长期任务代理</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 常驻助手、机器人客服、长期任务代理</p>
         </div>
         
         </div>
@@ -1143,7 +1143,7 @@
                 <span class="today">+207</span>
             </div>
             <div class="meta">
-                <span class="language" style="--lang-color: #6e7681">未知</span>
+                <span class="language" style="--lang-color: #6e7681">Unknown</span>
                 <div class="contributors"><img src="https://avatars.githubusercontent.com/u/14912729?s=40&v=4" alt="Skn0tt" title="Skn0tt" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/883973?s=40&v=4" alt="pavelfeldman" title="pavelfeldman" class="contributor-avatar"><img src="https://avatars.githubusercontent.com/u/32169182?s=40&v=4" alt="salmanmkc" title="salmanmkc" class="contributor-avatar"></div>
                 <span class="score">6/10</span>
             </div>
@@ -1179,8 +1179,8 @@
         </section>
 
         <footer>
-            <p>数据来源: <a href="https://github.com/trending" target="_blank">GitHub Trending</a></p>
-            <p>更新时间: 2026-01-31 03:14:05</p>
+            <p>Data Source: <a href="https://github.com/trending" target="_blank">GitHub Trending</a></p>
+            <p>Updated: 2026-01-31 03:14:05</p>
         </footer>
     </div>
 
