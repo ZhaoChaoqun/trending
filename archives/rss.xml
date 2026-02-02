@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sun, 01 Feb 2026 03:43:49 +0000</pubDate><lastBuildDate>Sun, 01 Feb 2026 03:43:49 +0000</lastBuildDate><item><title>#1 openclaw/openclaw (+14,780 stars)</title><link>https://github.com/openclaw/openclaw</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Mon, 02 Feb 2026 03:35:11 +0000</pubDate><lastBuildDate>Mon, 02 Feb 2026 03:35:11 +0000</lastBuildDate><item><title>#1 openclaw/openclaw (+10,794 stars)</title><link>https://github.com/openclaw/openclaw</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;openclaw/openclaw&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞&lt;/p&gt;
-&lt;p&gt;⭐ 133,694 | +14,780 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 143,671 | +10,794 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/openclaw/openclaw#2026-02-01</guid><pubDate>Sun, 01 Feb 2026 03:43:49 +0000</pubDate></item><item><title>#2 microsoft/agent-lightning (+516 stars)</title><link>https://github.com/microsoft/agent-lightning</link><description>
+</description><guid isPermaLink="false">https://github.com/openclaw/openclaw#2026-02-02</guid><pubDate>Mon, 02 Feb 2026 03:35:11 +0000</pubDate></item><item><title>#2 badlogic/pi-mono (+613 stars)</title><link>https://github.com/badlogic/pi-mono</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;badlogic/pi-mono&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods&lt;/p&gt;
+&lt;p&gt;⭐ 5,048 | +613 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/badlogic/pi-mono#2026-02-02</guid><pubDate>Mon, 02 Feb 2026 03:35:11 +0000</pubDate></item><item><title>#3 microsoft/agent-lightning (+406 stars)</title><link>https://github.com/microsoft/agent-lightning</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;microsoft/agent-lightning&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The absolute trainer to light up AI agents.&lt;/p&gt;
-&lt;p&gt;⭐ 12,658 | +516 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 13,007 | +406 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/microsoft/agent-lightning#2026-02-01</guid><pubDate>Sun, 01 Feb 2026 03:43:49 +0000</pubDate></item><item><title>#3 PaddlePaddle/PaddleOCR (+171 stars)</title><link>https://github.com/PaddlePaddle/PaddleOCR</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;PaddlePaddle/PaddleOCR&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.&lt;/p&gt;
-&lt;p&gt;⭐ 69,629 | +171 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/PaddlePaddle/PaddleOCR#2026-02-01</guid><pubDate>Sun, 01 Feb 2026 03:43:49 +0000</pubDate></item><item><title>#4 pedroslopez/whatsapp-web.js (+137 stars)</title><link>https://github.com/pedroslopez/whatsapp-web.js</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;pedroslopez/whatsapp-web.js&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app&lt;/p&gt;
-&lt;p&gt;⭐ 21,011 | +137 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/pedroslopez/whatsapp-web.js#2026-02-01</guid><pubDate>Sun, 01 Feb 2026 03:43:49 +0000</pubDate></item><item><title>#5 ThePrimeagen/99 (+542 stars)</title><link>https://github.com/ThePrimeagen/99</link><description>
+</description><guid isPermaLink="false">https://github.com/microsoft/agent-lightning#2026-02-02</guid><pubDate>Mon, 02 Feb 2026 03:35:11 +0000</pubDate></item><item><title>#4 ThePrimeagen/99 (+781 stars)</title><link>https://github.com/ThePrimeagen/99</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;ThePrimeagen/99&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Neovim AI agent done right&lt;/p&gt;
-&lt;p&gt;⭐ 2,335 | +542 today | 🔧 Lua&lt;/p&gt;
+&lt;p&gt;⭐ 2,781 | +781 today | 🔧 Lua&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/ThePrimeagen/99#2026-02-01</guid><pubDate>Sun, 01 Feb 2026 03:43:49 +0000</pubDate></item><item><title>#6 microsoft/BitNet (+137 stars)</title><link>https://github.com/microsoft/BitNet</link><description>
+</description><guid isPermaLink="false">https://github.com/ThePrimeagen/99#2026-02-02</guid><pubDate>Mon, 02 Feb 2026 03:35:11 +0000</pubDate></item><item><title>#5 kovidgoyal/calibre (+37 stars)</title><link>https://github.com/kovidgoyal/calibre</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;microsoft/BitNet&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Official inference framework for 1-bit LLMs&lt;/p&gt;
-&lt;p&gt;⭐ 27,315 | +137 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;kovidgoyal/calibre&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The official source code repository for the calibre ebook manager&lt;/p&gt;
+&lt;p&gt;⭐ 23,658 | +37 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/microsoft/BitNet#2026-02-01</guid><pubDate>Sun, 01 Feb 2026 03:43:49 +0000</pubDate></item><item><title>#7 anthropics/claude-plugins-official (+237 stars)</title><link>https://github.com/anthropics/claude-plugins-official</link><description>
+</description><guid isPermaLink="false">https://github.com/kovidgoyal/calibre#2026-02-02</guid><pubDate>Mon, 02 Feb 2026 03:35:11 +0000</pubDate></item><item><title>#6 thedotmack/claude-mem (+196 stars)</title><link>https://github.com/thedotmack/claude-mem</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;anthropics/claude-plugins-official&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Official, Anthropic-managed directory of high quality Claude Code Plugins.&lt;/p&gt;
-&lt;p&gt;⭐ 5,894 | +237 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;thedotmack/claude-mem&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.&lt;/p&gt;
+&lt;p&gt;⭐ 16,573 | +196 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/anthropics/claude-plugins-official#2026-02-01</guid><pubDate>Sun, 01 Feb 2026 03:43:49 +0000</pubDate></item><item><title>#8 microsoft/PowerToys (+46 stars)</title><link>https://github.com/microsoft/PowerToys</link><description>
+</description><guid isPermaLink="false">https://github.com/thedotmack/claude-mem#2026-02-02</guid><pubDate>Mon, 02 Feb 2026 03:35:11 +0000</pubDate></item><item><title>#7 amantus-ai/vibetunnel (+43 stars)</title><link>https://github.com/amantus-ai/vibetunnel</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;microsoft/PowerToys&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks&lt;/p&gt;
-&lt;p&gt;⭐ 128,772 | +46 today | 🔧 C#&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;amantus-ai/vibetunnel&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Turn any browser into your terminal &amp; command your agents on the go.&lt;/p&gt;
+&lt;p&gt;⭐ 3,580 | +43 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/microsoft/PowerToys#2026-02-01</guid><pubDate>Sun, 01 Feb 2026 03:43:49 +0000</pubDate></item><item><title>#9 termux/termux-app (+41 stars)</title><link>https://github.com/termux/termux-app</link><description>
+</description><guid isPermaLink="false">https://github.com/amantus-ai/vibetunnel#2026-02-02</guid><pubDate>Mon, 02 Feb 2026 03:35:11 +0000</pubDate></item><item><title>#8 steipete/CodexBar (+99 stars)</title><link>https://github.com/steipete/CodexBar</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;termux/termux-app&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Termux - a terminal emulator application for Android OS extendible by variety of packages.&lt;/p&gt;
-&lt;p&gt;⭐ 49,545 | +41 today | 🔧 Java&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;steipete/CodexBar&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Show usage stats for OpenAI Codex and Claude Code, without having to login.&lt;/p&gt;
+&lt;p&gt;⭐ 3,980 | +99 today | 🔧 Swift&lt;/p&gt;
+&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/termux/termux-app#2026-02-01</guid><pubDate>Sun, 01 Feb 2026 03:43:49 +0000</pubDate></item><item><title>#10 cline/cline (+44 stars)</title><link>https://github.com/cline/cline</link><description>
+</description><guid isPermaLink="false">https://github.com/steipete/CodexBar#2026-02-02</guid><pubDate>Mon, 02 Feb 2026 03:35:11 +0000</pubDate></item><item><title>#9 j178/prek (+61 stars)</title><link>https://github.com/j178/prek</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;cline/cline&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.&lt;/p&gt;
-&lt;p&gt;⭐ 57,388 | +44 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;j178/prek&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;⚡ Better `pre-commit`, re-engineered in Rust&lt;/p&gt;
+&lt;p&gt;⭐ 4,286 | +61 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/cline/cline#2026-02-01</guid><pubDate>Sun, 01 Feb 2026 03:43:49 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/j178/prek#2026-02-02</guid><pubDate>Mon, 02 Feb 2026 03:35:11 +0000</pubDate></item><item><title>#10 pedramamini/Maestro (+49 stars)</title><link>https://github.com/pedramamini/Maestro</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;pedramamini/Maestro&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Agent Orchestration Command Center&lt;/p&gt;
+&lt;p&gt;⭐ 1,022 | +49 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 5/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/pedramamini/Maestro#2026-02-02</guid><pubDate>Mon, 02 Feb 2026 03:35:11 +0000</pubDate></item></channel></rss>

@@ -1,0 +1,95 @@
+{
+  "date": "2026-02-02",
+  "updated_at": "2026-02-02 03:35:11",
+  "count": 11,
+  "rankings": [
+    {
+      "name": "openclaw/openclaw",
+      "rank": 1,
+      "stars": "143,671",
+      "stars_today": "10,794",
+      "language": "TypeScript",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞"
+    },
+    {
+      "name": "badlogic/pi-mono",
+      "rank": 2,
+      "stars": "5,048",
+      "stars_today": "613",
+      "language": "TypeScript",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods"
+    },
+    {
+      "name": "microsoft/agent-lightning",
+      "rank": 3,
+      "stars": "13,007",
+      "stars_today": "406",
+      "language": "Python",
+      "description": "The absolute trainer to light up AI agents."
+    },
+    {
+      "name": "ThePrimeagen/99",
+      "rank": 4,
+      "stars": "2,781",
+      "stars_today": "781",
+      "language": "Lua",
+      "description": "Neovim AI agent done right"
+    },
+    {
+      "name": "kovidgoyal/calibre",
+      "rank": 5,
+      "stars": "23,658",
+      "stars_today": "37",
+      "language": "Python",
+      "description": "The official source code repository for the calibre ebook manager"
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "rank": 6,
+      "stars": "16,573",
+      "stars_today": "196",
+      "language": "TypeScript",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions."
+    },
+    {
+      "name": "amantus-ai/vibetunnel",
+      "rank": 7,
+      "stars": "3,580",
+      "stars_today": "43",
+      "language": "TypeScript",
+      "description": "Turn any browser into your terminal & command your agents on the go."
+    },
+    {
+      "name": "steipete/CodexBar",
+      "rank": 8,
+      "stars": "3,980",
+      "stars_today": "99",
+      "language": "Swift",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login."
+    },
+    {
+      "name": "j178/prek",
+      "rank": 9,
+      "stars": "4,286",
+      "stars_today": "61",
+      "language": "Rust",
+      "description": "⚡ Better `pre-commit`, re-engineered in Rust"
+    },
+    {
+      "name": "pedramamini/Maestro",
+      "rank": 10,
+      "stars": "1,022",
+      "stars_today": "49",
+      "language": "TypeScript",
+      "description": "Agent Orchestration Command Center"
+    },
+    {
+      "name": "vita-epfl/Stable-Video-Infinity",
+      "rank": 11,
+      "stars": "1,778",
+      "stars_today": "45",
+      "language": "Python",
+      "description": "[ICLR 26] Stable Video Infinity: Infinite-Length Video Generation with Error Recycling"
+    }
+  ]
+}
