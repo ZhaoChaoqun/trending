@@ -1,0 +1,103 @@
+{
+  "date": "2026-02-03",
+  "updated_at": "2026-02-03 03:29:07",
+  "count": 12,
+  "rankings": [
+    {
+      "name": "thedotmack/claude-mem",
+      "rank": 1,
+      "stars": "18,289",
+      "stars_today": "1,474",
+      "language": "TypeScript",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions."
+    },
+    {
+      "name": "netbirdio/netbird",
+      "rank": 2,
+      "stars": "22,012",
+      "stars_today": "347",
+      "language": "Go",
+      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls."
+    },
+    {
+      "name": "badlogic/pi-mono",
+      "rank": 3,
+      "stars": "5,666",
+      "stars_today": "878",
+      "language": "TypeScript",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods"
+    },
+    {
+      "name": "VectifyAI/PageIndex",
+      "rank": 4,
+      "stars": "12,603",
+      "stars_today": "793",
+      "language": "Python",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG"
+    },
+    {
+      "name": "karpathy/nanochat",
+      "rank": 5,
+      "stars": "41,699",
+      "stars_today": "254",
+      "language": "Python",
+      "description": "The best ChatGPT that $100 can buy."
+    },
+    {
+      "name": "kovidgoyal/calibre",
+      "rank": 6,
+      "stars": "23,817",
+      "stars_today": "183",
+      "language": "Python",
+      "description": "The official source code repository for the calibre ebook manager"
+    },
+    {
+      "name": "ThePrimeagen/99",
+      "rank": 7,
+      "stars": "3,054",
+      "stars_today": "300",
+      "language": "Lua",
+      "description": "Neovim AI agent done right"
+    },
+    {
+      "name": "termux/termux-app",
+      "rank": 8,
+      "stars": "49,965",
+      "stars_today": "80",
+      "language": "Java",
+      "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages."
+    },
+    {
+      "name": "pedramamini/Maestro",
+      "rank": 9,
+      "stars": "1,318",
+      "stars_today": "336",
+      "language": "TypeScript",
+      "description": "Agent Orchestration Command Center"
+    },
+    {
+      "name": "OpenBMB/ChatDev",
+      "rank": 10,
+      "stars": "29,468",
+      "stars_today": "93",
+      "language": "Python",
+      "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration"
+    },
+    {
+      "name": "langchain-ai/rag-from-scratch",
+      "rank": 11,
+      "stars": "7,007",
+      "stars_today": "105",
+      "language": "Jupyter Notebook",
+      "description": ""
+    },
+    {
+      "name": "autobrr/qui",
+      "rank": 12,
+      "stars": "2,886",
+      "stars_today": "77",
+      "language": "Go",
+      "description": "A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers."
+    }
+  ]
+}

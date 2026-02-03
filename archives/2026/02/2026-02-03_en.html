@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Trending 每日热榜 - 2026-02-03</title>
+    <title>GitHub Trending Dashboard - 2026-02-03</title>
     <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg" type="image/svg+xml">
     <link rel="icon" href="https://github.githubassets.com/favicons/favicon-dark.png" type="image/png" media="(prefers-color-scheme: dark)">
     <link rel="icon" href="https://github.githubassets.com/favicons/favicon.png" type="image/png" media="(prefers-color-scheme: light)">
@@ -596,8 +596,8 @@
         <header>
             <div class="header-top">
                 <div class="header-title">
-                    <h1>GitHub Trending 每日热榜</h1>
-                    <p class="subtitle">每日热门项目追踪</p>
+                    <h1>GitHub Trending Dashboard</h1>
+                    <p class="subtitle">Daily Hot Projects Tracker</p>
                 </div>
                 <div class="header-actions">
                     <button class="subscribe-btn" onclick="document.getElementById('subscribeModal').style.display='flex'" title="Subscribe">
@@ -608,7 +608,7 @@
                     </button>
                 </div>
             </div>
-            <p class="date">📅 2026-02-03 · 12 个项目</p>
+            <p class="date">📅 2026-02-03 · 12 projects</p>
             <div class="stats-bar">
                 <span class="lang-stat"><span class="lang-dot" style="background: #3572A5"></span>Python: 4</span><span class="lang-stat"><span class="lang-dot" style="background: #3178c6"></span>TypeScript: 3</span><span class="lang-stat"><span class="lang-dot" style="background: #00ADD8"></span>Go: 2</span><span class="lang-stat"><span class="lang-dot" style="background: #6e7681"></span>Lua: 1</span><span class="lang-stat"><span class="lang-dot" style="background: #b07219"></span>Java: 1</span><span class="lang-stat"><span class="lang-dot" style="background: #6e7681"></span>Jupyter Notebook: 1</span>
             </div>
@@ -616,7 +616,7 @@
 
         
     <section class="banner-section">
-        <h2>🔥 今日新上榜</h2>
+        <h2>🔥 New Today</h2>
         <div class="banner-container">
             
     <a href="https://github.com/netbirdio/netbird" target="_blank" class="project-card new-project has-ai" style="--heat-color: linear-gradient(135deg, hsl(10, 85%, 55%) 0%, hsl(5, 80%, 45%) 100%)">
@@ -633,7 +633,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ 基于 WireGuard 的零配置组网平台，集中管控访问策略与登录安全。</p>
             <ul class="ai-highlights"><li>自动点对点加密互联，无需开端口配网关</li><li>集中式细粒度访问控制，支持 SSO/MFA</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 企业远程办公、跨云内网互联与家庭设备组网</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 企业远程办公、跨云内网互联与家庭设备组网</p>
         </div>
         
         </div>
@@ -664,7 +664,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ PageIndex 用推理式索引实现长文档检索问答，无需向量库和切分。</p>
             <ul class="ai-highlights"><li>无向量数据库、无 chunking 的检索式 RAG 框架</li><li>类人检索：基于树索引与上下文推理定位文档页面</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 专业长文档分析与问答检索</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 专业长文档分析与问答检索</p>
         </div>
         
         </div>
@@ -695,7 +695,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ 在单机GPU上低成本训练并聊天测试自建大模型的最小框架</p>
             <ul class="ai-highlights"><li>覆盖从分词、预训练到推理与Chat网页UI的全流程</li><li>代码极简可改，主打“用约100美元训练到GPT-2级别”</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 个人/小团队快速训练与验证LLM原型</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 个人/小团队快速训练与验证LLM原型</p>
         </div>
         
         </div>
@@ -718,7 +718,7 @@
 
         
     <section class="heatmap-section">
-        <h2>🔥 热力图</h2>
+        <h2>🔥 Trending Heatmap</h2>
         <div id="treemap-wrapper" style="width: 100%; height: 400px; border-radius: 12px; overflow: hidden; position: relative;">
             <div id="treemap-chart" style="width: 100%; height: 100%;"></div>
         </div>
@@ -809,9 +809,9 @@
                         var starsDisplay = d.starsToday >= 1000 ? (d.starsToday/1000).toFixed(1) + 'k' : d.starsToday;
                         var totalDisplay = d.totalStars >= 1000 ? (d.totalStars/1000).toFixed(1) + 'k' : d.totalStars;
                         return '<div style="font-weight:600;margin-bottom:8px;font-size:14px;">' + d.fullName + '</div>' +
-                               '<div style="margin:4px 0;">⭐ 今日新增: <span style="color:#f39c12;font-weight:600;">+' + starsDisplay + '</span></div>' +
-                               '<div style="margin:4px 0;">📊 总 Star: ' + totalDisplay + '</div>' +
-                               '<div>🔧 语言: ' + d.language + '</div>';
+                               '<div style="margin:4px 0;">⭐ Stars Today: <span style="color:#f39c12;font-weight:600;">+' + starsDisplay + '</span></div>' +
+                               '<div style="margin:4px 0;">📊 Total Stars: ' + totalDisplay + '</div>' +
+                               '<div>🔧 Language: ' + d.language + '</div>';
                     }
                 },
                 series: [{
@@ -879,7 +879,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ 为 Claude Code 提供会话记忆插件，自动记录并压缩上下文供下次续用。</p>
             <ul class="ai-highlights"><li>自动捕获工具调用与操作轨迹，跨会话保留上下文</li><li>用 Claude agent-sdk 生成语义摘要并按需注入后续会话</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 长期迭代项目，跨天续写与排查问题</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 长期迭代项目，跨天续写与排查问题</p>
         </div>
         
         </div>
@@ -910,7 +910,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ 基于 WireGuard 的零配置组网平台，集中管控访问策略与登录安全。</p>
             <ul class="ai-highlights"><li>自动点对点加密互联，无需开端口配网关</li><li>集中式细粒度访问控制，支持 SSO/MFA</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 企业远程办公、跨云内网互联与家庭设备组网</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 企业远程办公、跨云内网互联与家庭设备组网</p>
         </div>
         
         </div>
@@ -941,7 +941,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ 一套构建AI智能体与管理大模型部署的TypeScript工具箱</p>
             <ul class="ai-highlights"><li>统一多厂商LLM API与智能体运行时，支持工具调用与状态管理</li><li>提供编码Agent CLI、Slack机器人、TUI/网页UI组件及vLLM部署管理</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 搭建编码助手、企业聊天机器人与GPU推理部署</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 搭建编码助手、企业聊天机器人与GPU推理部署</p>
         </div>
         
         </div>
@@ -972,7 +972,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ PageIndex 用推理式索引实现长文档检索问答，无需向量库和切分。</p>
             <ul class="ai-highlights"><li>无向量数据库、无 chunking 的检索式 RAG 框架</li><li>类人检索：基于树索引与上下文推理定位文档页面</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 专业长文档分析与问答检索</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 专业长文档分析与问答检索</p>
         </div>
         
         </div>
@@ -1003,7 +1003,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ 在单机GPU上低成本训练并聊天测试自建大模型的最小框架</p>
             <ul class="ai-highlights"><li>覆盖从分词、预训练到推理与Chat网页UI的全流程</li><li>代码极简可改，主打“用约100美元训练到GPT-2级别”</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 个人/小团队快速训练与验证LLM原型</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 个人/小团队快速训练与验证LLM原型</p>
         </div>
         
         </div>
@@ -1034,7 +1034,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ 一款跨平台电子书管理工具，可阅读、转换、编辑并整理书库</p>
             <ul class="ai-highlights"><li>支持主流电子书格式的查看、转换与编辑</li><li>可连接阅读器设备并在线抓取书籍元数据与报刊</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 个人书库管理、格式转换、设备同步与报刊订阅</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 个人书库管理、格式转换、设备同步与报刊订阅</p>
         </div>
         
         </div>
@@ -1065,7 +1065,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ 一个面向高效开发者的 Neovim AI 代理插件，约束提示并优化工作流。</p>
             <ul class="ai-highlights"><li>强调“受限区域”与技能化调用，减少无效提示与上下文污染</li><li>依赖 opencode 集成，提供日志与调试能力，便于排查请求问题</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 在 Neovim 内做受控代码生成、重构与辅助编辑</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 在 Neovim 内做受控代码生成、重构与辅助编辑</p>
         </div>
         
         </div>
@@ -1096,7 +1096,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ Termux 是安卓上的终端模拟器，让手机获得可扩展的 Linux 命令行环境。</p>
             <ul class="ai-highlights"><li>提供完整终端体验，支持在 Android 上运行常见 Linux 工具</li><li>通过包管理安装大量扩展包，生态由 termux-packages 支撑</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 手机上开发调试、运维脚本与安全测试</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 手机上开发调试、运维脚本与安全测试</p>
         </div>
         
         </div>
@@ -1127,7 +1127,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ 一款桌面端AI代理编排中枢，用于并行管理多个项目与自动执行任务。</p>
             <ul class="ai-highlights"><li>支持Git Worktrees隔离分支并行跑多个代理，减少冲突并一键PR</li><li>Auto Run按规格文档自动拆解并执行任务，支持长时间无人值守运行</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 多项目并行开发与自动化代理执行</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 多项目并行开发与自动化代理执行</p>
         </div>
         
         </div>
@@ -1158,7 +1158,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ ChatDev 2.0 是零代码多智能体编排平台，用配置快速搭建协作任务流。</p>
             <ul class="ai-highlights"><li>零代码配置：自定义智能体、流程与任务并执行</li><li>多智能体协作：覆盖开发、研究、可视化、3D生成等</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 快速搭建多智能体工作流与自动化协作</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 快速搭建多智能体工作流与自动化协作</p>
         </div>
         
         </div>
@@ -1229,8 +1229,8 @@
         </section>
 
         <footer>
-            <p>数据来源: <a href="https://github.com/trending" target="_blank">GitHub Trending</a></p>
-            <p>更新时间: 2026-02-03 03:29:39</p>
+            <p>Data Source: <a href="https://github.com/trending" target="_blank">GitHub Trending</a></p>
+            <p>Updated: 2026-02-03 03:29:39</p>
         </footer>
     </div>
 

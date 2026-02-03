@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Mon, 02 Feb 2026 03:35:11 +0000</pubDate><lastBuildDate>Mon, 02 Feb 2026 03:35:11 +0000</lastBuildDate><item><title>#1 openclaw/openclaw (+10,794 stars)</title><link>https://github.com/openclaw/openclaw</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;openclaw/openclaw&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞&lt;/p&gt;
-&lt;p&gt;⭐ 143,671 | +10,794 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/openclaw/openclaw#2026-02-02</guid><pubDate>Mon, 02 Feb 2026 03:35:11 +0000</pubDate></item><item><title>#2 badlogic/pi-mono (+613 stars)</title><link>https://github.com/badlogic/pi-mono</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;badlogic/pi-mono&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods&lt;/p&gt;
-&lt;p&gt;⭐ 5,048 | +613 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/badlogic/pi-mono#2026-02-02</guid><pubDate>Mon, 02 Feb 2026 03:35:11 +0000</pubDate></item><item><title>#3 microsoft/agent-lightning (+406 stars)</title><link>https://github.com/microsoft/agent-lightning</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;microsoft/agent-lightning&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The absolute trainer to light up AI agents.&lt;/p&gt;
-&lt;p&gt;⭐ 13,007 | +406 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/microsoft/agent-lightning#2026-02-02</guid><pubDate>Mon, 02 Feb 2026 03:35:11 +0000</pubDate></item><item><title>#4 ThePrimeagen/99 (+781 stars)</title><link>https://github.com/ThePrimeagen/99</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ThePrimeagen/99&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Neovim AI agent done right&lt;/p&gt;
-&lt;p&gt;⭐ 2,781 | +781 today | 🔧 Lua&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/ThePrimeagen/99#2026-02-02</guid><pubDate>Mon, 02 Feb 2026 03:35:11 +0000</pubDate></item><item><title>#5 kovidgoyal/calibre (+37 stars)</title><link>https://github.com/kovidgoyal/calibre</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;kovidgoyal/calibre&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The official source code repository for the calibre ebook manager&lt;/p&gt;
-&lt;p&gt;⭐ 23,658 | +37 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/kovidgoyal/calibre#2026-02-02</guid><pubDate>Mon, 02 Feb 2026 03:35:11 +0000</pubDate></item><item><title>#6 thedotmack/claude-mem (+196 stars)</title><link>https://github.com/thedotmack/claude-mem</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Tue, 03 Feb 2026 03:29:07 +0000</pubDate><lastBuildDate>Tue, 03 Feb 2026 03:29:07 +0000</lastBuildDate><item><title>#1 thedotmack/claude-mem (+1,474 stars)</title><link>https://github.com/thedotmack/claude-mem</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;thedotmack/claude-mem&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.&lt;/p&gt;
-&lt;p&gt;⭐ 16,573 | +196 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 18,289 | +1,474 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/thedotmack/claude-mem#2026-02-03</guid><pubDate>Tue, 03 Feb 2026 03:29:07 +0000</pubDate></item><item><title>#2 netbirdio/netbird (+347 stars)</title><link>https://github.com/netbirdio/netbird</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;netbirdio/netbird&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.&lt;/p&gt;
+&lt;p&gt;⭐ 22,012 | +347 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/netbirdio/netbird#2026-02-03</guid><pubDate>Tue, 03 Feb 2026 03:29:07 +0000</pubDate></item><item><title>#3 badlogic/pi-mono (+878 stars)</title><link>https://github.com/badlogic/pi-mono</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;badlogic/pi-mono&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods&lt;/p&gt;
+&lt;p&gt;⭐ 5,666 | +878 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/badlogic/pi-mono#2026-02-03</guid><pubDate>Tue, 03 Feb 2026 03:29:07 +0000</pubDate></item><item><title>#4 VectifyAI/PageIndex (+793 stars)</title><link>https://github.com/VectifyAI/PageIndex</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;VectifyAI/PageIndex&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG&lt;/p&gt;
+&lt;p&gt;⭐ 12,603 | +793 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/VectifyAI/PageIndex#2026-02-03</guid><pubDate>Tue, 03 Feb 2026 03:29:07 +0000</pubDate></item><item><title>#5 karpathy/nanochat (+254 stars)</title><link>https://github.com/karpathy/nanochat</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;karpathy/nanochat&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The best ChatGPT that $100 can buy.&lt;/p&gt;
+&lt;p&gt;⭐ 41,699 | +254 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/karpathy/nanochat#2026-02-03</guid><pubDate>Tue, 03 Feb 2026 03:29:07 +0000</pubDate></item><item><title>#6 kovidgoyal/calibre (+183 stars)</title><link>https://github.com/kovidgoyal/calibre</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;kovidgoyal/calibre&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The official source code repository for the calibre ebook manager&lt;/p&gt;
+&lt;p&gt;⭐ 23,817 | +183 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/kovidgoyal/calibre#2026-02-03</guid><pubDate>Tue, 03 Feb 2026 03:29:07 +0000</pubDate></item><item><title>#7 ThePrimeagen/99 (+300 stars)</title><link>https://github.com/ThePrimeagen/99</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;ThePrimeagen/99&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Neovim AI agent done right&lt;/p&gt;
+&lt;p&gt;⭐ 3,054 | +300 today | 🔧 Lua&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/thedotmack/claude-mem#2026-02-02</guid><pubDate>Mon, 02 Feb 2026 03:35:11 +0000</pubDate></item><item><title>#7 amantus-ai/vibetunnel (+43 stars)</title><link>https://github.com/amantus-ai/vibetunnel</link><description>
+</description><guid isPermaLink="false">https://github.com/ThePrimeagen/99#2026-02-03</guid><pubDate>Tue, 03 Feb 2026 03:29:07 +0000</pubDate></item><item><title>#8 termux/termux-app (+80 stars)</title><link>https://github.com/termux/termux-app</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;amantus-ai/vibetunnel&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Turn any browser into your terminal &amp; command your agents on the go.&lt;/p&gt;
-&lt;p&gt;⭐ 3,580 | +43 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;termux/termux-app&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Termux - a terminal emulator application for Android OS extendible by variety of packages.&lt;/p&gt;
+&lt;p&gt;⭐ 49,965 | +80 today | 🔧 Java&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/amantus-ai/vibetunnel#2026-02-02</guid><pubDate>Mon, 02 Feb 2026 03:35:11 +0000</pubDate></item><item><title>#8 steipete/CodexBar (+99 stars)</title><link>https://github.com/steipete/CodexBar</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;steipete/CodexBar&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Show usage stats for OpenAI Codex and Claude Code, without having to login.&lt;/p&gt;
-&lt;p&gt;⭐ 3,980 | +99 today | 🔧 Swift&lt;/p&gt;
-&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/steipete/CodexBar#2026-02-02</guid><pubDate>Mon, 02 Feb 2026 03:35:11 +0000</pubDate></item><item><title>#9 j178/prek (+61 stars)</title><link>https://github.com/j178/prek</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;j178/prek&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;⚡ Better `pre-commit`, re-engineered in Rust&lt;/p&gt;
-&lt;p&gt;⭐ 4,286 | +61 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/j178/prek#2026-02-02</guid><pubDate>Mon, 02 Feb 2026 03:35:11 +0000</pubDate></item><item><title>#10 pedramamini/Maestro (+49 stars)</title><link>https://github.com/pedramamini/Maestro</link><description>
+</description><guid isPermaLink="false">https://github.com/termux/termux-app#2026-02-03</guid><pubDate>Tue, 03 Feb 2026 03:29:07 +0000</pubDate></item><item><title>#9 pedramamini/Maestro (+336 stars)</title><link>https://github.com/pedramamini/Maestro</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;pedramamini/Maestro&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Agent Orchestration Command Center&lt;/p&gt;
-&lt;p&gt;⭐ 1,022 | +49 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 5/10&lt;/p&gt;
+&lt;p&gt;⭐ 1,318 | +336 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/pedramamini/Maestro#2026-02-02</guid><pubDate>Mon, 02 Feb 2026 03:35:11 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/pedramamini/Maestro#2026-02-03</guid><pubDate>Tue, 03 Feb 2026 03:29:07 +0000</pubDate></item><item><title>#10 OpenBMB/ChatDev (+93 stars)</title><link>https://github.com/OpenBMB/ChatDev</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;OpenBMB/ChatDev&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration&lt;/p&gt;
+&lt;p&gt;⭐ 29,468 | +93 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/OpenBMB/ChatDev#2026-02-03</guid><pubDate>Tue, 03 Feb 2026 03:29:07 +0000</pubDate></item></channel></rss>
