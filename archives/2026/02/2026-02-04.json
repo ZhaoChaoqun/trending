@@ -1,0 +1,95 @@
+{
+  "date": "2026-02-04",
+  "updated_at": "2026-02-04 03:26:41",
+  "count": 11,
+  "rankings": [
+    {
+      "name": "thedotmack/claude-mem",
+      "rank": 1,
+      "stars": "20,580",
+      "stars_today": "1,730",
+      "language": "TypeScript",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions."
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 2,
+      "stars": "43,661",
+      "stars_today": "817",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "virattt/dexter",
+      "rank": 3,
+      "stars": "10,138",
+      "stars_today": "222",
+      "language": "TypeScript",
+      "description": "An autonomous agent for deep financial research"
+    },
+    {
+      "name": "karpathy/nanochat",
+      "rank": 4,
+      "stars": "42,062",
+      "stars_today": "447",
+      "language": "Python",
+      "description": "The best ChatGPT that $100 can buy."
+    },
+    {
+      "name": "kovidgoyal/calibre",
+      "rank": 5,
+      "stars": "23,941",
+      "stars_today": "141",
+      "language": "Python",
+      "description": "The official source code repository for the calibre ebook manager"
+    },
+    {
+      "name": "OpenBMB/ChatDev",
+      "rank": 6,
+      "stars": "29,804",
+      "stars_today": "476",
+      "language": "Python",
+      "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration"
+    },
+    {
+      "name": "openai/skills",
+      "rank": 7,
+      "stars": "3,127",
+      "stars_today": "377",
+      "language": "Python",
+      "description": "Skills Catalog for Codex"
+    },
+    {
+      "name": "automazeio/ccpm",
+      "rank": 8,
+      "stars": "6,751",
+      "stars_today": "123",
+      "language": "Shell",
+      "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution."
+    },
+    {
+      "name": "pedramamini/Maestro",
+      "rank": 9,
+      "stars": "1,522",
+      "stars_today": "269",
+      "language": "TypeScript",
+      "description": "Agent Orchestration Command Center"
+    },
+    {
+      "name": "masoncl/review-prompts",
+      "rank": 10,
+      "stars": "395",
+      "stars_today": "54",
+      "language": "Python",
+      "description": "AI review prompts"
+    },
+    {
+      "name": "vm0-ai/vm0",
+      "rank": 11,
+      "stars": "744",
+      "stars_today": "62",
+      "language": "TypeScript",
+      "description": "the easiest way to run natural language-described workflows automatically"
+    }
+  ]
+}
