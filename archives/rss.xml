@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Thu, 05 Feb 2026 03:27:23 +0000</pubDate><lastBuildDate>Thu, 05 Feb 2026 03:27:23 +0000</lastBuildDate><item><title>#1 thedotmack/claude-mem (+2,638 stars)</title><link>https://github.com/thedotmack/claude-mem</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 06 Feb 2026 03:26:00 +0000</pubDate><lastBuildDate>Fri, 06 Feb 2026 03:26:00 +0000</lastBuildDate><item><title>#1 bytedance/UI-TARS-desktop (+566 stars)</title><link>https://github.com/bytedance/UI-TARS-desktop</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;bytedance/UI-TARS-desktop&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra&lt;/p&gt;
+&lt;p&gt;⭐ 26,786 | +566 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/bytedance/UI-TARS-desktop#2026-02-06</guid><pubDate>Fri, 06 Feb 2026 03:26:00 +0000</pubDate></item><item><title>#2 thedotmack/claude-mem (+1,930 stars)</title><link>https://github.com/thedotmack/claude-mem</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;thedotmack/claude-mem&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.&lt;/p&gt;
-&lt;p&gt;⭐ 22,713 | +2,638 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 23,784 | +1,930 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/thedotmack/claude-mem#2026-02-05</guid><pubDate>Thu, 05 Feb 2026 03:27:23 +0000</pubDate></item><item><title>#2 OpenBMB/ChatDev (+227 stars)</title><link>https://github.com/OpenBMB/ChatDev</link><description>
+</description><guid isPermaLink="false">https://github.com/thedotmack/claude-mem#2026-02-06</guid><pubDate>Fri, 06 Feb 2026 03:26:00 +0000</pubDate></item><item><title>#3 obra/superpowers (+887 stars)</title><link>https://github.com/obra/superpowers</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;OpenBMB/ChatDev&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration&lt;/p&gt;
-&lt;p&gt;⭐ 30,010 | +227 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
+&lt;p&gt;⭐ 45,482 | +887 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/OpenBMB/ChatDev#2026-02-05</guid><pubDate>Thu, 05 Feb 2026 03:27:23 +0000</pubDate></item><item><title>#3 openai/skills (+746 stars)</title><link>https://github.com/openai/skills</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;openai/skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Skills Catalog for Codex&lt;/p&gt;
-&lt;p&gt;⭐ 3,770 | +746 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/openai/skills#2026-02-05</guid><pubDate>Thu, 05 Feb 2026 03:27:23 +0000</pubDate></item><item><title>#4 ankitects/anki (+28 stars)</title><link>https://github.com/ankitects/anki</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ankitects/anki&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anki is a smart spaced repetition flashcard program&lt;/p&gt;
-&lt;p&gt;⭐ 26,185 | +28 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/ankitects/anki#2026-02-05</guid><pubDate>Thu, 05 Feb 2026 03:27:23 +0000</pubDate></item><item><title>#5 Canner/WrenAI (+89 stars)</title><link>https://github.com/Canner/WrenAI</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Canner/WrenAI&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.&lt;/p&gt;
-&lt;p&gt;⭐ 13,980 | +89 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/Canner/WrenAI#2026-02-05</guid><pubDate>Thu, 05 Feb 2026 03:27:23 +0000</pubDate></item><item><title>#6 nvm-sh/nvm (+35 stars)</title><link>https://github.com/nvm-sh/nvm</link><description>
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-02-06</guid><pubDate>Fri, 06 Feb 2026 03:26:00 +0000</pubDate></item><item><title>#4 nvm-sh/nvm (+101 stars)</title><link>https://github.com/nvm-sh/nvm</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;nvm-sh/nvm&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions&lt;/p&gt;
-&lt;p&gt;⭐ 91,263 | +35 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 91,385 | +101 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/nvm-sh/nvm#2026-02-06</guid><pubDate>Fri, 06 Feb 2026 03:26:00 +0000</pubDate></item><item><title>#5 openai/skills (+621 stars)</title><link>https://github.com/openai/skills</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;openai/skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Skills Catalog for Codex&lt;/p&gt;
+&lt;p&gt;⭐ 4,357 | +621 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/nvm-sh/nvm#2026-02-05</guid><pubDate>Thu, 05 Feb 2026 03:27:23 +0000</pubDate></item><item><title>#7 microsoft/qlib (+83 stars)</title><link>https://github.com/microsoft/qlib</link><description>
+</description><guid isPermaLink="false">https://github.com/openai/skills#2026-02-06</guid><pubDate>Fri, 06 Feb 2026 03:26:00 +0000</pubDate></item><item><title>#6 j178/prek (+258 stars)</title><link>https://github.com/j178/prek</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;microsoft/qlib&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped withhttps://github.com/microsoft/RD-Agentto automate R&amp;D process.&lt;/p&gt;
-&lt;p&gt;⭐ 36,571 | +83 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;j178/prek&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;⚡ Better `pre-commit`, re-engineered in Rust&lt;/p&gt;
+&lt;p&gt;⭐ 5,548 | +258 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/microsoft/qlib#2026-02-05</guid><pubDate>Thu, 05 Feb 2026 03:27:23 +0000</pubDate></item><item><title>#8 LadybirdBrowser/ladybird (+68 stars)</title><link>https://github.com/LadybirdBrowser/ladybird</link><description>
+</description><guid isPermaLink="false">https://github.com/j178/prek#2026-02-06</guid><pubDate>Fri, 06 Feb 2026 03:26:00 +0000</pubDate></item><item><title>#7 topoteretes/cognee (+74 stars)</title><link>https://github.com/topoteretes/cognee</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;LadybirdBrowser/ladybird&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Truly independent web browser&lt;/p&gt;
-&lt;p&gt;⭐ 58,293 | +68 today | 🔧 C++&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;topoteretes/cognee&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Memory for AI Agents in 6 lines of code&lt;/p&gt;
+&lt;p&gt;⭐ 11,872 | +74 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/LadybirdBrowser/ladybird#2026-02-05</guid><pubDate>Thu, 05 Feb 2026 03:27:23 +0000</pubDate></item><item><title>#9 pedramamini/Maestro (+187 stars)</title><link>https://github.com/pedramamini/Maestro</link><description>
+</description><guid isPermaLink="false">https://github.com/topoteretes/cognee#2026-02-06</guid><pubDate>Fri, 06 Feb 2026 03:26:00 +0000</pubDate></item><item><title>#8 linshenkx/prompt-optimizer (+51 stars)</title><link>https://github.com/linshenkx/prompt-optimizer</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;pedramamini/Maestro&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Agent Orchestration Command Center&lt;/p&gt;
-&lt;p&gt;⭐ 1,675 | +187 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;linshenkx/prompt-optimizer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一款提示词优化器，助力于编写高质量的提示词&lt;/p&gt;
+&lt;p&gt;⭐ 19,412 | +51 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/linshenkx/prompt-optimizer#2026-02-06</guid><pubDate>Fri, 06 Feb 2026 03:26:00 +0000</pubDate></item><item><title>#9 aquasecurity/trivy (+25 stars)</title><link>https://github.com/aquasecurity/trivy</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;aquasecurity/trivy&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more&lt;/p&gt;
+&lt;p&gt;⭐ 31,388 | +25 today | 🔧 Go&lt;/p&gt;
 &lt;p&gt;推荐指数: 6/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/pedramamini/Maestro#2026-02-05</guid><pubDate>Thu, 05 Feb 2026 03:27:23 +0000</pubDate></item><item><title>#10 disler/claude-code-hooks-mastery (+47 stars)</title><link>https://github.com/disler/claude-code-hooks-mastery</link><description>
+</description><guid isPermaLink="false">https://github.com/aquasecurity/trivy#2026-02-06</guid><pubDate>Fri, 06 Feb 2026 03:26:00 +0000</pubDate></item><item><title>#10 fish-shell/fish-shell (+28 stars)</title><link>https://github.com/fish-shell/fish-shell</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;disler/claude-code-hooks-mastery&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Master Claude Code Hooks&lt;/p&gt;
-&lt;p&gt;⭐ 2,406 | +47 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 5/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;fish-shell/fish-shell&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The user-friendly command line shell.&lt;/p&gt;
+&lt;p&gt;⭐ 32,401 | +28 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/disler/claude-code-hooks-mastery#2026-02-05</guid><pubDate>Thu, 05 Feb 2026 03:27:23 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/fish-shell/fish-shell#2026-02-06</guid><pubDate>Fri, 06 Feb 2026 03:26:00 +0000</pubDate></item></channel></rss>

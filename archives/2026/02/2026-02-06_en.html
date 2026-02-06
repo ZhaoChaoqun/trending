@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Trending 每日热榜 - 2026-02-06</title>
+    <title>GitHub Trending Dashboard - 2026-02-06</title>
     <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg" type="image/svg+xml">
     <link rel="icon" href="https://github.githubassets.com/favicons/favicon-dark.png" type="image/png" media="(prefers-color-scheme: dark)">
     <link rel="icon" href="https://github.githubassets.com/favicons/favicon.png" type="image/png" media="(prefers-color-scheme: light)">
@@ -596,8 +596,8 @@
         <header>
             <div class="header-top">
                 <div class="header-title">
-                    <h1>GitHub Trending 每日热榜</h1>
-                    <p class="subtitle">每日热门项目追踪</p>
+                    <h1>GitHub Trending Dashboard</h1>
+                    <p class="subtitle">Daily Hot Projects Tracker</p>
                 </div>
                 <div class="header-actions">
                     <button class="subscribe-btn" onclick="document.getElementById('subscribeModal').style.display='flex'" title="Subscribe">
@@ -608,7 +608,7 @@
                     </button>
                 </div>
             </div>
-            <p class="date">📅 2026-02-06 · 11 个项目</p>
+            <p class="date">📅 2026-02-06 · 11 projects</p>
             <div class="stats-bar">
                 <span class="lang-stat"><span class="lang-dot" style="background: #3178c6"></span>TypeScript: 3</span><span class="lang-stat"><span class="lang-dot" style="background: #dea584"></span>Rust: 3</span><span class="lang-stat"><span class="lang-dot" style="background: #89e051"></span>Shell: 2</span><span class="lang-stat"><span class="lang-dot" style="background: #3572A5"></span>Python: 2</span><span class="lang-stat"><span class="lang-dot" style="background: #00ADD8"></span>Go: 1</span>
             </div>
@@ -616,7 +616,7 @@
 
         
     <section class="banner-section">
-        <h2>🔥 今日新上榜</h2>
+        <h2>🔥 New Today</h2>
         <div class="banner-container">
             
     <a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank" class="project-card new-project has-ai" style="--heat-color: linear-gradient(135deg, hsl(0, 80%, 50%) 0%, hsl(0, 85%, 40%) 100%)">
@@ -633,7 +633,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ 开源多模态AI代理栈，连接模型与工具，驱动桌面与浏览器自动操作</p>
             <ul class="ai-highlights"><li>同时提供CLI/Web与桌面端GUI Agent，覆盖终端到本地/远程电脑与浏览器</li><li>集成多模态大模型与MCP工具链，面向更接近人类的任务流程自动化</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 桌面与浏览器自动化、智能助理与流程编排</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 桌面与浏览器自动化、智能助理与流程编排</p>
         </div>
         
         </div>
@@ -664,7 +664,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ 为编码智能体提供可组合技能的端到端开发工作流与方法论</p>
             <ul class="ai-highlights"><li>从对话澄清需求到分段确认规格，再到设计签核与计划制定</li><li>以子代理驱动执行任务，强调TDD、YAGNI、DRY并自动触发技能</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 用AI代理做中大型软件开发与迭代</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 用AI代理做中大型软件开发与迭代</p>
         </div>
         
         </div>
@@ -695,7 +695,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ 用Rust重写的pre-commit替代品，提供更快的Git提交钩子管理。</p>
             <ul class="ai-highlights"><li>单一可执行文件、无Python等运行时依赖</li><li>兼容原pre-commit配置与hooks，并支持单仓多项目</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 需要更快、更轻量的提交前代码检查</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 需要更快、更轻量的提交前代码检查</p>
         </div>
         
         </div>
@@ -718,7 +718,7 @@
 
         
     <section class="heatmap-section">
-        <h2>🔥 热力图</h2>
+        <h2>🔥 Trending Heatmap</h2>
         <div id="treemap-wrapper" style="width: 100%; height: 400px; border-radius: 12px; overflow: hidden; position: relative;">
             <div id="treemap-chart" style="width: 100%; height: 100%;"></div>
         </div>
@@ -809,9 +809,9 @@
                         var starsDisplay = d.starsToday >= 1000 ? (d.starsToday/1000).toFixed(1) + 'k' : d.starsToday;
                         var totalDisplay = d.totalStars >= 1000 ? (d.totalStars/1000).toFixed(1) + 'k' : d.totalStars;
                         return '<div style="font-weight:600;margin-bottom:8px;font-size:14px;">' + d.fullName + '</div>' +
-                               '<div style="margin:4px 0;">⭐ 今日新增: <span style="color:#f39c12;font-weight:600;">+' + starsDisplay + '</span></div>' +
-                               '<div style="margin:4px 0;">📊 总 Star: ' + totalDisplay + '</div>' +
-                               '<div>🔧 语言: ' + d.language + '</div>';
+                               '<div style="margin:4px 0;">⭐ Stars Today: <span style="color:#f39c12;font-weight:600;">+' + starsDisplay + '</span></div>' +
+                               '<div style="margin:4px 0;">📊 Total Stars: ' + totalDisplay + '</div>' +
+                               '<div>🔧 Language: ' + d.language + '</div>';
                     }
                 },
                 series: [{
@@ -879,7 +879,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ 开源多模态AI代理栈，连接模型与工具，驱动桌面与浏览器自动操作</p>
             <ul class="ai-highlights"><li>同时提供CLI/Web与桌面端GUI Agent，覆盖终端到本地/远程电脑与浏览器</li><li>集成多模态大模型与MCP工具链，面向更接近人类的任务流程自动化</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 桌面与浏览器自动化、智能助理与流程编排</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 桌面与浏览器自动化、智能助理与流程编排</p>
         </div>
         
         </div>
@@ -910,7 +910,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ 为Claude Code提供跨会话记忆：自动记录操作并AI压缩回注上下文。</p>
             <ul class="ai-highlights"><li>自动捕获工具使用与关键信息，生成可检索语义摘要</li><li>在新会话自动注入相关上下文，减少重复说明与断档</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 多次迭代开发、长周期项目协作与续接</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 多次迭代开发、长周期项目协作与续接</p>
         </div>
         
         </div>
@@ -941,7 +941,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ 为编码智能体提供可组合技能的端到端开发工作流与方法论</p>
             <ul class="ai-highlights"><li>从对话澄清需求到分段确认规格，再到设计签核与计划制定</li><li>以子代理驱动执行任务，强调TDD、YAGNI、DRY并自动触发技能</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 用AI代理做中大型软件开发与迭代</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 用AI代理做中大型软件开发与迭代</p>
         </div>
         
         </div>
@@ -972,7 +972,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ 一个用 Shell 编写的 Node.js 版本管理工具，可在同机快速切换多版本。</p>
             <ul class="ai-highlights"><li>POSIX 兼容的 bash 脚本，跨环境易用</li><li>支持安装/升级、列出版本、设置默认版本等常用操作</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 多项目并行开发与 CI 环境切换 Node 版本</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 多项目并行开发与 CI 环境切换 Node 版本</p>
         </div>
         
         </div>
@@ -1003,7 +1003,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ 为 Codex 提供可复用的 Agent 技能目录，沉淀任务脚本与指令。</p>
             <ul class="ai-highlights"><li>技能以文件夹标准化封装，写一次多处复用</li><li>内置系统/精选/实验分层，支持一键安装分发</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 团队复用自动化任务与流程模板</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 团队复用自动化任务与流程模板</p>
         </div>
         
         </div>
@@ -1034,7 +1034,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ 用Rust重写的pre-commit替代品，提供更快的Git提交钩子管理。</p>
             <ul class="ai-highlights"><li>单一可执行文件、无Python等运行时依赖</li><li>兼容原pre-commit配置与hooks，并支持单仓多项目</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 需要更快、更轻量的提交前代码检查</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 需要更快、更轻量的提交前代码检查</p>
         </div>
         
         </div>
@@ -1065,7 +1065,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ 把你的数据变成可长期使用的AI代理记忆库，支持检索与关联。</p>
             <ul class="ai-highlights"><li>将向量检索与图数据库结合，既能语义搜索也能关系推理</li><li>以ECL（提取-认知-加载）流水线替代传统RAG，模块化可扩展</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 智能体长期记忆、个人知识库与对话增强</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 智能体长期记忆、个人知识库与对话增强</p>
         </div>
         
         </div>
@@ -1096,7 +1096,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ 一款多端提示词优化器，帮你迭代打磨高质量Prompt提升输出</p>
             <ul class="ai-highlights"><li>一键多轮迭代优化，支持系统/用户提示词与效果对比</li><li>集成多家主流大模型与文生图/图生图能力，支持多端部署</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 角色扮演、结构化抽取与创意写作优化</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 角色扮演、结构化抽取与创意写作优化</p>
         </div>
         
         </div>
@@ -1127,7 +1127,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ Trivy 是一款多目标安全扫描器，可查漏洞、配置错误、密钥与SBOM。</p>
             <ul class="ai-highlights"><li>覆盖镜像/文件系统/Git仓库/VM/K8s等多种扫描目标</li><li>集成漏洞(CVE)、IaC误配、Secrets、许可证与SBOM生成能力</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> CI/CD与K8s部署前安全体检与合规扫描</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> CI/CD与K8s部署前安全体检与合规扫描</p>
         </div>
         
         </div>
@@ -1158,7 +1158,7 @@
         <div class="ai-summary">
             <p class="ai-desc">✨ fish 是一款友好的命令行 Shell，提供开箱即用的智能交互体验。</p>
             <ul class="ai-highlights"><li>内置语法高亮与输入时自动建议，提升命令输入效率</li><li>强大的 Tab 补全与完善文档/帮助系统，上手成本低</li></ul>
-            <p class="ai-use-cases"><strong>适用场景:</strong> 日常终端开发、运维与脚本执行提效</p>
+            <p class="ai-use-cases"><strong>Use Cases:</strong> 日常终端开发、运维与脚本执行提效</p>
         </div>
         
         </div>
@@ -1204,8 +1204,8 @@
         </section>
 
         <footer>
-            <p>数据来源: <a href="https://github.com/trending" target="_blank">GitHub Trending</a></p>
-            <p>更新时间: 2026-02-06 03:26:27</p>
+            <p>Data Source: <a href="https://github.com/trending" target="_blank">GitHub Trending</a></p>
+            <p>Updated: 2026-02-06 03:26:27</p>
         </footer>
     </div>
 

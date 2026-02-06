@@ -1,0 +1,95 @@
+{
+  "date": "2026-02-06",
+  "updated_at": "2026-02-06 03:26:00",
+  "count": 11,
+  "rankings": [
+    {
+      "name": "bytedance/UI-TARS-desktop",
+      "rank": 1,
+      "stars": "26,786",
+      "stars_today": "566",
+      "language": "TypeScript",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra"
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "rank": 2,
+      "stars": "23,784",
+      "stars_today": "1,930",
+      "language": "TypeScript",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions."
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 3,
+      "stars": "45,482",
+      "stars_today": "887",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "nvm-sh/nvm",
+      "rank": 4,
+      "stars": "91,385",
+      "stars_today": "101",
+      "language": "Shell",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions"
+    },
+    {
+      "name": "openai/skills",
+      "rank": 5,
+      "stars": "4,357",
+      "stars_today": "621",
+      "language": "Python",
+      "description": "Skills Catalog for Codex"
+    },
+    {
+      "name": "j178/prek",
+      "rank": 6,
+      "stars": "5,548",
+      "stars_today": "258",
+      "language": "Rust",
+      "description": "⚡ Better `pre-commit`, re-engineered in Rust"
+    },
+    {
+      "name": "topoteretes/cognee",
+      "rank": 7,
+      "stars": "11,872",
+      "stars_today": "74",
+      "language": "Python",
+      "description": "Memory for AI Agents in 6 lines of code"
+    },
+    {
+      "name": "linshenkx/prompt-optimizer",
+      "rank": 8,
+      "stars": "19,412",
+      "stars_today": "51",
+      "language": "TypeScript",
+      "description": "一款提示词优化器，助力于编写高质量的提示词"
+    },
+    {
+      "name": "aquasecurity/trivy",
+      "rank": 9,
+      "stars": "31,388",
+      "stars_today": "25",
+      "language": "Go",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
+    },
+    {
+      "name": "fish-shell/fish-shell",
+      "rank": 10,
+      "stars": "32,401",
+      "stars_today": "28",
+      "language": "Rust",
+      "description": "The user-friendly command line shell."
+    },
+    {
+      "name": "ZeroTworu/anet",
+      "rank": 11,
+      "stars": "382",
+      "stars_today": "81",
+      "language": "Rust",
+      "description": "Simple Rust VPN Client / Server"
+    }
+  ]
+}
