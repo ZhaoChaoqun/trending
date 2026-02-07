@@ -1,0 +1,1448 @@
+<!DOCTYPE html>
+<html lang="zh" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hacker News Top Stories - 2026-02-07</title>
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet">
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com?plugins=forms"></script>
+
+    <!-- Tailwind Config -->
+    <script>
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "synapse-bg": "#0D1117",
+                        "synapse-card": "#161B22",
+                        "synapse-border": "#30363D",
+                        "electric-cyan": "#00E5FF",
+                        "muted-mint": "#70FFC9",
+                        "glow-amber": "#FFAB00",
+                        "text-main": "#C9D1D9",
+                        "text-muted": "#8B949E",
+                    },
+                    fontFamily: {
+                        "display": ["Inter", "sans-serif"],
+                        "mono": ["JetBrains Mono", "monospace"],
+                    },
+                    boxShadow: {
+                        'neon-cyan': '0 0 5px theme("colors.electric-cyan"), 0 0 20px theme("colors.electric-cyan")',
+                        'neon-amber': '0 0 5px theme("colors.glow-amber"), 0 0 10px rgba(255, 171, 0, 0.5)',
+                    }
+                },
+            },
+        }
+    </script>
+
+    <style>
+        body {
+            background-color: #0D1117;
+            color: #C9D1D9;
+        }
+
+        /* Custom Scrollbar */
+        ::-webkit-scrollbar {
+            width: 6px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #0D1117;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #30363D;
+            border-radius: 3px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #FFAB00;
+        }
+
+        .glass-panel {
+            background: rgba(22, 27, 34, 0.7);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid rgba(48, 54, 61, 0.5);
+        }
+
+        .glass-card {
+            background: rgba(13, 17, 23, 0.6);
+            border: 1px solid rgba(48, 54, 61, 0.8);
+        }
+
+        .nav-item-active {
+            background: rgba(255, 171, 0, 0.1);
+            border-left: 3px solid #FFAB00;
+            color: #fff;
+        }
+
+        .pulse-dot {
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+
+        .hn-story:hover {
+            transform: translateX(4px);
+        }
+    </style>
+</head>
+<body class="h-screen w-full flex overflow-hidden font-display selection:bg-glow-amber selection:text-black">
+
+    
+    <aside class="w-64 h-full flex flex-col glass-panel border-r border-synapse-border shrink-0 z-20">
+        <!-- Header / Logo -->
+        <div class="h-16 flex items-center px-6 border-b border-synapse-border">
+            <div class="flex items-center gap-3">
+                <div class="w-8 h-8 rounded-lg bg-gradient-to-br from-electric-cyan to-blue-600 flex items-center justify-center shadow-neon-cyan">
+                    <span class="material-symbols-outlined text-black font-bold" style="font-size: 20px;">trending_up</span>
+                </div>
+                <div>
+                    <h1 class="font-bold text-lg tracking-tight text-white">Tech<span class="text-electric-cyan">Pulse</span></h1>
+                    <p class="text-[10px] text-text-muted font-mono tracking-wider">SYNAPSE v2.0</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Navigation -->
+        <div class="flex-1 overflow-y-auto py-6 flex flex-col gap-2">
+            <!-- GitHub Section -->
+            <div class="px-4 mb-2">
+                <p class="text-xs font-bold text-text-muted uppercase tracking-wider mb-2 px-2">GitHub</p>
+                <a href="index.html" class="nav-item text-text-muted hover:text-white hover:bg-synapse-border/30 flex items-center gap-3 px-3 py-2.5 rounded-lg transition-colors group" id="github-link">
+                    <span class="material-symbols-outlined">grid_view</span>
+                    <span class="text-sm font-medium">全部热门</span>
+                </a>
+            </div>
+
+            <!-- Hacker News Section -->
+            <div class="px-4 mt-4">
+                <p class="text-xs font-bold text-text-muted uppercase tracking-wider mb-2 px-2">
+                    <span class="text-glow-amber">Y</span> Hacker News
+                </p>
+                <a href="hn.html" class="nav-item-active flex items-center gap-3 px-3 py-2.5 rounded-lg transition-colors group">
+                    <span class="material-symbols-outlined text-glow-amber">local_fire_department</span>
+                    <span class="text-sm font-medium">Top Stories</span>
+                </a>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <div class="p-4 border-t border-synapse-border">
+            <div class="flex items-center gap-2 text-xs text-text-muted">
+                <span class="w-2 h-2 rounded-full bg-glow-amber pulse-dot"></span>
+                <span class="font-mono">HN 数据已同步</span>
+            </div>
+        </div>
+    </aside>
+    
+
+    <!-- Main Content Area -->
+    <main class="flex-1 flex flex-col h-full overflow-hidden bg-synapse-bg relative">
+        <!-- Top Bar -->
+        <header class="h-16 shrink-0 border-b border-synapse-border flex items-center justify-between px-6 bg-synapse-bg/80 backdrop-blur-md z-10 sticky top-0">
+            <div class="flex items-center w-full max-w-md relative">
+                <span class="material-symbols-outlined absolute left-3 text-text-muted">search</span>
+                <input type="text" id="search-input"
+                    class="w-full bg-synapse-card border border-synapse-border rounded-lg pl-10 pr-4 py-2 text-sm text-white placeholder-text-muted focus:outline-none focus:border-glow-amber focus:ring-1 focus:ring-glow-amber transition-all"
+                    placeholder="搜索 Stories..."
+                    onkeyup="filterStories(this.value)">
+            </div>
+            <div class="flex items-center gap-4">
+                <span class="text-sm text-text-muted font-mono">2026-02-07</span>
+                <button onclick="window.open('https://news.ycombinator.com', '_blank')" class="p-2 text-text-muted hover:text-glow-amber transition-colors" title="Hacker News">
+                    <span class="material-symbols-outlined">open_in_new</span>
+                </button>
+            </div>
+        </header>
+
+        <!-- Content -->
+        <div class="flex-1 overflow-y-auto p-6">
+            <!-- Header -->
+            <div class="mb-6">
+                <div class="flex items-center gap-3 mb-2">
+                    <span class="material-symbols-outlined text-glow-amber text-3xl">local_fire_department</span>
+                    <h1 class="text-2xl font-bold text-white">Hacker News Top Stories</h1>
+                </div>
+                <p class="text-text-muted">来自 Y Combinator 的实时技术脉搏</p>
+            </div>
+
+            <!-- Stats -->
+            
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-3 mb-6">
+        <div class="glass-card rounded-xl p-4 flex items-center gap-3">
+            <div class="w-10 h-10 rounded-lg bg-glow-amber/10 flex items-center justify-center">
+                <span class="material-symbols-outlined text-glow-amber">article</span>
+            </div>
+            <div>
+                <p class="text-xs text-text-muted">总 Stories</p>
+                <p class="text-xl font-bold text-white">30</p>
+            </div>
+        </div>
+        <div class="glass-card rounded-xl p-4 flex items-center gap-3">
+            <div class="w-10 h-10 rounded-lg bg-electric-cyan/10 flex items-center justify-center">
+                <span class="material-symbols-outlined text-electric-cyan">arrow_upward</span>
+            </div>
+            <div>
+                <p class="text-xs text-text-muted">平均分数</p>
+                <p class="text-xl font-bold text-white">254</p>
+            </div>
+        </div>
+        <div class="glass-card rounded-xl p-4 flex items-center gap-3">
+            <div class="w-10 h-10 rounded-lg bg-muted-mint/10 flex items-center justify-center">
+                <span class="material-symbols-outlined text-muted-mint">chat</span>
+            </div>
+            <div>
+                <p class="text-xs text-text-muted">总评论</p>
+                <p class="text-xl font-bold text-white">3.4k</p>
+            </div>
+        </div>
+        <div class="glass-card rounded-xl p-4 flex items-center gap-3">
+            <div class="w-10 h-10 rounded-lg bg-purple-500/10 flex items-center justify-center">
+                <span class="material-symbols-outlined text-purple-400">category</span>
+            </div>
+            <div>
+                <p class="text-xs text-text-muted">热门分类</p>
+                <p class="text-xl font-bold text-white">Other</p>
+            </div>
+        </div>
+    </div>
+    
+
+            <!-- Stories List -->
+            <div id="stories-container">
+                
+    <div class="space-y-3">
+        
+    <div class="hn-story group flex items-start gap-4 p-4 rounded-xl border border-synapse-border
+                bg-synapse-card/40 hover:bg-synapse-card hover:border-glow-amber/30 transition-all cursor-pointer"
+         onclick="window.open('https://github.com/suitenumerique', '_blank')">
+        <!-- Rank -->
+        <span class="text-2xl font-bold text-text-muted font-mono w-8 shrink-0">01</span>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+            <div class="flex items-start gap-2">
+                <h3 class="text-base font-medium text-white group-hover:text-glow-amber leading-snug">
+                    法国本土开源在线办公套件
+                </h3>
+                
+            </div>
+            <p class="text-xs text-text-muted/60 mt-1 truncate">France's homegrown open source online office suite</p>
+            <div class="flex items-center flex-wrap gap-x-4 gap-y-1 mt-2 text-xs text-text-muted">
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-glow-amber text-sm">arrow_upward</span>
+                    71 pts
+                </span>
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-sm">chat_bubble</span>
+                    33
+                </span>
+                <span>by nar001</span>
+                <span class="text-text-muted/60">github.com</span>
+                <a href="https://news.ycombinator.com/item?id=46923736" class="text-electric-cyan hover:underline"
+                   onclick="event.stopPropagation()" target="_blank">discuss</a>
+            </div>
+        </div>
+
+        <!-- Category & Score -->
+        <div class="flex flex-col items-end gap-2 shrink-0">
+            <span class="px-2 py-0.5 rounded text-[10px] font-medium bg-electric-cyan/20 text-electric-cyan">Tools</span>
+            <div class="px-3 py-1 rounded-lg bg-glow-amber/10 text-glow-amber text-sm font-bold">
+                71
+            </div>
+        </div>
+    </div>
+    
+    <div class="hn-story group flex items-start gap-4 p-4 rounded-xl border border-synapse-border
+                bg-synapse-card/40 hover:bg-synapse-card hover:border-glow-amber/30 transition-all cursor-pointer"
+         onclick="window.open('https://rhodesmill.org/brandon/2009/commands-with-comma/', '_blank')">
+        <!-- Rank -->
+        <span class="text-2xl font-bold text-text-muted font-mono w-8 shrink-0">02</span>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+            <div class="flex items-start gap-2">
+                <h3 class="text-base font-medium text-white group-hover:text-glow-amber leading-snug">
+                    用逗号作为所有命令的前缀（2009）
+                </h3>
+                <span class="material-symbols-outlined text-glow-amber text-sm">local_fire_department</span>
+            </div>
+            <p class="text-xs text-text-muted/60 mt-1 truncate">Start all of your commands with a comma (2009)</p>
+            <div class="flex items-center flex-wrap gap-x-4 gap-y-1 mt-2 text-xs text-text-muted">
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-glow-amber text-sm">arrow_upward</span>
+                    329 pts
+                </span>
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-sm">chat_bubble</span>
+                    109
+                </span>
+                <span>by theblazehen</span>
+                <span class="text-text-muted/60">rhodesmill.org</span>
+                <a href="https://news.ycombinator.com/item?id=46890814" class="text-electric-cyan hover:underline"
+                   onclick="event.stopPropagation()" target="_blank">discuss</a>
+            </div>
+        </div>
+
+        <!-- Category & Score -->
+        <div class="flex flex-col items-end gap-2 shrink-0">
+            <span class="px-2 py-0.5 rounded text-[10px] font-medium bg-gray-500/20 text-gray-400">Other</span>
+            <div class="px-3 py-1 rounded-lg bg-glow-amber/10 text-glow-amber text-sm font-bold">
+                329
+            </div>
+        </div>
+    </div>
+    
+    <div class="hn-story group flex items-start gap-4 p-4 rounded-xl border border-synapse-border
+                bg-synapse-card/40 hover:bg-synapse-card hover:border-glow-amber/30 transition-all cursor-pointer"
+         onclick="window.open('https://www.spritely.institute/hoot/', '_blank')">
+        <!-- Rank -->
+        <span class="text-2xl font-bold text-text-muted font-mono w-8 shrink-0">03</span>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+            <div class="flex items-start gap-2">
+                <h3 class="text-base font-medium text-white group-hover:text-glow-amber leading-snug">
+                    Hoot：WebAssembly 上的 Scheme
+                </h3>
+                
+            </div>
+            <p class="text-xs text-text-muted/60 mt-1 truncate">Hoot: Scheme on WebAssembly</p>
+            <div class="flex items-center flex-wrap gap-x-4 gap-y-1 mt-2 text-xs text-text-muted">
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-glow-amber text-sm">arrow_upward</span>
+                    44 pts
+                </span>
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-sm">chat_bubble</span>
+                    8
+                </span>
+                <span>by AlexeyBrin</span>
+                <span class="text-text-muted/60">spritely.institute</span>
+                <a href="https://news.ycombinator.com/item?id=46923254" class="text-electric-cyan hover:underline"
+                   onclick="event.stopPropagation()" target="_blank">discuss</a>
+            </div>
+        </div>
+
+        <!-- Category & Score -->
+        <div class="flex flex-col items-end gap-2 shrink-0">
+            <span class="px-2 py-0.5 rounded text-[10px] font-medium bg-gray-500/20 text-gray-400">Other</span>
+            <div class="px-3 py-1 rounded-lg bg-glow-amber/10 text-glow-amber text-sm font-bold">
+                44
+            </div>
+        </div>
+    </div>
+    
+    <div class="hn-story group flex items-start gap-4 p-4 rounded-xl border border-synapse-border
+                bg-synapse-card/40 hover:bg-synapse-card hover:border-glow-amber/30 transition-all cursor-pointer"
+         onclick="window.open('https://arxiv.org/abs/2504.12501', '_blank')">
+        <!-- Rank -->
+        <span class="text-2xl font-bold text-text-muted font-mono w-8 shrink-0">04</span>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+            <div class="flex items-start gap-2">
+                <h3 class="text-base font-medium text-white group-hover:text-glow-amber leading-snug">
+                    基于人类反馈的强化学习
+                </h3>
+                
+            </div>
+            <p class="text-xs text-text-muted/60 mt-1 truncate">Reinforcement Learning from Human Feedback</p>
+            <div class="flex items-center flex-wrap gap-x-4 gap-y-1 mt-2 text-xs text-text-muted">
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-glow-amber text-sm">arrow_upward</span>
+                    25 pts
+                </span>
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-sm">chat_bubble</span>
+                    2
+                </span>
+                <span>by onurkanbkrc</span>
+                <span class="text-text-muted/60">arxiv.org</span>
+                <a href="https://news.ycombinator.com/item?id=46923463" class="text-electric-cyan hover:underline"
+                   onclick="event.stopPropagation()" target="_blank">discuss</a>
+            </div>
+        </div>
+
+        <!-- Category & Score -->
+        <div class="flex flex-col items-end gap-2 shrink-0">
+            <span class="px-2 py-0.5 rounded text-[10px] font-medium bg-gray-500/20 text-gray-400">Other</span>
+            <div class="px-3 py-1 rounded-lg bg-glow-amber/10 text-glow-amber text-sm font-bold">
+                25
+            </div>
+        </div>
+    </div>
+    
+    <div class="hn-story group flex items-start gap-4 p-4 rounded-xl border border-synapse-border
+                bg-synapse-card/40 hover:bg-synapse-card hover:border-glow-amber/30 transition-all cursor-pointer"
+         onclick="window.open('https://openciv3.org/', '_blank')">
+        <!-- Rank -->
+        <span class="text-2xl font-bold text-text-muted font-mono w-8 shrink-0">05</span>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+            <div class="flex items-start gap-2">
+                <h3 class="text-base font-medium text-white group-hover:text-glow-amber leading-snug">
+                    OpenCiv3：开源跨平台的《文明 III》重构版
+                </h3>
+                <span class="material-symbols-outlined text-glow-amber text-sm">local_fire_department</span>
+            </div>
+            <p class="text-xs text-text-muted/60 mt-1 truncate">OpenCiv3: Open-source, cross-platform reimagining of Civilization III</p>
+            <div class="flex items-center flex-wrap gap-x-4 gap-y-1 mt-2 text-xs text-text-muted">
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-glow-amber text-sm">arrow_upward</span>
+                    725 pts
+                </span>
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-sm">chat_bubble</span>
+                    227
+                </span>
+                <span>by klaussilveira</span>
+                <span class="text-text-muted/60">openciv3.org</span>
+                <a href="https://news.ycombinator.com/item?id=46918612" class="text-electric-cyan hover:underline"
+                   onclick="event.stopPropagation()" target="_blank">discuss</a>
+            </div>
+        </div>
+
+        <!-- Category & Score -->
+        <div class="flex flex-col items-end gap-2 shrink-0">
+            <span class="px-2 py-0.5 rounded text-[10px] font-medium bg-gray-500/20 text-gray-400">Other</span>
+            <div class="px-3 py-1 rounded-lg bg-glow-amber/10 text-glow-amber text-sm font-bold">
+                725
+            </div>
+        </div>
+    </div>
+    
+    <div class="hn-story group flex items-start gap-4 p-4 rounded-xl border border-synapse-border
+                bg-synapse-card/40 hover:bg-synapse-card hover:border-glow-amber/30 transition-all cursor-pointer"
+         onclick="window.open('https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation', '_blank')">
+        <!-- Rank -->
+        <span class="text-2xl font-bold text-text-muted font-mono w-8 shrink-0">06</span>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+            <div class="flex items-start gap-2">
+                <h3 class="text-base font-medium text-white group-hover:text-glow-amber leading-snug">
+                    Waymo 世界模型
+                </h3>
+                <span class="material-symbols-outlined text-glow-amber text-sm">local_fire_department</span>
+            </div>
+            <p class="text-xs text-text-muted/60 mt-1 truncate">The Waymo World Model</p>
+            <div class="flex items-center flex-wrap gap-x-4 gap-y-1 mt-2 text-xs text-text-muted">
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-glow-amber text-sm">arrow_upward</span>
+                    986 pts
+                </span>
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-sm">chat_bubble</span>
+                    562
+                </span>
+                <span>by xnx</span>
+                <span class="text-text-muted/60">waymo.com</span>
+                <a href="https://news.ycombinator.com/item?id=46914785" class="text-electric-cyan hover:underline"
+                   onclick="event.stopPropagation()" target="_blank">discuss</a>
+            </div>
+        </div>
+
+        <!-- Category & Score -->
+        <div class="flex flex-col items-end gap-2 shrink-0">
+            <span class="px-2 py-0.5 rounded text-[10px] font-medium bg-purple-500/20 text-purple-400">AI/ML</span>
+            <div class="px-3 py-1 rounded-lg bg-glow-amber/10 text-glow-amber text-sm font-bold">
+                986
+            </div>
+        </div>
+    </div>
+    
+    <div class="hn-story group flex items-start gap-4 p-4 rounded-xl border border-synapse-border
+                bg-synapse-card/40 hover:bg-synapse-card hover:border-glow-amber/30 transition-all cursor-pointer"
+         onclick="window.open('https://jesperordrup.github.io/vocal-guide/', '_blank')">
+        <!-- Rank -->
+        <span class="text-2xl font-bold text-text-muted font-mono w-8 shrink-0">07</span>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+            <div class="flex items-start gap-2">
+                <h3 class="text-base font-medium text-white group-hover:text-glow-amber leading-snug">
+                    声乐指南：用真声带高音而不伤嗓
+                </h3>
+                
+            </div>
+            <p class="text-xs text-text-muted/60 mt-1 truncate">Vocal Guide – belt sing without killing yourself</p>
+            <div class="flex items-center flex-wrap gap-x-4 gap-y-1 mt-2 text-xs text-text-muted">
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-glow-amber text-sm">arrow_upward</span>
+                    110 pts
+                </span>
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-sm">chat_bubble</span>
+                    45
+                </span>
+                <span>by jesperordrup</span>
+                <span class="text-text-muted/60">jesperordrup.github.io</span>
+                <a href="https://news.ycombinator.com/item?id=46922049" class="text-electric-cyan hover:underline"
+                   onclick="event.stopPropagation()" target="_blank">discuss</a>
+            </div>
+        </div>
+
+        <!-- Category & Score -->
+        <div class="flex flex-col items-end gap-2 shrink-0">
+            <span class="px-2 py-0.5 rounded text-[10px] font-medium bg-electric-cyan/20 text-electric-cyan">Tools</span>
+            <div class="px-3 py-1 rounded-lg bg-glow-amber/10 text-glow-amber text-sm font-bold">
+                110
+            </div>
+        </div>
+    </div>
+    
+    <div class="hn-story group flex items-start gap-4 p-4 rounded-xl border border-synapse-border
+                bg-synapse-card/40 hover:bg-synapse-card hover:border-glow-amber/30 transition-all cursor-pointer"
+         onclick="window.open('https://blog.alaindichiappari.dev/p/software-engineering-is-back', '_blank')">
+        <!-- Rank -->
+        <span class="text-2xl font-bold text-text-muted font-mono w-8 shrink-0">08</span>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+            <div class="flex items-start gap-2">
+                <h3 class="text-base font-medium text-white group-hover:text-glow-amber leading-snug">
+                    软件工程回归
+                </h3>
+                
+            </div>
+            <p class="text-xs text-text-muted/60 mt-1 truncate">Software Engineering Is Back</p>
+            <div class="flex items-center flex-wrap gap-x-4 gap-y-1 mt-2 text-xs text-text-muted">
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-glow-amber text-sm">arrow_upward</span>
+                    53 pts
+                </span>
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-sm">chat_bubble</span>
+                    55
+                </span>
+                <span>by alainrk</span>
+                <span class="text-text-muted/60">blog.alaindichiappari.dev</span>
+                <a href="https://news.ycombinator.com/item?id=46923543" class="text-electric-cyan hover:underline"
+                   onclick="event.stopPropagation()" target="_blank">discuss</a>
+            </div>
+        </div>
+
+        <!-- Category & Score -->
+        <div class="flex flex-col items-end gap-2 shrink-0">
+            <span class="px-2 py-0.5 rounded text-[10px] font-medium bg-gray-500/20 text-gray-400">Other</span>
+            <div class="px-3 py-1 rounded-lg bg-glow-amber/10 text-glow-amber text-sm font-bold">
+                53
+            </div>
+        </div>
+    </div>
+    
+    <div class="hn-story group flex items-start gap-4 p-4 rounded-xl border border-synapse-border
+                bg-synapse-card/40 hover:bg-synapse-card hover:border-glow-amber/30 transition-all cursor-pointer"
+         onclick="window.open('https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/', '_blank')">
+        <!-- Rank -->
+        <span class="text-2xl font-bold text-text-muted font-mono w-8 shrink-0">09</span>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+            <div class="flex items-start gap-2">
+                <h3 class="text-base font-medium text-white group-hover:text-glow-amber leading-snug">
+                    雅达利《Battlezone》街机机柜生产的未公开影像
+                </h3>
+                
+            </div>
+            <p class="text-xs text-text-muted/60 mt-1 truncate">Unseen Footage of Atari Battlezone Arcade Cabinet Production</p>
+            <div class="flex items-center flex-wrap gap-x-4 gap-y-1 mt-2 text-xs text-text-muted">
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-glow-amber text-sm">arrow_upward</span>
+                    79 pts
+                </span>
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-sm">chat_bubble</span>
+                    12
+                </span>
+                <span>by videotopia</span>
+                <span class="text-text-muted/60">arcadeblogger.com</span>
+                <a href="https://news.ycombinator.com/item?id=46868343" class="text-electric-cyan hover:underline"
+                   onclick="event.stopPropagation()" target="_blank">discuss</a>
+            </div>
+        </div>
+
+        <!-- Category & Score -->
+        <div class="flex flex-col items-end gap-2 shrink-0">
+            <span class="px-2 py-0.5 rounded text-[10px] font-medium bg-gray-500/20 text-gray-400">Other</span>
+            <div class="px-3 py-1 rounded-lg bg-glow-amber/10 text-glow-amber text-sm font-bold">
+                79
+            </div>
+        </div>
+    </div>
+    
+    <div class="hn-story group flex items-start gap-4 p-4 rounded-xl border border-synapse-border
+                bg-synapse-card/40 hover:bg-synapse-card hover:border-glow-amber/30 transition-all cursor-pointer"
+         onclick="window.open('https://fosdem.org/2026/schedule/event/PEXRTN-ga68-intro/', '_blank')">
+        <!-- Rank -->
+        <span class="text-2xl font-bold text-text-muted font-mono w-8 shrink-0">10</span>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+            <div class="flex items-start gap-2">
+                <h3 class="text-base font-medium text-white group-hover:text-glow-amber leading-snug">
+                    Ga68：GNU Algol 68 编译器
+                </h3>
+                
+            </div>
+            <p class="text-xs text-text-muted/60 mt-1 truncate">Ga68, a GNU Algol 68 Compiler</p>
+            <div class="flex items-center flex-wrap gap-x-4 gap-y-1 mt-2 text-xs text-text-muted">
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-glow-amber text-sm">arrow_upward</span>
+                    22 pts
+                </span>
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-sm">chat_bubble</span>
+                    4
+                </span>
+                <span>by matt_d</span>
+                <span class="text-text-muted/60">fosdem.org</span>
+                <a href="https://news.ycombinator.com/item?id=46872319" class="text-electric-cyan hover:underline"
+                   onclick="event.stopPropagation()" target="_blank">discuss</a>
+            </div>
+        </div>
+
+        <!-- Category & Score -->
+        <div class="flex flex-col items-end gap-2 shrink-0">
+            <span class="px-2 py-0.5 rounded text-[10px] font-medium bg-blue-500/20 text-blue-400">Programming</span>
+            <div class="px-3 py-1 rounded-lg bg-glow-amber/10 text-glow-amber text-sm font-bold">
+                22
+            </div>
+        </div>
+    </div>
+    
+    <div class="hn-story group flex items-start gap-4 p-4 rounded-xl border border-synapse-border
+                bg-synapse-card/40 hover:bg-synapse-card hover:border-glow-amber/30 transition-all cursor-pointer"
+         onclick="window.open('https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes', '_blank')">
+        <!-- Rank -->
+        <span class="text-2xl font-bold text-text-muted font-mono w-8 shrink-0">11</span>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+            <div class="flex items-start gap-2">
+                <h3 class="text-base font-medium text-white group-hover:text-glow-amber leading-snug">
+                    使用 H3 索引加速地理连接
+                </h3>
+                
+            </div>
+            <p class="text-xs text-text-muted/60 mt-1 truncate">Making geo joins faster with H3 indexes</p>
+            <div class="flex items-center flex-wrap gap-x-4 gap-y-1 mt-2 text-xs text-text-muted">
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-glow-amber text-sm">arrow_upward</span>
+                    143 pts
+                </span>
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-sm">chat_bubble</span>
+                    37
+                </span>
+                <span>by matheusalmeida</span>
+                <span class="text-text-muted/60">floedb.ai</span>
+                <a href="https://news.ycombinator.com/item?id=46898473" class="text-electric-cyan hover:underline"
+                   onclick="event.stopPropagation()" target="_blank">discuss</a>
+            </div>
+        </div>
+
+        <!-- Category & Score -->
+        <div class="flex flex-col items-end gap-2 shrink-0">
+            <span class="px-2 py-0.5 rounded text-[10px] font-medium bg-gray-500/20 text-gray-400">Other</span>
+            <div class="px-3 py-1 rounded-lg bg-glow-amber/10 text-glow-amber text-sm font-bold">
+                143
+            </div>
+        </div>
+    </div>
+    
+    <div class="hn-story group flex items-start gap-4 p-4 rounded-xl border border-synapse-border
+                bg-synapse-card/40 hover:bg-synapse-card hover:border-glow-amber/30 transition-all cursor-pointer"
+         onclick="window.open('https://github.com/valdanylchuk/breezydemo', '_blank')">
+        <!-- Rank -->
+        <span class="text-2xl font-bold text-text-muted font-mono w-8 shrink-0">12</span>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+            <div class="flex items-start gap-2">
+                <h3 class="text-base font-medium text-white group-hover:text-glow-amber leading-snug">
+                    Show HN：没有 Linux 也行：在 ESP32-S3 / BreezyBox 上实现 Shell、应用安装器、Vi、Cc
+                </h3>
+                
+            </div>
+            <p class="text-xs text-text-muted/60 mt-1 truncate">Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox</p>
+            <div class="flex items-center flex-wrap gap-x-4 gap-y-1 mt-2 text-xs text-text-muted">
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-glow-amber text-sm">arrow_upward</span>
+                    246 pts
+                </span>
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-sm">chat_bubble</span>
+                    27
+                </span>
+                <span>by isitcontent</span>
+                <span class="text-text-muted/60">github.com</span>
+                <a href="https://news.ycombinator.com/item?id=46918429" class="text-electric-cyan hover:underline"
+                   onclick="event.stopPropagation()" target="_blank">discuss</a>
+            </div>
+        </div>
+
+        <!-- Category & Score -->
+        <div class="flex flex-col items-end gap-2 shrink-0">
+            <span class="px-2 py-0.5 rounded text-[10px] font-medium bg-electric-cyan/20 text-electric-cyan">Tools</span>
+            <div class="px-3 py-1 rounded-lg bg-glow-amber/10 text-glow-amber text-sm font-bold">
+                246
+            </div>
+        </div>
+    </div>
+    
+    <div class="hn-story group flex items-start gap-4 p-4 rounded-xl border border-synapse-border
+                bg-synapse-card/40 hover:bg-synapse-card hover:border-glow-amber/30 transition-all cursor-pointer"
+         onclick="window.open('https://github.com/pydantic/monty', '_blank')">
+        <!-- Rank -->
+        <span class="text-2xl font-bold text-text-muted font-mono w-8 shrink-0">13</span>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+            <div class="flex items-start gap-2">
+                <h3 class="text-base font-medium text-white group-hover:text-glow-amber leading-snug">
+                    Monty：用 Rust 编写的极简安全 Python 解释器，供 AI 使用
+                </h3>
+                
+            </div>
+            <p class="text-xs text-text-muted/60 mt-1 truncate">Monty: A minimal, secure Python interpreter written in Rust for use by AI</p>
+            <div class="flex items-center flex-wrap gap-x-4 gap-y-1 mt-2 text-xs text-text-muted">
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-glow-amber text-sm">arrow_upward</span>
+                    254 pts
+                </span>
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-sm">chat_bubble</span>
+                    131
+                </span>
+                <span>by dmpetrov</span>
+                <span class="text-text-muted/60">github.com</span>
+                <a href="https://news.ycombinator.com/item?id=46918254" class="text-electric-cyan hover:underline"
+                   onclick="event.stopPropagation()" target="_blank">discuss</a>
+            </div>
+        </div>
+
+        <!-- Category & Score -->
+        <div class="flex flex-col items-end gap-2 shrink-0">
+            <span class="px-2 py-0.5 rounded text-[10px] font-medium bg-purple-500/20 text-purple-400">AI/ML</span>
+            <div class="px-3 py-1 rounded-lg bg-glow-amber/10 text-glow-amber text-sm font-bold">
+                254
+            </div>
+        </div>
+    </div>
+    
+    <div class="hn-story group flex items-start gap-4 p-4 rounded-xl border border-synapse-border
+                bg-synapse-card/40 hover:bg-synapse-card hover:border-glow-amber/30 transition-all cursor-pointer"
+         onclick="window.open('https://medium.com/lensesio/cross-region-msk-replication-a-comprehensive-performance-comparison-of-lenses-k2k-vs-mirrormaker2-e9d930de01bf', '_blank')">
+        <!-- Rank -->
+        <span class="text-2xl font-bold text-text-muted font-mono w-8 shrink-0">14</span>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+            <div class="flex items-start gap-2">
+                <h3 class="text-base font-medium text-white group-hover:text-glow-amber leading-snug">
+                    跨区域 MSK 复制：K2K vs. MirrorMaker2
+                </h3>
+                
+            </div>
+            <p class="text-xs text-text-muted/60 mt-1 truncate">Cross-Region MSK Replication: K2K vs. MirrorMaker2</p>
+            <div class="flex items-center flex-wrap gap-x-4 gap-y-1 mt-2 text-xs text-text-muted">
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-glow-amber text-sm">arrow_upward</span>
+                    5 pts
+                </span>
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-sm">chat_bubble</span>
+                    1
+                </span>
+                <span>by andmarios</span>
+                <span class="text-text-muted/60">medium.com</span>
+                <a href="https://news.ycombinator.com/item?id=46868787" class="text-electric-cyan hover:underline"
+                   onclick="event.stopPropagation()" target="_blank">discuss</a>
+            </div>
+        </div>
+
+        <!-- Category & Score -->
+        <div class="flex flex-col items-end gap-2 shrink-0">
+            <span class="px-2 py-0.5 rounded text-[10px] font-medium bg-gray-500/20 text-gray-400">Other</span>
+            <div class="px-3 py-1 rounded-lg bg-glow-amber/10 text-glow-amber text-sm font-bold">
+                5
+            </div>
+        </div>
+    </div>
+    
+    <div class="hn-story group flex items-start gap-4 p-4 rounded-xl border border-synapse-border
+                bg-synapse-card/40 hover:bg-synapse-card hover:border-glow-amber/30 transition-all cursor-pointer"
+         onclick="window.open('https://vecti.com', '_blank')">
+        <!-- Rank -->
+        <span class="text-2xl font-bold text-text-muted font-mono w-8 shrink-0">15</span>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+            <div class="flex items-start gap-2">
+                <h3 class="text-base font-medium text-white group-hover:text-glow-amber leading-snug">
+                    Show HN：我用 4 年只做了一个只包含我常用功能的 UI 设计工具
+                </h3>
+                <span class="material-symbols-outlined text-glow-amber text-sm">local_fire_department</span>
+            </div>
+            <p class="text-xs text-text-muted/60 mt-1 truncate">Show HN: I spent 4 years building a UI design tool with only the features I use</p>
+            <div class="flex items-center flex-wrap gap-x-4 gap-y-1 mt-2 text-xs text-text-muted">
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-glow-amber text-sm">arrow_upward</span>
+                    349 pts
+                </span>
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-sm">chat_bubble</span>
+                    156
+                </span>
+                <span>by vecti</span>
+                <span class="text-text-muted/60">vecti.com</span>
+                <a href="https://news.ycombinator.com/item?id=46917033" class="text-electric-cyan hover:underline"
+                   onclick="event.stopPropagation()" target="_blank">discuss</a>
+            </div>
+        </div>
+
+        <!-- Category & Score -->
+        <div class="flex flex-col items-end gap-2 shrink-0">
+            <span class="px-2 py-0.5 rounded text-[10px] font-medium bg-electric-cyan/20 text-electric-cyan">Tools</span>
+            <div class="px-3 py-1 rounded-lg bg-glow-amber/10 text-glow-amber text-sm font-bold">
+                349
+            </div>
+        </div>
+    </div>
+    
+    <div class="hn-story group flex items-start gap-4 p-4 rounded-xl border border-synapse-border
+                bg-synapse-card/40 hover:bg-synapse-card hover:border-glow-amber/30 transition-all cursor-pointer"
+         onclick="window.open('https://hackers-1995.vercel.app/', '_blank')">
+        <!-- Rank -->
+        <span class="text-2xl font-bold text-text-muted font-mono w-8 shrink-0">16</span>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+            <div class="flex items-start gap-2">
+                <h3 class="text-base font-medium text-white group-hover:text-glow-amber leading-snug">
+                    《黑客》（1995）动画体验
+                </h3>
+                <span class="material-symbols-outlined text-glow-amber text-sm">local_fire_department</span>
+            </div>
+            <p class="text-xs text-text-muted/60 mt-1 truncate">Hackers (1995) Animated Experience</p>
+            <div class="flex items-center flex-wrap gap-x-4 gap-y-1 mt-2 text-xs text-text-muted">
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-glow-amber text-sm">arrow_upward</span>
+                    516 pts
+                </span>
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-sm">chat_bubble</span>
+                    251
+                </span>
+                <span>by todsacerdoti</span>
+                <span class="text-text-muted/60">hackers-1995.vercel.app</span>
+                <a href="https://news.ycombinator.com/item?id=46912800" class="text-electric-cyan hover:underline"
+                   onclick="event.stopPropagation()" target="_blank">discuss</a>
+            </div>
+        </div>
+
+        <!-- Category & Score -->
+        <div class="flex flex-col items-end gap-2 shrink-0">
+            <span class="px-2 py-0.5 rounded text-[10px] font-medium bg-gray-500/20 text-gray-400">Other</span>
+            <div class="px-3 py-1 rounded-lg bg-glow-amber/10 text-glow-amber text-sm font-bold">
+                516
+            </div>
+        </div>
+    </div>
+    
+    <div class="hn-story group flex items-start gap-4 p-4 rounded-xl border border-synapse-border
+                bg-synapse-card/40 hover:bg-synapse-card hover:border-glow-amber/30 transition-all cursor-pointer"
+         onclick="window.open('https://writings.stephenwolfram.com/2026/01/what-is-ruliology/', '_blank')">
+        <!-- Rank -->
+        <span class="text-2xl font-bold text-text-muted font-mono w-8 shrink-0">17</span>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+            <div class="flex items-start gap-2">
+                <h3 class="text-base font-medium text-white group-hover:text-glow-amber leading-snug">
+                    什么是 Ruliology？
+                </h3>
+                
+            </div>
+            <p class="text-xs text-text-muted/60 mt-1 truncate">What Is Ruliology?</p>
+            <div class="flex items-center flex-wrap gap-x-4 gap-y-1 mt-2 text-xs text-text-muted">
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-glow-amber text-sm">arrow_upward</span>
+                    50 pts
+                </span>
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-sm">chat_bubble</span>
+                    51
+                </span>
+                <span>by helloplanets</span>
+                <span class="text-text-muted/60">writings.stephenwolfram.com</span>
+                <a href="https://news.ycombinator.com/item?id=46867361" class="text-electric-cyan hover:underline"
+                   onclick="event.stopPropagation()" target="_blank">discuss</a>
+            </div>
+        </div>
+
+        <!-- Category & Score -->
+        <div class="flex flex-col items-end gap-2 shrink-0">
+            <span class="px-2 py-0.5 rounded text-[10px] font-medium bg-gray-500/20 text-gray-400">Other</span>
+            <div class="px-3 py-1 rounded-lg bg-glow-amber/10 text-glow-amber text-sm font-bold">
+                50
+            </div>
+        </div>
+    </div>
+    
+    <div class="hn-story group flex items-start gap-4 p-4 rounded-xl border border-synapse-border
+                bg-synapse-card/40 hover:bg-synapse-card hover:border-glow-amber/30 transition-all cursor-pointer"
+         onclick="window.open('https://www.sheldonbrown.com/', '_blank')">
+        <!-- Rank -->
+        <span class="text-2xl font-bold text-text-muted font-mono w-8 shrink-0">18</span>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+            <div class="flex items-start gap-2">
+                <h3 class="text-base font-medium text-white group-hover:text-glow-amber leading-snug">
+                    Sheldon Brown 的自行车技术资料
+                </h3>
+                <span class="material-symbols-outlined text-glow-amber text-sm">local_fire_department</span>
+            </div>
+            <p class="text-xs text-text-muted/60 mt-1 truncate">Sheldon Brown's Bicycle Technical Info</p>
+            <div class="flex items-center flex-wrap gap-x-4 gap-y-1 mt-2 text-xs text-text-muted">
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-glow-amber text-sm">arrow_upward</span>
+                    397 pts
+                </span>
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-sm">chat_bubble</span>
+                    102
+                </span>
+                <span>by ostacke</span>
+                <span class="text-text-muted/60">sheldonbrown.com</span>
+                <a href="https://news.ycombinator.com/item?id=46914159" class="text-electric-cyan hover:underline"
+                   onclick="event.stopPropagation()" target="_blank">discuss</a>
+            </div>
+        </div>
+
+        <!-- Category & Score -->
+        <div class="flex flex-col items-end gap-2 shrink-0">
+            <span class="px-2 py-0.5 rounded text-[10px] font-medium bg-muted-mint/20 text-muted-mint">Startup</span>
+            <div class="px-3 py-1 rounded-lg bg-glow-amber/10 text-glow-amber text-sm font-bold">
+                397
+            </div>
+        </div>
+    </div>
+    
+    <div class="hn-story group flex items-start gap-4 p-4 rounded-xl border border-synapse-border
+                bg-synapse-card/40 hover:bg-synapse-card hover:border-glow-amber/30 transition-all cursor-pointer"
+         onclick="window.open('https://eljojo.github.io/rememory/', '_blank')">
+        <!-- Rank -->
+        <span class="text-2xl font-bold text-text-muted font-mono w-8 shrink-0">19</span>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+            <div class="flex items-start gap-2">
+                <h3 class="text-base font-medium text-white group-hover:text-glow-amber leading-snug">
+                    Show HN：失忆后如何重新获得电脑访问权限？
+                </h3>
+                <span class="material-symbols-outlined text-glow-amber text-sm">local_fire_department</span>
+            </div>
+            <p class="text-xs text-text-muted/60 mt-1 truncate">Show HN: If you lose your memory, how to regain access to your computer?</p>
+            <div class="flex items-center flex-wrap gap-x-4 gap-y-1 mt-2 text-xs text-text-muted">
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-glow-amber text-sm">arrow_upward</span>
+                    313 pts
+                </span>
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-sm">chat_bubble</span>
+                    194
+                </span>
+                <span>by eljojo</span>
+                <span class="text-text-muted/60">eljojo.github.io</span>
+                <a href="https://news.ycombinator.com/item?id=46916609" class="text-electric-cyan hover:underline"
+                   onclick="event.stopPropagation()" target="_blank">discuss</a>
+            </div>
+        </div>
+
+        <!-- Category & Score -->
+        <div class="flex flex-col items-end gap-2 shrink-0">
+            <span class="px-2 py-0.5 rounded text-[10px] font-medium bg-purple-500/20 text-purple-400">AI/ML</span>
+            <div class="px-3 py-1 rounded-lg bg-glow-amber/10 text-glow-amber text-sm font-bold">
+                313
+            </div>
+        </div>
+    </div>
+    
+    <div class="hn-story group flex items-start gap-4 p-4 rounded-xl border border-synapse-border
+                bg-synapse-card/40 hover:bg-synapse-card hover:border-glow-amber/30 transition-all cursor-pointer"
+         onclick="window.open('https://github.com/microsoft/litebox', '_blank')">
+        <!-- Rank -->
+        <span class="text-2xl font-bold text-text-muted font-mono w-8 shrink-0">20</span>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+            <div class="flex items-start gap-2">
+                <h3 class="text-base font-medium text-white group-hover:text-glow-amber leading-snug">
+                    微软开源 LiteBox：面向安全的库操作系统
+                </h3>
+                <span class="material-symbols-outlined text-glow-amber text-sm">local_fire_department</span>
+            </div>
+            <p class="text-xs text-text-muted/60 mt-1 truncate">Microsoft open-sources LiteBox, a security-focused library OS</p>
+            <div class="flex items-center flex-wrap gap-x-4 gap-y-1 mt-2 text-xs text-text-muted">
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-glow-amber text-sm">arrow_upward</span>
+                    363 pts
+                </span>
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-sm">chat_bubble</span>
+                    189
+                </span>
+                <span>by aktau</span>
+                <span class="text-text-muted/60">github.com</span>
+                <a href="https://news.ycombinator.com/item?id=46913793" class="text-electric-cyan hover:underline"
+                   onclick="event.stopPropagation()" target="_blank">discuss</a>
+            </div>
+        </div>
+
+        <!-- Category & Score -->
+        <div class="flex flex-col items-end gap-2 shrink-0">
+            <span class="px-2 py-0.5 rounded text-[10px] font-medium bg-blue-500/20 text-blue-400">Programming</span>
+            <div class="px-3 py-1 rounded-lg bg-glow-amber/10 text-glow-amber text-sm font-bold">
+                363
+            </div>
+        </div>
+    </div>
+    
+    <div class="hn-story group flex items-start gap-4 p-4 rounded-xl border border-synapse-border
+                bg-synapse-card/40 hover:bg-synapse-card hover:border-glow-amber/30 transition-all cursor-pointer"
+         onclick="window.open('https://www.heroku.com/blog/an-update-on-heroku/', '_blank')">
+        <!-- Rank -->
+        <span class="text-2xl font-bold text-text-muted font-mono w-8 shrink-0">21</span>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+            <div class="flex items-start gap-2">
+                <h3 class="text-base font-medium text-white group-hover:text-glow-amber leading-snug">
+                    Heroku 最新进展
+                </h3>
+                <span class="material-symbols-outlined text-glow-amber text-sm">local_fire_department</span>
+            </div>
+            <p class="text-xs text-text-muted/60 mt-1 truncate">An Update on Heroku</p>
+            <div class="flex items-center flex-wrap gap-x-4 gap-y-1 mt-2 text-xs text-text-muted">
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-glow-amber text-sm">arrow_upward</span>
+                    443 pts
+                </span>
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-sm">chat_bubble</span>
+                    292
+                </span>
+                <span>by lstoll</span>
+                <span class="text-text-muted/60">heroku.com</span>
+                <a href="https://news.ycombinator.com/item?id=46913903" class="text-electric-cyan hover:underline"
+                   onclick="event.stopPropagation()" target="_blank">discuss</a>
+            </div>
+        </div>
+
+        <!-- Category & Score -->
+        <div class="flex flex-col items-end gap-2 shrink-0">
+            <span class="px-2 py-0.5 rounded text-[10px] font-medium bg-gray-500/20 text-gray-400">Other</span>
+            <div class="px-3 py-1 rounded-lg bg-glow-amber/10 text-glow-amber text-sm font-bold">
+                443
+            </div>
+        </div>
+    </div>
+    
+    <div class="hn-story group flex items-start gap-4 p-4 rounded-xl border border-synapse-border
+                bg-synapse-card/40 hover:bg-synapse-card hover:border-glow-amber/30 transition-all cursor-pointer"
+         onclick="window.open('https://github.com/sandys/kappal', '_blank')">
+        <!-- Rank -->
+        <span class="text-2xl font-bold text-text-muted font-mono w-8 shrink-0">22</span>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+            <div class="flex items-start gap-2">
+                <h3 class="text-base font-medium text-white group-hover:text-glow-amber leading-snug">
+                    Show HN：Kappal——用于本地开发，在 Kubernetes 上运行 Docker Compose YML 的 CLI
+                </h3>
+                
+            </div>
+            <p class="text-xs text-text-muted/60 mt-1 truncate">Show HN: Kappal – CLI to Run Docker Compose YML on Kubernetes for Local Dev</p>
+            <div class="flex items-center flex-wrap gap-x-4 gap-y-1 mt-2 text-xs text-text-muted">
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-glow-amber text-sm">arrow_upward</span>
+                    5 pts
+                </span>
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-sm">chat_bubble</span>
+                    2
+                </span>
+                <span>by sandGorgon</span>
+                <span class="text-text-muted/60">github.com</span>
+                <a href="https://news.ycombinator.com/item?id=46896105" class="text-electric-cyan hover:underline"
+                   onclick="event.stopPropagation()" target="_blank">discuss</a>
+            </div>
+        </div>
+
+        <!-- Category & Score -->
+        <div class="flex flex-col items-end gap-2 shrink-0">
+            <span class="px-2 py-0.5 rounded text-[10px] font-medium bg-electric-cyan/20 text-electric-cyan">Tools</span>
+            <div class="px-3 py-1 rounded-lg bg-glow-amber/10 text-glow-amber text-sm font-bold">
+                5
+            </div>
+        </div>
+    </div>
+    
+    <div class="hn-story group flex items-start gap-4 p-4 rounded-xl border border-synapse-border
+                bg-synapse-card/40 hover:bg-synapse-card hover:border-glow-amber/30 transition-all cursor-pointer"
+         onclick="window.open('https://martypc.blogspot.com/2024/09/pc-floppy-copy-protection-vault-prolok.html', '_blank')">
+        <!-- Rank -->
+        <span class="text-2xl font-bold text-text-muted font-mono w-8 shrink-0">23</span>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+            <div class="flex items-start gap-2">
+                <h3 class="text-base font-medium text-white group-hover:text-glow-amber leading-snug">
+                    PC 软盘复制保护：Vault Prolok
+                </h3>
+                
+            </div>
+            <p class="text-xs text-text-muted/60 mt-1 truncate">PC Floppy Copy Protection: Vault Prolok</p>
+            <div class="flex items-center flex-wrap gap-x-4 gap-y-1 mt-2 text-xs text-text-muted">
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-glow-amber text-sm">arrow_upward</span>
+                    78 pts
+                </span>
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-sm">chat_bubble</span>
+                    11
+                </span>
+                <span>by kmm</span>
+                <span class="text-text-muted/60">martypc.blogspot.com</span>
+                <a href="https://news.ycombinator.com/item?id=46854386" class="text-electric-cyan hover:underline"
+                   onclick="event.stopPropagation()" target="_blank">discuss</a>
+            </div>
+        </div>
+
+        <!-- Category & Score -->
+        <div class="flex flex-col items-end gap-2 shrink-0">
+            <span class="px-2 py-0.5 rounded text-[10px] font-medium bg-gray-500/20 text-gray-400">Other</span>
+            <div class="px-3 py-1 rounded-lg bg-glow-amber/10 text-glow-amber text-sm font-bold">
+                78
+            </div>
+        </div>
+    </div>
+    
+    <div class="hn-story group flex items-start gap-4 p-4 rounded-xl border border-synapse-border
+                bg-synapse-card/40 hover:bg-synapse-card hover:border-glow-amber/30 transition-all cursor-pointer"
+         onclick="window.open('https://blog.szczepan.org/blog/three-points/', '_blank')">
+        <!-- Rank -->
+        <span class="text-2xl font-bold text-text-muted font-mono w-8 shrink-0">24</span>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+            <div class="flex items-start gap-2">
+                <h3 class="text-base font-medium text-white group-hover:text-glow-amber leading-snug">
+                    暗巷数学
+                </h3>
+                
+            </div>
+            <p class="text-xs text-text-muted/60 mt-1 truncate">Dark Alley Mathematics</p>
+            <div class="flex items-center flex-wrap gap-x-4 gap-y-1 mt-2 text-xs text-text-muted">
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-glow-amber text-sm">arrow_upward</span>
+                    98 pts
+                </span>
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-sm">chat_bubble</span>
+                    24
+                </span>
+                <span>by quibono</span>
+                <span class="text-text-muted/60">blog.szczepan.org</span>
+                <a href="https://news.ycombinator.com/item?id=46857453" class="text-electric-cyan hover:underline"
+                   onclick="event.stopPropagation()" target="_blank">discuss</a>
+            </div>
+        </div>
+
+        <!-- Category & Score -->
+        <div class="flex flex-col items-end gap-2 shrink-0">
+            <span class="px-2 py-0.5 rounded text-[10px] font-medium bg-yellow-500/20 text-yellow-400">Science</span>
+            <div class="px-3 py-1 rounded-lg bg-glow-amber/10 text-glow-amber text-sm font-bold">
+                98
+            </div>
+        </div>
+    </div>
+    
+    <div class="hn-story group flex items-start gap-4 p-4 rounded-xl border border-synapse-border
+                bg-synapse-card/40 hover:bg-synapse-card hover:border-glow-amber/30 transition-all cursor-pointer"
+         onclick="window.open('https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/', '_blank')">
+        <!-- Rank -->
+        <span class="text-2xl font-bold text-text-muted font-mono w-8 shrink-0">25</span>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+            <div class="flex items-start gap-2">
+                <h3 class="text-base font-medium text-white group-hover:text-glow-amber leading-snug">
+                    如何用 AI 高效编写高质量代码
+                </h3>
+                
+            </div>
+            <p class="text-xs text-text-muted/60 mt-1 truncate">How to effectively write quality code with AI</p>
+            <div class="flex items-center flex-wrap gap-x-4 gap-y-1 mt-2 text-xs text-text-muted">
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-glow-amber text-sm">arrow_upward</span>
+                    283 pts
+                </span>
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-sm">chat_bubble</span>
+                    232
+                </span>
+                <span>by i5heu</span>
+                <span class="text-text-muted/60">heidenstedt.org</span>
+                <a href="https://news.ycombinator.com/item?id=46916586" class="text-electric-cyan hover:underline"
+                   onclick="event.stopPropagation()" target="_blank">discuss</a>
+            </div>
+        </div>
+
+        <!-- Category & Score -->
+        <div class="flex flex-col items-end gap-2 shrink-0">
+            <span class="px-2 py-0.5 rounded text-[10px] font-medium bg-purple-500/20 text-purple-400">AI/ML</span>
+            <div class="px-3 py-1 rounded-lg bg-glow-amber/10 text-glow-amber text-sm font-bold">
+                283
+            </div>
+        </div>
+    </div>
+    
+    <div class="hn-story group flex items-start gap-4 p-4 rounded-xl border border-synapse-border
+                bg-synapse-card/40 hover:bg-synapse-card hover:border-glow-amber/30 transition-all cursor-pointer"
+         onclick="window.open('https://arxiv.org/abs/2602.01122', '_blank')">
+        <!-- Rank -->
+        <span class="text-2xl font-bold text-text-muted font-mono w-8 shrink-0">26</span>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+            <div class="flex items-start gap-2">
+                <h3 class="text-base font-medium text-white group-hover:text-glow-amber leading-snug">
+                    贝努瓦·曼德布罗特是刺猬还是狐狸？
+                </h3>
+                
+            </div>
+            <p class="text-xs text-text-muted/60 mt-1 truncate">Was Benoit Mandelbrot a hedgehog or a fox?</p>
+            <div class="flex items-center flex-wrap gap-x-4 gap-y-1 mt-2 text-xs text-text-muted">
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-glow-amber text-sm">arrow_upward</span>
+                    26 pts
+                </span>
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-sm">chat_bubble</span>
+                    14
+                </span>
+                <span>by bikenaga</span>
+                <span class="text-text-muted/60">arxiv.org</span>
+                <a href="https://news.ycombinator.com/item?id=46877820" class="text-electric-cyan hover:underline"
+                   onclick="event.stopPropagation()" target="_blank">discuss</a>
+            </div>
+        </div>
+
+        <!-- Category & Score -->
+        <div class="flex flex-col items-end gap-2 shrink-0">
+            <span class="px-2 py-0.5 rounded text-[10px] font-medium bg-gray-500/20 text-gray-400">Other</span>
+            <div class="px-3 py-1 rounded-lg bg-glow-amber/10 text-glow-amber text-sm font-bold">
+                26
+            </div>
+        </div>
+    </div>
+    
+    <div class="hn-story group flex items-start gap-4 p-4 rounded-xl border border-synapse-border
+                bg-synapse-card/40 hover:bg-synapse-card hover:border-glow-amber/30 transition-all cursor-pointer"
+         onclick="window.open('https://www.si.edu/newsdesk/releases/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation?user_id=66c4bf745d78644b3aa57b08&utm_medium=email&utm_placement=newsletter&utm_source=join1440', '_blank')">
+        <!-- Rank -->
+        <span class="text-2xl font-bold text-text-muted font-mono w-8 shrink-0">27</span>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+            <div class="flex items-start gap-2">
+                <h3 class="text-base font-medium text-white group-hover:text-glow-amber leading-snug">
+                    史密森尼国家动物园诞生一头亚洲象雌性幼崽
+                </h3>
+                
+            </div>
+            <p class="text-xs text-text-muted/60 mt-1 truncate">Female Asian Elephant Calf Born at the Smithsonian National Zoo</p>
+            <div class="flex items-center flex-wrap gap-x-4 gap-y-1 mt-2 text-xs text-text-muted">
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-glow-amber text-sm">arrow_upward</span>
+                    48 pts
+                </span>
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-sm">chat_bubble</span>
+                    19
+                </span>
+                <span>by gmays</span>
+                <span class="text-text-muted/60">si.edu</span>
+                <a href="https://news.ycombinator.com/item?id=46920773" class="text-electric-cyan hover:underline"
+                   onclick="event.stopPropagation()" target="_blank">discuss</a>
+            </div>
+        </div>
+
+        <!-- Category & Score -->
+        <div class="flex flex-col items-end gap-2 shrink-0">
+            <span class="px-2 py-0.5 rounded text-[10px] font-medium bg-gray-500/20 text-gray-400">Other</span>
+            <div class="px-3 py-1 rounded-lg bg-glow-amber/10 text-glow-amber text-sm font-bold">
+                48
+            </div>
+        </div>
+    </div>
+    
+    <div class="hn-story group flex items-start gap-4 p-4 rounded-xl border border-synapse-border
+                bg-synapse-card/40 hover:bg-synapse-card hover:border-glow-amber/30 transition-all cursor-pointer"
+         onclick="window.open('https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/', '_blank')">
+        <!-- Rank -->
+        <span class="text-2xl font-bold text-text-muted font-mono w-8 shrink-0">28</span>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+            <div class="flex items-start gap-2">
+                <h3 class="text-base font-medium text-white group-hover:text-glow-amber leading-snug">
+                    我现在默认 Apple News 上的所有广告都是诈骗
+                </h3>
+                <span class="material-symbols-outlined text-glow-amber text-sm">local_fire_department</span>
+            </div>
+            <p class="text-xs text-text-muted/60 mt-1 truncate">I now assume that all ads on Apple news are scams</p>
+            <div class="flex items-center flex-wrap gap-x-4 gap-y-1 mt-2 text-xs text-text-muted">
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-glow-amber text-sm">arrow_upward</span>
+                    1095 pts
+                </span>
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-sm">chat_bubble</span>
+                    474
+                </span>
+                <span>by cdrnsf</span>
+                <span class="text-text-muted/60">kirkville.com</span>
+                <a href="https://news.ycombinator.com/item?id=46911901" class="text-electric-cyan hover:underline"
+                   onclick="event.stopPropagation()" target="_blank">discuss</a>
+            </div>
+        </div>
+
+        <!-- Category & Score -->
+        <div class="flex flex-col items-end gap-2 shrink-0">
+            <span class="px-2 py-0.5 rounded text-[10px] font-medium bg-electric-cyan/20 text-electric-cyan">Tools</span>
+            <div class="px-3 py-1 rounded-lg bg-glow-amber/10 text-glow-amber text-sm font-bold">
+                1095
+            </div>
+        </div>
+    </div>
+    
+    <div class="hn-story group flex items-start gap-4 p-4 rounded-xl border border-synapse-border
+                bg-synapse-card/40 hover:bg-synapse-card hover:border-glow-amber/30 transition-all cursor-pointer"
+         onclick="window.open('https://visualrambling.space/neural-network/', '_blank')">
+        <!-- Rank -->
+        <span class="text-2xl font-bold text-text-muted font-mono w-8 shrink-0">29</span>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+            <div class="flex items-start gap-2">
+                <h3 class="text-base font-medium text-white group-hover:text-glow-amber leading-snug">
+                    可视化理解神经网络
+                </h3>
+                <span class="material-symbols-outlined text-glow-amber text-sm">local_fire_department</span>
+            </div>
+            <p class="text-xs text-text-muted/60 mt-1 truncate">Understanding Neural Network, Visually</p>
+            <div class="flex items-center flex-wrap gap-x-4 gap-y-1 mt-2 text-xs text-text-muted">
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-glow-amber text-sm">arrow_upward</span>
+                    313 pts
+                </span>
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-sm">chat_bubble</span>
+                    46
+                </span>
+                <span>by surprisetalk</span>
+                <span class="text-text-muted/60">visualrambling.space</span>
+                <a href="https://news.ycombinator.com/item?id=46871654" class="text-electric-cyan hover:underline"
+                   onclick="event.stopPropagation()" target="_blank">discuss</a>
+            </div>
+        </div>
+
+        <!-- Category & Score -->
+        <div class="flex flex-col items-end gap-2 shrink-0">
+            <span class="px-2 py-0.5 rounded text-[10px] font-medium bg-purple-500/20 text-purple-400">AI/ML</span>
+            <div class="px-3 py-1 rounded-lg bg-glow-amber/10 text-glow-amber text-sm font-bold">
+                313
+            </div>
+        </div>
+    </div>
+    
+    <div class="hn-story group flex items-start gap-4 p-4 rounded-xl border border-synapse-border
+                bg-synapse-card/40 hover:bg-synapse-card hover:border-glow-amber/30 transition-all cursor-pointer"
+         onclick="window.open('https://infisical.com/blog/devops-to-solutions-engineering', '_blank')">
+        <!-- Rank -->
+        <span class="text-2xl font-bold text-text-muted font-mono w-8 shrink-0">30</span>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0">
+            <div class="flex items-start gap-2">
+                <h3 class="text-base font-medium text-white group-hover:text-glow-amber leading-snug">
+                    我做了 5 年 DevOps——解决方案工程补上了我缺失的东西
+                </h3>
+                
+            </div>
+            <p class="text-xs text-text-muted/60 mt-1 truncate">I spent 5 years in DevOps – Solutions engineering gave me what I was missing</p>
+            <div class="flex items-center flex-wrap gap-x-4 gap-y-1 mt-2 text-xs text-text-muted">
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-glow-amber text-sm">arrow_upward</span>
+                    160 pts
+                </span>
+                <span class="flex items-center gap-1">
+                    <span class="material-symbols-outlined text-sm">chat_bubble</span>
+                    73
+                </span>
+                <span>by vmatsiiako</span>
+                <span class="text-text-muted/60">infisical.com</span>
+                <a href="https://news.ycombinator.com/item?id=46915102" class="text-electric-cyan hover:underline"
+                   onclick="event.stopPropagation()" target="_blank">discuss</a>
+            </div>
+        </div>
+
+        <!-- Category & Score -->
+        <div class="flex flex-col items-end gap-2 shrink-0">
+            <span class="px-2 py-0.5 rounded text-[10px] font-medium bg-gray-500/20 text-gray-400">Other</span>
+            <div class="px-3 py-1 rounded-lg bg-glow-amber/10 text-glow-amber text-sm font-bold">
+                160
+            </div>
+        </div>
+    </div>
+    
+    </div>
+    
+            </div>
+        </div>
+    </main>
+
+    <script>
+    function filterStories(query) {
+        const stories = document.querySelectorAll('.hn-story');
+        const lowerQuery = query.toLowerCase();
+
+        stories.forEach(story => {
+            const title = story.querySelector('h3').textContent.toLowerCase();
+            if (title.includes(lowerQuery)) {
+                story.style.display = '';
+            } else {
+                story.style.display = 'none';
+            }
+        });
+    }
+    </script>
+</body>
+</html>

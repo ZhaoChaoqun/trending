@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="zh-CN" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>heretic - 深度分析 - 2026-02-07</title>
+    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg" type="image/svg+xml">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;900&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet">
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com?plugins=forms"></script>
+
+    <!-- Tailwind Config -->
+    <script>
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "synapse-bg": "#0D1117",
+                        "synapse-card": "#161B22",
+                        "synapse-border": "#30363D",
+                        "electric-cyan": "#00E5FF",
+                        "muted-mint": "#70FFC9",
+                        "glow-amber": "#FFAB00",
+                        "text-main": "#C9D1D9",
+                        "text-muted": "#8B949E",
+                    },
+                    fontFamily: {
+                        "display": ["Inter", "sans-serif"],
+                        "mono": ["JetBrains Mono", "monospace"],
+                    },
+                    boxShadow: {
+                        'neon-cyan': '0 0 5px theme("colors.electric-cyan"), 0 0 20px theme("colors.electric-cyan")',
+                        'neon-amber': '0 0 5px theme("colors.glow-amber"), 0 0 10px rgba(255, 171, 0, 0.5)',
+                    }
+                },
+            },
+        }
+    </script>
+
+    <style>
+        body {
+            background-color: #0D1117;
+            color: #C9D1D9;
+        }
+
+        ::-webkit-scrollbar {
+            width: 6px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #0D1117;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #30363D;
+            border-radius: 3px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #00E5FF;
+        }
+
+        .glass-panel {
+            background: rgba(22, 27, 34, 0.7);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid rgba(48, 54, 61, 0.5);
+        }
+
+        .glass-card {
+            background: rgba(13, 17, 23, 0.6);
+            border: 1px solid rgba(48, 54, 61, 0.8);
+        }
+    </style>
+</head>
+<body class="min-h-screen font-display">
+    <!-- Top Navigation -->
+    <header class="sticky top-0 z-50 w-full border-b border-synapse-border bg-synapse-bg/90 backdrop-blur-md">
+        <div class="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
+            <div class="flex items-center gap-6">
+                <a href="../index.html" class="flex items-center gap-3 text-white group">
+                    <div class="w-8 h-8 rounded-lg bg-gradient-to-br from-electric-cyan to-blue-600 flex items-center justify-center shadow-neon-cyan">
+                        <span class="material-symbols-outlined text-black font-bold" style="font-size: 20px;">trending_up</span>
+                    </div>
+                    <span class="font-bold text-lg">GitHub<span class="text-electric-cyan">Trending</span></span>
+                </a>
+            </div>
+            <a href="../index.html" class="flex items-center gap-2 text-text-muted hover:text-white transition-colors text-sm">
+                <span class="material-symbols-outlined text-lg">arrow_back</span>
+                返回热榜
+            </a>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="max-w-6xl mx-auto px-6 py-8">
+        <!-- Breadcrumb -->
+        <div class="flex items-center gap-2 mb-8 text-sm text-text-muted">
+            <a href="../index.html" class="hover:text-electric-cyan transition-colors">Trending</a>
+            <span class="material-symbols-outlined text-base">chevron_right</span>
+            <span class="text-white">heretic</span>
+        </div>
+
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-8">
+            <!-- Left Column: Main Content -->
+            <div class="lg:col-span-8 flex flex-col gap-6">
+                <!-- Hero Card -->
+                <div class="glass-panel rounded-xl p-8 relative overflow-hidden">
+                    <div class="absolute -top-24 -right-24 w-64 h-64 bg-electric-cyan/10 blur-[80px] rounded-full pointer-events-none"></div>
+                    <div class="relative z-10">
+                        <div class="flex flex-wrap items-start justify-between gap-4 mb-6">
+                            <div class="flex flex-col gap-2">
+                                <div class="flex items-center gap-3">
+                                    <h1 class="text-4xl md:text-5xl font-black text-white tracking-tight">heretic</h1>
+                                    <span class="bg-glow-amber/10 text-glow-amber border border-glow-amber/20 text-xs font-bold px-2 py-0.5 rounded uppercase tracking-wider animate-pulse shadow-neon-amber">NEW</span>
+                                </div>
+                                <p class="text-text-muted text-lg max-w-2xl">Fully automatic censorship removal for language models</p>
+                            </div>
+                            <a href="https://github.com/p-e-w/heretic" target="_blank" class="flex items-center justify-center w-10 h-10 rounded-lg bg-[#24292e] hover:bg-[#2f363d] text-white border border-white/10 transition-all hover:-translate-y-0.5 shadow-lg" title="View on GitHub">
+                                <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.065 1.815 2.805 1.29 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.525.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405 1.02 0 2.04.135 3 .405 2.28-1.545 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.92 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.285 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+                            </a>
+                        </div>
+
+                        <!-- Meta Strip -->
+                        <div class="flex flex-wrap items-center gap-6 text-sm text-text-muted border-t border-white/5 pt-4 mt-2">
+                            <div class="flex items-center gap-2">
+                                <span class="w-2.5 h-2.5 rounded-full" style="background: #3572A5; box-shadow: 0 0 8px #3572A580;"></span>
+                                <span>Python</span>
+                            </div>
+                            <div class="flex items-center gap-1.5">
+                                <span class="material-symbols-outlined text-lg">star</span>
+                                <span class="text-white font-medium">4.6k</span>
+                            </div>
+                            <div class="flex items-center gap-1.5">
+                                <span class="material-symbols-outlined text-lg text-muted-mint">add</span>
+                                <span class="text-muted-mint font-medium">+61</span>
+                            </div>
+                            <div class="flex items-center gap-1.5">
+                                <span class="material-symbols-outlined text-lg">account_tree</span>
+                                <span class="text-white font-medium">446</span>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+
+                <!-- AI Summary Section -->
+                
+        <div class="rounded-xl border border-synapse-border bg-synapse-card overflow-hidden">
+            <div class="px-6 py-4 border-b border-synapse-border bg-[#1a2628] flex items-center justify-between">
+                <div class="flex items-center gap-2">
+                    <span class="material-symbols-outlined text-glow-amber">auto_awesome</span>
+                    <h3 class="text-white font-bold text-lg">技术解析</h3>
+                </div>
+                <span class="text-xs font-mono text-text-muted uppercase">AI 生成</span>
+            </div>
+            <div class="p-6 md:p-8 text-slate-300 leading-relaxed">
+                <p class="text-base">自动移除大模型安全对齐限制，生成尽量保留能力的去审查版本</p>
+                <ul class="list-disc list-inside text-sm space-y-1 text-slate-400 mt-4"><li>结合方向消融（abliteration）与 Optuna/TPE 自动搜索最优参数</li><li>同时减少拒答并最小化与原模型输出差异（KL），保持智能</li></ul>
+                <p class="text-sm text-slate-400 mt-4 pt-4 border-t border-white/5"><strong class="text-white">适用场景:</strong> 快速生成低拒答的去对齐模型</p>
+            </div>
+        </div>
+        
+
+                <!-- Stats Grid -->
+                <div class="grid grid-cols-2 md:grid-cols-3 gap-4">
+                    <div class="glass-card rounded-xl p-4">
+                        <p class="text-xs text-text-muted mb-1">排名</p>
+                        <p class="text-2xl font-bold text-electric-cyan">#9</p>
+                    </div>
+                    <div class="glass-card rounded-xl p-4">
+                        <p class="text-xs text-text-muted mb-1">评分</p>
+                        <p class="text-2xl font-bold text-muted-mint">6/10</p>
+                    </div>
+                    <div class="glass-card rounded-xl p-4">
+                        <p class="text-xs text-text-muted mb-1">领域</p>
+                        <p class="text-xl font-bold text-white">AI & ML</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Right Column: Sidebar -->
+            <div class="lg:col-span-4 flex flex-col gap-6">
+                <!-- CTA Card -->
+                <div class="rounded-xl p-[1px] bg-gradient-to-br from-electric-cyan via-muted-mint to-electric-cyan/20 relative">
+                    <div class="absolute inset-0 bg-electric-cyan/20 blur-xl opacity-20"></div>
+                    <div class="bg-synapse-bg rounded-[11px] p-6 h-full relative z-10">
+                        <div class="w-12 h-12 rounded-full bg-electric-cyan/10 flex items-center justify-center mb-4 text-electric-cyan border border-electric-cyan/20">
+                            <span class="material-symbols-outlined text-3xl">code</span>
+                        </div>
+                        <h4 class="text-white font-bold text-lg mb-2">查看仓库</h4>
+                        <p class="text-text-muted text-sm leading-relaxed mb-6">
+                            p-e-w/heretic
+                        </p>
+                        <a href="https://github.com/p-e-w/heretic" target="_blank" class="w-full py-2.5 rounded-lg bg-electric-cyan hover:bg-cyan-400 text-black font-bold text-sm transition-colors flex items-center justify-center gap-2">
+                            <span>开始探索</span>
+                            <span class="material-symbols-outlined text-lg">rocket_launch</span>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Maintainer -->
+                <div class="glass-card rounded-xl p-4 flex items-center gap-4">
+                    <img src="https://github.com/p-e-w.png?size=80" alt="p-e-w" class="w-12 h-12 rounded-full ring-1 ring-synapse-border">
+                    <div>
+                        <p class="text-xs text-text-muted">Maintained by</p>
+                        <p class="text-white font-bold">p-e-w</p>
+                    </div>
+                </div>
+
+                <!-- Meta Info -->
+                <div class="glass-card rounded-xl p-4 space-y-3">
+                    <div class="flex justify-between items-center text-sm">
+                        <span class="text-text-muted">语言</span>
+                        <span class="text-white font-medium flex items-center gap-2">
+                            <span class="w-2 h-2 rounded-full" style="background: #3572A5"></span>
+                            Python
+                        </span>
+                    </div>
+                    <div class="flex justify-between items-center text-sm">
+                        <span class="text-text-muted">领域</span>
+                        <span class="text-white font-medium">AI & ML</span>
+                    </div>
+                    <div class="flex justify-between items-center text-sm">
+                        <span class="text-text-muted">Star 数</span>
+                        <span class="text-white font-medium">4,585</span>
+                    </div>
+                    <div class="flex justify-between items-center text-sm">
+                        <span class="text-text-muted">今日新增</span>
+                        <span class="text-muted-mint font-medium">+61</span>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="border-t border-synapse-border bg-synapse-bg mt-12 py-8">
+        <div class="max-w-6xl mx-auto px-6 text-center text-text-muted text-sm">
+            <p>数据来源: GitHub Trending • 2026-02-07</p>
+        </div>
+    </footer>
+</body>
+</html>
