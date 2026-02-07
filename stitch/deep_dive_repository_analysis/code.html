@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Synapse Feed - Deep Dive Analysis</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;900&amp;family=Noto+Sans+SC:wght@400;500;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#06e0f9",
+                        "secondary": "#00ffa3", // Mint accent
+                        "background-light": "#f5f8f8",
+                        "background-dark": "#0f1618", // Darker base for ultra-dark theme
+                        "surface-dark": "#1a2628",
+                        "glass-border": "rgba(255, 255, 255, 0.08)",
+                    },
+                    fontFamily: {
+                        "display": ["Inter", "sans-serif"],
+                        "chinese": ["Noto Sans SC", "Inter", "sans-serif"],
+                    },
+                    borderRadius: {"DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px"},
+                    backdropBlur: {
+                        'xs': '2px',
+                    }
+                },
+            },
+        }
+    </script>
+<style>
+        /* Custom scrollbar for ultra-dark theme */
+        ::-webkit-scrollbar {
+            width: 8px;
+            height: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #0f1618;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #2a3b3e;
+            border-radius: 4px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #3a4f52;
+        }
+        
+        /* Glassmorphism utility */
+        .glass-panel {
+            background: rgba(22, 34, 36, 0.7);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid rgba(6, 224, 249, 0.1);
+            box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);
+        }
+        
+        .glass-card {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        /* Gradient Text */
+        .text-gradient-primary {
+            background: linear-gradient(to right, #06e0f9, #00ffa3);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+    </style>
+</head>
+<body class="bg-background-light dark:bg-background-dark text-slate-900 dark:text-white font-display overflow-x-hidden min-h-screen flex flex-col">
+<!-- Top Navigation -->
+<header class="sticky top-0 z-50 w-full border-b border-[#21464a] bg-[#0f1618]/90 backdrop-blur-md">
+<div class="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
+<div class="flex items-center gap-8">
+<!-- Logo Area -->
+<div class="flex items-center gap-3 text-white cursor-pointer group">
+<div class="size-8 text-primary transition-transform group-hover:scale-110 duration-300">
+<svg fill="none" viewbox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+<path d="M24 4L6 14V34L24 44L42 34V14L24 4Z" stroke="currentColor" stroke-linejoin="round" stroke-width="4"></path>
+<path d="M24 4V44M6 14L42 34M42 14L6 34" stroke="currentColor" stroke-opacity="0.5" stroke-width="2"></path>
+<circle cx="24" cy="24" fill="currentColor" r="6"></circle>
+</svg>
+</div>
+<h2 class="text-white text-lg font-bold tracking-tight">Synapse<span class="text-primary font-normal">Feed</span></h2>
+</div>
+<!-- Nav Links -->
+<nav class="hidden md:flex items-center gap-6">
+<a class="text-slate-400 hover:text-white text-sm font-medium transition-colors" href="#">Dashboard</a>
+<a class="text-primary text-sm font-medium relative py-1" href="#">
+                        Trending
+                        <span class="absolute bottom-0 left-0 w-full h-0.5 bg-primary rounded-full shadow-[0_0_8px_#06e0f9]"></span>
+</a>
+<a class="text-slate-400 hover:text-white text-sm font-medium transition-colors" href="#">Saved</a>
+<a class="text-slate-400 hover:text-white text-sm font-medium transition-colors" href="#">Settings</a>
+</nav>
+</div>
+<div class="flex items-center gap-6">
+<!-- Search -->
+<div class="hidden md:flex items-center bg-[#1a2628] rounded-full px-4 py-1.5 border border-[#21464a] focus-within:border-primary/50 focus-within:ring-1 focus-within:ring-primary/20 transition-all w-64">
+<span class="material-symbols-outlined text-slate-400 text-[20px]">search</span>
+<input class="bg-transparent border-none focus:ring-0 text-sm text-white placeholder-slate-500 w-full ml-2" placeholder="Search repos..." type="text"/>
+</div>
+<!-- Profile -->
+<button class="relative">
+<div class="size-9 rounded-full bg-cover bg-center border border-primary/30 ring-2 ring-transparent hover:ring-primary/20 transition-all" data-alt="User profile picture with abstract purple lighting" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuBTH63PjBZCd9_hCJFXgpA_yKHilYrNeO-g-0CtbCsxV69WCGk41Hyy1GtK73KIhfHgqHK2RAiK4NyOGre932hsUCD-XVPLemBFmk4lV6x5OAZdDstp8WfX8j-pqzAl0pGvXtdqdc_951ICN9tv7r1OElun7e83CFddk_qTJCiSH8jWwzelVwTcoIIf2HdOVtyHPKMMXTHo0H0yvOhytcWbXsmlzboWa00Xcxu9aOm02WlwRh_MH6ylmuBPbOwwfLKLKjF40PBnJpE2");'></div>
+<div class="absolute bottom-0 right-0 size-2.5 bg-secondary rounded-full border-2 border-[#0f1618]"></div>
+</button>
+</div>
+</div>
+</header>
+<!-- Main Content -->
+<main class="flex-grow w-full max-w-7xl mx-auto px-6 py-8">
+<!-- Breadcrumbs -->
+<div class="flex items-center gap-2 mb-8 text-sm text-slate-400">
+<a class="hover:text-primary transition-colors" href="#">Trending</a>
+<span class="material-symbols-outlined text-[16px]">chevron_right</span>
+<span class="text-white">OmniParse</span>
+</div>
+<!-- Deep Dive Layout -->
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-8">
+<!-- Left Column: Main Analysis (8 cols) -->
+<div class="lg:col-span-8 flex flex-col gap-8">
+<!-- Hero Card -->
+<div class="glass-panel rounded-xl p-8 relative overflow-hidden group">
+<!-- Background Glow Effect -->
+<div class="absolute -top-24 -right-24 size-64 bg-primary/10 blur-[80px] rounded-full pointer-events-none group-hover:bg-primary/15 transition-all duration-700"></div>
+<div class="relative z-10">
+<div class="flex flex-wrap items-start justify-between gap-4 mb-6">
+<div class="flex flex-col gap-2">
+<div class="flex items-center gap-3">
+<h1 class="text-4xl md:text-5xl font-black text-white tracking-tight">OmniParse</h1>
+<span class="bg-primary/10 text-primary border border-primary/20 text-xs font-bold px-2 py-0.5 rounded uppercase tracking-wider animate-pulse shadow-[0_0_10px_rgba(6,224,249,0.3)]">New</span>
+</div>
+<p class="text-slate-400 text-lg max-w-2xl">A fully localized, high-precision data ingestion system for LLMs capable of parsing complex PDFs into structured markdown.</p>
+</div>
+<div class="flex items-center gap-3">
+<a class="flex items-center justify-center size-10 rounded-lg bg-[#24292e] hover:bg-[#2f363d] text-white border border-white/10 transition-all hover:-translate-y-0.5 shadow-lg" href="#" title="View on GitHub">
+<svg class="size-6" fill="currentColor" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.065 1.815 2.805 1.29 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.525.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405 1.02 0 2.04.135 3 .405 2.28-1.545 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.92 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.285 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"></path></svg>
+</a>
+<a class="flex items-center justify-center size-10 rounded-lg bg-[#ff6600] hover:bg-[#ff7417] text-white transition-all hover:-translate-y-0.5 shadow-lg shadow-orange-500/20" href="#" title="View on Hacker News">
+<span class="font-bold text-lg font-mono">Y</span>
+</a>
+</div>
+</div>
+<!-- Meta Strip -->
+<div class="flex flex-wrap items-center gap-6 text-sm text-slate-400 border-t border-white/5 pt-4 mt-2">
+<div class="flex items-center gap-2">
+<span class="size-2.5 rounded-full bg-yellow-400 shadow-[0_0_8px_rgba(250,204,21,0.5)]"></span>
+<span>Python</span>
+</div>
+<div class="flex items-center gap-1.5">
+<span class="material-symbols-outlined text-[18px]">star</span>
+<span class="text-white font-medium">2.4k</span> stars
+                            </div>
+<div class="flex items-center gap-1.5">
+<span class="material-symbols-outlined text-[18px]">account_tree</span>
+<span class="text-white font-medium">142</span> forks
+                            </div>
+<div class="flex items-center gap-1.5 ml-auto">
+<span class="material-symbols-outlined text-[18px] text-primary">schedule</span>
+<span>Trending since 4h ago</span>
+</div>
+</div>
+</div>
+</div>
+<!-- The What (Technical) -->
+<div class="rounded-xl border border-[#21464a] bg-[#131d1f] overflow-hidden">
+<div class="px-6 py-4 border-b border-[#21464a] bg-[#1a2628] flex items-center justify-between">
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-primary">terminal</span>
+<h3 class="text-white font-bold text-lg">Technical Analysis</h3>
+</div>
+<span class="text-xs font-mono text-slate-500 uppercase">LLM Generated • gpt-4-turbo</span>
+</div>
+<div class="p-6 md:p-8 font-chinese text-slate-300 leading-relaxed space-y-4">
+<h4 class="text-xl font-bold text-white mb-2">技术解析 (The What)</h4>
+<p>
+                            OmniParse 是一个完全本地化的数据摄取系统，旨在将非结构化数据转化为大语言模型（LLM）可用的结构化格式。其核心架构基于 Python，利用了先进的 OCR 技术和布局分析算法，能够精准处理包含复杂表格、图像和多列排版的 PDF 文档。
+                        </p>
+<div class="grid md:grid-cols-2 gap-4 my-6">
+<div class="bg-[#0f1618] p-4 rounded-lg border border-white/5">
+<h5 class="text-primary font-bold mb-2 text-sm flex items-center gap-2">
+<span class="material-symbols-outlined text-[16px]">memory</span>
+                                    Core Capabilities
+                                </h5>
+<ul class="list-disc list-inside text-sm space-y-1 text-slate-400">
+<li>Supports PDF, PowerPoint, Word</li>
+<li>Integration with LlamaIndex</li>
+<li>Dockerized for easy deployment</li>
+</ul>
+</div>
+<div class="bg-[#0f1618] p-4 rounded-lg border border-white/5">
+<h5 class="text-secondary font-bold mb-2 text-sm flex items-center gap-2">
+<span class="material-symbols-outlined text-[16px]">speed</span>
+                                    Performance
+                                </h5>
+<ul class="list-disc list-inside text-sm space-y-1 text-slate-400">
+<li>0.4s average parsing time per page</li>
+<li>Low VRAM requirement (runs on T4)</li>
+<li>Batch processing supported</li>
+</ul>
+</div>
+</div>
+<p>
+                            与传统的解析工具不同，OmniParse 并不依赖外部 API，这使得它非常适合对数据隐私有严格要求的企业环境。
+                        </p>
+</div>
+</div>
+<!-- The Why (Comparator) -->
+<div class="rounded-xl border border-[#21464a] bg-[#131d1f] p-6">
+<div class="flex items-center gap-2 mb-6">
+<span class="material-symbols-outlined text-secondary">balance</span>
+<h3 class="text-white font-bold text-lg">Why it Matters</h3>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-3 gap-0 border border-[#21464a] rounded-lg overflow-hidden">
+<!-- Header / Labels -->
+<div class="hidden md:flex flex-col bg-[#1a2628] md:col-span-1 border-b md:border-b-0 md:border-r border-[#21464a]">
+<div class="h-14"></div> <!-- Spacer -->
+<div class="flex-1 p-4 border-b border-[#21464a] flex items-center text-sm font-medium text-slate-400">Privacy &amp; Local First</div>
+<div class="flex-1 p-4 border-b border-[#21464a] flex items-center text-sm font-medium text-slate-400">Table Extraction</div>
+<div class="flex-1 p-4 border-b border-[#21464a] flex items-center text-sm font-medium text-slate-400">Dependency Heavy</div>
+<div class="flex-1 p-4 flex items-center text-sm font-medium text-slate-400">License</div>
+</div>
+<!-- OmniParse Column -->
+<div class="flex flex-col bg-[#0f1618]/50 md:col-span-1 border-b md:border-b-0 md:border-r border-[#21464a] relative">
+<div class="absolute top-0 left-0 w-full h-1 bg-primary shadow-[0_0_10px_#06e0f9]"></div>
+<div class="h-14 flex items-center justify-center border-b border-[#21464a] bg-[#131d1f]">
+<span class="font-bold text-white text-lg">OmniParse</span>
+</div>
+<div class="flex-1 p-4 border-b border-[#21464a] flex items-center justify-between md:justify-center text-sm text-white">
+<span class="md:hidden text-slate-500">Privacy</span>
+<span class="text-secondary flex items-center gap-1"><span class="material-symbols-outlined text-[18px]">check_circle</span> Native</span>
+</div>
+<div class="flex-1 p-4 border-b border-[#21464a] flex items-center justify-between md:justify-center text-sm text-white">
+<span class="md:hidden text-slate-500">Tables</span>
+<span class="text-secondary flex items-center gap-1"><span class="material-symbols-outlined text-[18px]">check_circle</span> Advanced</span>
+</div>
+<div class="flex-1 p-4 border-b border-[#21464a] flex items-center justify-between md:justify-center text-sm text-white">
+<span class="md:hidden text-slate-500">Dependencies</span>
+<span class="text-slate-300">Moderate</span>
+</div>
+<div class="flex-1 p-4 flex items-center justify-between md:justify-center text-sm text-white">
+<span class="md:hidden text-slate-500">License</span>
+<span class="font-mono text-xs bg-slate-800 px-2 py-1 rounded">GPL-3.0</span>
+</div>
+</div>
+<!-- Competitor Column -->
+<div class="flex flex-col bg-[#131d1f] md:col-span-1">
+<div class="h-14 flex items-center justify-center border-b border-[#21464a] bg-[#1a2628]">
+<span class="font-bold text-slate-400 text-lg">Standard OCR Tools</span>
+</div>
+<div class="flex-1 p-4 border-b border-[#21464a] flex items-center justify-between md:justify-center text-sm text-white">
+<span class="md:hidden text-slate-500">Privacy</span>
+<span class="text-red-400 flex items-center gap-1"><span class="material-symbols-outlined text-[18px]">cancel</span> Cloud/API</span>
+</div>
+<div class="flex-1 p-4 border-b border-[#21464a] flex items-center justify-between md:justify-center text-sm text-white">
+<span class="md:hidden text-slate-500">Tables</span>
+<span class="text-yellow-400 flex items-center gap-1"><span class="material-symbols-outlined text-[18px]">warning</span> Hit or Miss</span>
+</div>
+<div class="flex-1 p-4 border-b border-[#21464a] flex items-center justify-between md:justify-center text-sm text-white">
+<span class="md:hidden text-slate-500">Dependencies</span>
+<span class="text-slate-300">High</span>
+</div>
+<div class="flex-1 p-4 flex items-center justify-between md:justify-center text-sm text-white">
+<span class="md:hidden text-slate-500">License</span>
+<span class="font-mono text-xs bg-slate-800 px-2 py-1 rounded">Various</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Right Column: Community & Action (4 cols) -->
+<div class="lg:col-span-4 flex flex-col gap-6">
+<!-- HN Intelligence -->
+<div class="glass-card rounded-xl p-6 h-fit">
+<div class="flex items-center justify-between mb-6">
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-[#ff6600]">forum</span>
+<h3 class="text-white font-bold text-lg">HN Intelligence</h3>
+</div>
+<a class="text-xs text-primary hover:text-white transition-colors" href="#">View Thread</a>
+</div>
+<div class="space-y-4">
+<!-- Comment 1 -->
+<div class="group">
+<div class="bg-[#1a2628] p-4 rounded-lg rounded-tl-none border border-white/5 relative">
+<svg class="absolute -top-[1px] -left-[8px] text-[#1a2628]" fill="currentColor" height="12" viewbox="0 0 8 12" width="8"><path d="M8 12L0 0H8V12Z"></path></svg>
+<p class="text-slate-300 text-sm italic mb-2">"This solves the biggest pain point of PDF parsing - tables spanning multiple pages. I've been hacking Unstructured.io for weeks to do this."</p>
+<div class="flex items-center justify-between text-xs">
+<span class="font-bold text-primary">@dev_ops_ninja</span>
+<span class="flex items-center gap-1 text-secondary font-medium"><span class="material-symbols-outlined text-[14px]">arrow_upward</span> 142</span>
+</div>
+</div>
+</div>
+<!-- Comment 2 -->
+<div class="group">
+<div class="bg-[#1a2628] p-4 rounded-lg rounded-tl-none border border-white/5 relative">
+<svg class="absolute -top-[1px] -left-[8px] text-[#1a2628]" fill="currentColor" height="12" viewbox="0 0 8 12" width="8"><path d="M8 12L0 0H8V12Z"></path></svg>
+<p class="text-slate-300 text-sm italic mb-2">"Impressive, but be careful with the GPL license if you're embedding this into a proprietary SaaS product."</p>
+<div class="flex items-center justify-between text-xs">
+<span class="font-bold text-slate-400">@legal_eagle</span>
+<span class="flex items-center gap-1 text-slate-400 font-medium"><span class="material-symbols-outlined text-[14px]">arrow_upward</span> 56</span>
+</div>
+</div>
+</div>
+<!-- Comment 3 -->
+<div class="group">
+<div class="bg-[#1a2628] p-4 rounded-lg rounded-tl-none border border-white/5 relative">
+<svg class="absolute -top-[1px] -left-[8px] text-[#1a2628]" fill="currentColor" height="12" viewbox="0 0 8 12" width="8"><path d="M8 12L0 0H8V12Z"></path></svg>
+<p class="text-slate-300 text-sm italic mb-2">"Does this support scanned documents or just digital PDFs? The OCR dependency suggests image-based processing."</p>
+<div class="flex items-center justify-between text-xs">
+<span class="font-bold text-slate-400">@curious_cat</span>
+<span class="flex items-center gap-1 text-slate-400 font-medium"><span class="material-symbols-outlined text-[14px]">arrow_upward</span> 24</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Actionable Idea -->
+<div class="rounded-xl p-[1px] bg-gradient-to-br from-primary via-secondary to-primary/20 relative group">
+<div class="absolute inset-0 bg-primary/20 blur-xl opacity-20 group-hover:opacity-40 transition-opacity"></div>
+<div class="bg-[#0f1618] rounded-[11px] p-6 h-full relative z-10">
+<div class="size-12 rounded-full bg-primary/10 flex items-center justify-center mb-4 text-primary border border-primary/20">
+<span class="material-symbols-outlined text-[28px]">lightbulb</span>
+</div>
+<h4 class="text-white font-bold text-lg mb-2">Actionable Idea</h4>
+<p class="text-slate-300 text-sm leading-relaxed mb-6">
+                            Build a specialized VS Code extension that uses OmniParse to auto-document legacy PDF specs directly into your code comments or markdown files.
+                        </p>
+<button class="w-full py-2.5 rounded-lg bg-primary hover:bg-[#33e7fc] text-[#0f1618] font-bold text-sm transition-colors flex items-center justify-center gap-2">
+<span>Start Project</span>
+<span class="material-symbols-outlined text-[18px]">rocket_launch</span>
+</button>
+</div>
+</div>
+<!-- Related Repos -->
+<div class="border-t border-[#21464a] pt-6">
+<h4 class="text-slate-400 text-xs font-bold uppercase tracking-wider mb-4">Related Trending</h4>
+<div class="flex flex-col gap-3">
+<a class="flex items-center gap-3 p-2 rounded-lg hover:bg-[#1a2628] transition-colors group" href="#">
+<div class="size-8 rounded bg-white/5 flex items-center justify-center text-white font-bold text-xs border border-white/10 group-hover:border-primary/30">L</div>
+<div class="flex flex-col">
+<span class="text-white text-sm font-medium group-hover:text-primary transition-colors">LlamaIndex</span>
+<span class="text-xs text-slate-500">Data framework for LLMs</span>
+</div>
+</a>
+<a class="flex items-center gap-3 p-2 rounded-lg hover:bg-[#1a2628] transition-colors group" href="#">
+<div class="size-8 rounded bg-white/5 flex items-center justify-center text-white font-bold text-xs border border-white/10 group-hover:border-primary/30">U</div>
+<div class="flex flex-col">
+<span class="text-white text-sm font-medium group-hover:text-primary transition-colors">Unstructured</span>
+<span class="text-xs text-slate-500">ETL for LLMs</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</main>
+<!-- Footer -->
+<footer class="border-t border-[#21464a] bg-[#0f1618] mt-12 py-8">
+<div class="max-w-7xl mx-auto px-6 text-center text-slate-500 text-sm">
+<p>© 2024 Synapse Feed. Aggregating intelligence for developers.</p>
+</div>
+</footer>
+</body></html>

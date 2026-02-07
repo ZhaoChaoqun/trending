@@ -1,0 +1,1640 @@
+<!DOCTYPE html>
+<html lang="zh-CN" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Trending 每日热榜 - 2026-02-06</title>
+    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg" type="image/svg+xml">
+    <link rel="icon" href="https://github.githubassets.com/favicons/favicon-dark.png" type="image/png" media="(prefers-color-scheme: dark)">
+    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.png" type="image/png" media="(prefers-color-scheme: light)">
+    <link rel="apple-touch-icon" href="https://github.githubassets.com/apple-touch-icon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+    <style>
+        /* Synapse 深色科技主题 */
+        :root {
+            --bg-primary: #0b1015;
+            --bg-secondary: #161e27;
+            --bg-tertiary: #111820;
+            --bg-surface: #1a2332;
+            --text-primary: #f0f6fc;
+            --text-secondary: #94a3b8;
+            --text-muted: #6e7681;
+            --border-color: #2a3642;
+            --accent-primary: #137fec;
+            --accent-secondary: #00ff9d;
+            --accent-green: #00ff9d;
+            --accent-red: #f85149;
+            --accent-blue: #137fec;
+            --accent-yellow: #fbbf24;
+            --accent-purple: #a78bfa;
+            --card-shadow: rgba(0, 0, 0, 0.5);
+            --glow-primary: rgba(19, 127, 236, 0.4);
+            --glow-secondary: rgba(0, 255, 157, 0.3);
+        }
+
+        /* 浅色主题 */
+        [data-theme="light"] {
+            --bg-primary: #f8fafc;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f1f5f9;
+            --bg-surface: #e2e8f0;
+            --text-primary: #0f172a;
+            --text-secondary: #475569;
+            --text-muted: #64748b;
+            --border-color: #cbd5e1;
+            --accent-primary: #0ea5e9;
+            --accent-secondary: #10b981;
+            --accent-green: #10b981;
+            --accent-red: #ef4444;
+            --accent-blue: #0ea5e9;
+            --accent-yellow: #f59e0b;
+            --accent-purple: #8b5cf6;
+            --card-shadow: rgba(0, 0, 0, 0.1);
+            --glow-primary: rgba(14, 165, 233, 0.2);
+            --glow-secondary: rgba(16, 185, 129, 0.2);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* 自定义滚动条 - 终端风格 */
+        ::-webkit-scrollbar {
+            width: 8px;
+            height: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: var(--bg-tertiary);
+        }
+        ::-webkit-scrollbar-thumb {
+            background: var(--border-color);
+            border-radius: 4px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #374151;
+        }
+
+        body {
+            font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            min-height: 100vh;
+            line-height: 1.5;
+            transition: background 0.3s ease, color 0.3s ease;
+        }
+
+        /* 网格背景 */
+        .grid-bg {
+            background-size: 40px 40px;
+            background-image:
+                linear-gradient(to right, rgba(255, 255, 255, 0.02) 1px, transparent 1px),
+                linear-gradient(to bottom, rgba(255, 255, 255, 0.02) 1px, transparent 1px);
+        }
+
+        [data-theme="light"] .grid-bg {
+            background-image:
+                linear-gradient(to right, rgba(0, 0, 0, 0.03) 1px, transparent 1px),
+                linear-gradient(to bottom, rgba(0, 0, 0, 0.03) 1px, transparent 1px);
+        }
+
+        /* 脉冲动画 - 蓝色 */
+        .pulse-dot {
+            box-shadow: 0 0 0 0 var(--glow-primary);
+            animation: pulse-blue 2s infinite;
+        }
+
+        @keyframes pulse-blue {
+            0% {
+                transform: scale(0.95);
+                box-shadow: 0 0 0 0 var(--glow-primary);
+            }
+            70% {
+                transform: scale(1);
+                box-shadow: 0 0 0 10px rgba(19, 127, 236, 0);
+            }
+            100% {
+                transform: scale(0.95);
+                box-shadow: 0 0 0 0 rgba(19, 127, 236, 0);
+            }
+        }
+
+        /* 脉冲动画 - 绿色 */
+        .pulse-dot-green {
+            box-shadow: 0 0 0 0 var(--glow-secondary);
+            animation: pulse-green 2s infinite;
+        }
+
+        @keyframes pulse-green {
+            0% {
+                transform: scale(0.95);
+                box-shadow: 0 0 0 0 var(--glow-secondary);
+            }
+            70% {
+                transform: scale(1);
+                box-shadow: 0 0 0 6px rgba(0, 255, 157, 0);
+            }
+            100% {
+                transform: scale(0.95);
+                box-shadow: 0 0 0 0 rgba(0, 255, 157, 0);
+            }
+        }
+
+        /* 悬浮发光效果 */
+        .glow-hover {
+            transition: all 0.3s ease;
+        }
+        .glow-hover:hover {
+            box-shadow: 0 0 20px var(--glow-primary), 0 8px 32px var(--card-shadow);
+        }
+
+        .container {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 0;
+        }
+
+        /* 顶部导航栏 - Synapse 风格 */
+        .top-nav {
+            height: 56px;
+            border-bottom: 1px solid var(--border-color);
+            background: var(--bg-tertiary);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 1.5rem;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            backdrop-filter: blur(10px);
+        }
+
+        .nav-brand {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+
+        .nav-logo {
+            width: 32px;
+            height: 32px;
+            border-radius: 8px;
+            background: linear-gradient(135deg, var(--accent-primary), #1e40af);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .nav-logo .material-symbols-outlined {
+            color: white;
+            font-size: 20px;
+        }
+
+        .nav-title {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .nav-title h1 {
+            font-size: 1rem;
+            font-weight: 700;
+            letter-spacing: 0.05em;
+            line-height: 1.2;
+            background: none;
+            -webkit-text-fill-color: var(--text-primary);
+        }
+
+        .nav-title h1 span {
+            color: var(--accent-primary);
+        }
+
+        .nav-title .nav-subtitle {
+            font-size: 0.65rem;
+            color: var(--text-muted);
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .nav-divider {
+            width: 1px;
+            height: 24px;
+            background: var(--border-color);
+            margin: 0 0.75rem;
+        }
+
+        .nav-status {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.35rem 0.75rem;
+            background: rgba(0, 255, 157, 0.1);
+            border: 1px solid rgba(0, 255, 157, 0.2);
+            border-radius: 6px;
+        }
+
+        .status-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: var(--accent-secondary);
+        }
+
+        .nav-status span {
+            font-size: 0.7rem;
+            font-family: 'JetBrains Mono', monospace;
+            color: var(--accent-secondary);
+            font-weight: 500;
+        }
+
+        .nav-center {
+            display: flex;
+            align-items: center;
+            gap: 1.5rem;
+        }
+
+        .nav-stats {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            font-size: 0.75rem;
+            font-family: 'JetBrains Mono', monospace;
+            color: var(--text-muted);
+        }
+
+        .nav-stat {
+            display: flex;
+            align-items: center;
+            gap: 0.35rem;
+        }
+
+        .nav-stat .material-symbols-outlined {
+            font-size: 16px;
+        }
+
+        .nav-right {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+
+        .nav-btn {
+            background: none;
+            border: none;
+            color: var(--text-muted);
+            cursor: pointer;
+            padding: 0.5rem;
+            border-radius: 6px;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .nav-btn:hover {
+            color: var(--text-primary);
+            background: var(--bg-secondary);
+        }
+
+        .nav-btn .material-symbols-outlined {
+            font-size: 20px;
+        }
+
+        /* 主题切换按钮 */
+        .theme-toggle {
+            display: flex;
+            align-items: center;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 20px;
+            padding: 0.25rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .theme-toggle:hover {
+            border-color: var(--accent-primary);
+        }
+
+        .theme-toggle .icon {
+            font-size: 0.9rem;
+            width: 24px;
+            height: 24px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            transition: all 0.3s ease;
+        }
+
+        .theme-toggle .icon.active {
+            background: var(--accent-primary);
+            color: white;
+        }
+
+        /* 主内容区 */
+        .main-content {
+            padding: 1.5rem;
+        }
+
+        /* 统计卡片区域 - Synapse 风格 */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .stat-card {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 1rem;
+            position: relative;
+            overflow: hidden;
+            transition: all 0.3s ease;
+        }
+
+        .stat-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            right: 0;
+            width: 80px;
+            height: 80px;
+            border-radius: 0 0 0 100%;
+            opacity: 0.1;
+            margin-right: -40px;
+            margin-top: -40px;
+        }
+
+        .stat-card.green::before { background: var(--accent-green); }
+        .stat-card.blue::before { background: var(--accent-blue); }
+        .stat-card.red::before { background: var(--accent-red); }
+        .stat-card.purple::before { background: var(--accent-purple); }
+
+        .stat-card:hover {
+            border-color: var(--accent-primary);
+            transform: translateY(-2px);
+        }
+
+        .stat-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 0.75rem;
+        }
+
+        .stat-header-left {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .stat-header .material-symbols-outlined {
+            font-size: 20px;
+        }
+
+        .stat-card.green .material-symbols-outlined { color: var(--accent-green); }
+        .stat-card.blue .material-symbols-outlined { color: var(--accent-blue); }
+        .stat-card.red .material-symbols-outlined { color: var(--accent-red); }
+        .stat-card.purple .material-symbols-outlined { color: var(--accent-purple); }
+
+        .stat-title {
+            font-size: 0.85rem;
+            font-weight: 600;
+        }
+
+        .stat-trend {
+            font-size: 0.7rem;
+            font-family: 'JetBrains Mono', monospace;
+            display: flex;
+            align-items: center;
+            gap: 0.25rem;
+        }
+
+        .stat-trend.up { color: var(--accent-green); }
+        .stat-trend.down { color: var(--accent-red); }
+
+        .stat-trend .material-symbols-outlined {
+            font-size: 14px;
+        }
+
+        .stat-body {
+            display: flex;
+            align-items: flex-end;
+            justify-content: space-between;
+        }
+
+        .stat-value {
+            font-size: 2rem;
+            font-weight: 700;
+            letter-spacing: -0.02em;
+        }
+
+        .stat-value span {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            font-weight: 400;
+        }
+
+        .stat-label {
+            font-size: 0.65rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            margin-top: 0.25rem;
+        }
+
+        /* 圆形进度条 */
+        .progress-ring {
+            width: 44px;
+            height: 44px;
+            position: relative;
+        }
+
+        .progress-ring svg {
+            transform: rotate(-90deg);
+            width: 100%;
+            height: 100%;
+        }
+
+        .progress-ring .bg {
+            fill: none;
+            stroke: var(--border-color);
+            stroke-width: 4;
+        }
+
+        .progress-ring .progress {
+            fill: none;
+            stroke-width: 4;
+            stroke-linecap: round;
+            transition: stroke-dasharray 0.5s ease;
+        }
+
+        .stat-card.green .progress-ring .progress { stroke: var(--accent-green); }
+        .stat-card.blue .progress-ring .progress { stroke: var(--accent-blue); }
+        .stat-card.red .progress-ring .progress { stroke: var(--accent-red); }
+        .stat-card.purple .progress-ring .progress { stroke: var(--accent-purple); }
+
+        .stat-tags {
+            margin-top: 0.75rem;
+            padding-top: 0.75rem;
+            border-top: 1px solid var(--border-color);
+        }
+
+        .stat-tag {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 0.75rem;
+            margin-bottom: 0.35rem;
+        }
+
+        .stat-tag:last-child {
+            margin-bottom: 0;
+        }
+
+        .stat-tag-name {
+            color: var(--text-muted);
+        }
+
+        .stat-tag-value {
+            color: var(--text-primary);
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        /* Section 标题 */
+        .section-header {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            margin-bottom: 1rem;
+        }
+
+        .section-header h2 {
+            font-size: 1.25rem;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .section-header .material-symbols-outlined {
+            color: var(--accent-primary);
+        }
+
+        .section-badge {
+            font-size: 0.65rem;
+            font-family: 'JetBrains Mono', monospace;
+            padding: 0.25rem 0.5rem;
+            background: var(--accent-primary);
+            color: white;
+            border-radius: 4px;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        /* Heatmap Section */
+        .heatmap-section {
+            margin-bottom: 1.5rem;
+        }
+
+        #treemap-wrapper {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            overflow: hidden;
+        }
+
+        #treemap-chart {
+            background: transparent !important;
+            border: none !important;
+        }
+
+        /* Banner Section */
+        .banner-section {
+            margin-bottom: 1.5rem;
+        }
+
+        .banner-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 1rem;
+        }
+
+        /* Project Grid */
+        .project-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 1rem;
+        }
+
+        .project-card {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 1rem;
+            text-decoration: none;
+            color: inherit;
+            transition: all 0.3s ease;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .project-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 3px;
+            background: var(--heat-color);
+        }
+
+        .project-card:hover {
+            transform: translateY(-4px);
+            border-color: var(--accent-primary);
+            box-shadow: 0 0 20px var(--glow-primary), 0 12px 40px var(--card-shadow);
+        }
+
+        .project-card.new-project {
+            border-color: var(--accent-yellow);
+        }
+
+        .project-card.new-project:hover {
+            box-shadow: 0 0 20px rgba(251, 191, 36, 0.3), 0 12px 40px var(--card-shadow);
+        }
+
+        .card-header {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            margin-bottom: 0.75rem;
+        }
+
+        .rank {
+            font-weight: 700;
+            color: var(--text-muted);
+            font-size: 0.8rem;
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .change {
+            font-size: 0.7rem;
+            font-weight: 600;
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+            background: var(--bg-tertiary);
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .change.up {
+            color: var(--accent-green);
+            background: rgba(0, 255, 157, 0.1);
+            border: 1px solid rgba(0, 255, 157, 0.2);
+        }
+
+        .change.down {
+            color: var(--accent-red);
+            background: rgba(248, 81, 73, 0.1);
+            border: 1px solid rgba(248, 81, 73, 0.2);
+        }
+
+        .new-badge {
+            background: linear-gradient(135deg, var(--accent-yellow), #f59e0b);
+            color: #000;
+            font-size: 0.6rem;
+            font-weight: 700;
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+            margin-left: auto;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .card-body {
+            flex: 1;
+        }
+
+        .project-name {
+            font-size: 1rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: 0.25rem;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .project-author {
+            color: var(--accent-primary);
+            font-size: 0.8rem;
+            margin-bottom: 0.5rem;
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .project-desc {
+            color: var(--text-secondary);
+            font-size: 0.8rem;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            min-height: 2.4rem;
+            line-height: 1.5;
+        }
+
+        /* AI Summary Styles */
+        .ai-summary {
+            margin-top: 0.75rem;
+            padding: 0.75rem;
+            background: var(--bg-tertiary);
+            border-radius: 8px;
+            border-left: 3px solid var(--accent-yellow);
+        }
+
+        .ai-desc {
+            font-size: 0.8rem;
+            color: var(--text-primary);
+            line-height: 1.5;
+            margin-bottom: 0.5rem;
+        }
+
+        .ai-highlights {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            padding-left: 1rem;
+            margin: 0.5rem 0;
+        }
+
+        .ai-highlights li {
+            margin-bottom: 0.25rem;
+        }
+
+        .ai-use-cases {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin: 0;
+        }
+
+        .project-card.has-ai {
+            border-color: var(--accent-yellow);
+        }
+
+        .card-footer {
+            margin-top: 0.75rem;
+            padding-top: 0.75rem;
+            border-top: 1px solid var(--border-color);
+        }
+
+        .stats {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 0.5rem;
+        }
+
+        .stars {
+            color: var(--accent-yellow);
+            font-weight: 600;
+            font-size: 0.85rem;
+            display: flex;
+            align-items: center;
+            gap: 0.25rem;
+        }
+
+        .today {
+            color: var(--accent-green);
+            font-size: 0.8rem;
+            font-weight: 600;
+            font-family: 'JetBrains Mono', monospace;
+            padding: 0.2rem 0.5rem;
+            background: rgba(0, 255, 157, 0.1);
+            border-radius: 4px;
+        }
+
+        .meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .language {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            display: flex;
+            align-items: center;
+            gap: 0.35rem;
+        }
+
+        .language::before {
+            content: '';
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background: var(--lang-color);
+        }
+
+        .score {
+            font-size: 0.7rem;
+            color: var(--accent-primary);
+            background: rgba(19, 127, 236, 0.1);
+            border: 1px solid rgba(19, 127, 236, 0.2);
+            padding: 0.2rem 0.6rem;
+            border-radius: 20px;
+            font-family: 'JetBrains Mono', monospace;
+            font-weight: 500;
+        }
+
+        .contributors {
+            display: flex;
+            align-items: center;
+        }
+
+        .contributor-avatar {
+            width: 22px;
+            height: 22px;
+            border-radius: 50%;
+            border: 2px solid var(--bg-secondary);
+            margin-left: -8px;
+            transition: transform 0.2s;
+        }
+
+        .contributor-avatar:first-child {
+            margin-left: 0;
+        }
+
+        .contributor-avatar:hover {
+            transform: scale(1.1);
+            z-index: 1;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 2rem;
+            padding: 1.5rem;
+            border-top: 1px solid var(--border-color);
+            color: var(--text-muted);
+            font-size: 0.8rem;
+            background: var(--bg-tertiary);
+        }
+
+        footer a {
+            color: var(--accent-primary);
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+
+        footer a:hover {
+            color: var(--accent-secondary);
+        }
+
+        footer p {
+            margin: 0.25rem 0;
+        }
+
+        /* Modal Styles */
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.8);
+            backdrop-filter: blur(4px);
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        }
+
+        .modal-content {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            padding: 2rem;
+            max-width: 420px;
+            width: 90%;
+            position: relative;
+            text-align: center;
+            box-shadow: 0 0 40px var(--glow-primary);
+        }
+
+        .modal-close {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            width: 32px;
+            height: 32px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.2rem;
+            color: var(--text-muted);
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .modal-close:hover {
+            color: var(--text-primary);
+            border-color: var(--accent-primary);
+        }
+
+        .modal-content h3 {
+            margin-bottom: 0.5rem;
+            color: var(--text-primary);
+            font-size: 1.25rem;
+        }
+
+        .modal-desc {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            margin-bottom: 1.5rem;
+        }
+
+        #subscribeForm {
+            display: flex;
+            gap: 0.5rem;
+        }
+
+        #subscribeEmail {
+            flex: 1;
+            padding: 0.75rem 1rem;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            font-size: 0.9rem;
+            font-family: 'JetBrains Mono', monospace;
+            transition: border-color 0.2s;
+        }
+
+        #subscribeEmail:focus {
+            outline: none;
+            border-color: var(--accent-primary);
+            box-shadow: 0 0 0 3px var(--glow-primary);
+        }
+
+        .submit-btn {
+            padding: 0.75rem 1.5rem;
+            background: linear-gradient(135deg, var(--accent-primary), #1e40af);
+            color: #fff;
+            border: none;
+            border-radius: 8px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .submit-btn:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 4px 12px var(--glow-primary);
+        }
+
+        .modal-note {
+            margin-top: 1rem;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+        }
+
+        /* 语言统计条 */
+        .lang-stats-bar {
+            display: flex;
+            justify-content: center;
+            gap: 1.5rem;
+            flex-wrap: wrap;
+            padding: 0.75rem 1rem;
+            background: var(--bg-secondary);
+            border-radius: 8px;
+            margin-bottom: 1.5rem;
+        }
+
+        .lang-stat {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            color: var(--text-secondary);
+            font-size: 0.8rem;
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .lang-dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+        }
+
+        @media (max-width: 1024px) {
+            .stats-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .nav-stats {
+                display: none;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .main-content {
+                padding: 1rem;
+            }
+
+            .stats-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .project-grid,
+            .banner-container {
+                grid-template-columns: 1fr;
+            }
+
+            .top-nav {
+                padding: 0 1rem;
+            }
+
+            .nav-status {
+                display: none;
+            }
+
+            .lang-stats-bar {
+                gap: 1rem;
+            }
+        }
+    </style>
+</head>
+<body class="grid-bg">
+    <!-- 顶部导航栏 - Synapse 风格 -->
+    <nav class="top-nav">
+        <div class="nav-brand">
+            <div class="nav-logo">
+                <span class="material-symbols-outlined">trending_up</span>
+            </div>
+            <div class="nav-title">
+                <h1>GITHUB<span>TRENDING</span></h1>
+                <p class="nav-subtitle">Daily Hot Tracker v2.0</p>
+            </div>
+            <div class="nav-divider"></div>
+            <div class="nav-status">
+                <div class="status-dot pulse-dot-green"></div>
+                <span>SYNCED</span>
+            </div>
+        </div>
+        <div class="nav-center">
+            <div class="nav-stats">
+                <div class="nav-stat">
+                    <span class="material-symbols-outlined">calendar_today</span>
+                    <span>2026-02-06</span>
+                </div>
+                <div class="nav-stat">
+                    <span class="material-symbols-outlined">folder</span>
+                    <span>6 repos</span>
+                </div>
+                <div class="nav-stat">
+                    <span class="material-symbols-outlined">language</span>
+                    <span>5 langs</span>
+                </div>
+            </div>
+        </div>
+        <div class="nav-right">
+            <button class="nav-btn" onclick="document.getElementById('subscribeModal').style.display='flex'" title="Subscribe">
+                <span class="material-symbols-outlined">mail</span>
+            </button>
+            <button class="nav-btn" onclick="window.open('https://github.com/trending', '_blank')" title="GitHub Trending">
+                <span class="material-symbols-outlined">open_in_new</span>
+            </button>
+            <div class="theme-toggle" onclick="toggleTheme()" title="Toggle Theme">
+                <span class="icon active" id="darkIcon">🌙</span>
+                <span class="icon" id="lightIcon">☀️</span>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        <main class="main-content">
+            <!-- 统计卡片区域 - Synapse 风格 -->
+            
+    <div class="stats-grid">
+        <!-- Card 1: 今日 Star -->
+        <div class="stat-card green">
+            <div class="stat-header">
+                <div class="stat-header-left">
+                    <span class="material-symbols-outlined">star</span>
+                    <span class="stat-title">今日 Star</span>
+                </div>
+                <span class="stat-trend up">
+                    <span class="material-symbols-outlined">arrow_upward</span>
+                    HOT
+                </span>
+            </div>
+            <div class="stat-body">
+                <div>
+                    <div class="stat-value">3.5K</div>
+                    <div class="stat-label">总增长量</div>
+                </div>
+                <div class="progress-ring">
+                    <svg viewBox="0 0 36 36">
+                        <path class="bg" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"></path>
+                        <path class="progress" stroke-dasharray="85, 100" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"></path>
+                    </svg>
+                </div>
+            </div>
+            <div class="stat-tags">
+                <div class="stat-tag">
+                    <span class="stat-tag-name">#OpenSource</span>
+                    <span class="stat-tag-value">3.5K</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card 2: 平均评分 -->
+        <div class="stat-card blue">
+            <div class="stat-header">
+                <div class="stat-header-left">
+                    <span class="material-symbols-outlined">analytics</span>
+                    <span class="stat-title">平均评分</span>
+                </div>
+                <span class="stat-trend up">
+                    <span class="material-symbols-outlined">arrow_upward</span>
+                    7.5
+                </span>
+            </div>
+            <div class="stat-body">
+                <div>
+                    <div class="stat-value">7.5<span>/10</span></div>
+                    <div class="stat-label">质量指数</div>
+                </div>
+                <div class="progress-ring">
+                    <svg viewBox="0 0 36 36">
+                        <path class="bg" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"></path>
+                        <path class="progress" stroke-dasharray="75.0, 100" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"></path>
+                    </svg>
+                </div>
+            </div>
+            <div class="stat-tags">
+                <div class="stat-tag">
+                    <span class="stat-tag-name">#Quality</span>
+                    <span class="stat-tag-value">Top 6</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card 3: 热门项目数 -->
+        <div class="stat-card red">
+            <div class="stat-header">
+                <div class="stat-header-left">
+                    <span class="material-symbols-outlined">folder_special</span>
+                    <span class="stat-title">热门项目</span>
+                </div>
+                <span class="stat-trend up">
+                    <span class="material-symbols-outlined">arrow_upward</span>
+                    LIVE
+                </span>
+            </div>
+            <div class="stat-body">
+                <div>
+                    <div class="stat-value">6</div>
+                    <div class="stat-label">追踪数量</div>
+                </div>
+                <div class="progress-ring">
+                    <svg viewBox="0 0 36 36">
+                        <path class="bg" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"></path>
+                        <path class="progress" stroke-dasharray="24, 100" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"></path>
+                    </svg>
+                </div>
+            </div>
+            <div class="stat-tags">
+                <div class="stat-tag">
+                    <span class="stat-tag-name">#Trending</span>
+                    <span class="stat-tag-value">24h</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card 4: 热门语言 -->
+        <div class="stat-card purple">
+            <div class="stat-header">
+                <div class="stat-header-left">
+                    <span class="material-symbols-outlined">code</span>
+                    <span class="stat-title">热门语言</span>
+                </div>
+                <span class="stat-trend up">
+                    <span class="material-symbols-outlined">arrow_upward</span>
+                    33%
+                </span>
+            </div>
+            <div class="stat-body">
+                <div>
+                    <div class="stat-value">Python</div>
+                    <div class="stat-label">语言分布</div>
+                </div>
+                <div class="progress-ring">
+                    <svg viewBox="0 0 36 36">
+                        <path class="bg" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"></path>
+                        <path class="progress" stroke-dasharray="33, 100" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"></path>
+                    </svg>
+                </div>
+            </div>
+            <div class="stat-tags">
+                <div class="stat-tag"><span class="stat-tag-name">#Python</span><span class="stat-tag-value">2</span></div>
+                <div class="stat-tag"><span class="stat-tag-name">#TypeScript</span><span class="stat-tag-value">1</span></div>
+            </div>
+        </div>
+    </div>
+    
+
+            <!-- 语言分布 -->
+            <div class="lang-stats-bar">
+                <span class="lang-stat"><span class="lang-dot" style="background: #3572A5"></span>Python: 2</span><span class="lang-stat"><span class="lang-dot" style="background: #3178c6"></span>TypeScript: 1</span><span class="lang-stat"><span class="lang-dot" style="background: #f1e05a"></span>JavaScript: 1</span><span class="lang-stat"><span class="lang-dot" style="background: #dea584"></span>Rust: 1</span><span class="lang-stat"><span class="lang-dot" style="background: #00ADD8"></span>Go: 1</span>
+            </div>
+
+            
+    <section class="banner-section">
+        <div class="section-header">
+            <h2>
+                <span class="material-symbols-outlined">new_releases</span>
+                🔥 今日新上榜
+            </h2>
+            <span class="section-badge">NEW</span>
+        </div>
+        <div class="banner-container">
+            
+    <a href="https://github.com/rust-lang/rust" target="_blank" class="project-card new-project " style="--heat-color: linear-gradient(135deg, hsl(40, 95%, 55%) 0%, hsl(35, 90%, 45%) 100%)">
+        <div class="card-header">
+            <span class="rank">#1</span>
+            <span class="change ">NEW</span>
+            <span class="new-badge">NEW</span>
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">rust</h3>
+            <p class="project-author">@rust-lang</p>
+            <p class="project-desc">Empowering everyone to build reliable and efficient software.</p>
+            
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 90.0k</span>
+                <span class="today">+178</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #dea584">Rust</span>
+                
+                <span class="score">6/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/golang/go" target="_blank" class="project-card new-project " style="--heat-color: linear-gradient(135deg, hsl(120, 55%, 50%) 0%, hsl(130, 50%, 40%) 100%)">
+        <div class="card-header">
+            <span class="rank">#2</span>
+            <span class="change ">NEW</span>
+            <span class="new-badge">NEW</span>
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">go</h3>
+            <p class="project-author">@golang</p>
+            <p class="project-desc">The Go programming language</p>
+            
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 118.0k</span>
+                <span class="today">+145</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #00ADD8">Go</span>
+                
+                <span class="score">5/10</span>
+            </div>
+        </div>
+    </a>
+    
+        </div>
+    </section>
+    
+
+            
+    <section class="heatmap-section">
+        <div class="section-header">
+            <h2>
+                <span class="material-symbols-outlined">local_fire_department</span>
+                热力图
+            </h2>
+            <span class="section-badge">TOP 12</span>
+        </div>
+        <div id="treemap-wrapper" style="width: 100%; height: 400px; border-radius: 12px; overflow: hidden; position: relative;">
+            <div id="treemap-chart" style="width: 100%; height: 100%;"></div>
+        </div>
+        <script>
+        (function() {
+            var chartDom = document.getElementById('treemap-chart');
+            var myChart = echarts.init(chartDom);
+
+            var rawData = [{"name": "DeepSeek-V3", "fullName": "deepseek-ai/DeepSeek-V3", "value": 229.61251053573793, "starsToday": 2345, "totalStars": 45678, "url": "https://github.com/deepseek-ai/DeepSeek-V3", "language": "Python", "avatarUrl": "https://github.com/deepseek-ai.png?size=200", "owner": "deepseek-ai"}, {"name": "whisper", "fullName": "openai/whisper", "value": 70.95819936614127, "starsToday": 432, "totalStars": 56789, "url": "https://github.com/openai/whisper", "language": "Python", "avatarUrl": "https://github.com/openai.png?size=200", "owner": "openai"}, {"name": "next.js", "fullName": "vercel/next.js", "value": 46.546090021197955, "starsToday": 234, "totalStars": 120000, "url": "https://github.com/vercel/next.js", "language": "JavaScript", "avatarUrl": "https://github.com/vercel.png?size=200", "owner": "vercel"}, {"name": "rust", "fullName": "rust-lang/rust", "value": 38.60919187216474, "starsToday": 178, "totalStars": 90000, "url": "https://github.com/rust-lang/rust", "language": "Rust", "avatarUrl": "https://github.com/rust-lang.png?size=200", "owner": "rust-lang"}, {"name": "TypeScript", "fullName": "microsoft/TypeScript", "value": 35.291558124987986, "starsToday": 156, "totalStars": 98765, "url": "https://github.com/microsoft/TypeScript", "language": "TypeScript", "avatarUrl": "https://github.com/microsoft.png?size=200", "owner": "microsoft"}, {"name": "go", "fullName": "golang/go", "value": 33.58048924191133, "starsToday": 145, "totalStars": 118000, "url": "https://github.com/golang/go", "language": "Go", "avatarUrl": "https://github.com/golang.png?size=200", "owner": "golang"}];
+            var maxStars = Math.max(...rawData.map(d => d.starsToday));
+
+            // 30 个经典配色（参考 GitHub 语言颜色、Material Design 等）
+            var classicColors = [
+                '#3572A5',  // Python 蓝
+                '#f1e05a',  // JavaScript 黄
+                '#e34c26',  // HTML 橙红
+                '#563d7c',  // CSS 紫
+                '#b07219',  // Java 棕
+                '#00ADD8',  // Go 青
+                '#dea584',  // Rust 肉色
+                '#178600',  // C# 绿
+                '#f34b7d',  // C++ 粉
+                '#438eff',  // TypeScript 蓝
+                '#701516',  // Ruby 暗红
+                '#4F5D95',  // PHP 紫蓝
+                '#DA5B0B',  // Jupyter 橙
+                '#89e051',  // Shell 亮绿
+                '#c22d40',  // Scala 红
+                '#12aa51',  // Vue 翠绿
+                '#ff6f00',  // 琥珀色
+                '#00bcd4',  // 青色
+                '#9c27b0',  // 紫色
+                '#e91e63',  // 粉红
+                '#3f51b5',  // 靛蓝
+                '#009688',  // 青绿
+                '#795548',  // 棕色
+                '#607d8b',  // 蓝灰
+                '#ff5722',  // 深橙
+                '#8bc34a',  // 浅绿
+                '#ffc107',  // 琥珀
+                '#03a9f4',  // 浅蓝
+                '#673ab7',  // 深紫
+                '#cddc39'   // 黄绿
+            ];
+
+            // 基于项目名生成稳定的颜色索引（同一项目每次颜色一致）
+            function hashCode(str) {
+                var hash = 0;
+                for (var i = 0; i < str.length; i++) {
+                    hash = ((hash << 5) - hash) + str.charCodeAt(i);
+                    hash = hash & hash;
+                }
+                return Math.abs(hash);
+            }
+
+            function getItemColor(starsToday, index, total, name) {
+                // 使用项目名的哈希值选择颜色，确保同一项目颜色稳定
+                var colorIndex = hashCode(name) % classicColors.length;
+                return classicColors[colorIndex];
+            }
+
+            var treeData = rawData.map(function(item, index) {
+                return {
+                    name: item.name,
+                    value: item.value,
+                    starsToday: item.starsToday,
+                    totalStars: item.totalStars,
+                    url: item.url,
+                    fullName: item.fullName,
+                    language: item.language,
+                    avatarUrl: item.avatarUrl,
+                    owner: item.owner,
+                    itemStyle: {
+                        color: getItemColor(item.starsToday, index, rawData.length, item.name),
+                        borderColor: 'rgba(0,0,0,0.2)',
+                        borderWidth: 1
+                    }
+                };
+            });
+
+            var option = {
+                tooltip: {
+                    backgroundColor: 'rgba(0,0,0,0.85)',
+                    borderColor: '#333',
+                    textStyle: { color: '#fff', fontSize: 13 },
+                    formatter: function(params) {
+                        var d = params.data;
+                        var starsDisplay = d.starsToday >= 1000 ? (d.starsToday/1000).toFixed(1) + 'k' : d.starsToday;
+                        var totalDisplay = d.totalStars >= 1000 ? (d.totalStars/1000).toFixed(1) + 'k' : d.totalStars;
+                        return '<div style="font-weight:600;margin-bottom:8px;font-size:14px;">' + d.fullName + '</div>' +
+                               '<div style="margin:4px 0;">⭐ 今日新增: <span style="color:#f39c12;font-weight:600;">+' + starsDisplay + '</span></div>' +
+                               '<div style="margin:4px 0;">📊 总 Star: ' + totalDisplay + '</div>' +
+                               '<div>🔧 语言: ' + d.language + '</div>';
+                    }
+                },
+                series: [{
+                    type: 'treemap',
+                    width: '100%',
+                    height: '100%',
+                    roam: false,
+                    nodeClick: false,
+                    breadcrumb: { show: false },
+                    itemStyle: { borderRadius: 4, gapWidth: 2 },
+                    label: {
+                        show: true,
+                        position: 'inside',
+                        formatter: function(params) {
+                            var d = params.data;
+                            var starsDisplay = d.starsToday >= 1000 ? '+' + (d.starsToday/1000).toFixed(1) + 'k' : '+' + d.starsToday;
+                            return d.name + '\n' + starsDisplay;
+                        },
+                        fontSize: 16,
+                        fontWeight: 700,
+                        color: '#fff',
+                        textShadowColor: 'rgba(0,0,0,0.8)',
+                        textShadowBlur: 6,
+                        textShadowOffsetX: 1,
+                        textShadowOffsetY: 1,
+                        lineHeight: 24,
+                        textBorderColor: 'rgba(0,0,0,0.5)',
+                        textBorderWidth: 2
+                    },
+                    upperLabel: {
+                        show: false
+                    },
+                    data: treeData
+                }]
+            };
+
+            myChart.setOption(option);
+
+            myChart.on('click', function(params) {
+                if (params.data && params.data.url) window.open(params.data.url, '_blank');
+            });
+
+            window.addEventListener('resize', function() {
+                myChart.resize();
+            });
+        })();
+        </script>
+    </section>
+    
+
+            <section class="project-section">
+                <div class="section-header">
+                    <h2>
+                        <span class="material-symbols-outlined">apps</span>
+                        All Projects
+                    </h2>
+                    <span class="section-badge">TOP 6</span>
+                </div>
+                <div class="project-grid">
+                    
+    <a href="https://github.com/deepseek-ai/DeepSeek-V3" target="_blank" class="project-card  " style="--heat-color: linear-gradient(135deg, hsl(0, 80%, 50%) 0%, hsl(0, 85%, 40%) 100%)">
+        <div class="card-header">
+            <span class="rank">#1</span>
+            <span class="change up">↑1</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">DeepSeek-V3</h3>
+            <p class="project-author">@deepseek-ai</p>
+            <p class="project-desc">DeepSeek-V3 is a Mixture-of-Experts (MoE) language model with 671 billion parame...</p>
+            
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 45.7k</span>
+                <span class="today">+2,345</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #3572A5">Python</span>
+                
+                <span class="score">10/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/microsoft/TypeScript" target="_blank" class="project-card  " style="--heat-color: linear-gradient(135deg, hsl(40, 95%, 55%) 0%, hsl(35, 90%, 45%) 100%)">
+        <div class="card-header">
+            <span class="rank">#2</span>
+            <span class="change up">↑1</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">TypeScript</h3>
+            <p class="project-author">@microsoft</p>
+            <p class="project-desc">TypeScript is a superset of JavaScript that compiles to clean JavaScript output.</p>
+            
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 98.8k</span>
+                <span class="today">+156</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #3178c6">TypeScript</span>
+                
+                <span class="score">9/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/openai/whisper" target="_blank" class="project-card  " style="--heat-color: linear-gradient(135deg, hsl(10, 85%, 55%) 0%, hsl(5, 80%, 45%) 100%)">
+        <div class="card-header">
+            <span class="rank">#3</span>
+            <span class="change up">↑1</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">whisper</h3>
+            <p class="project-author">@openai</p>
+            <p class="project-desc">Robust Speech Recognition via Large-Scale Weak Supervision</p>
+            
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 56.8k</span>
+                <span class="today">+432</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #3572A5">Python</span>
+                
+                <span class="score">8/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/vercel/next.js" target="_blank" class="project-card  " style="--heat-color: linear-gradient(135deg, hsl(40, 95%, 55%) 0%, hsl(35, 90%, 45%) 100%)">
+        <div class="card-header">
+            <span class="rank">#4</span>
+            <span class="change ">-</span>
+            
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">next.js</h3>
+            <p class="project-author">@vercel</p>
+            <p class="project-desc">The React Framework for the Web</p>
+            
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 120.0k</span>
+                <span class="today">+234</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #f1e05a">JavaScript</span>
+                
+                <span class="score">7/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/rust-lang/rust" target="_blank" class="project-card new-project " style="--heat-color: linear-gradient(135deg, hsl(40, 95%, 55%) 0%, hsl(35, 90%, 45%) 100%)">
+        <div class="card-header">
+            <span class="rank">#5</span>
+            <span class="change ">NEW</span>
+            <span class="new-badge">NEW</span>
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">rust</h3>
+            <p class="project-author">@rust-lang</p>
+            <p class="project-desc">Empowering everyone to build reliable and efficient software.</p>
+            
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 90.0k</span>
+                <span class="today">+178</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #dea584">Rust</span>
+                
+                <span class="score">6/10</span>
+            </div>
+        </div>
+    </a>
+    
+    <a href="https://github.com/golang/go" target="_blank" class="project-card new-project " style="--heat-color: linear-gradient(135deg, hsl(120, 55%, 50%) 0%, hsl(130, 50%, 40%) 100%)">
+        <div class="card-header">
+            <span class="rank">#6</span>
+            <span class="change ">NEW</span>
+            <span class="new-badge">NEW</span>
+        </div>
+        <div class="card-body">
+            <h3 class="project-name">go</h3>
+            <p class="project-author">@golang</p>
+            <p class="project-desc">The Go programming language</p>
+            
+        </div>
+        <div class="card-footer">
+            <div class="stats">
+                <span class="stars">⭐ 118.0k</span>
+                <span class="today">+145</span>
+            </div>
+            <div class="meta">
+                <span class="language" style="--lang-color: #00ADD8">Go</span>
+                
+                <span class="score">5/10</span>
+            </div>
+        </div>
+    </a>
+    
+                </div>
+            </section>
+        </main>
+
+        <footer>
+            <p>Data Source: <a href="https://github.com/trending" target="_blank">GitHub Trending</a></p>
+            <p>Updated: 2026-02-06 18:06:42</p>
+        </footer>
+    </div>
+
+    <!-- 订阅弹窗 -->
+    <div id="subscribeModal" class="modal" onclick="if(event.target===this)this.style.display='none'">
+        <div class="modal-content">
+            <button class="modal-close" onclick="document.getElementById('subscribeModal').style.display='none'">&times;</button>
+            <h3>📧 Subscribe to Daily Digest</h3>
+            <p class="modal-desc">Get daily GitHub trending projects delivered to your inbox at 9 AM</p>
+            <form id="subscribeForm" onsubmit="handleSubscribe(event)">
+                <input type="email" id="subscribeEmail" placeholder="Enter your email" required>
+                <button type="submit" class="submit-btn">Subscribe</button>
+            </form>
+            <p class="modal-note">* You can unsubscribe at any time</p>
+        </div>
+    </div>
+
+    <script>
+        // 主题切换逻辑
+        function toggleTheme() {
+            const html = document.documentElement;
+            const darkIcon = document.getElementById('darkIcon');
+            const lightIcon = document.getElementById('lightIcon');
+
+            if (html.getAttribute('data-theme') === 'light') {
+                html.removeAttribute('data-theme');
+                darkIcon.classList.add('active');
+                lightIcon.classList.remove('active');
+                localStorage.setItem('theme', 'dark');
+            } else {
+                html.setAttribute('data-theme', 'light');
+                darkIcon.classList.remove('active');
+                lightIcon.classList.add('active');
+                localStorage.setItem('theme', 'light');
+            }
+        }
+
+        // 加载保存的主题
+        (function() {
+            const savedTheme = localStorage.getItem('theme');
+            const darkIcon = document.getElementById('darkIcon');
+            const lightIcon = document.getElementById('lightIcon');
+
+            if (savedTheme === 'light') {
+                document.documentElement.setAttribute('data-theme', 'light');
+                darkIcon.classList.remove('active');
+                lightIcon.classList.add('active');
+            }
+        })();
+    </script>
+</body>
+</html>

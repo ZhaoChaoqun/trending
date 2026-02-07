@@ -1,0 +1,5 @@
+{
+  "name": "Synapse Feed",
+  "description": "A cyberpunk-themed dashboard for tracking GitHub trends, AI insights, and technical deep dives.",
+  "requestFramePermissions": []
+}

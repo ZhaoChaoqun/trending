@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Synapse Feed - Tech Pulse Treemap</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script>
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#06e0f9",
+                        "background-light": "#f5f8f8",
+                        "background-dark": "#0f2123",
+                        "surface-dark": "#162a2d",
+                        "surface-card": "#1c3538",
+                    },
+                    fontFamily: {
+                        "display": ["Inter", "sans-serif"],
+                        "mono": ["JetBrains Mono", "monospace"], // Assuming a mono font for data
+                    },
+                    borderRadius: {"DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px"},
+                    boxShadow: {
+                        'glow': '0 0 15px rgba(6, 224, 249, 0.3)',
+                        'glow-sm': '0 0 8px rgba(6, 224, 249, 0.2)',
+                    }
+                },
+            },
+        }
+    </script>
+<style>
+        /* Custom scrollbar for webkit */
+        ::-webkit-scrollbar {
+            width: 8px;
+            height: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #0f2123; 
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #21464a; 
+            border-radius: 4px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #2d5d63; 
+        }
+
+        /* Glassmorphism utility */
+        .glass-panel {
+            background: rgba(22, 42, 45, 0.7);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+        }
+
+        .treemap-grid {
+            display: grid;
+            grid-template-columns: repeat(12, 1fr);
+            grid-template-rows: repeat(8, 1fr);
+            gap: 4px;
+            height: 100%;
+        }
+        
+        /* Animation for hover */
+        .treemap-item {
+            transition: transform 0.2s ease, z-index 0s;
+        }
+        .treemap-item:hover {
+            z-index: 10;
+            transform: scale(1.02);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+        }
+    </style>
+</head>
+<body class="bg-background-light dark:bg-background-dark font-display h-screen flex flex-col overflow-hidden text-slate-200">
+<!-- Header Section -->
+<header class="flex-none z-30 bg-[#102123] border-b border-[#21464a] px-6 py-3">
+<div class="flex items-center justify-between">
+<div class="flex items-center gap-8">
+<!-- Logo -->
+<div class="flex items-center gap-3 text-white">
+<div class="w-8 h-8 flex items-center justify-center bg-primary/10 rounded text-primary">
+<span class="material-symbols-outlined">hub</span>
+</div>
+<h2 class="text-white text-lg font-bold tracking-tight">Synapse Feed</h2>
+</div>
+<!-- Search -->
+<div class="hidden md:flex items-center w-64 h-10 bg-[#1c3538] rounded-lg border border-[#2d5d63] focus-within:border-primary/50 transition-colors">
+<span class="material-symbols-outlined text-[#8ec6cc] ml-3 text-xl">search</span>
+<input class="bg-transparent border-none text-sm text-white placeholder-[#8ec6cc] w-full focus:ring-0 h-full" placeholder="Search repositories..." type="text"/>
+</div>
+</div>
+<!-- Nav Links & Actions -->
+<div class="flex items-center gap-6">
+<nav class="hidden lg:flex items-center gap-6 text-sm font-medium text-[#8ec6cc]">
+<a class="hover:text-white transition-colors" href="#">Dashboard</a>
+<a class="text-white" href="#">Trending</a>
+<a class="hover:text-white transition-colors" href="#">Insights</a>
+<a class="hover:text-white transition-colors" href="#">Settings</a>
+</nav>
+<div class="flex items-center gap-3">
+<button class="w-10 h-10 rounded-lg bg-[#1c3538] hover:bg-[#254246] text-white flex items-center justify-center transition-colors relative">
+<span class="absolute top-2 right-2 w-2 h-2 bg-primary rounded-full animate-pulse"></span>
+<span class="material-symbols-outlined text-xl">notifications</span>
+</button>
+<button class="w-10 h-10 rounded-lg bg-[#1c3538] hover:bg-[#254246] text-white flex items-center justify-center transition-colors">
+<span class="material-symbols-outlined text-xl">chat_bubble</span>
+</button>
+<div class="w-10 h-10 rounded-full bg-gradient-to-br from-primary to-blue-600 border border-[#21464a] cursor-pointer"></div>
+</div>
+</div>
+</div>
+</header>
+<!-- Controls & Title Bar -->
+<div class="flex-none px-6 py-4 bg-[#102123]">
+<div class="flex flex-col lg:flex-row lg:items-end justify-between gap-4 mb-4">
+<div>
+<h1 class="text-2xl font-bold text-white mb-1">Tech Pulse Treemap</h1>
+<p class="text-[#8ec6cc] text-sm">Real-time GitHub market sentiment. Area = Growth, Color = Momentum.</p>
+</div>
+<div class="flex flex-wrap items-center gap-3">
+<!-- Time Range Toggle -->
+<div class="bg-[#1c3538] p-1 rounded-lg flex border border-[#2d5d63]">
+<button class="px-3 py-1.5 rounded text-xs font-medium bg-[#102123] text-white shadow-sm border border-[#2d5d63]">24h</button>
+<button class="px-3 py-1.5 rounded text-xs font-medium text-[#8ec6cc] hover:text-white hover:bg-[#254246] transition-colors">7d</button>
+<button class="px-3 py-1.5 rounded text-xs font-medium text-[#8ec6cc] hover:text-white hover:bg-[#254246] transition-colors">30d</button>
+</div>
+<div class="h-8 w-px bg-[#2d5d63] mx-1"></div>
+<!-- Language Filters -->
+<button class="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-primary/20 text-primary border border-primary/30 text-sm font-medium">
+<span>All Languages</span>
+<span class="material-symbols-outlined text-sm">expand_more</span>
+</button>
+<button class="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-[#1c3538] hover:bg-[#254246] text-[#8ec6cc] hover:text-white border border-[#2d5d63] transition-colors text-sm font-medium">
+<span>Python</span>
+</button>
+<button class="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-[#1c3538] hover:bg-[#254246] text-[#8ec6cc] hover:text-white border border-[#2d5d63] transition-colors text-sm font-medium">
+<span>TypeScript</span>
+</button>
+<button class="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-[#1c3538] hover:bg-[#254246] text-[#8ec6cc] hover:text-white border border-[#2d5d63] transition-colors text-sm font-medium">
+<span>Rust</span>
+</button>
+</div>
+</div>
+<!-- Legend -->
+<div class="flex items-center gap-4 text-xs text-[#8ec6cc] border-t border-[#21464a] pt-3">
+<span class="uppercase tracking-wider font-semibold">Intensity Key:</span>
+<div class="flex items-center gap-2">
+<span>Low Momentum</span>
+<div class="h-3 w-32 rounded-full bg-gradient-to-r from-[#1c3538] via-[#2d5d63] to-primary"></div>
+<span class="text-white">High Momentum</span>
+</div>
+<div class="ml-6 flex items-center gap-2">
+<div class="w-3 h-3 border border-primary shadow-glow-sm rounded-sm"></div>
+<span class="text-primary">New Repo (Outer Glow)</span>
+</div>
+</div>
+</div>
+<!-- Main Content: Treemap Area -->
+<main class="flex-1 overflow-hidden p-6 relative">
+<!-- Grid Layout for Domains -->
+<div class="grid grid-cols-1 lg:grid-cols-3 gap-6 h-full pb-8">
+<!-- Domain 1: AI & Machine Learning -->
+<div class="flex flex-col h-full gap-2 group">
+<div class="flex items-center justify-between px-1">
+<h3 class="text-white font-semibold text-sm tracking-wide flex items-center gap-2">
+<span class="w-2 h-2 rounded-full bg-purple-500"></span>
+                        AI &amp; Machine Learning
+                    </h3>
+<span class="text-xs text-[#8ec6cc]">32 Repos</span>
+</div>
+<div class="flex-1 relative bg-[#1c3538]/30 rounded-xl overflow-hidden p-1 border border-[#2d5d63]">
+<!-- Treemap Simulation via CSS Grid -->
+<div class="treemap-grid">
+<!-- Huge Item -->
+<div class="col-span-8 row-span-5 bg-[#2d5d63] border border-[#162a2d] hover:border-white/50 treemap-item relative rounded overflow-hidden cursor-pointer group/card">
+<div class="absolute inset-0 bg-gradient-to-br from-purple-900/40 to-[#102123]/80"></div>
+<div class="absolute inset-0 p-4 flex flex-col justify-between z-10">
+<div class="flex justify-between items-start">
+<span class="font-bold text-white text-lg">langchain</span>
+<span class="text-xs font-mono text-green-400 bg-green-900/30 px-1.5 py-0.5 rounded">+12%</span>
+</div>
+<div class="text-xs text-white/70">Python • 82k ⭐</div>
+</div>
+<!-- Hover Card -->
+<div class="hidden group-hover/card:block absolute z-50 top-full left-0 mt-2 w-72 glass-panel rounded-xl p-4 shadow-2xl pointer-events-none transform translate-y-[-50%] translate-x-[10%]">
+<div class="flex items-start justify-between mb-2">
+<h4 class="text-white font-bold">langchain-ai/langchain</h4>
+<span class="text-primary text-xs bg-primary/10 px-2 py-1 rounded border border-primary/20">Rank #1</span>
+</div>
+<p class="text-xs text-slate-300 mb-3 leading-relaxed">Building applications with LLMs through composability. Chains, agents, and retrieval strategies.</p>
+<div class="space-y-2">
+<div class="flex justify-between text-xs">
+<span class="text-slate-400">24h Growth</span>
+<span class="text-white font-mono">+1,240 ⭐</span>
+</div>
+<div class="flex justify-between text-xs">
+<span class="text-slate-400">HN Sentiment</span>
+<span class="text-green-400">Optimistic (8.2)</span>
+</div>
+<div class="h-1 w-full bg-white/10 rounded-full overflow-hidden mt-1">
+<div class="h-full bg-primary w-[82%]"></div>
+</div>
+</div>
+</div>
+</div>
+<!-- Medium Item -->
+<div class="col-span-4 row-span-4 bg-primary/40 border border-primary shadow-glow treemap-item relative rounded overflow-hidden cursor-pointer">
+<div class="absolute inset-0 p-3 flex flex-col justify-between">
+<span class="font-bold text-white text-sm truncate">ollama</span>
+<span class="text-[10px] text-white/80">Go • 45k ⭐</span>
+</div>
+</div>
+<!-- Small Items Block -->
+<div class="col-span-4 row-span-4 bg-[#1e4044] border border-[#162a2d] treemap-item relative rounded overflow-hidden cursor-pointer hover:border-white/40">
+<div class="absolute inset-0 p-2">
+<span class="font-medium text-white text-xs truncate block">autogen</span>
+<span class="text-[10px] text-green-400 font-mono block mt-1">+4.2%</span>
+</div>
+</div>
+<div class="col-span-3 row-span-3 bg-[#1e4044] border border-[#162a2d] treemap-item relative rounded overflow-hidden cursor-pointer hover:border-white/40">
+<div class="absolute inset-0 p-2 flex flex-col justify-center items-center text-center">
+<span class="font-medium text-white text-xs truncate w-full">llama.cpp</span>
+</div>
+</div>
+<div class="col-span-3 row-span-3 bg-[#162a2d] border border-[#102123] treemap-item relative rounded overflow-hidden cursor-pointer hover:border-white/40">
+<div class="absolute inset-0 p-2 flex flex-col justify-center items-center">
+<span class="font-medium text-slate-300 text-xs truncate">gpt4all</span>
+</div>
+</div>
+<div class="col-span-2 row-span-3 bg-[#162a2d] border border-[#102123] treemap-item relative rounded overflow-hidden cursor-pointer hover:border-white/40"></div>
+<!-- Bottom Row Filler -->
+<div class="col-span-3 row-span-2 bg-[#162a2d] border border-[#102123] treemap-item rounded relative overflow-hidden"></div>
+<div class="col-span-2 row-span-2 bg-[#2d5d63]/50 border border-[#102123] treemap-item rounded relative overflow-hidden">
+<div class="absolute inset-0 flex items-center justify-center">
+<span class="text-[10px] text-white/50">vllm</span>
+</div>
+</div>
+<div class="col-span-7 row-span-1 bg-[#162a2d] border border-[#102123] treemap-item rounded relative overflow-hidden"></div>
+</div>
+</div>
+</div>
+<!-- Domain 2: Frontend & Web -->
+<div class="flex flex-col h-full gap-2">
+<div class="flex items-center justify-between px-1">
+<h3 class="text-white font-semibold text-sm tracking-wide flex items-center gap-2">
+<span class="w-2 h-2 rounded-full bg-blue-500"></span>
+                        Frontend &amp; Web
+                    </h3>
+<span class="text-xs text-[#8ec6cc]">28 Repos</span>
+</div>
+<div class="flex-1 relative bg-[#1c3538]/30 rounded-xl overflow-hidden p-1 border border-[#2d5d63]">
+<div class="treemap-grid" style="grid-template-rows: repeat(10, 1fr);">
+<!-- Large Item -->
+<div class="col-span-12 row-span-4 bg-[#234b50] border border-[#162a2d] treemap-item relative rounded overflow-hidden cursor-pointer group/fe hover:border-white/50">
+<div class="absolute inset-0 bg-gradient-to-r from-blue-900/30 to-transparent"></div>
+<div class="absolute inset-0 p-3 flex flex-col justify-between z-10">
+<div class="flex justify-between w-full">
+<span class="font-bold text-white">shadcn/ui</span>
+<span class="text-xs bg-white/10 px-1.5 py-0.5 rounded text-white">#1 Trending</span>
+</div>
+<div class="text-xs text-slate-300">Beautifully designed components built with Radix UI and Tailwind CSS.</div>
+</div>
+<!-- Hover Card Positioned Differently -->
+<div class="hidden group-hover/fe:block absolute z-50 top-1/2 left-1/2 mt-2 w-64 glass-panel rounded-xl p-3 shadow-2xl pointer-events-none transform -translate-x-1/2 -translate-y-1/2">
+<div class="flex items-center gap-2 mb-2">
+<div class="w-2 h-2 rounded-full bg-green-400"></div>
+<span class="text-xs font-bold text-white uppercase">High Velocity</span>
+</div>
+<h4 class="text-white text-sm font-bold mb-1">shadcn/ui</h4>
+<p class="text-[10px] text-slate-300 mb-2">Re-usable components built using Radix UI and Tailwind CSS.</p>
+<div class="grid grid-cols-2 gap-2 text-center">
+<div class="bg-black/20 rounded p-1">
+<div class="text-[10px] text-slate-400">Stars</div>
+<div class="text-xs text-primary font-mono">48k</div>
+</div>
+<div class="bg-black/20 rounded p-1">
+<div class="text-[10px] text-slate-400">Forks</div>
+<div class="text-xs text-white font-mono">2.1k</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Medium -->
+<div class="col-span-6 row-span-3 bg-[#1e4044] border border-[#162a2d] treemap-item relative rounded overflow-hidden cursor-pointer hover:border-white/40">
+<div class="absolute inset-0 p-3">
+<span class="font-bold text-white text-sm">next.js</span>
+</div>
+</div>
+<div class="col-span-6 row-span-3 bg-primary/20 border border-primary/50 shadow-glow-sm treemap-item relative rounded overflow-hidden cursor-pointer hover:border-primary">
+<div class="absolute inset-0 p-3">
+<span class="font-bold text-white text-sm">htmx</span>
+<span class="absolute bottom-2 right-2 text-[10px] text-primary">Rising</span>
+</div>
+</div>
+<!-- Small Grid -->
+<div class="col-span-4 row-span-2 bg-[#162a2d] border border-[#102123] treemap-item rounded relative overflow-hidden cursor-pointer hover:border-white/30 p-2">
+<span class="text-xs text-slate-300 truncate block">astro</span>
+</div>
+<div class="col-span-4 row-span-2 bg-[#162a2d] border border-[#102123] treemap-item rounded relative overflow-hidden cursor-pointer hover:border-white/30 p-2">
+<span class="text-xs text-slate-300 truncate block">svelte</span>
+</div>
+<div class="col-span-4 row-span-2 bg-[#2d5d63] border border-[#162a2d] treemap-item rounded relative overflow-hidden cursor-pointer hover:border-white/30 p-2">
+<span class="text-xs text-white truncate block font-medium">vite</span>
+</div>
+<!-- Tiny Filler -->
+<div class="col-span-3 row-span-1 bg-[#102123] border border-[#162a2d] rounded"></div>
+<div class="col-span-3 row-span-1 bg-[#102123] border border-[#162a2d] rounded"></div>
+<div class="col-span-3 row-span-1 bg-[#102123] border border-[#162a2d] rounded"></div>
+<div class="col-span-3 row-span-1 bg-[#102123] border border-[#162a2d] rounded"></div>
+</div>
+</div>
+</div>
+<!-- Domain 3: System & Infrastructure -->
+<div class="flex flex-col h-full gap-2">
+<div class="flex items-center justify-between px-1">
+<h3 class="text-white font-semibold text-sm tracking-wide flex items-center gap-2">
+<span class="w-2 h-2 rounded-full bg-orange-500"></span>
+                        System &amp; Infrastructure
+                    </h3>
+<span class="text-xs text-[#8ec6cc]">19 Repos</span>
+</div>
+<div class="flex-1 relative bg-[#1c3538]/30 rounded-xl overflow-hidden p-1 border border-[#2d5d63]">
+<div class="treemap-grid" style="grid-template-rows: repeat(6, 1fr);">
+<!-- Very Large Item -->
+<div class="col-span-12 row-span-3 bg-gradient-to-br from-[#2d5d63] to-[#1c3538] border border-[#162a2d] treemap-item relative rounded overflow-hidden cursor-pointer hover:border-white/50 group/sys">
+<div class="absolute inset-0 p-4">
+<div class="flex justify-between items-center mb-1">
+<span class="font-bold text-white text-lg">bun</span>
+<span class="material-symbols-outlined text-orange-400 text-sm">local_fire_department</span>
+</div>
+<div class="text-xs text-slate-300">Incredibly fast JavaScript runtime, bundler, test runner, and package manager.</div>
+</div>
+<!-- Hover Card -->
+<div class="hidden group-hover/sys:block absolute z-50 bottom-4 right-4 w-60 glass-panel rounded-xl p-3 shadow-2xl pointer-events-none">
+<div class="flex justify-between items-center border-b border-white/10 pb-2 mb-2">
+<span class="text-xs font-mono text-primary">oven-sh/bun</span>
+<span class="text-[10px] text-slate-400">v1.0.25</span>
+</div>
+<div class="flex items-center gap-2 mb-2">
+<span class="material-symbols-outlined text-yellow-400 text-sm">star</span>
+<span class="text-sm font-bold text-white">68,492</span>
+<span class="text-xs text-green-400 ml-auto font-mono">+125 (24h)</span>
+</div>
+<p class="text-[10px] text-slate-400 italic">"HN: Huge debate on benchmark validity vs Node.js..."</p>
+</div>
+</div>
+<!-- Mid items -->
+<div class="col-span-6 row-span-2 bg-[#1e4044] border border-[#162a2d] treemap-item relative rounded overflow-hidden cursor-pointer hover:border-white/40">
+<div class="absolute inset-0 p-3">
+<span class="font-bold text-white text-sm">rust-lang</span>
+</div>
+</div>
+<div class="col-span-6 row-span-2 bg-[#162a2d] border border-[#102123] treemap-item relative rounded overflow-hidden cursor-pointer hover:border-white/30">
+<div class="absolute inset-0 p-3">
+<span class="font-medium text-slate-300 text-sm">docker</span>
+</div>
+</div>
+<!-- Small items -->
+<div class="col-span-4 row-span-1 bg-[#234b50] border border-[#162a2d] treemap-item relative rounded overflow-hidden cursor-pointer hover:border-white/30 p-2">
+<span class="text-xs text-white font-medium">deno</span>
+</div>
+<div class="col-span-4 row-span-1 bg-[#162a2d] border border-[#102123] treemap-item relative rounded overflow-hidden cursor-pointer hover:border-white/30 p-2">
+<span class="text-xs text-slate-400">kubernetes</span>
+</div>
+<div class="col-span-4 row-span-1 bg-primary/20 border border-primary/40 shadow-glow-sm treemap-item relative rounded overflow-hidden cursor-pointer hover:border-white/30 p-2">
+<span class="text-xs text-white">surrealdb</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Subtle background decoration -->
+<div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[600px] bg-primary/5 rounded-full blur-3xl pointer-events-none -z-10"></div>
+</main>
+</body></html>

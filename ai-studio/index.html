@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Synapse Feed</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;900&family=JetBrains+Mono:wght@400;500;700&family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+    <script>
+      tailwind.config = {
+        darkMode: 'class',
+        theme: {
+          extend: {
+            colors: {
+              "synapse-bg": "#0D1117",
+              "synapse-card": "#161B22",
+              "synapse-border": "#30363D",
+              "electric-cyan": "#00E5FF",
+              "muted-mint": "#70FFC9",
+              "glow-amber": "#FFAB00",
+              "text-main": "#C9D1D9",
+              "text-muted": "#8B949E",
+              "primary": "#06e0f9",
+              "secondary": "#00ffa3",
+            },
+            fontFamily: {
+              "display": ["Inter", "sans-serif"],
+              "mono": ["JetBrains Mono", "monospace"],
+            },
+            boxShadow: {
+              'neon-cyan': '0 0 5px #00E5FF, 0 0 20px rgba(0, 229, 255, 0.3)',
+              'neon-amber': '0 0 5px #FFAB00, 0 0 10px rgba(255, 171, 0, 0.5)',
+            }
+          },
+        },
+      }
+    </script>
+    <style>
+      body {
+        background-color: #0D1117;
+        color: #C9D1D9;
+      }
+      ::-webkit-scrollbar {
+        width: 6px;
+        height: 6px;
+      }
+      ::-webkit-scrollbar-track {
+        background: #0D1117; 
+      }
+      ::-webkit-scrollbar-thumb {
+        background: #30363D; 
+        border-radius: 3px;
+      }
+      ::-webkit-scrollbar-thumb:hover {
+        background: #58a6ff; 
+      }
+    </style>
+  <script type="importmap">
+{
+  "imports": {
+    "recharts": "https://esm.sh/recharts@^3.7.0",
+    "lucide-react": "https://esm.sh/lucide-react@^0.563.0",
+    "d3": "https://esm.sh/d3@^7.9.0",
+    "react/": "https://esm.sh/react@^19.2.4/",
+    "react": "https://esm.sh/react@^19.2.4",
+    "react-dom/": "https://esm.sh/react-dom@^19.2.4/"
+  }
+}
+</script>
+<link rel="stylesheet" href="/index.css">
+</head>
+  <body>
+    <div id="root"></div>
+  <script type="module" src="/index.tsx"></script>
+</body>
+</html>
