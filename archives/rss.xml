@@ -1,72 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 06 Feb 2026 03:26:00 +0000</pubDate><lastBuildDate>Fri, 06 Feb 2026 03:26:00 +0000</lastBuildDate><item><title>#1 bytedance/UI-TARS-desktop (+566 stars)</title><link>https://github.com/bytedance/UI-TARS-desktop</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sat, 07 Feb 2026 03:17:43 +0000</pubDate><lastBuildDate>Sat, 07 Feb 2026 03:17:43 +0000</lastBuildDate><item><title>#1 bytedance/UI-TARS-desktop (+573 stars)</title><link>https://github.com/bytedance/UI-TARS-desktop</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;bytedance/UI-TARS-desktop&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra&lt;/p&gt;
-&lt;p&gt;⭐ 26,786 | +566 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 27,139 | +573 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/bytedance/UI-TARS-desktop#2026-02-06</guid><pubDate>Fri, 06 Feb 2026 03:26:00 +0000</pubDate></item><item><title>#2 thedotmack/claude-mem (+1,930 stars)</title><link>https://github.com/thedotmack/claude-mem</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;thedotmack/claude-mem&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.&lt;/p&gt;
-&lt;p&gt;⭐ 23,784 | +1,930 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/thedotmack/claude-mem#2026-02-06</guid><pubDate>Fri, 06 Feb 2026 03:26:00 +0000</pubDate></item><item><title>#3 obra/superpowers (+887 stars)</title><link>https://github.com/obra/superpowers</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 45,482 | +887 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-02-06</guid><pubDate>Fri, 06 Feb 2026 03:26:00 +0000</pubDate></item><item><title>#4 nvm-sh/nvm (+101 stars)</title><link>https://github.com/nvm-sh/nvm</link><description>
+</description><guid isPermaLink="false">https://github.com/bytedance/UI-TARS-desktop#2026-02-07</guid><pubDate>Sat, 07 Feb 2026 03:17:43 +0000</pubDate></item><item><title>#2 nvm-sh/nvm (+131 stars)</title><link>https://github.com/nvm-sh/nvm</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;nvm-sh/nvm&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions&lt;/p&gt;
-&lt;p&gt;⭐ 91,385 | +101 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 91,511 | +131 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/nvm-sh/nvm#2026-02-06</guid><pubDate>Fri, 06 Feb 2026 03:26:00 +0000</pubDate></item><item><title>#5 openai/skills (+621 stars)</title><link>https://github.com/openai/skills</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;openai/skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Skills Catalog for Codex&lt;/p&gt;
-&lt;p&gt;⭐ 4,357 | +621 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/openai/skills#2026-02-06</guid><pubDate>Fri, 06 Feb 2026 03:26:00 +0000</pubDate></item><item><title>#6 j178/prek (+258 stars)</title><link>https://github.com/j178/prek</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;j178/prek&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;⚡ Better `pre-commit`, re-engineered in Rust&lt;/p&gt;
-&lt;p&gt;⭐ 5,548 | +258 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/j178/prek#2026-02-06</guid><pubDate>Fri, 06 Feb 2026 03:26:00 +0000</pubDate></item><item><title>#7 topoteretes/cognee (+74 stars)</title><link>https://github.com/topoteretes/cognee</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;topoteretes/cognee&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Memory for AI Agents in 6 lines of code&lt;/p&gt;
-&lt;p&gt;⭐ 11,872 | +74 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/topoteretes/cognee#2026-02-06</guid><pubDate>Fri, 06 Feb 2026 03:26:00 +0000</pubDate></item><item><title>#8 linshenkx/prompt-optimizer (+51 stars)</title><link>https://github.com/linshenkx/prompt-optimizer</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;linshenkx/prompt-optimizer&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;一款提示词优化器，助力于编写高质量的提示词&lt;/p&gt;
-&lt;p&gt;⭐ 19,412 | +51 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/linshenkx/prompt-optimizer#2026-02-06</guid><pubDate>Fri, 06 Feb 2026 03:26:00 +0000</pubDate></item><item><title>#9 aquasecurity/trivy (+25 stars)</title><link>https://github.com/aquasecurity/trivy</link><description>
+</description><guid isPermaLink="false">https://github.com/nvm-sh/nvm#2026-02-07</guid><pubDate>Sat, 07 Feb 2026 03:17:43 +0000</pubDate></item><item><title>#3 aquasecurity/trivy (+165 stars)</title><link>https://github.com/aquasecurity/trivy</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;aquasecurity/trivy&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more&lt;/p&gt;
-&lt;p&gt;⭐ 31,388 | +25 today | 🔧 Go&lt;/p&gt;
-&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
+&lt;p&gt;⭐ 31,549 | +165 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/aquasecurity/trivy#2026-02-06</guid><pubDate>Fri, 06 Feb 2026 03:26:00 +0000</pubDate></item><item><title>#10 fish-shell/fish-shell (+28 stars)</title><link>https://github.com/fish-shell/fish-shell</link><description>
+</description><guid isPermaLink="false">https://github.com/aquasecurity/trivy#2026-02-07</guid><pubDate>Sat, 07 Feb 2026 03:17:43 +0000</pubDate></item><item><title>#4 openai/skills (+583 stars)</title><link>https://github.com/openai/skills</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;fish-shell/fish-shell&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The user-friendly command line shell.&lt;/p&gt;
-&lt;p&gt;⭐ 32,401 | +28 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;openai/skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Skills Catalog for Codex&lt;/p&gt;
+&lt;p&gt;⭐ 4,916 | +583 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/fish-shell/fish-shell#2026-02-06</guid><pubDate>Fri, 06 Feb 2026 03:26:00 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/openai/skills#2026-02-07</guid><pubDate>Sat, 07 Feb 2026 03:17:43 +0000</pubDate></item><item><title>#5 Flowseal/zapret-discord-youtube (+70 stars)</title><link>https://github.com/Flowseal/zapret-discord-youtube</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Flowseal/zapret-discord-youtube&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;⭐ 21,973 | +70 today | 🔧 Batchfile&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Flowseal/zapret-discord-youtube#2026-02-07</guid><pubDate>Sat, 07 Feb 2026 03:17:43 +0000</pubDate></item><item><title>#6 DataExpert-io/data-engineer-handbook (+71 stars)</title><link>https://github.com/DataExpert-io/data-engineer-handbook</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;DataExpert-io/data-engineer-handbook&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This is a repo with links to everything you'd ever want to learn about data engineering&lt;/p&gt;
+&lt;p&gt;⭐ 39,894 | +71 today | 🔧 Jupyter Notebook&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/DataExpert-io/data-engineer-handbook#2026-02-07</guid><pubDate>Sat, 07 Feb 2026 03:17:43 +0000</pubDate></item><item><title>#7 likec4/likec4 (+40 stars)</title><link>https://github.com/likec4/likec4</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;likec4/likec4&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code&lt;/p&gt;
+&lt;p&gt;⭐ 1,832 | +40 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 5/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/likec4/likec4#2026-02-07</guid><pubDate>Sat, 07 Feb 2026 03:17:43 +0000</pubDate></item><item><title>#8 ZeroTworu/anet (+193 stars)</title><link>https://github.com/ZeroTworu/anet</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;ZeroTworu/anet&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Simple Rust VPN Client / Server&lt;/p&gt;
+&lt;p&gt;⭐ 543 | +193 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 5/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/ZeroTworu/anet#2026-02-07</guid><pubDate>Sat, 07 Feb 2026 03:17:43 +0000</pubDate></item></channel></rss>

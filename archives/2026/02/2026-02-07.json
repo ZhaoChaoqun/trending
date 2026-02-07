@@ -1,0 +1,71 @@
+{
+  "date": "2026-02-07",
+  "updated_at": "2026-02-07 03:17:43",
+  "count": 8,
+  "rankings": [
+    {
+      "name": "bytedance/UI-TARS-desktop",
+      "rank": 1,
+      "stars": "27,139",
+      "stars_today": "573",
+      "language": "TypeScript",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra"
+    },
+    {
+      "name": "nvm-sh/nvm",
+      "rank": 2,
+      "stars": "91,511",
+      "stars_today": "131",
+      "language": "Shell",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions"
+    },
+    {
+      "name": "aquasecurity/trivy",
+      "rank": 3,
+      "stars": "31,549",
+      "stars_today": "165",
+      "language": "Go",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
+    },
+    {
+      "name": "openai/skills",
+      "rank": 4,
+      "stars": "4,916",
+      "stars_today": "583",
+      "language": "Python",
+      "description": "Skills Catalog for Codex"
+    },
+    {
+      "name": "Flowseal/zapret-discord-youtube",
+      "rank": 5,
+      "stars": "21,973",
+      "stars_today": "70",
+      "language": "Batchfile",
+      "description": ""
+    },
+    {
+      "name": "DataExpert-io/data-engineer-handbook",
+      "rank": 6,
+      "stars": "39,894",
+      "stars_today": "71",
+      "language": "Jupyter Notebook",
+      "description": "This is a repo with links to everything you'd ever want to learn about data engineering"
+    },
+    {
+      "name": "likec4/likec4",
+      "rank": 7,
+      "stars": "1,832",
+      "stars_today": "40",
+      "language": "TypeScript",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code"
+    },
+    {
+      "name": "ZeroTworu/anet",
+      "rank": 8,
+      "stars": "543",
+      "stars_today": "193",
+      "language": "Rust",
+      "description": "Simple Rust VPN Client / Server"
+    }
+  ]
+}
