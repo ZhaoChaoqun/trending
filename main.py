@@ -18,6 +18,9 @@ from src.history import (
 from src.dashboard import generate_dashboard_html, save_dashboard
 from src.ai_summary import batch_generate_summaries
 from src.rss import generate_rss, save_rss
+from src.deep_dive import generate_deep_dive_pages
+from src.hn_scraper import fetch_top_stories, batch_translate_titles
+from src.hn_dashboard import generate_hn_dashboard_html, save_hn_dashboard
 
 
 def main():
@@ -105,13 +108,41 @@ def main():
     html_path_en = save_dashboard(html_content_en, str(base_dir), today, lang='en')
     print(f'✅ 英文版仪表板已保存: {html_path_en}')
 
-    # 10. 生成 RSS Feed
+    # 10. 生成深度分析页面 (为新上榜项目)
+    print('📝 正在生成深度分析页面...')
+    deep_dive_files = generate_deep_dive_pages(
+        analyses, rank_changes, ai_summaries,
+        base_dir=str(base_dir), date=today, lang='zh'
+    )
+    if deep_dive_files:
+        print(f'✅ 深度分析页面已生成: {len(deep_dive_files)} 个')
+    else:
+        print('ℹ️ 无新上榜项目，未生成深度分析页面')
+
+    # 11. 生成 RSS Feed
     print('📡 正在生成 RSS Feed...')
     rss_content = generate_rss(analyses, today)
     rss_path = save_rss(rss_content, str(base_dir))
     print(f'✅ RSS Feed 已保存: {rss_path}')
 
-    # 11. 输出摘要
+    # 12. 获取 Hacker News 数据并生成页面
+    print('📰 正在获取 Hacker News 数据...')
+    try:
+        hn_stories = fetch_top_stories(limit=30)
+        print(f'✅ 获取 {len(hn_stories)} 条 HN Stories')
+
+        # 翻译标题为中文
+        print('🌐 正在翻译 HN 标题为中文...')
+        hn_stories = batch_translate_titles(hn_stories)
+
+        # 生成 HN 页面
+        hn_html = generate_hn_dashboard_html(hn_stories, date=today.strftime('%Y-%m-%d'), lang='zh')
+        hn_path = save_hn_dashboard(hn_html, str(base_dir))
+        print(f'✅ HN 页面已保存: {hn_path}')
+    except Exception as e:
+        print(f'⚠️ HN 数据获取失败: {e}')
+
+    # 13. 输出摘要
     print('\n' + '=' * 50)
     print(f'📅 日期: {today.strftime("%Y-%m-%d")}')
     print(f'📊 收录项目: {len(repos)} 个')

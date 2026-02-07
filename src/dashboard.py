@@ -1,79 +1,89 @@
-"""HTML 仪表板生成器 - 类似 OpenStock 风格，支持中英文双语"""
+"""HTML 仪表板生成器 - Synapse 风格 3 列布局"""
 
+import json
 from datetime import datetime
 from pathlib import Path
 from .analyzer import RepoAnalysis
 from .history import RankChange, format_rank_change
 
-# 多语言文本配置
-LANG_TEXTS = {
-    'zh': {
-        'title': 'GitHub Trending 每日热榜',
-        'subtitle': '每日热门项目追踪',
-        'date_prefix': '📅',
-        'project_count': '个项目',
-        'new_today': '🔥 今日新上榜',
-        'data_source': '数据来源',
-        'update_time': '更新时间',
-        'today_suffix': '今日',
-        'unknown': '未知',
+# 领域分类映射 (顺序重要：先检查具体关键词，再检查通用语言)
+DOMAIN_MAPPING = {
+    'AI & ML': {
+        # AI/ML 特定关键词，避免使用太短或太通用的词
+        'keywords': ['llm', 'gpt', 'langchain', 'llama', 'agent', 'transformer', 'openai', 'chatgpt',
+                     'neural', 'deep-learning', 'machine-learning', 'embedding', 'rag', 'diffusion',
+                     'stable-diffusion', 'ollama', 'huggingface', 'pytorch', 'tensorflow', 'model'],
+        'languages': []  # 不依赖语言，仅靠关键词
     },
-    'en': {
-        'title': 'GitHub Trending Dashboard',
-        'subtitle': 'Daily Hot Projects Tracker',
-        'date_prefix': '📅',
-        'project_count': 'projects',
-        'new_today': '🔥 New Today',
-        'data_source': 'Data Source',
-        'update_time': 'Updated',
-        'today_suffix': 'today',
-        'unknown': 'Unknown',
+    'Frontend': {
+        # 前端特定关键词
+        'keywords': ['react', 'vue', 'nextjs', 'tailwind', 'frontend', 'shadcn', 'radix',
+                     'svelte', 'angular', 'animation', 'design-system', 'component-library'],
+        'languages': ['TypeScript', 'JavaScript', 'CSS', 'HTML', 'Vue', 'Svelte']
+    },
+    'System': {
+        # 系统编程特定关键词
+        'keywords': ['docker', 'kubernetes', 'runtime', 'compiler', 'kernel', 'database', 'server',
+                     'cli', 'terminal', 'shell', 'async', 'concurrent', 'k8s', 'container'],
+        'languages': ['Rust', 'Go', 'C', 'C++', 'Zig']
+    },
+    'Other': {
+        'keywords': [],
+        'languages': []
     }
 }
 
+# 语言颜色映射
+LANG_COLORS = {
+    'Python': '#3572A5',
+    'JavaScript': '#f1e05a',
+    'TypeScript': '#3178c6',
+    'Go': '#00ADD8',
+    'Rust': '#dea584',
+    'Java': '#b07219',
+    'C++': '#f34b7d',
+    'C': '#555555',
+    'Ruby': '#701516',
+    'PHP': '#4F5D95',
+    'Swift': '#F05138',
+    'Kotlin': '#A97BFF',
+    'Dart': '#00B4AB',
+    'Vue': '#41b883',
+    'HTML': '#e34c26',
+    'CSS': '#563d7c',
+    'Shell': '#89e051',
+    'Zig': '#ec915c',
+    'Jupyter Notebook': '#DA5B0B',
+}
 
-def get_heat_color(score: int, stars_today: int) -> str:
+
+def classify_domain(repo_name: str, description: str, language: str) -> str:
     """
-    根据评分和今日新增 Star 计算热力颜色
-
-    Returns:
-        CSS 渐变背景
+    基于仓库名、描述、语言分类到领域
     """
-    # 基于评分和今日增长计算热度
-    try:
-        today_num = int(str(stars_today).replace(',', '').replace(',', ''))
-    except (ValueError, TypeError):
-        today_num = 0
+    text = f"{repo_name} {description}".lower()
 
-    # 热度计算: 评分 * 0.3 + 今日增长热度 * 0.7 (增长权重更高)
-    growth_heat = min(today_num / 500, 1.0)  # 500+ stars today = max heat
-    score_heat = score / 10
+    # 首先检查关键词
+    for domain, config in DOMAIN_MAPPING.items():
+        if domain == 'Other':
+            continue
+        for keyword in config['keywords']:
+            if keyword in text:
+                return domain
 
-    heat = score_heat * 0.3 + growth_heat * 0.7
+    # 然后检查语言
+    for domain, config in DOMAIN_MAPPING.items():
+        if domain == 'Other':
+            continue
+        if language in config['languages']:
+            return domain
 
-    # 颜色映射: 使用渐变使方块更有质感
-    # 从深蓝(冷) -> 青色 -> 绿色 -> 黄色 -> 橙色 -> 红色(热)
-    if heat >= 0.85:
-        # 深红 - 最热
-        return "linear-gradient(135deg, hsl(0, 80%, 50%) 0%, hsl(0, 85%, 40%) 100%)"
-    elif heat >= 0.7:
-        # 红色
-        return "linear-gradient(135deg, hsl(10, 85%, 55%) 0%, hsl(5, 80%, 45%) 100%)"
-    elif heat >= 0.55:
-        # 橙色
-        return "linear-gradient(135deg, hsl(25, 90%, 55%) 0%, hsl(20, 85%, 45%) 100%)"
-    elif heat >= 0.4:
-        # 黄橙
-        return "linear-gradient(135deg, hsl(40, 95%, 55%) 0%, hsl(35, 90%, 45%) 100%)"
-    elif heat >= 0.25:
-        # 绿色
-        return "linear-gradient(135deg, hsl(120, 55%, 50%) 0%, hsl(130, 50%, 40%) 100%)"
-    elif heat >= 0.1:
-        # 青绿
-        return "linear-gradient(135deg, hsl(170, 55%, 45%) 0%, hsl(180, 50%, 38%) 100%)"
-    else:
-        # 蓝色 - 最冷
-        return "linear-gradient(135deg, hsl(210, 55%, 55%) 0%, hsl(220, 50%, 45%) 100%)"
+    return 'Other'
+
+
+def get_lang_color(lang: str) -> str:
+    """获取语言对应的颜色"""
+    return LANG_COLORS.get(lang, '#8B949E')
 
 
 def format_stars_display(stars_str: str) -> str:
@@ -87,433 +97,759 @@ def format_stars_display(stars_str: str) -> str:
         return stars_str
 
 
-def generate_project_card(analysis: RepoAnalysis, rank: int, rank_change: RankChange = None,
-                          lang: str = 'zh', ai_summary = None) -> str:
-    """生成单个项目卡片 HTML"""
-    texts = LANG_TEXTS.get(lang, LANG_TEXTS['zh'])
-    repo = analysis.repo
-    heat_color = get_heat_color(analysis.score, repo.stars_today)
-    change_text = format_rank_change(rank_change) if rank_change else "-"
-    is_new = rank_change.is_new if rank_change else False
-
-    # 语言颜色映射
-    lang_colors = {
-        'Python': '#3572A5',
-        'JavaScript': '#f1e05a',
-        'TypeScript': '#3178c6',
-        'Go': '#00ADD8',
-        'Rust': '#dea584',
-        'Java': '#b07219',
-        'C++': '#f34b7d',
-        'C': '#555555',
-        'Ruby': '#701516',
-        'PHP': '#4F5D95',
-        'Swift': '#F05138',
-        'Kotlin': '#A97BFF',
-        'Dart': '#00B4AB',
-        'Vue': '#41b883',
-        'HTML': '#e34c26',
-        'CSS': '#563d7c',
+def generate_sidebar_html(lang: str = 'zh') -> str:
+    """生成左侧边栏 HTML"""
+    texts = {
+        'zh': {
+            'feeds': '分类',
+            'all': '全部热门',
+            'ai_ml': 'AI & ML',
+            'frontend': '前端开发',
+            'system': '系统底层',
+            'insights': '洞察',
+            'rising': '上升最快',
+            'new_today': '今日新上榜',
+        },
+        'en': {
+            'feeds': 'Feeds',
+            'all': 'All Trending',
+            'ai_ml': 'AI & ML',
+            'frontend': 'Frontend',
+            'system': 'System',
+            'insights': 'Insights',
+            'rising': 'Rising Stars',
+            'new_today': 'New Today',
+        }
     }
-    lang_color = lang_colors.get(repo.language, '#6e7681')
-
-    # 截断描述
-    desc = repo.description[:80] + '...' if len(repo.description) > 80 else repo.description
-    desc = desc.replace('"', '&quot;').replace('<', '&lt;').replace('>', '&gt;')
-
-    new_badge = '<span class="new-badge">NEW</span>' if is_new else ''
-    change_class = 'up' if rank_change and rank_change.change and rank_change.change > 0 else \
-                   'down' if rank_change and rank_change.change and rank_change.change < 0 else ''
-
-    # AI 总结区域 - 直接展示内容
-    ai_section = ''
-    if ai_summary:
-        highlights_html = ''.join(f'<li>{h}</li>' for h in ai_summary.highlights) if ai_summary.highlights else ''
-        ai_section = f'''
-        <div class="ai-summary">
-            <p class="ai-desc">✨ {ai_summary.summary}</p>
-            <ul class="ai-highlights">{highlights_html}</ul>
-            <p class="ai-use-cases"><strong>{'适用场景' if lang == 'zh' else 'Use Cases'}:</strong> {ai_summary.use_cases}</p>
-        </div>
-        '''
-
-    # 贡献者头像
-    contributors_html = ''
-    if hasattr(repo, 'contributors') and repo.contributors:
-        avatars = ''.join([
-            f'<img src="{c.avatar_url}" alt="{c.username}" title="{c.username}" class="contributor-avatar">'
-            for c in repo.contributors[:3]
-        ])
-        contributors_html = f'<div class="contributors">{avatars}</div>'
+    t = texts.get(lang, texts['zh'])
 
     return f'''
-    <a href="{repo.url}" target="_blank" class="project-card {'new-project' if is_new else ''} {'has-ai' if ai_summary else ''}" style="--heat-color: {heat_color}">
-        <div class="card-header">
-            <span class="rank">#{rank}</span>
-            <span class="change {change_class}">{change_text}</span>
-            {new_badge}
-        </div>
-        <div class="card-body">
-            <h3 class="project-name">{repo.name.split('/')[-1]}</h3>
-            <p class="project-author">@{repo.name.split('/')[0]}</p>
-            <p class="project-desc">{desc}</p>
-            {ai_section}
-        </div>
-        <div class="card-footer">
-            <div class="stats">
-                <span class="stars">⭐ {format_stars_display(repo.stars)}</span>
-                <span class="today">+{repo.stars_today}</span>
-            </div>
-            <div class="meta">
-                <span class="language" style="--lang-color: {lang_color}">{repo.language or texts['unknown']}</span>
-                {contributors_html}
-                <span class="score">{analysis.score}/10</span>
+    <aside class="w-64 h-full flex flex-col glass-panel border-r border-synapse-border shrink-0 z-20">
+        <!-- Header / Logo -->
+        <div class="h-16 flex items-center px-6 border-b border-synapse-border">
+            <div class="flex items-center gap-3">
+                <div class="w-8 h-8 rounded-lg bg-gradient-to-br from-electric-cyan to-blue-600 flex items-center justify-center shadow-neon-cyan">
+                    <span class="material-symbols-outlined text-black font-bold" style="font-size: 20px;">trending_up</span>
+                </div>
+                <div>
+                    <h1 class="font-bold text-lg tracking-tight text-white">GitHub<span class="text-electric-cyan">Trending</span></h1>
+                    <p class="text-[10px] text-text-muted font-mono tracking-wider">SYNAPSE v2.0</p>
+                </div>
             </div>
         </div>
-    </a>
+
+        <!-- Navigation -->
+        <div class="flex-1 overflow-y-auto py-6 flex flex-col gap-2">
+            <div class="px-4 mb-2">
+                <p class="text-xs font-bold text-text-muted uppercase tracking-wider mb-2 px-2">{t['feeds']}</p>
+                <a href="#" class="nav-item-active flex items-center gap-3 px-3 py-2.5 rounded-r-lg transition-colors group" data-filter="all">
+                    <span class="material-symbols-outlined text-electric-cyan">grid_view</span>
+                    <span class="text-sm font-medium">{t['all']}</span>
+                </a>
+                <a href="#" class="nav-item flex items-center gap-3 px-3 py-2.5 rounded-lg text-text-muted hover:text-white hover:bg-synapse-border/30 transition-colors group border-l-2 border-transparent hover:border-text-muted/50 ml-1" data-filter="AI & ML">
+                    <span class="material-symbols-outlined group-hover:text-muted-mint transition-colors">smart_toy</span>
+                    <span class="text-sm font-medium">{t['ai_ml']}</span>
+                </a>
+                <a href="#" class="nav-item flex items-center gap-3 px-3 py-2.5 rounded-lg text-text-muted hover:text-white hover:bg-synapse-border/30 transition-colors group border-l-2 border-transparent hover:border-text-muted/50 ml-1" data-filter="Frontend">
+                    <span class="material-symbols-outlined group-hover:text-muted-mint transition-colors">language</span>
+                    <span class="text-sm font-medium">{t['frontend']}</span>
+                </a>
+                <a href="#" class="nav-item flex items-center gap-3 px-3 py-2.5 rounded-lg text-text-muted hover:text-white hover:bg-synapse-border/30 transition-colors group border-l-2 border-transparent hover:border-text-muted/50 ml-1" data-filter="System">
+                    <span class="material-symbols-outlined group-hover:text-muted-mint transition-colors">memory</span>
+                    <span class="text-sm font-medium">{t['system']}</span>
+                </a>
+            </div>
+            <div class="px-4 mt-4">
+                <p class="text-xs font-bold text-text-muted uppercase tracking-wider mb-2 px-2">{t['insights']}</p>
+                <a href="#" class="nav-item flex items-center gap-3 px-3 py-2.5 rounded-lg text-text-muted hover:text-white hover:bg-synapse-border/30 transition-colors border-l-2 border-transparent ml-1" data-filter="rising">
+                    <span class="material-symbols-outlined text-muted-mint">rocket_launch</span>
+                    <span class="text-sm font-medium">{t['rising']}</span>
+                </a>
+                <a href="#" class="nav-item flex items-center gap-3 px-3 py-2.5 rounded-lg text-text-muted hover:text-white hover:bg-synapse-border/30 transition-colors border-l-2 border-transparent ml-1" data-filter="new">
+                    <span class="material-symbols-outlined text-glow-amber">new_releases</span>
+                    <span class="text-sm font-medium">{t['new_today']}</span>
+                </a>
+            </div>
+
+            <!-- Hacker News Section -->
+            <div class="px-4 mt-4">
+                <p class="text-xs font-bold text-text-muted uppercase tracking-wider mb-2 px-2">
+                    <span class="text-glow-amber">Y</span> Hacker News
+                </p>
+                <a href="../../hn.html" class="nav-item flex items-center gap-3 px-3 py-2.5 rounded-lg text-text-muted hover:text-white hover:bg-synapse-border/30 transition-colors border-l-2 border-transparent hover:border-glow-amber/50 ml-1">
+                    <span class="material-symbols-outlined text-glow-amber">local_fire_department</span>
+                    <span class="text-sm font-medium">{'Top Stories' if lang == 'en' else 'Top Stories'}</span>
+                </a>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <div class="p-4 border-t border-synapse-border">
+            <div class="flex items-center gap-2 text-xs text-text-muted">
+                <span class="w-2 h-2 rounded-full bg-muted-mint pulse-dot"></span>
+                <span class="font-mono">{'数据已同步' if lang == 'zh' else 'Data Synced'}</span>
+            </div>
+        </div>
+    </aside>
     '''
 
 
-def squarify_treemap(values: list[dict], x: float, y: float, width: float, height: float) -> list[dict]:
-    """
-    Squarified Treemap 算法 - 生成尽可能接近正方形的矩形布局
+def generate_detail_panel_html(lang: str = 'zh') -> str:
+    """生成右侧详情面板 HTML (静态模板，由 JS 动态填充)"""
+    texts = {
+        'zh': {
+            'rank': '排名',
+            'view_repo': '查看仓库',
+            'why_trending': '为什么在热榜',
+            'star_growth': 'Star 增长',
+            'ai_summary': 'AI 总结',
+            'maintainer': '维护者',
+            'select_hint': '点击左侧项目查看详情',
+        },
+        'en': {
+            'rank': 'Rank',
+            'view_repo': 'View Repository',
+            'why_trending': 'Why it\'s trending',
+            'star_growth': 'Star Growth',
+            'ai_summary': 'AI Summary',
+            'maintainer': 'Maintained by',
+            'select_hint': 'Select a project to view details',
+        }
+    }
+    t = texts.get(lang, texts['zh'])
 
-    Args:
-        values: 包含 value 和其他属性的字典列表，需按 value 降序排列
-        x, y: 起始位置
-        width, height: 可用空间
+    return f'''
+    <aside id="detail-panel" class="w-[400px] h-full flex flex-col glass-panel border-l border-synapse-border shrink-0 z-20 overflow-y-auto hidden xl:flex">
+        <!-- Placeholder when nothing selected -->
+        <div id="detail-placeholder" class="flex-1 flex items-center justify-center">
+            <div class="text-center text-text-muted">
+                <span class="material-symbols-outlined text-4xl mb-2 block">touch_app</span>
+                <p class="text-sm">{t['select_hint']}</p>
+            </div>
+        </div>
 
-    Returns:
-        带有 x, y, w, h 布局信息的字典列表
-    """
-    if not values:
-        return []
+        <!-- Detail Content (hidden by default) -->
+        <div id="detail-content" class="hidden">
+            <!-- Sticky Header -->
+            <div class="p-6 pb-4 bg-[#0D1117]/90 backdrop-blur-md sticky top-0 z-10 border-b border-synapse-border">
+                <div class="flex items-center justify-between mb-2">
+                    <span id="detail-rank" class="px-2 py-0.5 rounded bg-synapse-border/50 text-xs text-text-muted font-mono">{t['rank']} #1</span>
+                    <div class="flex gap-2">
+                        <span id="detail-new-badge" class="hidden px-2 py-0.5 rounded text-[10px] font-bold bg-glow-amber/10 text-glow-amber border border-glow-amber/30 animate-pulse">NEW</span>
+                        <button onclick="copyToClipboard()" class="p-1.5 hover:bg-synapse-border rounded transition-colors text-text-muted hover:text-white" title="Copy link">
+                            <span class="material-symbols-outlined text-sm">share</span>
+                        </button>
+                    </div>
+                </div>
+                <h2 id="detail-name" class="text-2xl font-mono font-bold text-white leading-tight mb-2">Project Name</h2>
+                <p id="detail-author" class="text-sm text-electric-cyan font-mono mb-3">@owner</p>
+                <div id="detail-tags" class="flex gap-2 flex-wrap mb-4">
+                    <!-- Tags will be inserted here -->
+                </div>
+                <a id="detail-repo-link" href="#" target="_blank" class="flex items-center justify-center gap-2 w-full py-2.5 rounded-lg bg-electric-cyan hover:bg-cyan-400 text-black font-bold transition-all shadow-neon-cyan text-sm">
+                    <span class="material-symbols-outlined text-lg">code</span>
+                    {t['view_repo']}
+                </a>
+            </div>
 
-    # 复制列表避免修改原数据
-    items = [v.copy() for v in values]
+            <div class="p-6 space-y-5">
+                <!-- Description -->
+                <div class="glass-card rounded-xl p-4">
+                    <p id="detail-desc" class="text-sm text-text-muted leading-relaxed">
+                        Project description will appear here...
+                    </p>
+                </div>
 
-    # 计算总值和比例
-    total = sum(item['value'] for item in items)
-    if total == 0:
-        return items
+                <!-- Star Stats -->
+                <div class="glass-card rounded-xl p-4">
+                    <div class="flex items-center justify-between mb-3">
+                        <div class="flex items-center gap-2">
+                            <span class="material-symbols-outlined text-muted-mint text-lg">show_chart</span>
+                            <h4 class="text-sm font-bold text-white uppercase tracking-wide">{t['star_growth']}</h4>
+                        </div>
+                        <span id="detail-stars-today" class="text-xs font-mono text-muted-mint">+0 / 24h</span>
+                    </div>
+                    <div class="flex items-center gap-4">
+                        <div class="flex items-center gap-2">
+                            <span class="material-symbols-outlined text-glow-amber">star</span>
+                            <span id="detail-total-stars" class="text-2xl font-bold text-white">0</span>
+                        </div>
+                        <div class="flex-1 h-2 bg-synapse-border rounded-full overflow-hidden">
+                            <div id="detail-stars-bar" class="h-full bg-gradient-to-r from-electric-cyan to-muted-mint rounded-full" style="width: 0%"></div>
+                        </div>
+                    </div>
+                </div>
 
-    # 归一化：将值转换为面积
-    area = width * height
-    for item in items:
-        item['area'] = (item['value'] / total) * area
+                <!-- AI Summary -->
+                <div id="detail-ai-section" class="glass-card rounded-xl p-4 border-l-2 border-l-glow-amber hidden">
+                    <div class="flex items-center gap-2 mb-3">
+                        <span class="material-symbols-outlined text-glow-amber text-lg">auto_awesome</span>
+                        <h4 class="text-sm font-bold text-white uppercase tracking-wide">{t['ai_summary']}</h4>
+                    </div>
+                    <p id="detail-ai-summary" class="text-sm text-text-muted leading-relaxed mb-3"></p>
+                    <ul id="detail-ai-highlights" class="space-y-1 text-xs text-text-muted"></ul>
+                    <p id="detail-ai-usecases" class="text-xs text-text-muted mt-3 pt-3 border-t border-synapse-border"></p>
+                </div>
 
-    result = []
-
-    def worst_ratio(row: list[dict], w: float) -> float:
-        """计算一行中最差的长宽比"""
-        if not row or w == 0:
-            return float('inf')
-        s = sum(r['area'] for r in row)
-        if s == 0:
-            return float('inf')
-        rmax = max(r['area'] for r in row)
-        rmin = min(r['area'] for r in row)
-        return max((w * w * rmax) / (s * s), (s * s) / (w * w * rmin))
-
-    def layout_row(row: list[dict], x: float, y: float, w: float, h: float, vertical: bool):
-        """布局一行元素"""
-        s = sum(r['area'] for r in row)
-        if vertical:
-            row_h = s / w if w > 0 else 0
-            cx = x
-            for r in row:
-                r_w = r['area'] / row_h if row_h > 0 else 0
-                r['x'] = cx
-                r['y'] = y
-                r['w'] = r_w
-                r['h'] = row_h
-                result.append(r)
-                cx += r_w
-            return x, y + row_h, w, h - row_h
-        else:
-            row_w = s / h if h > 0 else 0
-            cy = y
-            for r in row:
-                r_h = r['area'] / row_w if row_w > 0 else 0
-                r['x'] = x
-                r['y'] = cy
-                r['w'] = row_w
-                r['h'] = r_h
-                result.append(r)
-                cy += r_h
-            return x + row_w, y, w - row_w, h
-
-    def squarify(items: list[dict], x: float, y: float, w: float, h: float):
-        if not items:
-            return
-
-        if len(items) == 1:
-            items[0]['x'] = x
-            items[0]['y'] = y
-            items[0]['w'] = w
-            items[0]['h'] = h
-            result.append(items[0])
-            return
-
-        vertical = w >= h
-        short_side = h if vertical else w
-
-        row = []
-        remaining = items.copy()
-
-        while remaining:
-            item = remaining[0]
-            new_row = row + [item]
-
-            if not row or worst_ratio(new_row, short_side) <= worst_ratio(row, short_side):
-                row = new_row
-                remaining = remaining[1:]
-            else:
-                # 布局当前行，递归处理剩余
-                x, y, w, h = layout_row(row, x, y, w, h, vertical)
-                squarify(remaining, x, y, w, h)
-                return
-
-        # 布局最后一行
-        if row:
-            layout_row(row, x, y, w, h, vertical)
-
-    squarify(items, x, y, width, height)
-    return result
+                <!-- Maintainer -->
+                <div class="glass-card rounded-xl p-4 flex items-center gap-3">
+                    <img id="detail-avatar" src="" alt="avatar" class="w-10 h-10 rounded-full ring-1 ring-synapse-border bg-synapse-card">
+                    <div class="flex flex-col">
+                        <span class="text-xs text-text-muted uppercase">{t['maintainer']}</span>
+                        <span id="detail-maintainer" class="text-sm font-bold text-white">Owner</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </aside>
+    '''
 
 
-def generate_heatmap_section(analyses: list[RepoAnalysis], lang: str = 'zh') -> str:
-    """
-    生成 Repo Heatmap 区域 - 使用 ECharts Treemap 实现类似 TradingView 的专业热力图
+def generate_feed_item_html(analysis: RepoAnalysis, rank: int, rank_change: RankChange = None,
+                            domain: str = 'Other', ai_summary=None) -> str:
+    """生成单个 Feed 项目 HTML"""
+    repo = analysis.repo
+    is_new = rank_change.is_new if rank_change else False
+    change_text = format_rank_change(rank_change) if rank_change else "-"
+    change_val = rank_change.change if rank_change and rank_change.change else 0
 
-    每个方块显示:
-    - repo name
-    - 新增 star 数
-    """
-    import json
-    import math
+    # 获取语言颜色
+    lang_color = get_lang_color(repo.language or 'Other')
 
+    # 截断描述
+    desc = repo.description[:100] + '...' if len(repo.description) > 100 else repo.description
+    desc = desc.replace('"', '&quot;').replace('<', '&lt;').replace('>', '&gt;').replace("'", "&#39;")
+
+    # 排名变化样式
+    if change_val > 0:
+        change_badge = f'''<span class="px-1.5 py-0.5 rounded-full bg-electric-cyan/10 text-electric-cyan text-[10px] font-bold border border-electric-cyan/20 flex items-center">
+            <span class="material-symbols-outlined text-[10px] mr-0.5">arrow_upward</span>{change_val}
+        </span>'''
+    elif change_val < 0:
+        change_badge = f'''<span class="px-1.5 py-0.5 rounded-full bg-red-500/10 text-red-400 text-[10px] font-bold border border-red-500/20 flex items-center">
+            <span class="material-symbols-outlined text-[10px] mr-0.5">arrow_downward</span>{abs(change_val)}
+        </span>'''
+    else:
+        change_badge = f'''<span class="px-1.5 py-0.5 rounded-full bg-synapse-border text-text-muted text-[10px] font-bold">-</span>'''
+
+    # NEW 徽章
+    new_badge = '''<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-glow-amber/10 text-glow-amber border border-glow-amber/30 shadow-neon-amber animate-pulse">NEW</span>''' if is_new else ''
+
+    # 选中样式 (第一个默认选中)
+    selected_class = 'border-electric-cyan/30 bg-synapse-card/80 shadow-[0_0_15px_-3px_rgba(0,229,255,0.1)]' if rank == 1 else 'border-synapse-border bg-synapse-card/40 hover:bg-synapse-card hover:border-text-muted/30'
+
+    # 获取 owner 头像
+    owner = repo.name.split('/')[0] if '/' in repo.name else repo.name
+    short_name = repo.name.split('/')[-1] if '/' in repo.name else repo.name
+
+    return f'''
+    <div class="feed-item group relative flex flex-col md:flex-row items-start md:items-center gap-4 p-4 rounded-xl border {selected_class} transition-all cursor-pointer"
+         data-repo-id="{repo.name}"
+         data-domain="{domain}"
+         data-is-new="{'true' if is_new else 'false'}"
+         data-change="{change_val}"
+         onclick="selectRepo('{repo.name}')">
+        <!-- Rank -->
+        <div class="flex flex-row md:flex-col items-center justify-center min-w-[3rem] gap-1 shrink-0">
+            <span class="text-2xl font-bold {'text-white' if rank == 1 else 'text-text-muted group-hover:text-white'} transition-colors font-mono">{rank:02d}</span>
+            {change_badge}
+        </div>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0 flex flex-col gap-1.5">
+            <div class="flex items-center gap-3 flex-wrap">
+                <h3 class="text-lg font-mono font-bold {'text-electric-cyan' if rank == 1 else 'text-white group-hover:text-electric-cyan'} transition-colors truncate">{repo.name}</h3>
+                {new_badge}
+            </div>
+            <p class="text-sm text-text-muted line-clamp-2 leading-relaxed">{desc}</p>
+            <div class="flex items-center gap-4 mt-1 flex-wrap">
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="w-2.5 h-2.5 rounded-full" style="background: {lang_color}"></span>
+                    <span>{repo.language or 'Unknown'}</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="material-symbols-outlined text-xs">star</span>
+                    <span>{format_stars_display(repo.stars)}</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-muted-mint">
+                    <span class="material-symbols-outlined text-xs">add</span>
+                    <span>+{repo.stars_today}</span>
+                </div>
+                <span class="px-1.5 py-0.5 rounded text-[10px] text-text-muted bg-synapse-border/50">{domain}</span>
+            </div>
+        </div>
+
+        <!-- Arrow -->
+        <div class="hidden md:flex items-center justify-center pr-2 opacity-0 group-hover:opacity-100 transition-opacity">
+            <span class="material-symbols-outlined {'text-electric-cyan' if rank == 1 else 'text-text-muted'}">chevron_right</span>
+        </div>
+    </div>
+    '''
+
+
+def calculate_momentum(stars_today: int, max_stars: int) -> str:
+    """计算动量等级 (low/medium/high)"""
+    if max_stars <= 0:
+        return 'low'
+    ratio = stars_today / max_stars
+    if ratio > 0.6:
+        return 'high'
+    elif ratio > 0.3:
+        return 'medium'
+    return 'low'
+
+
+def generate_treemap_item_html(repo: dict, size: str, rank: int, is_new: bool, momentum: str) -> str:
+    """生成单个 Treemap 项目 HTML"""
+    # 尺寸映射到 CSS grid
+    size_classes = {
+        'huge': 'col-span-8 row-span-5',
+        'large': 'col-span-6 row-span-4',
+        'medium': 'col-span-4 row-span-3',
+        'small': 'col-span-3 row-span-2',
+        'tiny': 'col-span-2 row-span-2'
+    }
+
+    # 动量颜色
+    momentum_bg = {
+        'high': 'bg-electric-cyan/30 border-electric-cyan/50',
+        'medium': 'bg-[#2d5d63] border-[#3d7d83]',
+        'low': 'bg-[#1c3538] border-[#2d5d63]'
+    }
+
+    # NEW 项目发光效果
+    glow_class = 'shadow-[0_0_15px_rgba(0,229,255,0.4)] border-electric-cyan' if is_new else ''
+
+    # 特殊标签
+    badges = []
+    if rank == 1:
+        badges.append('<span class="text-[10px] bg-white/10 px-1.5 py-0.5 rounded text-white">#1 Trending</span>')
+    if repo.get('change', 0) > 3:
+        badges.append('<span class="text-[10px] text-electric-cyan">Rising</span>')
+    if repo.get('starsToday', 0) > 500:
+        badges.append('<span class="material-symbols-outlined text-glow-amber text-sm">local_fire_department</span>')
+
+    badge_html = ' '.join(badges)
+
+    # 增长百分比 (简化计算)
+    stars_today = repo.get('starsToday', 0)
+    growth_badge = f'<span class="text-[10px] font-mono text-muted-mint bg-muted-mint/10 px-1.5 py-0.5 rounded">+{stars_today}</span>' if stars_today > 0 else ''
+
+    size_class = size_classes.get(size, 'col-span-3 row-span-2')
+    bg_class = momentum_bg.get(momentum, momentum_bg['low'])
+
+    # 大尺寸显示更多内容
+    if size in ['huge', 'large']:
+        content = f'''
+            <div class="absolute inset-0 p-3 flex flex-col justify-between z-10">
+                <div class="flex justify-between items-start">
+                    <span class="font-bold text-white text-base truncate">{repo['name']}</span>
+                    {growth_badge}
+                </div>
+                <div class="flex items-center justify-between">
+                    <span class="text-[10px] text-white/70">{repo.get('language', '')} • {format_stars_display(str(repo.get('stars', '0')))} ⭐</span>
+                    {badge_html}
+                </div>
+            </div>
+        '''
+    elif size == 'medium':
+        content = f'''
+            <div class="absolute inset-0 p-2 flex flex-col justify-between">
+                <span class="font-bold text-white text-sm truncate">{repo['name']}</span>
+                <span class="text-[10px] text-white/70">{growth_badge}</span>
+            </div>
+        '''
+    else:
+        content = f'''
+            <div class="absolute inset-0 p-2 flex items-center justify-center">
+                <span class="font-medium text-white/80 text-xs truncate">{repo['name']}</span>
+            </div>
+        '''
+
+    return f'''
+        <div class="treemap-item {size_class} {bg_class} {glow_class} border relative rounded overflow-hidden cursor-pointer hover:border-white/50 transition-all"
+             onclick="window.open('{repo.get('url', '#')}', '_blank')">
+            {content}
+        </div>
+    '''
+
+
+def generate_domain_column_html(domain: str, repos: list, max_stars: int, lang: str = 'zh') -> str:
+    """生成单个领域列的 HTML"""
+    domain_colors = {
+        'AI & ML': 'bg-purple-500',
+        'Frontend': 'bg-blue-500',
+        'System': 'bg-orange-500',
+        'Other': 'bg-gray-500'
+    }
+
+    domain_names = {
+        'zh': {
+            'AI & ML': 'AI & 机器学习',
+            'Frontend': '前端 & Web',
+            'System': '系统 & 基础设施',
+            'Other': '其他'
+        },
+        'en': {
+            'AI & ML': 'AI & Machine Learning',
+            'Frontend': 'Frontend & Web',
+            'System': 'System & Infrastructure',
+            'Other': 'Other'
+        }
+    }
+
+    color_class = domain_colors.get(domain, 'bg-gray-500')
+    display_name = domain_names.get(lang, domain_names['en']).get(domain, domain)
+
+    # 生成 treemap 项目
+    items_html = []
+
+    # 根据项目数量动态选择尺寸，避免少量项目时差距过大
+    repo_count = len(repos[:8])
+    if repo_count == 1:
+        sizes = ['huge']
+    elif repo_count == 2:
+        sizes = ['huge', 'large']
+    elif repo_count == 3:
+        sizes = ['large', 'large', 'medium']
+    elif repo_count == 4:
+        sizes = ['large', 'medium', 'medium', 'medium']
+    elif repo_count == 5:
+        sizes = ['large', 'medium', 'medium', 'small', 'small']
+    else:
+        sizes = ['huge', 'large', 'medium', 'medium', 'small', 'small', 'tiny', 'tiny']
+
+    for i, repo in enumerate(repos[:8]):
+        size = sizes[i] if i < len(sizes) else 'tiny'
+        momentum = calculate_momentum(repo.get('starsToday', 0), max_stars)
+        is_new = repo.get('isNew', False)
+        rank = repo.get('rank', i + 1)
+        items_html.append(generate_treemap_item_html(repo, size, rank, is_new, momentum))
+
+    return f'''
+        <div class="flex flex-col h-full gap-2">
+            <div class="flex items-center justify-between px-1">
+                <h3 class="text-white font-semibold text-sm tracking-wide flex items-center gap-2">
+                    <span class="w-2 h-2 rounded-full {color_class}"></span>
+                    {display_name}
+                </h3>
+                <span class="text-xs text-text-muted">{len(repos)} Repos</span>
+            </div>
+            <div class="flex-1 relative bg-synapse-card/30 rounded-xl overflow-hidden p-1 border border-synapse-border min-h-[280px]">
+                <div class="treemap-grid">
+                    {''.join(items_html)}
+                </div>
+            </div>
+        </div>
+    '''
+
+
+def generate_treemap_section(analyses: list[RepoAnalysis], lang: str = 'zh',
+                             rank_changes: list = None) -> str:
+    """生成 Tech Pulse Treemap - 3 列布局"""
     if not analyses:
         return ''
 
-    # 按 stars_today 排序，取前 12 个
-    sorted_repos = sorted(analyses, key=lambda x: int(str(x.repo.stars_today).replace(',', '') or '0'), reverse=True)[:12]
+    if rank_changes is None:
+        rank_changes = []
 
-    # 准备 ECharts 数据
-    treemap_data = []
-    max_stars_today = 0
+    # 创建 name -> RankChange 映射
+    change_map = {c.name: c for c in rank_changes}
 
-    for analysis in sorted_repos:
+    # 按领域分组并收集数据
+    domain_data = {'AI & ML': [], 'Frontend': [], 'System': [], 'Other': []}
+    max_stars = 0
+
+    for i, analysis in enumerate(analyses[:25], 1):
         repo = analysis.repo
+        domain = classify_domain(repo.name, repo.description, repo.language or '')
+
         try:
             stars_today = int(str(repo.stars_today).replace(',', ''))
-            total_stars = int(str(repo.stars).replace(',', ''))
         except (ValueError, TypeError):
             stars_today = 0
-            total_stars = 1
 
-        if stars_today > max_stars_today:
-            max_stars_today = stars_today
+        max_stars = max(max_stars, stars_today)
 
-        # 使用 stars_today 直接计算面积，保留大小差异（类似 TradingView 风格）
-        # 使用平方根变换而非对数，保持更明显的大小差异
-        area_value = (stars_today ** 0.7) + 1
+        change = change_map.get(repo.name)
 
-        # 获取 GitHub 头像 URL (owner 头像)
-        owner = repo.name.split('/')[0] if '/' in repo.name else repo.name
-        avatar_url = f'https://github.com/{owner}.png?size=200'
-
-        treemap_data.append({
+        domain_data[domain].append({
             'name': repo.name.split('/')[-1],
             'fullName': repo.name,
-            'value': area_value,
+            'stars': repo.stars,
             'starsToday': stars_today,
-            'totalStars': total_stars,
-            'url': repo.url,
             'language': repo.language or 'Unknown',
-            'avatarUrl': avatar_url,
-            'owner': owner
+            'url': repo.url,
+            'rank': i,
+            'isNew': change.is_new if change else False,
+            'change': change.change if change and change.change else 0
         })
 
-    # 转换为 JSON
-    data_json = json.dumps(treemap_data, ensure_ascii=False)
+    # 文本
+    texts = {
+        'zh': {
+            'title': 'Tech Pulse Treemap',
+            'subtitle': '实时 GitHub 市场情绪。面积 = 增长，颜色 = 动量。',
+            'intensity': '强度',
+            'low': '低动量',
+            'high': '高动量',
+            'new_repo': '新项目 (发光边框)'
+        },
+        'en': {
+            'title': 'Tech Pulse Treemap',
+            'subtitle': 'Real-time GitHub market sentiment. Area = Growth, Color = Momentum.',
+            'intensity': 'Intensity Key',
+            'low': 'Low Momentum',
+            'high': 'High Momentum',
+            'new_repo': 'New Repo (Outer Glow)'
+        }
+    }
+    t = texts.get(lang, texts['en'])
 
-    heatmap_title = 'Trending Heatmap' if lang == 'en' else '热力图'
-    tooltip_stars = 'Stars Today' if lang == 'en' else '今日新增'
-    tooltip_total = 'Total Stars' if lang == 'en' else '总 Star'
-    tooltip_lang = 'Language' if lang == 'en' else '语言'
+    # 生成每个领域的列 (只显示有数据的领域，最多3列)
+    columns_html = []
+    for domain in ['AI & ML', 'Frontend', 'System']:
+        if domain_data[domain]:
+            columns_html.append(generate_domain_column_html(domain, domain_data[domain], max_stars, lang))
+
+    # 如果少于3列，添加 Other
+    if len(columns_html) < 3 and domain_data['Other']:
+        columns_html.append(generate_domain_column_html('Other', domain_data['Other'], max_stars, lang))
+
+    # 收集所有语言用于筛选按钮
+    all_languages = set()
+    for repos in domain_data.values():
+        for repo in repos:
+            if repo['language'] != 'Unknown':
+                all_languages.add(repo['language'])
+    top_languages = sorted(all_languages, key=lambda x: sum(1 for repos in domain_data.values() for r in repos if r['language'] == x), reverse=True)[:3]
+
+    lang_buttons = ''.join([
+        f'<button class="treemap-lang-filter flex items-center gap-2 px-3 py-1.5 rounded-lg bg-synapse-card hover:bg-synapse-border text-text-muted hover:text-white border border-synapse-border transition-colors text-sm font-medium" data-lang="{l}">{l}</button>'
+        for l in top_languages
+    ])
 
     return f'''
-    <section class="heatmap-section">
-        <h2>🔥 {heatmap_title}</h2>
-        <div id="treemap-wrapper" style="width: 100%; height: 400px; border-radius: 12px; overflow: hidden; position: relative;">
-            <div id="treemap-chart" style="width: 100%; height: 100%;"></div>
+    <section class="mb-8">
+        <!-- Header -->
+        <div class="flex flex-col lg:flex-row lg:items-end justify-between gap-4 mb-4">
+            <div>
+                <div class="flex items-center gap-3 mb-1">
+                    <span class="material-symbols-outlined text-electric-cyan">local_fire_department</span>
+                    <h2 class="text-xl font-bold text-white">{t['title']}</h2>
+                </div>
+                <p class="text-text-muted text-sm">{t['subtitle']}</p>
+            </div>
+            <div class="flex flex-wrap items-center gap-3">
+                <!-- Time Range Toggle -->
+                <div class="bg-synapse-card p-1 rounded-lg flex border border-synapse-border">
+                    <button class="treemap-time-filter px-3 py-1.5 rounded text-xs font-medium bg-synapse-bg text-white shadow-sm border border-synapse-border" data-time="24h">24h</button>
+                    <button class="treemap-time-filter px-3 py-1.5 rounded text-xs font-medium text-text-muted hover:text-white hover:bg-synapse-border transition-colors" data-time="7d">7d</button>
+                    <button class="treemap-time-filter px-3 py-1.5 rounded text-xs font-medium text-text-muted hover:text-white hover:bg-synapse-border transition-colors" data-time="30d">30d</button>
+                </div>
+                <div class="h-8 w-px bg-synapse-border mx-1 hidden md:block"></div>
+                <!-- Language Filters -->
+                <button class="treemap-lang-filter flex items-center gap-2 px-3 py-1.5 rounded-lg bg-electric-cyan/20 text-electric-cyan border border-electric-cyan/30 text-sm font-medium" data-lang="all">
+                    <span>All Languages</span>
+                </button>
+                {lang_buttons}
+            </div>
         </div>
-        <script>
-        (function() {{
-            var chartDom = document.getElementById('treemap-chart');
-            var myChart = echarts.init(chartDom);
 
-            var rawData = {data_json};
-            var maxStars = Math.max(...rawData.map(d => d.starsToday));
+        <!-- Legend -->
+        <div class="flex items-center gap-4 text-xs text-text-muted border-t border-b border-synapse-border py-3 mb-4">
+            <span class="uppercase tracking-wider font-semibold">{t['intensity']}:</span>
+            <div class="flex items-center gap-2">
+                <span>{t['low']}</span>
+                <div class="h-3 w-32 rounded-full bg-gradient-to-r from-[#1c3538] via-[#2d5d63] to-electric-cyan"></div>
+                <span class="text-white">{t['high']}</span>
+            </div>
+            <div class="ml-6 flex items-center gap-2">
+                <div class="w-3 h-3 border border-electric-cyan shadow-[0_0_8px_rgba(0,229,255,0.3)] rounded-sm"></div>
+                <span class="text-electric-cyan">{t['new_repo']}</span>
+            </div>
+        </div>
 
-            // 30 个经典配色（参考 GitHub 语言颜色、Material Design 等）
-            var classicColors = [
-                '#3572A5',  // Python 蓝
-                '#f1e05a',  // JavaScript 黄
-                '#e34c26',  // HTML 橙红
-                '#563d7c',  // CSS 紫
-                '#b07219',  // Java 棕
-                '#00ADD8',  // Go 青
-                '#dea584',  // Rust 肉色
-                '#178600',  // C# 绿
-                '#f34b7d',  // C++ 粉
-                '#438eff',  // TypeScript 蓝
-                '#701516',  // Ruby 暗红
-                '#4F5D95',  // PHP 紫蓝
-                '#DA5B0B',  // Jupyter 橙
-                '#89e051',  // Shell 亮绿
-                '#c22d40',  // Scala 红
-                '#12aa51',  // Vue 翠绿
-                '#ff6f00',  // 琥珀色
-                '#00bcd4',  // 青色
-                '#9c27b0',  // 紫色
-                '#e91e63',  // 粉红
-                '#3f51b5',  // 靛蓝
-                '#009688',  // 青绿
-                '#795548',  // 棕色
-                '#607d8b',  // 蓝灰
-                '#ff5722',  // 深橙
-                '#8bc34a',  // 浅绿
-                '#ffc107',  // 琥珀
-                '#03a9f4',  // 浅蓝
-                '#673ab7',  // 深紫
-                '#cddc39'   // 黄绿
-            ];
-
-            // 基于项目名生成稳定的颜色索引（同一项目每次颜色一致）
-            function hashCode(str) {{
-                var hash = 0;
-                for (var i = 0; i < str.length; i++) {{
-                    hash = ((hash << 5) - hash) + str.charCodeAt(i);
-                    hash = hash & hash;
-                }}
-                return Math.abs(hash);
-            }}
-
-            function getItemColor(starsToday, index, total, name) {{
-                // 使用项目名的哈希值选择颜色，确保同一项目颜色稳定
-                var colorIndex = hashCode(name) % classicColors.length;
-                return classicColors[colorIndex];
-            }}
-
-            var treeData = rawData.map(function(item, index) {{
-                return {{
-                    name: item.name,
-                    value: item.value,
-                    starsToday: item.starsToday,
-                    totalStars: item.totalStars,
-                    url: item.url,
-                    fullName: item.fullName,
-                    language: item.language,
-                    avatarUrl: item.avatarUrl,
-                    owner: item.owner,
-                    itemStyle: {{
-                        color: getItemColor(item.starsToday, index, rawData.length, item.name),
-                        borderColor: 'rgba(0,0,0,0.2)',
-                        borderWidth: 1
-                    }}
-                }};
-            }});
-
-            var option = {{
-                tooltip: {{
-                    backgroundColor: 'rgba(0,0,0,0.85)',
-                    borderColor: '#333',
-                    textStyle: {{ color: '#fff', fontSize: 13 }},
-                    formatter: function(params) {{
-                        var d = params.data;
-                        var starsDisplay = d.starsToday >= 1000 ? (d.starsToday/1000).toFixed(1) + 'k' : d.starsToday;
-                        var totalDisplay = d.totalStars >= 1000 ? (d.totalStars/1000).toFixed(1) + 'k' : d.totalStars;
-                        return '<div style="font-weight:600;margin-bottom:8px;font-size:14px;">' + d.fullName + '</div>' +
-                               '<div style="margin:4px 0;">⭐ {tooltip_stars}: <span style="color:#f39c12;font-weight:600;">+' + starsDisplay + '</span></div>' +
-                               '<div style="margin:4px 0;">📊 {tooltip_total}: ' + totalDisplay + '</div>' +
-                               '<div>🔧 {tooltip_lang}: ' + d.language + '</div>';
-                    }}
-                }},
-                series: [{{
-                    type: 'treemap',
-                    width: '100%',
-                    height: '100%',
-                    roam: false,
-                    nodeClick: false,
-                    breadcrumb: {{ show: false }},
-                    itemStyle: {{ borderRadius: 4, gapWidth: 2 }},
-                    label: {{
-                        show: true,
-                        position: 'inside',
-                        formatter: function(params) {{
-                            var d = params.data;
-                            var starsDisplay = d.starsToday >= 1000 ? '+' + (d.starsToday/1000).toFixed(1) + 'k' : '+' + d.starsToday;
-                            return d.name + '\\n' + starsDisplay;
-                        }},
-                        fontSize: 16,
-                        fontWeight: 700,
-                        color: '#fff',
-                        textShadowColor: 'rgba(0,0,0,0.8)',
-                        textShadowBlur: 6,
-                        textShadowOffsetX: 1,
-                        textShadowOffsetY: 1,
-                        lineHeight: 24,
-                        textBorderColor: 'rgba(0,0,0,0.5)',
-                        textBorderWidth: 2
-                    }},
-                    upperLabel: {{
-                        show: false
-                    }},
-                    data: treeData
-                }}]
-            }};
-
-            myChart.setOption(option);
-
-            myChart.on('click', function(params) {{
-                if (params.data && params.data.url) window.open(params.data.url, '_blank');
-            }});
-
-            window.addEventListener('resize', function() {{
-                myChart.resize();
-            }});
-        }})();
-        </script>
+        <!-- 3 Column Grid -->
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+            {''.join(columns_html)}
+        </div>
     </section>
+
+    <style>
+        .treemap-grid {{
+            display: grid;
+            grid-template-columns: repeat(12, 1fr);
+            grid-template-rows: repeat(8, 1fr);
+            gap: 4px;
+            height: 100%;
+        }}
+
+        .treemap-item {{
+            transition: transform 0.2s ease, z-index 0s;
+        }}
+
+        .treemap-item:hover {{
+            z-index: 10;
+            transform: scale(1.02);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+        }}
+    </style>
+
+    <script>
+    (function() {{
+        // 时间筛选按钮点击 (暂时只做 UI 效果，实际筛选需要后端数据支持)
+        document.querySelectorAll('.treemap-time-filter').forEach(function(btn) {{
+            btn.addEventListener('click', function() {{
+                document.querySelectorAll('.treemap-time-filter').forEach(function(b) {{
+                    b.classList.remove('bg-synapse-bg', 'text-white', 'shadow-sm', 'border-synapse-border');
+                    b.classList.add('text-text-muted');
+                }});
+                this.classList.add('bg-synapse-bg', 'text-white', 'shadow-sm', 'border-synapse-border');
+                this.classList.remove('text-text-muted');
+            }});
+        }});
+
+        // 语言筛选按钮点击
+        document.querySelectorAll('.treemap-lang-filter').forEach(function(btn) {{
+            btn.addEventListener('click', function() {{
+                var lang = this.dataset.lang;
+
+                // 更新按钮样式
+                document.querySelectorAll('.treemap-lang-filter').forEach(function(b) {{
+                    b.classList.remove('bg-electric-cyan/20', 'text-electric-cyan', 'border-electric-cyan/30');
+                    b.classList.add('bg-synapse-card', 'text-text-muted', 'border-synapse-border');
+                }});
+                this.classList.add('bg-electric-cyan/20', 'text-electric-cyan', 'border-electric-cyan/30');
+                this.classList.remove('bg-synapse-card', 'text-text-muted', 'border-synapse-border');
+
+                // TODO: 实际的筛选逻辑 (需要重新渲染 treemap)
+                console.log('Filter by language:', lang);
+            }});
+        }});
+    }})();
+    </script>
     '''
 
 
-def generate_banner_section(new_projects: list[tuple[RepoAnalysis, RankChange]], lang: str = 'zh',
-                            ai_summaries: dict = None) -> str:
-    """生成新项目 Banner 区域 - 使用与项目卡片相同的样式"""
-    texts = LANG_TEXTS.get(lang, LANG_TEXTS['zh'])
-
-    if not new_projects:
+def generate_stats_bar(analyses: list[RepoAnalysis], lang: str = 'zh') -> str:
+    """生成顶部统计条"""
+    if not analyses:
         return ''
 
+    total_stars = 0
+    new_count = 0
+    lang_count = {}
+
+    for a in analyses:
+        try:
+            total_stars += int(str(a.repo.stars_today).replace(',', ''))
+        except:
+            pass
+        prog_lang = a.repo.language or 'Other'
+        lang_count[prog_lang] = lang_count.get(prog_lang, 0) + 1
+
+    top_lang = max(lang_count.items(), key=lambda x: x[1])[0] if lang_count else 'Unknown'
+    avg_score = round(sum(a.score for a in analyses) / len(analyses), 1) if analyses else 0
+
+    def fmt(n):
+        if n >= 1000:
+            return f'{n/1000:.1f}k'
+        return str(n)
+
+    texts = {
+        'zh': ['今日 Star', '平均评分', '热门项目', '热门语言'],
+        'en': ['Stars Today', 'Avg Score', 'Projects', 'Top Lang']
+    }
+    t = texts.get(lang, texts['zh'])
+
+    return f'''
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-3 mb-6">
+        <div class="glass-card rounded-xl p-4 flex items-center gap-3">
+            <div class="w-10 h-10 rounded-lg bg-muted-mint/10 flex items-center justify-center">
+                <span class="material-symbols-outlined text-muted-mint">star</span>
+            </div>
+            <div>
+                <p class="text-xs text-text-muted">{t[0]}</p>
+                <p class="text-xl font-bold text-white">{fmt(total_stars)}</p>
+            </div>
+        </div>
+        <div class="glass-card rounded-xl p-4 flex items-center gap-3">
+            <div class="w-10 h-10 rounded-lg bg-electric-cyan/10 flex items-center justify-center">
+                <span class="material-symbols-outlined text-electric-cyan">analytics</span>
+            </div>
+            <div>
+                <p class="text-xs text-text-muted">{t[1]}</p>
+                <p class="text-xl font-bold text-white">{avg_score}<span class="text-sm text-text-muted">/10</span></p>
+            </div>
+        </div>
+        <div class="glass-card rounded-xl p-4 flex items-center gap-3">
+            <div class="w-10 h-10 rounded-lg bg-glow-amber/10 flex items-center justify-center">
+                <span class="material-symbols-outlined text-glow-amber">folder</span>
+            </div>
+            <div>
+                <p class="text-xs text-text-muted">{t[2]}</p>
+                <p class="text-xl font-bold text-white">{len(analyses)}</p>
+            </div>
+        </div>
+        <div class="glass-card rounded-xl p-4 flex items-center gap-3">
+            <div class="w-10 h-10 rounded-lg bg-purple-500/10 flex items-center justify-center">
+                <span class="material-symbols-outlined text-purple-400">code</span>
+            </div>
+            <div>
+                <p class="text-xs text-text-muted">{t[3]}</p>
+                <p class="text-xl font-bold text-white">{top_lang}</p>
+            </div>
+        </div>
+    </div>
+    '''
+
+
+def generate_repo_data_script(analyses: list[RepoAnalysis], rank_changes: list[RankChange],
+                               ai_summaries: dict = None) -> str:
+    """生成 JavaScript 数据对象供详情面板使用"""
     if ai_summaries is None:
         ai_summaries = {}
 
-    cards = []
-    for i, (analysis, change) in enumerate(new_projects[:3], 1):  # 最多显示3个新项目
-        ai_summary = ai_summaries.get(analysis.repo.name)
-        card_html = generate_project_card(analysis, i, change, lang, ai_summary)
-        cards.append(card_html)
+    change_map = {c.name: c for c in rank_changes}
+
+    repo_data = {}
+    for i, analysis in enumerate(analyses, 1):
+        repo = analysis.repo
+        change = change_map.get(repo.name)
+        ai = ai_summaries.get(repo.name)
+
+        owner = repo.name.split('/')[0] if '/' in repo.name else repo.name
+        short_name = repo.name.split('/')[-1] if '/' in repo.name else repo.name
+
+        # 安全处理描述文本
+        desc = repo.description.replace('\\', '\\\\').replace('"', '\\"').replace('\n', ' ').replace('\r', '')
+
+        repo_data[repo.name] = {
+            'rank': i,
+            'name': short_name,
+            'fullName': repo.name,
+            'owner': owner,
+            'description': desc,
+            'url': repo.url,
+            'stars': repo.stars,
+            'starsToday': repo.stars_today,
+            'language': repo.language or 'Unknown',
+            'langColor': get_lang_color(repo.language or 'Unknown'),
+            'score': analysis.score,
+            'domain': classify_domain(repo.name, repo.description, repo.language or ''),
+            'isNew': change.is_new if change else False,
+            'change': change.change if change and change.change else 0,
+            'avatar': f'https://github.com/{owner}.png?size=80',
+            'aiSummary': ai.summary if ai else None,
+            'aiHighlights': ai.highlights if ai else [],
+            'aiUseCases': ai.use_cases if ai else None,
+        }
 
     return f'''
-    <section class="banner-section">
-        <h2>{texts['new_today']}</h2>
-        <div class="banner-container">
-            {''.join(cards)}
-        </div>
-    </section>
+    <script>
+    window.REPO_DATA = {json.dumps(repo_data, ensure_ascii=False)};
+    </script>
     '''
 
 
@@ -523,21 +859,8 @@ def generate_dashboard_html(analyses: list[RepoAnalysis],
                             lang: str = 'zh',
                             ai_summaries: dict = None) -> str:
     """
-    生成完整的 HTML 仪表板
-
-    Args:
-        analyses: 分析结果列表
-        rank_changes: 排名变化列表
-        date: 报告日期
-        lang: 语言 ('zh' 中文, 'en' 英文)
-        ai_summaries: AI 生成的项目总结字典 {repo_name: AISummary}
-
-    Returns:
-        HTML 字符串
+    生成完整的 Synapse 风格 HTML 仪表板
     """
-    texts = LANG_TEXTS.get(lang, LANG_TEXTS['zh'])
-    html_lang = 'zh-CN' if lang == 'zh' else 'en'
-
     if date is None:
         date = datetime.now()
 
@@ -545,770 +868,363 @@ def generate_dashboard_html(analyses: list[RepoAnalysis],
         ai_summaries = {}
 
     date_str = date.strftime('%Y-%m-%d')
+    html_lang = 'zh-CN' if lang == 'zh' else 'en'
 
     # 创建 name -> RankChange 映射
     change_map = {c.name: c for c in rank_changes}
 
-    # 按评分排序
+    # 按评分排序取前25
     sorted_analyses = sorted(analyses, key=lambda x: x.score, reverse=True)[:25]
 
-    # 找出新上榜项目
-    new_projects = []
+    # 生成 Feed 列表
+    feed_items = []
     for i, analysis in enumerate(sorted_analyses, 1):
         change = change_map.get(analysis.repo.name)
-        if change and change.is_new:
-            new_projects.append((analysis, change))
-
-    # 生成 Banner
-    banner_html = generate_banner_section(new_projects, lang, ai_summaries)
-
-    # 生成 Heatmap
-    heatmap_html = generate_heatmap_section(sorted_analyses, lang)
-
-    # 生成所有项目卡片
-    cards_html = []
-    for i, analysis in enumerate(sorted_analyses, 1):
-        change = change_map.get(analysis.repo.name)
+        domain = classify_domain(analysis.repo.name, analysis.repo.description, analysis.repo.language or '')
         ai_summary = ai_summaries.get(analysis.repo.name)
-        cards_html.append(generate_project_card(analysis, i, change, lang, ai_summary))
+        feed_items.append(generate_feed_item_html(analysis, i, change, domain, ai_summary))
 
-    # 统计语言分布
-    lang_count = {}
-    for a in sorted_analyses:
-        lang = a.repo.language or 'Other'
-        lang_count[lang] = lang_count.get(lang, 0) + 1
-
-    top_langs = sorted(lang_count.items(), key=lambda x: x[1], reverse=True)[:6]
-
-    lang_stats_html = ''.join([
-        f'<span class="lang-stat"><span class="lang-dot" style="background: {get_lang_color(prog_lang)}"></span>{prog_lang}: {count}</span>'
-        for prog_lang, count in top_langs
-    ])
-
-    # 项目数量显示
-    project_count_text = f"{len(sorted_analyses)} {texts['project_count']}"
+    texts = {
+        'zh': {
+            'title': 'GitHub Trending - Synapse',
+            'search_placeholder': '搜索项目...',
+            'all_projects': '全部项目',
+        },
+        'en': {
+            'title': 'GitHub Trending - Synapse',
+            'search_placeholder': 'Search projects...',
+            'all_projects': 'All Projects',
+        }
+    }
+    t = texts.get(lang, texts['zh'])
 
     return f'''<!DOCTYPE html>
-<html lang="{html_lang}">
+<html lang="{html_lang}" class="dark">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{texts['title']} - {date_str}</title>
+    <title>{t['title']} - {date_str}</title>
     <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg" type="image/svg+xml">
-    <link rel="icon" href="https://github.githubassets.com/favicons/favicon-dark.png" type="image/png" media="(prefers-color-scheme: dark)">
-    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.png" type="image/png" media="(prefers-color-scheme: light)">
-    <link rel="apple-touch-icon" href="https://github.githubassets.com/apple-touch-icon.png">
+
+    <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet">
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com?plugins=forms"></script>
+
+    <!-- ECharts -->
     <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+
+    <!-- Tailwind Config -->
+    <script>
+        tailwind.config = {{
+            darkMode: "class",
+            theme: {{
+                extend: {{
+                    colors: {{
+                        "synapse-bg": "#0D1117",
+                        "synapse-card": "#161B22",
+                        "synapse-border": "#30363D",
+                        "electric-cyan": "#00E5FF",
+                        "muted-mint": "#70FFC9",
+                        "glow-amber": "#FFAB00",
+                        "text-main": "#C9D1D9",
+                        "text-muted": "#8B949E",
+                    }},
+                    fontFamily: {{
+                        "display": ["Inter", "sans-serif"],
+                        "mono": ["JetBrains Mono", "monospace"],
+                    }},
+                    boxShadow: {{
+                        'neon-cyan': '0 0 5px theme("colors.electric-cyan"), 0 0 20px theme("colors.electric-cyan")',
+                        'neon-amber': '0 0 5px theme("colors.glow-amber"), 0 0 10px rgba(255, 171, 0, 0.5)',
+                    }}
+                }},
+            }},
+        }}
+    </script>
+
     <style>
-        /* 深色主题 (默认) */
-        :root {{
-            --bg-primary: #0d1117;
-            --bg-secondary: #161b22;
-            --bg-tertiary: #21262d;
-            --text-primary: #f0f6fc;
-            --text-secondary: #8b949e;
-            --text-muted: #6e7681;
-            --border-color: #3d444d;
-            --accent-green: #3fb950;
-            --accent-red: #f85149;
-            --accent-blue: #58a6ff;
-            --accent-yellow: #d29922;
-            --card-shadow: rgba(0, 0, 0, 0.4);
-            --banner-bg: #3d2e00;
-            --banner-border: #9e6a03;
-        }}
-
-        /* 浅色主题 */
-        [data-theme="light"] {{
-            --bg-primary: #ffffff;
-            --bg-secondary: #f6f8fa;
-            --bg-tertiary: #e1e4e8;
-            --text-primary: #24292f;
-            --text-secondary: #57606a;
-            --text-muted: #6e7781;
-            --border-color: #d1d9e0;
-            --accent-green: #1a7f37;
-            --accent-red: #cf222e;
-            --accent-blue: #0969da;
-            --accent-yellow: #9a6700;
-            --card-shadow: rgba(0, 0, 0, 0.1);
-            --banner-bg: #fff8c5;
-            --banner-border: #9a6700;
-        }}
-
-        * {{
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }}
-
         body {{
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-            background: var(--bg-primary);
-            color: var(--text-primary);
-            min-height: 100vh;
-            line-height: 1.5;
-            transition: background 0.3s ease, color 0.3s ease;
+            background-color: #0D1117;
+            color: #C9D1D9;
         }}
 
-        .container {{
-            max-width: 1400px;
-            margin: 0 auto;
-            padding: 2rem;
+        /* Custom Scrollbar */
+        ::-webkit-scrollbar {{
+            width: 6px;
+        }}
+        ::-webkit-scrollbar-track {{
+            background: #0D1117;
+        }}
+        ::-webkit-scrollbar-thumb {{
+            background: #30363D;
+            border-radius: 3px;
+        }}
+        ::-webkit-scrollbar-thumb:hover {{
+            background: #00E5FF;
         }}
 
-        /* 主题切换按钮 */
-        .theme-toggle {{
-            position: fixed;
-            top: 1rem;
-            right: 1rem;
-            z-index: 1000;
-            background: var(--bg-secondary);
-            border: 1px solid var(--border-color);
-            border-radius: 50px;
-            padding: 0.5rem;
-            cursor: pointer;
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-            transition: all 0.3s ease;
+        .glass-panel {{
+            background: rgba(22, 27, 34, 0.7);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid rgba(48, 54, 61, 0.5);
         }}
 
-        .theme-toggle:hover {{
-            border-color: var(--accent-blue);
+        .glass-card {{
+            background: rgba(13, 17, 23, 0.6);
+            border: 1px solid rgba(48, 54, 61, 0.8);
         }}
 
-        .theme-toggle .icon {{
-            font-size: 1.2rem;
-            width: 28px;
-            height: 28px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            border-radius: 50%;
-            transition: all 0.3s ease;
-        }}
-
-        .theme-toggle .icon.active {{
-            background: var(--accent-blue);
-            color: white;
-        }}
-
-        header {{
-            margin-bottom: 2rem;
-            padding-bottom: 2rem;
-            border-bottom: 1px solid var(--border-color);
-        }}
-
-        .header-top {{
-            display: flex;
-            justify-content: space-between;
-            align-items: flex-start;
-            margin-bottom: 0.5rem;
-        }}
-
-        .header-title {{
-            text-align: left;
-        }}
-
-        .header-actions {{
-            display: flex;
-            gap: 0.5rem;
-        }}
-
-        .subscribe-btn {{
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-            padding: 0.5rem 1rem;
-            background: var(--accent-yellow);
-            color: #000;
-            border-radius: 6px;
-            text-decoration: none;
-            font-size: 0.85rem;
-            font-weight: 500;
-            transition: all 0.2s ease;
-        }}
-
-        .subscribe-btn:hover {{
-            opacity: 0.9;
-            transform: translateY(-1px);
-        }}
-
-        header h1 {{
-            font-size: 2.5rem;
-            font-weight: 700;
-            background: linear-gradient(135deg, var(--accent-blue), var(--accent-green));
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            margin-bottom: 0.5rem;
-        }}
-
-        header .subtitle {{
-            color: var(--text-secondary);
-            font-size: 1.1rem;
-        }}
-
-        header .date {{
-            color: var(--text-muted);
-            font-size: 0.9rem;
-            margin-top: 0.5rem;
-        }}
-
-        .stats-bar {{
-            display: flex;
-            justify-content: center;
-            gap: 2rem;
-            margin-top: 1rem;
-            flex-wrap: wrap;
-        }}
-
-        .lang-stat {{
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-            color: var(--text-secondary);
-            font-size: 0.85rem;
-        }}
-
-        .lang-dot {{
-            width: 10px;
-            height: 10px;
-            border-radius: 50%;
-        }}
-
-        /* Heatmap Section - ECharts */
-        .heatmap-section {{
-            margin-bottom: 2rem;
-        }}
-
-        .heatmap-section h2 {{
-            font-size: 1.5rem;
-            margin-bottom: 1rem;
-            color: var(--text-primary);
-        }}
-
-        #treemap-chart {{
-            background: var(--bg-secondary);
-            border: 1px solid var(--border-color);
-        }}
-
-        /* Banner Section */
-        .banner-section {{
-            margin-bottom: 2rem;
-        }}
-
-        .banner-section h2 {{
-            font-size: 1.5rem;
-            margin-bottom: 1rem;
-            color: var(--text-primary);
-        }}
-
-        .banner-container {{
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-            gap: 1rem;
-        }}
-
-        /* Project Grid */
-        .project-grid {{
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-            gap: 1rem;
-        }}
-
-        .project-card {{
-            background: var(--bg-secondary);
-            border: 1px solid var(--border-color);
-            border-radius: 12px;
-            padding: 1rem;
-            text-decoration: none;
-            color: inherit;
-            transition: all 0.2s ease;
-            display: flex;
-            flex-direction: column;
-            position: relative;
-            overflow: hidden;
-        }}
-
-        .project-card::before {{
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            height: 3px;
-            background: var(--heat-color);
-        }}
-
-        .project-card:hover {{
-            transform: translateY(-2px);
-            border-color: var(--heat-color);
-            box-shadow: 0 8px 24px var(--card-shadow);
-        }}
-
-        .project-card.new-project {{
-            border-color: var(--accent-yellow);
-        }}
-
-        .card-header {{
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-            margin-bottom: 0.75rem;
-        }}
-
-        .rank {{
-            font-weight: 700;
-            color: var(--text-muted);
-            font-size: 0.85rem;
-        }}
-
-        .change {{
-            font-size: 0.75rem;
-            font-weight: 600;
-            padding: 0.15rem 0.4rem;
-            border-radius: 4px;
-            background: var(--bg-tertiary);
-        }}
-
-        .change.up {{
-            color: var(--accent-green);
-            background: rgba(63, 185, 80, 0.15);
-        }}
-
-        .change.down {{
-            color: var(--accent-red);
-            background: rgba(248, 81, 73, 0.15);
-        }}
-
-        .new-badge {{
-            background: var(--accent-yellow);
+        .nav-item-active {{
+            background: rgba(0, 229, 255, 0.1);
+            border-left: 3px solid #00E5FF;
             color: #fff;
-            font-size: 0.65rem;
-            font-weight: 700;
-            padding: 0.15rem 0.4rem;
-            border-radius: 4px;
-            margin-left: auto;
         }}
 
-        [data-theme="light"] .new-badge {{
-            color: #000;
+        .pulse-dot {{
+            animation: pulse 2s infinite;
         }}
 
-        .card-body {{
-            flex: 1;
+        @keyframes pulse {{
+            0%, 100% {{ opacity: 1; }}
+            50% {{ opacity: 0.5; }}
         }}
 
-        .project-name {{
-            font-size: 1rem;
-            font-weight: 600;
-            color: var(--text-primary);
-            margin-bottom: 0.25rem;
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
+        .feed-item.selected {{
+            border-color: rgba(0, 229, 255, 0.3) !important;
+            background: rgba(22, 27, 34, 0.8) !important;
+            box-shadow: 0 0 15px -3px rgba(0, 229, 255, 0.1);
         }}
 
-        .project-author {{
-            color: var(--text-muted);
-            font-size: 0.8rem;
-            margin-bottom: 0.5rem;
+        .feed-item.selected h3 {{
+            color: #00E5FF !important;
         }}
 
-        .project-desc {{
-            color: var(--text-secondary);
-            font-size: 0.8rem;
-            display: -webkit-box;
-            -webkit-line-clamp: 2;
-            -webkit-box-orient: vertical;
-            overflow: hidden;
-            min-height: 2.4rem;
-        }}
-
-        /* AI Summary Styles */
-        .ai-summary {{
-            margin-top: 0.75rem;
-            padding: 0.5rem;
-            background: var(--bg-tertiary);
-            border-radius: 6px;
-        }}
-
-        .ai-desc {{
-            font-size: 0.8rem;
-            color: var(--text-primary);
-            line-height: 1.4;
-            margin-bottom: 0.5rem;
-        }}
-
-        .ai-highlights {{
-            font-size: 0.75rem;
-            color: var(--text-secondary);
-            padding-left: 1rem;
-            margin: 0.5rem 0;
-        }}
-
-        .ai-highlights li {{
-            margin-bottom: 0.25rem;
-        }}
-
-        .ai-use-cases {{
-            font-size: 0.75rem;
-            color: var(--text-muted);
-            margin: 0;
-        }}
-
-        .project-card.has-ai {{
-            border-color: var(--accent-yellow);
-            border-width: 1px;
-            border-style: solid;
-        }}
-
-        .card-footer {{
-            margin-top: 0.75rem;
-            padding-top: 0.75rem;
-            border-top: 1px solid var(--border-color);
-        }}
-
-        .stats {{
-            display: flex;
-            justify-content: space-between;
-            margin-bottom: 0.5rem;
-        }}
-
-        .stars {{
-            color: var(--accent-yellow);
-            font-weight: 500;
-            font-size: 0.85rem;
-        }}
-
-        .today {{
-            color: var(--accent-green);
-            font-size: 0.8rem;
-            font-weight: 500;
-        }}
-
-        .meta {{
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }}
-
-        .language {{
-            font-size: 0.75rem;
-            color: var(--text-secondary);
-            display: flex;
-            align-items: center;
-            gap: 0.35rem;
-        }}
-
-        .language::before {{
-            content: '';
-            width: 8px;
-            height: 8px;
-            border-radius: 50%;
-            background: var(--lang-color);
-        }}
-
-        .score {{
-            font-size: 0.75rem;
-            color: var(--text-muted);
-            background: var(--bg-tertiary);
-            padding: 0.15rem 0.5rem;
-            border-radius: 10px;
-        }}
-
-        .contributors {{
-            display: flex;
-            align-items: center;
-        }}
-
-        .contributor-avatar {{
-            width: 20px;
-            height: 20px;
-            border-radius: 50%;
-            border: 2px solid var(--bg-secondary);
-            margin-left: -6px;
-        }}
-
-        .contributor-avatar:first-child {{
-            margin-left: 0;
-        }}
-
-        footer {{
-            text-align: center;
-            margin-top: 3rem;
-            padding-top: 2rem;
-            border-top: 1px solid var(--border-color);
-            color: var(--text-muted);
-            font-size: 0.85rem;
-        }}
-
-        footer a {{
-            color: var(--accent-blue);
-            text-decoration: none;
-        }}
-
-        footer a:hover {{
-            text-decoration: underline;
-        }}
-
-        /* Modal Styles */
-        .modal {{
-            display: none;
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(0, 0, 0, 0.6);
-            justify-content: center;
-            align-items: center;
-            z-index: 1000;
-        }}
-
-        .modal-content {{
-            background: var(--bg-secondary);
-            border: 1px solid var(--border-color);
-            border-radius: 12px;
-            padding: 2rem;
-            max-width: 400px;
-            width: 90%;
-            position: relative;
-            text-align: center;
-        }}
-
-        .modal-close {{
-            position: absolute;
-            top: 1rem;
-            right: 1rem;
-            background: none;
-            border: none;
-            font-size: 1.5rem;
-            color: var(--text-muted);
-            cursor: pointer;
-        }}
-
-        .modal-close:hover {{
-            color: var(--text-primary);
-        }}
-
-        .modal-content h3 {{
-            margin-bottom: 0.5rem;
-            color: var(--text-primary);
-        }}
-
-        .modal-desc {{
-            color: var(--text-secondary);
-            font-size: 0.9rem;
-            margin-bottom: 1.5rem;
-        }}
-
-        #subscribeForm {{
-            display: flex;
-            gap: 0.5rem;
-        }}
-
-        #subscribeEmail {{
-            flex: 1;
-            padding: 0.75rem 1rem;
-            border: 1px solid var(--border-color);
-            border-radius: 6px;
-            background: var(--bg-primary);
-            color: var(--text-primary);
-            font-size: 0.9rem;
-        }}
-
-        #subscribeEmail:focus {{
-            outline: none;
-            border-color: var(--accent-blue);
-        }}
-
-        .submit-btn {{
-            padding: 0.75rem 1.5rem;
-            background: var(--accent-green);
-            color: #fff;
-            border: none;
-            border-radius: 6px;
-            font-size: 0.9rem;
-            font-weight: 500;
-            cursor: pointer;
-            transition: opacity 0.2s;
-        }}
-
-        .submit-btn:hover {{
-            opacity: 0.9;
-        }}
-
-        .modal-note {{
-            margin-top: 1rem;
-            font-size: 0.75rem;
-            color: var(--text-muted);
-        }}
-
-        @media (max-width: 768px) {{
-            .container {{
-                padding: 1rem;
-            }}
-
-            header h1 {{
-                font-size: 1.75rem;
-            }}
-
-            .project-grid {{
-                grid-template-columns: 1fr;
-            }}
-
-            .stats-bar {{
-                gap: 1rem;
-            }}
-
-            .theme-toggle {{
-                top: 0.5rem;
-                right: 0.5rem;
-                padding: 0.3rem;
-            }}
+        .feed-item.selected .rank-num {{
+            color: #fff !important;
         }}
     </style>
 </head>
-<body>
-    <!-- 主题切换按钮 -->
-    <div class="theme-toggle" onclick="toggleTheme()" title="切换主题 / Toggle Theme">
-        <span class="icon active" id="darkIcon">🌙</span>
-        <span class="icon" id="lightIcon">☀️</span>
-    </div>
+<body class="h-screen w-full flex overflow-hidden font-display selection:bg-electric-cyan selection:text-black">
 
-    <div class="container">
-        <header>
-            <div class="header-top">
-                <div class="header-title">
-                    <h1>{texts['title']}</h1>
-                    <p class="subtitle">{texts['subtitle']}</p>
-                </div>
-                <div class="header-actions">
-                    <button class="subscribe-btn" onclick="document.getElementById('subscribeModal').style.display='flex'" title="{'邮件订阅' if lang == 'zh' else 'Subscribe'}">
-                        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
-                            <path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
-                        </svg>
-                        {'邮件订阅' if lang == 'zh' else 'Subscribe'}
-                    </button>
-                </div>
+    {generate_sidebar_html(lang)}
+
+    <!-- Main Content Area -->
+    <main class="flex-1 flex flex-col h-full overflow-hidden bg-synapse-bg relative">
+        <!-- Top Search Bar -->
+        <header class="h-16 shrink-0 border-b border-synapse-border flex items-center justify-between px-6 bg-synapse-bg/80 backdrop-blur-md z-10 sticky top-0">
+            <div class="flex items-center w-full max-w-md relative">
+                <span class="material-symbols-outlined absolute left-3 text-text-muted">search</span>
+                <input type="text" id="search-input"
+                    class="w-full bg-synapse-card border border-synapse-border rounded-lg pl-10 pr-4 py-2 text-sm text-white placeholder-text-muted focus:outline-none focus:border-electric-cyan focus:ring-1 focus:ring-electric-cyan transition-all"
+                    placeholder="{t['search_placeholder']}"
+                    onkeyup="filterBySearch(this.value)">
             </div>
-            <p class="date">{texts['date_prefix']} {date_str} · {project_count_text}</p>
-            <div class="stats-bar">
-                {lang_stats_html}
+            <div class="flex items-center gap-4">
+                <span class="text-sm text-text-muted font-mono">{date_str}</span>
+                <button onclick="window.open('https://github.com/trending', '_blank')" class="p-2 text-text-muted hover:text-white transition-colors" title="GitHub Trending">
+                    <span class="material-symbols-outlined">open_in_new</span>
+                </button>
             </div>
         </header>
 
-        {banner_html}
+        <!-- Feed List -->
+        <div class="flex-1 overflow-y-auto p-4 md:p-6">
+            {generate_stats_bar(sorted_analyses, lang)}
 
-        {heatmap_html}
+            {generate_treemap_section(sorted_analyses, lang, rank_changes)}
 
-        <section class="project-section">
-            <div class="project-grid">
-                {''.join(cards_html)}
+            <div class="flex items-center gap-3 mb-4">
+                <span class="material-symbols-outlined text-electric-cyan">apps</span>
+                <h2 class="text-lg font-bold text-white">{t['all_projects']}</h2>
+                <span class="px-2 py-0.5 rounded text-[10px] font-mono bg-synapse-border text-text-muted">TOP {len(sorted_analyses)}</span>
             </div>
-        </section>
 
-        <footer>
-            <p>{texts['data_source']}: <a href="https://github.com/trending" target="_blank">GitHub Trending</a></p>
-            <p>{texts['update_time']}: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}</p>
-        </footer>
-    </div>
-
-    <!-- 订阅弹窗 -->
-    <div id="subscribeModal" class="modal" onclick="if(event.target===this)this.style.display='none'">
-        <div class="modal-content">
-            <button class="modal-close" onclick="document.getElementById('subscribeModal').style.display='none'">&times;</button>
-            <h3>{'📧 订阅每日热榜' if lang == 'zh' else '📧 Subscribe to Daily Digest'}</h3>
-            <p class="modal-desc">{'每天早上 9 点，将 GitHub 热门项目推送到您的邮箱' if lang == 'zh' else 'Get daily GitHub trending projects delivered to your inbox at 9 AM'}</p>
-            <form id="subscribeForm" onsubmit="handleSubscribe(event)">
-                <input type="email" id="subscribeEmail" placeholder="{'请输入邮箱地址' if lang == 'zh' else 'Enter your email'}" required>
-                <button type="submit" class="submit-btn">{'订阅' if lang == 'zh' else 'Subscribe'}</button>
-            </form>
-            <p class="modal-note">{'* 您可以随时取消订阅' if lang == 'zh' else '* You can unsubscribe at any time'}</p>
+            <div id="feed-list" class="space-y-3">
+                {''.join(feed_items)}
+            </div>
         </div>
-    </div>
+    </main>
+
+    {generate_detail_panel_html(lang)}
+
+    {generate_repo_data_script(sorted_analyses, rank_changes, ai_summaries)}
 
     <script>
-        // 主题切换逻辑
-        function toggleTheme() {{
-            const html = document.documentElement;
-            const darkIcon = document.getElementById('darkIcon');
-            const lightIcon = document.getElementById('lightIcon');
+    // 当前选中的 repo
+    var currentRepoId = null;
 
-            if (html.getAttribute('data-theme') === 'light') {{
-                html.removeAttribute('data-theme');
-                darkIcon.classList.add('active');
-                lightIcon.classList.remove('active');
-                localStorage.setItem('theme', 'dark');
-            }} else {{
-                html.setAttribute('data-theme', 'light');
-                darkIcon.classList.remove('active');
-                lightIcon.classList.add('active');
-                localStorage.setItem('theme', 'light');
+    // 选中 repo 并更新详情面板
+    function selectRepo(repoId) {{
+        var repo = window.REPO_DATA[repoId];
+        if (!repo) return;
+
+        currentRepoId = repoId;
+
+        // 更新选中状态
+        document.querySelectorAll('.feed-item').forEach(function(item) {{
+            item.classList.remove('selected');
+            if (item.dataset.repoId === repoId) {{
+                item.classList.add('selected');
             }}
+        }});
+
+        // 显示详情内容
+        document.getElementById('detail-placeholder').classList.add('hidden');
+        document.getElementById('detail-content').classList.remove('hidden');
+
+        // 填充数据
+        document.getElementById('detail-rank').textContent = 'Rank #' + repo.rank;
+        document.getElementById('detail-name').textContent = repo.name;
+        document.getElementById('detail-author').textContent = '@' + repo.owner;
+        document.getElementById('detail-desc').textContent = repo.description;
+        document.getElementById('detail-repo-link').href = repo.url;
+        document.getElementById('detail-total-stars').textContent = repo.stars;
+        document.getElementById('detail-stars-today').textContent = '+' + repo.starsToday + ' / 24h';
+        document.getElementById('detail-maintainer').textContent = repo.owner;
+        document.getElementById('detail-avatar').src = repo.avatar;
+
+        // NEW 徽章
+        var newBadge = document.getElementById('detail-new-badge');
+        if (repo.isNew) {{
+            newBadge.classList.remove('hidden');
+        }} else {{
+            newBadge.classList.add('hidden');
         }}
 
-        // 加载保存的主题
-        (function() {{
-            const savedTheme = localStorage.getItem('theme');
-            const darkIcon = document.getElementById('darkIcon');
-            const lightIcon = document.getElementById('lightIcon');
+        // 标签
+        var tagsContainer = document.getElementById('detail-tags');
+        tagsContainer.innerHTML = '';
 
-            if (savedTheme === 'light') {{
-                document.documentElement.setAttribute('data-theme', 'light');
-                darkIcon.classList.remove('active');
-                lightIcon.classList.add('active');
+        // 语言标签
+        var langTag = document.createElement('span');
+        langTag.className = 'px-2 py-0.5 rounded text-xs font-medium border';
+        langTag.style.backgroundColor = repo.langColor + '20';
+        langTag.style.color = repo.langColor;
+        langTag.style.borderColor = repo.langColor + '30';
+        langTag.textContent = repo.language;
+        tagsContainer.appendChild(langTag);
+
+        // 领域标签
+        var domainTag = document.createElement('span');
+        domainTag.className = 'px-2 py-0.5 rounded text-xs font-medium bg-synapse-border text-text-muted';
+        domainTag.textContent = repo.domain;
+        tagsContainer.appendChild(domainTag);
+
+        // 评分标签
+        var scoreTag = document.createElement('span');
+        scoreTag.className = 'px-2 py-0.5 rounded text-xs font-medium bg-electric-cyan/10 text-electric-cyan border border-electric-cyan/20';
+        scoreTag.textContent = repo.score + '/10';
+        tagsContainer.appendChild(scoreTag);
+
+        // Star 进度条
+        var maxStars = 50000;
+        try {{
+            var starsNum = parseInt(repo.stars.replace(/,/g, ''));
+            var pct = Math.min((starsNum / maxStars) * 100, 100);
+            document.getElementById('detail-stars-bar').style.width = pct + '%';
+        }} catch(e) {{
+            document.getElementById('detail-stars-bar').style.width = '0%';
+        }}
+
+        // AI 总结
+        var aiSection = document.getElementById('detail-ai-section');
+        if (repo.aiSummary) {{
+            aiSection.classList.remove('hidden');
+            document.getElementById('detail-ai-summary').textContent = repo.aiSummary;
+
+            var highlightsList = document.getElementById('detail-ai-highlights');
+            highlightsList.innerHTML = '';
+            if (repo.aiHighlights && repo.aiHighlights.length > 0) {{
+                repo.aiHighlights.forEach(function(h) {{
+                    var li = document.createElement('li');
+                    li.className = 'flex items-start gap-2';
+                    li.innerHTML = '<span class="text-electric-cyan mt-0.5">•</span><span>' + h + '</span>';
+                    highlightsList.appendChild(li);
+                }});
             }}
-        }})();
+
+            if (repo.aiUseCases) {{
+                document.getElementById('detail-ai-usecases').textContent = '适用场景: ' + repo.aiUseCases;
+            }} else {{
+                document.getElementById('detail-ai-usecases').textContent = '';
+            }}
+        }} else {{
+            aiSection.classList.add('hidden');
+        }}
+    }}
+
+    // 复制链接
+    function copyToClipboard() {{
+        if (currentRepoId && window.REPO_DATA[currentRepoId]) {{
+            navigator.clipboard.writeText(window.REPO_DATA[currentRepoId].url);
+            alert('Link copied!');
+        }}
+    }}
+
+    // 筛选功能
+    function filterByDomain(domain) {{
+        document.querySelectorAll('.feed-item').forEach(function(item) {{
+            if (domain === 'all') {{
+                item.style.display = '';
+            }} else if (domain === 'new') {{
+                item.style.display = item.dataset.isNew === 'true' ? '' : 'none';
+            }} else if (domain === 'rising') {{
+                var change = parseInt(item.dataset.change) || 0;
+                item.style.display = change > 0 ? '' : 'none';
+            }} else {{
+                item.style.display = item.dataset.domain === domain ? '' : 'none';
+            }}
+        }});
+    }}
+
+    // 搜索功能
+    function filterBySearch(query) {{
+        query = query.toLowerCase();
+        document.querySelectorAll('.feed-item').forEach(function(item) {{
+            var repoId = item.dataset.repoId.toLowerCase();
+            item.style.display = repoId.includes(query) ? '' : 'none';
+        }});
+    }}
+
+    // 侧边栏导航点击
+    document.querySelectorAll('.nav-item, .nav-item-active').forEach(function(item) {{
+        item.addEventListener('click', function(e) {{
+            e.preventDefault();
+
+            // 更新激活状态
+            document.querySelectorAll('.nav-item, .nav-item-active').forEach(function(n) {{
+                n.className = n.className.replace('nav-item-active', 'nav-item')
+                    .replace('text-electric-cyan', 'text-text-muted');
+            }});
+            this.className = this.className.replace('nav-item', 'nav-item-active');
+
+            // 筛选
+            filterByDomain(this.dataset.filter);
+        }});
+    }});
+
+    // 默认选中第一个
+    document.addEventListener('DOMContentLoaded', function() {{
+        var firstItem = document.querySelector('.feed-item');
+        if (firstItem) {{
+            selectRepo(firstItem.dataset.repoId);
+        }}
+    }});
     </script>
 </body>
 </html>
 '''
 
 
-def get_lang_color(lang: str) -> str:
-    """获取语言对应的颜色"""
-    colors = {
-        'Python': '#3572A5',
-        'JavaScript': '#f1e05a',
-        'TypeScript': '#3178c6',
-        'Go': '#00ADD8',
-        'Rust': '#dea584',
-        'Java': '#b07219',
-        'C++': '#f34b7d',
-        'C': '#555555',
-        'Ruby': '#701516',
-        'PHP': '#4F5D95',
-        'Swift': '#F05138',
-        'Kotlin': '#A97BFF',
-        'Dart': '#00B4AB',
-        'Vue': '#41b883',
-        'HTML': '#e34c26',
-        'CSS': '#563d7c',
-        'Shell': '#89e051',
-        'Other': '#6e7681',
-    }
-    return colors.get(lang, '#6e7681')
-
-
 def save_dashboard(html_content: str, base_dir: str = 'archives', date: datetime = None, lang: str = 'zh') -> str:
     """
     保存 HTML 仪表板
-
-    Args:
-        html_content: HTML 内容
-        base_dir: 存档基础目录
-        date: 报告日期
-        lang: 语言 ('zh' 中文, 'en' 英文)
-
-    Returns:
-        保存的文件路径
     """
     if date is None:
         date = datetime.now()
@@ -1317,14 +1233,14 @@ def save_dashboard(html_content: str, base_dir: str = 'archives', date: datetime
     dir_path = Path(base_dir) / date.strftime('%Y') / date.strftime('%m')
     dir_path.mkdir(parents=True, exist_ok=True)
 
-    # 文件名: 2026-01-30.html (中文) 或 2026-01-30_en.html (英文)
+    # 文件名
     suffix = '' if lang == 'zh' else f'_{lang}'
     file_path = dir_path / f'{date.strftime("%Y-%m-%d")}{suffix}.html'
 
     with open(file_path, 'w', encoding='utf-8') as f:
         f.write(html_content)
 
-    # 中文版同时保存一份到根目录作为 index.html
+    # 中文版同时保存到 index.html
     if lang == 'zh':
         index_path = Path(base_dir) / 'index.html'
         with open(index_path, 'w', encoding='utf-8') as f:
