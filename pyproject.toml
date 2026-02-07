@@ -1,0 +1,18 @@
+[project]
+name = "github-trending"
+version = "2.0.0"
+description = "GitHub Trending 每日热榜追踪 - Synapse 风格"
+requires-python = ">=3.10"
+dependencies = [
+    "requests>=2.31.0",
+    "beautifulsoup4>=4.12.0",
+    "lxml>=5.0.0",
+    "openai>=1.0.0",
+    "python-dotenv>=1.0.0",
+    "playwright>=1.58.0",
+    "pytest-playwright>=0.7.2",
+    "pytest>=9.0.2",
+]
+
+[tool.uv]
+dev-dependencies = []
