@@ -1,58 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sat, 07 Feb 2026 03:17:43 +0000</pubDate><lastBuildDate>Sat, 07 Feb 2026 03:17:43 +0000</lastBuildDate><item><title>#1 bytedance/UI-TARS-desktop (+573 stars)</title><link>https://github.com/bytedance/UI-TARS-desktop</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sun, 08 Feb 2026 03:49:51 +0000</pubDate><lastBuildDate>Sun, 08 Feb 2026 03:49:51 +0000</lastBuildDate><item><title>#1 obra/superpowers (+686 stars)</title><link>https://github.com/obra/superpowers</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;bytedance/UI-TARS-desktop&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra&lt;/p&gt;
-&lt;p&gt;⭐ 27,139 | +573 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
+&lt;p&gt;⭐ 47,068 | +686 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/bytedance/UI-TARS-desktop#2026-02-07</guid><pubDate>Sat, 07 Feb 2026 03:17:43 +0000</pubDate></item><item><title>#2 nvm-sh/nvm (+131 stars)</title><link>https://github.com/nvm-sh/nvm</link><description>
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-02-08</guid><pubDate>Sun, 08 Feb 2026 03:49:51 +0000</pubDate></item><item><title>#2 KeygraphHQ/shannon (+3,139 stars)</title><link>https://github.com/KeygraphHQ/shannon</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;nvm-sh/nvm&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions&lt;/p&gt;
-&lt;p&gt;⭐ 91,511 | +131 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;KeygraphHQ/shannon&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.&lt;/p&gt;
+&lt;p&gt;⭐ 10,289 | +3,139 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/nvm-sh/nvm#2026-02-07</guid><pubDate>Sat, 07 Feb 2026 03:17:43 +0000</pubDate></item><item><title>#3 aquasecurity/trivy (+165 stars)</title><link>https://github.com/aquasecurity/trivy</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;aquasecurity/trivy&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more&lt;/p&gt;
-&lt;p&gt;⭐ 31,549 | +165 today | 🔧 Go&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/aquasecurity/trivy#2026-02-07</guid><pubDate>Sat, 07 Feb 2026 03:17:43 +0000</pubDate></item><item><title>#4 openai/skills (+583 stars)</title><link>https://github.com/openai/skills</link><description>
+</description><guid isPermaLink="false">https://github.com/KeygraphHQ/shannon#2026-02-08</guid><pubDate>Sun, 08 Feb 2026 03:49:51 +0000</pubDate></item><item><title>#3 openai/skills (+592 stars)</title><link>https://github.com/openai/skills</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;openai/skills&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Skills Catalog for Codex&lt;/p&gt;
-&lt;p&gt;⭐ 4,916 | +583 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 6,137 | +592 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/openai/skills#2026-02-08</guid><pubDate>Sun, 08 Feb 2026 03:49:51 +0000</pubDate></item><item><title>#4 aquasecurity/trivy (+168 stars)</title><link>https://github.com/aquasecurity/trivy</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;aquasecurity/trivy&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more&lt;/p&gt;
+&lt;p&gt;⭐ 31,698 | +168 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/aquasecurity/trivy#2026-02-08</guid><pubDate>Sun, 08 Feb 2026 03:49:51 +0000</pubDate></item><item><title>#5 ComposioHQ/awesome-claude-skills (+443 stars)</title><link>https://github.com/ComposioHQ/awesome-claude-skills</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;ComposioHQ/awesome-claude-skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows&lt;/p&gt;
+&lt;p&gt;⭐ 32,093 | +443 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/ComposioHQ/awesome-claude-skills#2026-02-08</guid><pubDate>Sun, 08 Feb 2026 03:49:51 +0000</pubDate></item><item><title>#6 microsoft/litebox (+584 stars)</title><link>https://github.com/microsoft/litebox</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;microsoft/litebox&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A security-focused library OS supporting kernel- and user-mode execution&lt;/p&gt;
+&lt;p&gt;⭐ 1,164 | +584 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/openai/skills#2026-02-07</guid><pubDate>Sat, 07 Feb 2026 03:17:43 +0000</pubDate></item><item><title>#5 Flowseal/zapret-discord-youtube (+70 stars)</title><link>https://github.com/Flowseal/zapret-discord-youtube</link><description>
+</description><guid isPermaLink="false">https://github.com/microsoft/litebox#2026-02-08</guid><pubDate>Sun, 08 Feb 2026 03:49:51 +0000</pubDate></item><item><title>#7 OpenBMB/MiniCPM-o (+44 stars)</title><link>https://github.com/OpenBMB/MiniCPM-o</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Flowseal/zapret-discord-youtube&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;⭐ 21,973 | +70 today | 🔧 Batchfile&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OpenBMB/MiniCPM-o&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone&lt;/p&gt;
+&lt;p&gt;⭐ 23,185 | +44 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Flowseal/zapret-discord-youtube#2026-02-07</guid><pubDate>Sat, 07 Feb 2026 03:17:43 +0000</pubDate></item><item><title>#6 DataExpert-io/data-engineer-handbook (+71 stars)</title><link>https://github.com/DataExpert-io/data-engineer-handbook</link><description>
+</description><guid isPermaLink="false">https://github.com/OpenBMB/MiniCPM-o#2026-02-08</guid><pubDate>Sun, 08 Feb 2026 03:49:51 +0000</pubDate></item><item><title>#8 gitbutlerapp/gitbutler (+85 stars)</title><link>https://github.com/gitbutlerapp/gitbutler</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;DataExpert-io/data-engineer-handbook&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;This is a repo with links to everything you'd ever want to learn about data engineering&lt;/p&gt;
-&lt;p&gt;⭐ 39,894 | +71 today | 🔧 Jupyter Notebook&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;gitbutlerapp/gitbutler&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte&lt;/p&gt;
+&lt;p&gt;⭐ 18,021 | +85 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/DataExpert-io/data-engineer-handbook#2026-02-07</guid><pubDate>Sat, 07 Feb 2026 03:17:43 +0000</pubDate></item><item><title>#7 likec4/likec4 (+40 stars)</title><link>https://github.com/likec4/likec4</link><description>
+</description><guid isPermaLink="false">https://github.com/gitbutlerapp/gitbutler#2026-02-08</guid><pubDate>Sun, 08 Feb 2026 03:49:51 +0000</pubDate></item><item><title>#9 p-e-w/heretic (+69 stars)</title><link>https://github.com/p-e-w/heretic</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;likec4/likec4&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code&lt;/p&gt;
-&lt;p&gt;⭐ 1,832 | +40 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 5/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;p-e-w/heretic&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fully automatic censorship removal for language models&lt;/p&gt;
+&lt;p&gt;⭐ 4,767 | +69 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/likec4/likec4#2026-02-07</guid><pubDate>Sat, 07 Feb 2026 03:17:43 +0000</pubDate></item><item><title>#8 ZeroTworu/anet (+193 stars)</title><link>https://github.com/ZeroTworu/anet</link><description>
+</description><guid isPermaLink="false">https://github.com/p-e-w/heretic#2026-02-08</guid><pubDate>Sun, 08 Feb 2026 03:49:51 +0000</pubDate></item><item><title>#10 wavetermdev/waveterm (+25 stars)</title><link>https://github.com/wavetermdev/waveterm</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ZeroTworu/anet&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Simple Rust VPN Client / Server&lt;/p&gt;
-&lt;p&gt;⭐ 543 | +193 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 5/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;wavetermdev/waveterm&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An open-source, cross-platform terminal for seamless workflows&lt;/p&gt;
+&lt;p&gt;⭐ 17,161 | +25 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/ZeroTworu/anet#2026-02-07</guid><pubDate>Sat, 07 Feb 2026 03:17:43 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/wavetermdev/waveterm#2026-02-08</guid><pubDate>Sun, 08 Feb 2026 03:49:51 +0000</pubDate></item></channel></rss>
