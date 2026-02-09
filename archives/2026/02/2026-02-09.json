@@ -1,0 +1,103 @@
+{
+  "date": "2026-02-09",
+  "updated_at": "2026-02-09 03:37:53",
+  "count": 12,
+  "rankings": [
+    {
+      "name": "obra/superpowers",
+      "rank": 1,
+      "stars": "47,871",
+      "stars_today": "813",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "KeygraphHQ/shannon",
+      "rank": 2,
+      "stars": "13,758",
+      "stars_today": "3,479",
+      "language": "TypeScript",
+      "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark."
+    },
+    {
+      "name": "openai/skills",
+      "rank": 3,
+      "stars": "7,083",
+      "stars_today": "1,425",
+      "language": "Python",
+      "description": "Skills Catalog for Codex"
+    },
+    {
+      "name": "virattt/dexter",
+      "rank": 4,
+      "stars": "12,776",
+      "stars_today": "1,039",
+      "language": "TypeScript",
+      "description": "An autonomous agent for deep financial research"
+    },
+    {
+      "name": "google/langextract",
+      "rank": 5,
+      "stars": "24,822",
+      "stars_today": "438",
+      "language": "Python",
+      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization."
+    },
+    {
+      "name": "OpenBMB/MiniCPM-o",
+      "rank": 6,
+      "stars": "23,456",
+      "stars_today": "212",
+      "language": "Python",
+      "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone"
+    },
+    {
+      "name": "iOfficeAI/AionUi",
+      "rank": 7,
+      "stars": "13,283",
+      "stars_today": "335",
+      "language": "TypeScript",
+      "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!"
+    },
+    {
+      "name": "gitbutlerapp/gitbutler",
+      "rank": 8,
+      "stars": "18,398",
+      "stars_today": "414",
+      "language": "Rust",
+      "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte"
+    },
+    {
+      "name": "pydantic/monty",
+      "rank": 9,
+      "stars": "2,960",
+      "stars_today": "456",
+      "language": "Rust",
+      "description": "A minimal, secure Python interpreter written in Rust for use by AI"
+    },
+    {
+      "name": "microsoft/litebox",
+      "rank": 10,
+      "stars": "1,468",
+      "stars_today": "359",
+      "language": "Rust",
+      "description": "A security-focused library OS supporting kernel- and user-mode execution"
+    },
+    {
+      "name": "likec4/likec4",
+      "rank": 11,
+      "stars": "2,405",
+      "stars_today": "271",
+      "language": "TypeScript",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code"
+    },
+    {
+      "name": "home-assistant/addons",
+      "rank": 12,
+      "stars": "2,025",
+      "stars_today": "11",
+      "language": "Shell",
+      "description": "➕ Docker add-ons for Home Assistant"
+    }
+  ]
+}
