@@ -1,0 +1,111 @@
+{
+  "date": "2026-02-10",
+  "updated_at": "2026-02-10 03:46:00",
+  "count": 13,
+  "rankings": [
+    {
+      "name": "KeygraphHQ/shannon",
+      "rank": 1,
+      "stars": "17,693",
+      "stars_today": "4,144",
+      "language": "TypeScript",
+      "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark."
+    },
+    {
+      "name": "virattt/dexter",
+      "rank": 2,
+      "stars": "13,640",
+      "stars_today": "1,115",
+      "language": "TypeScript",
+      "description": "An autonomous agent for deep financial research"
+    },
+    {
+      "name": "pydantic/monty",
+      "rank": 3,
+      "stars": "4,027",
+      "stars_today": "1,291",
+      "language": "Rust",
+      "description": "A minimal, secure Python interpreter written in Rust for use by AI"
+    },
+    {
+      "name": "iOfficeAI/AionUi",
+      "rank": 4,
+      "stars": "13,910",
+      "stars_today": "673",
+      "language": "TypeScript",
+      "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "rank": 5,
+      "stars": "397,293",
+      "stars_today": "410",
+      "language": "Python",
+      "description": "A collective list of free APIs"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "rank": 6,
+      "stars": "93,218",
+      "stars_today": "227",
+      "language": "Python",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
+    },
+    {
+      "name": "gitbutlerapp/gitbutler",
+      "rank": 7,
+      "stars": "18,678",
+      "stars_today": "376",
+      "language": "Rust",
+      "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte"
+    },
+    {
+      "name": "openai/skills",
+      "rank": 8,
+      "stars": "7,597",
+      "stars_today": "707",
+      "language": "Python",
+      "description": "Skills Catalog for Codex"
+    },
+    {
+      "name": "hsliuping/TradingAgents-CN",
+      "rank": 9,
+      "stars": "16,342",
+      "stars_today": "149",
+      "language": "Python",
+      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版"
+    },
+    {
+      "name": "microsoft/litebox",
+      "rank": 10,
+      "stars": "1,754",
+      "stars_today": "354",
+      "language": "Rust",
+      "description": "A security-focused library OS supporting kernel- and user-mode execution"
+    },
+    {
+      "name": "EveryInc/compound-engineering-plugin",
+      "rank": 11,
+      "stars": "7,903",
+      "stars_today": "185",
+      "language": "TypeScript",
+      "description": "Official Claude Code compound engineering plugin"
+    },
+    {
+      "name": "DrewThomasson/ebook2audiobook",
+      "rank": 12,
+      "stars": "17,906",
+      "stars_today": "147",
+      "language": "Python",
+      "description": "Generate audiobooks from e-books, voice cloning & 1158+ languages!"
+    },
+    {
+      "name": "github/gh-aw",
+      "rank": 13,
+      "stars": "970",
+      "stars_today": "260",
+      "language": "Go",
+      "description": "GitHub Agentic Workflows"
+    }
+  ]
+}

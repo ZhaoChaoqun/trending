@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Mon, 09 Feb 2026 03:37:53 +0000</pubDate><lastBuildDate>Mon, 09 Feb 2026 03:37:53 +0000</lastBuildDate><item><title>#1 obra/superpowers (+813 stars)</title><link>https://github.com/obra/superpowers</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 47,871 | +813 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-02-09</guid><pubDate>Mon, 09 Feb 2026 03:37:53 +0000</pubDate></item><item><title>#2 KeygraphHQ/shannon (+3,479 stars)</title><link>https://github.com/KeygraphHQ/shannon</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Tue, 10 Feb 2026 03:46:00 +0000</pubDate><lastBuildDate>Tue, 10 Feb 2026 03:46:00 +0000</lastBuildDate><item><title>#1 KeygraphHQ/shannon (+4,144 stars)</title><link>https://github.com/KeygraphHQ/shannon</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;KeygraphHQ/shannon&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.&lt;/p&gt;
-&lt;p&gt;⭐ 13,758 | +3,479 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 17,693 | +4,144 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/KeygraphHQ/shannon#2026-02-09</guid><pubDate>Mon, 09 Feb 2026 03:37:53 +0000</pubDate></item><item><title>#3 openai/skills (+1,425 stars)</title><link>https://github.com/openai/skills</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;openai/skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Skills Catalog for Codex&lt;/p&gt;
-&lt;p&gt;⭐ 7,083 | +1,425 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/openai/skills#2026-02-09</guid><pubDate>Mon, 09 Feb 2026 03:37:53 +0000</pubDate></item><item><title>#4 virattt/dexter (+1,039 stars)</title><link>https://github.com/virattt/dexter</link><description>
+</description><guid isPermaLink="false">https://github.com/KeygraphHQ/shannon#2026-02-10</guid><pubDate>Tue, 10 Feb 2026 03:46:00 +0000</pubDate></item><item><title>#2 virattt/dexter (+1,115 stars)</title><link>https://github.com/virattt/dexter</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;virattt/dexter&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;An autonomous agent for deep financial research&lt;/p&gt;
-&lt;p&gt;⭐ 12,776 | +1,039 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 13,640 | +1,115 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/virattt/dexter#2026-02-09</guid><pubDate>Mon, 09 Feb 2026 03:37:53 +0000</pubDate></item><item><title>#5 google/langextract (+438 stars)</title><link>https://github.com/google/langextract</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;google/langextract&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.&lt;/p&gt;
-&lt;p&gt;⭐ 24,822 | +438 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/google/langextract#2026-02-09</guid><pubDate>Mon, 09 Feb 2026 03:37:53 +0000</pubDate></item><item><title>#6 OpenBMB/MiniCPM-o (+212 stars)</title><link>https://github.com/OpenBMB/MiniCPM-o</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;OpenBMB/MiniCPM-o&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone&lt;/p&gt;
-&lt;p&gt;⭐ 23,456 | +212 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/OpenBMB/MiniCPM-o#2026-02-09</guid><pubDate>Mon, 09 Feb 2026 03:37:53 +0000</pubDate></item><item><title>#7 iOfficeAI/AionUi (+335 stars)</title><link>https://github.com/iOfficeAI/AionUi</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;iOfficeAI/AionUi&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!&lt;/p&gt;
-&lt;p&gt;⭐ 13,283 | +335 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/iOfficeAI/AionUi#2026-02-09</guid><pubDate>Mon, 09 Feb 2026 03:37:53 +0000</pubDate></item><item><title>#8 gitbutlerapp/gitbutler (+414 stars)</title><link>https://github.com/gitbutlerapp/gitbutler</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;gitbutlerapp/gitbutler&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte&lt;/p&gt;
-&lt;p&gt;⭐ 18,398 | +414 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/gitbutlerapp/gitbutler#2026-02-09</guid><pubDate>Mon, 09 Feb 2026 03:37:53 +0000</pubDate></item><item><title>#9 pydantic/monty (+456 stars)</title><link>https://github.com/pydantic/monty</link><description>
+</description><guid isPermaLink="false">https://github.com/virattt/dexter#2026-02-10</guid><pubDate>Tue, 10 Feb 2026 03:46:00 +0000</pubDate></item><item><title>#3 pydantic/monty (+1,291 stars)</title><link>https://github.com/pydantic/monty</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;pydantic/monty&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A minimal, secure Python interpreter written in Rust for use by AI&lt;/p&gt;
-&lt;p&gt;⭐ 2,960 | +456 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;⭐ 4,027 | +1,291 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/pydantic/monty#2026-02-10</guid><pubDate>Tue, 10 Feb 2026 03:46:00 +0000</pubDate></item><item><title>#4 iOfficeAI/AionUi (+673 stars)</title><link>https://github.com/iOfficeAI/AionUi</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;iOfficeAI/AionUi&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!&lt;/p&gt;
+&lt;p&gt;⭐ 13,910 | +673 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/iOfficeAI/AionUi#2026-02-10</guid><pubDate>Tue, 10 Feb 2026 03:46:00 +0000</pubDate></item><item><title>#5 public-apis/public-apis (+410 stars)</title><link>https://github.com/public-apis/public-apis</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;public-apis/public-apis&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A collective list of free APIs&lt;/p&gt;
+&lt;p&gt;⭐ 397,293 | +410 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/public-apis/public-apis#2026-02-10</guid><pubDate>Tue, 10 Feb 2026 03:46:00 +0000</pubDate></item><item><title>#6 Shubhamsaboo/awesome-llm-apps (+227 stars)</title><link>https://github.com/Shubhamsaboo/awesome-llm-apps</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Shubhamsaboo/awesome-llm-apps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.&lt;/p&gt;
+&lt;p&gt;⭐ 93,218 | +227 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Shubhamsaboo/awesome-llm-apps#2026-02-10</guid><pubDate>Tue, 10 Feb 2026 03:46:00 +0000</pubDate></item><item><title>#7 gitbutlerapp/gitbutler (+376 stars)</title><link>https://github.com/gitbutlerapp/gitbutler</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;gitbutlerapp/gitbutler&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte&lt;/p&gt;
+&lt;p&gt;⭐ 18,678 | +376 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/gitbutlerapp/gitbutler#2026-02-10</guid><pubDate>Tue, 10 Feb 2026 03:46:00 +0000</pubDate></item><item><title>#8 openai/skills (+707 stars)</title><link>https://github.com/openai/skills</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;openai/skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Skills Catalog for Codex&lt;/p&gt;
+&lt;p&gt;⭐ 7,597 | +707 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/openai/skills#2026-02-10</guid><pubDate>Tue, 10 Feb 2026 03:46:00 +0000</pubDate></item><item><title>#9 hsliuping/TradingAgents-CN (+149 stars)</title><link>https://github.com/hsliuping/TradingAgents-CN</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;hsliuping/TradingAgents-CN&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版&lt;/p&gt;
+&lt;p&gt;⭐ 16,342 | +149 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/pydantic/monty#2026-02-09</guid><pubDate>Mon, 09 Feb 2026 03:37:53 +0000</pubDate></item><item><title>#10 microsoft/litebox (+359 stars)</title><link>https://github.com/microsoft/litebox</link><description>
+</description><guid isPermaLink="false">https://github.com/hsliuping/TradingAgents-CN#2026-02-10</guid><pubDate>Tue, 10 Feb 2026 03:46:00 +0000</pubDate></item><item><title>#10 microsoft/litebox (+354 stars)</title><link>https://github.com/microsoft/litebox</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;microsoft/litebox&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A security-focused library OS supporting kernel- and user-mode execution&lt;/p&gt;
-&lt;p&gt;⭐ 1,468 | +359 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;⭐ 1,754 | +354 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/microsoft/litebox#2026-02-09</guid><pubDate>Mon, 09 Feb 2026 03:37:53 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/microsoft/litebox#2026-02-10</guid><pubDate>Tue, 10 Feb 2026 03:46:00 +0000</pubDate></item></channel></rss>
