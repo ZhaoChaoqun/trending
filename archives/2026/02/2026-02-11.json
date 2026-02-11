@@ -1,0 +1,119 @@
+{
+  "date": "2026-02-11",
+  "updated_at": "2026-02-11 03:42:51",
+  "count": 14,
+  "rankings": [
+    {
+      "name": "google/langextract",
+      "rank": 1,
+      "stars": "28,805",
+      "stars_today": "1,654",
+      "language": "Python",
+      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization."
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "rank": 2,
+      "stars": "93,681",
+      "stars_today": "443",
+      "language": "Python",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
+    },
+    {
+      "name": "iOfficeAI/AionUi",
+      "rank": 3,
+      "stars": "14,578",
+      "stars_today": "629",
+      "language": "TypeScript",
+      "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!"
+    },
+    {
+      "name": "KeygraphHQ/shannon",
+      "rank": 4,
+      "stars": "19,906",
+      "stars_today": "3,619",
+      "language": "TypeScript",
+      "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark."
+    },
+    {
+      "name": "EveryInc/compound-engineering-plugin",
+      "rank": 5,
+      "stars": "8,206",
+      "stars_today": "406",
+      "language": "TypeScript",
+      "description": "Official Claude Code compound engineering plugin"
+    },
+    {
+      "name": "hsliuping/TradingAgents-CN",
+      "rank": 6,
+      "stars": "16,739",
+      "stars_today": "498",
+      "language": "Python",
+      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版"
+    },
+    {
+      "name": "gitbutlerapp/gitbutler",
+      "rank": 7,
+      "stars": "19,061",
+      "stars_today": "260",
+      "language": "Rust",
+      "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte"
+    },
+    {
+      "name": "pydantic/monty",
+      "rank": 8,
+      "stars": "4,586",
+      "stars_today": "858",
+      "language": "Rust",
+      "description": "A minimal, secure Python interpreter written in Rust for use by AI"
+    },
+    {
+      "name": "virattt/dexter",
+      "rank": 9,
+      "stars": "14,212",
+      "stars_today": "757",
+      "language": "TypeScript",
+      "description": "An autonomous agent for deep financial research"
+    },
+    {
+      "name": "github/gh-aw",
+      "rank": 10,
+      "stars": "1,392",
+      "stars_today": "496",
+      "language": "Go",
+      "description": "GitHub Agentic Workflows"
+    },
+    {
+      "name": "drawdb-io/drawdb",
+      "rank": 11,
+      "stars": "36,375",
+      "stars_today": "95",
+      "language": "JavaScript",
+      "description": "Free, simple, and intuitive online database diagram editor and SQL generator."
+    },
+    {
+      "name": "cheahjs/free-llm-api-resources",
+      "rank": 12,
+      "stars": "8,751",
+      "stars_today": "115",
+      "language": "Python",
+      "description": "A list of free LLM inference resources accessible via API."
+    },
+    {
+      "name": "carlvellotti/claude-code-pm-course",
+      "rank": 13,
+      "stars": "874",
+      "stars_today": "24",
+      "language": "MDX",
+      "description": "Interactive course teaching Product Managers how to use Claude Code effectively"
+    },
+    {
+      "name": "Jeffallan/claude-skills",
+      "rank": 14,
+      "stars": "877",
+      "stars_today": "45",
+      "language": "Python",
+      "description": "65 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer."
+    }
+  ]
+}
