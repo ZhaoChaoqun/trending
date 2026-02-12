@@ -1,0 +1,63 @@
+{
+  "date": "2026-02-12",
+  "updated_at": "2026-02-12 03:37:15",
+  "count": 7,
+  "rankings": [
+    {
+      "name": "google/langextract",
+      "rank": 1,
+      "stars": "30,596",
+      "stars_today": "3,186",
+      "language": "Python",
+      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization."
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "rank": 2,
+      "stars": "129,446",
+      "stars_today": "67",
+      "language": "C#",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows"
+    },
+    {
+      "name": "patchy631/ai-engineering-hub",
+      "rank": 3,
+      "stars": "28,715",
+      "stars_today": "154",
+      "language": "Jupyter Notebook",
+      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications."
+    },
+    {
+      "name": "cheahjs/free-llm-api-resources",
+      "rank": 4,
+      "stars": "9,608",
+      "stars_today": "440",
+      "language": "Python",
+      "description": "A list of free LLM inference resources accessible via API."
+    },
+    {
+      "name": "github/gh-aw",
+      "rank": 5,
+      "stars": "1,782",
+      "stars_today": "390",
+      "language": "Go",
+      "description": "GitHub Agentic Workflows"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "rank": 6,
+      "stars": "24,045",
+      "stars_today": "120",
+      "language": "TypeScript",
+      "description": "Chrome DevTools for coding agents"
+    },
+    {
+      "name": "EveryInc/compound-engineering-plugin",
+      "rank": 7,
+      "stars": "8,510",
+      "stars_today": "272",
+      "language": "TypeScript",
+      "description": "Official Claude Code compound engineering plugin"
+    }
+  ]
+}
