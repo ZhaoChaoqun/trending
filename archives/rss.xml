@@ -1,51 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Thu, 12 Feb 2026 03:37:15 +0000</pubDate><lastBuildDate>Thu, 12 Feb 2026 03:37:15 +0000</lastBuildDate><item><title>#1 google/langextract (+3,186 stars)</title><link>https://github.com/google/langextract</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 13 Feb 2026 03:36:38 +0000</pubDate><lastBuildDate>Fri, 13 Feb 2026 03:36:38 +0000</lastBuildDate><item><title>#1 google/langextract (+1,122 stars)</title><link>https://github.com/google/langextract</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;google/langextract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.&lt;/p&gt;
-&lt;p&gt;⭐ 30,596 | +3,186 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 31,491 | +1,122 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/google/langextract#2026-02-12</guid><pubDate>Thu, 12 Feb 2026 03:37:15 +0000</pubDate></item><item><title>#2 microsoft/PowerToys (+67 stars)</title><link>https://github.com/microsoft/PowerToys</link><description>
+</description><guid isPermaLink="false">https://github.com/google/langextract#2026-02-13</guid><pubDate>Fri, 13 Feb 2026 03:36:38 +0000</pubDate></item><item><title>#2 microsoft/PowerToys (+316 stars)</title><link>https://github.com/microsoft/PowerToys</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;microsoft/PowerToys&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows&lt;/p&gt;
-&lt;p&gt;⭐ 129,446 | +67 today | 🔧 C#&lt;/p&gt;
+&lt;p&gt;⭐ 129,675 | +316 today | 🔧 C#&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/microsoft/PowerToys#2026-02-13</guid><pubDate>Fri, 13 Feb 2026 03:36:38 +0000</pubDate></item><item><title>#3 danielmiessler/Personal_AI_Infrastructure (+351 stars)</title><link>https://github.com/danielmiessler/Personal_AI_Infrastructure</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;danielmiessler/Personal_AI_Infrastructure&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Agentic AI Infrastructure for magnifying HUMAN capabilities.&lt;/p&gt;
+&lt;p&gt;⭐ 7,584 | +351 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/microsoft/PowerToys#2026-02-12</guid><pubDate>Thu, 12 Feb 2026 03:37:15 +0000</pubDate></item><item><title>#3 patchy631/ai-engineering-hub (+154 stars)</title><link>https://github.com/patchy631/ai-engineering-hub</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;patchy631/ai-engineering-hub&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;In-depth tutorials on LLMs, RAGs and real-world AI agent applications.&lt;/p&gt;
-&lt;p&gt;⭐ 28,715 | +154 today | 🔧 Jupyter Notebook&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/patchy631/ai-engineering-hub#2026-02-12</guid><pubDate>Thu, 12 Feb 2026 03:37:15 +0000</pubDate></item><item><title>#4 cheahjs/free-llm-api-resources (+440 stars)</title><link>https://github.com/cheahjs/free-llm-api-resources</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;cheahjs/free-llm-api-resources&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A list of free LLM inference resources accessible via API.&lt;/p&gt;
-&lt;p&gt;⭐ 9,608 | +440 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/cheahjs/free-llm-api-resources#2026-02-12</guid><pubDate>Thu, 12 Feb 2026 03:37:15 +0000</pubDate></item><item><title>#5 github/gh-aw (+390 stars)</title><link>https://github.com/github/gh-aw</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;github/gh-aw&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;GitHub Agentic Workflows&lt;/p&gt;
-&lt;p&gt;⭐ 1,782 | +390 today | 🔧 Go&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/github/gh-aw#2026-02-12</guid><pubDate>Thu, 12 Feb 2026 03:37:15 +0000</pubDate></item><item><title>#6 ChromeDevTools/chrome-devtools-mcp (+120 stars)</title><link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link><description>
+</description><guid isPermaLink="false">https://github.com/danielmiessler/Personal_AI_Infrastructure#2026-02-13</guid><pubDate>Fri, 13 Feb 2026 03:36:38 +0000</pubDate></item><item><title>#4 ChromeDevTools/chrome-devtools-mcp (+436 stars)</title><link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;ChromeDevTools/chrome-devtools-mcp&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Chrome DevTools for coding agents&lt;/p&gt;
-&lt;p&gt;⭐ 24,045 | +120 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+&lt;p&gt;⭐ 24,448 | +436 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/ChromeDevTools/chrome-devtools-mcp#2026-02-12</guid><pubDate>Thu, 12 Feb 2026 03:37:15 +0000</pubDate></item><item><title>#7 EveryInc/compound-engineering-plugin (+272 stars)</title><link>https://github.com/EveryInc/compound-engineering-plugin</link><description>
+</description><guid isPermaLink="false">https://github.com/ChromeDevTools/chrome-devtools-mcp#2026-02-13</guid><pubDate>Fri, 13 Feb 2026 03:36:38 +0000</pubDate></item><item><title>#5 iOfficeAI/AionUi (+271 stars)</title><link>https://github.com/iOfficeAI/AionUi</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;EveryInc/compound-engineering-plugin&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Official Claude Code compound engineering plugin&lt;/p&gt;
-&lt;p&gt;⭐ 8,510 | +272 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;iOfficeAI/AionUi&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!&lt;/p&gt;
+&lt;p&gt;⭐ 15,436 | +271 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/iOfficeAI/AionUi#2026-02-13</guid><pubDate>Fri, 13 Feb 2026 03:36:38 +0000</pubDate></item><item><title>#6 Shubhamsaboo/awesome-llm-apps (+287 stars)</title><link>https://github.com/Shubhamsaboo/awesome-llm-apps</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Shubhamsaboo/awesome-llm-apps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.&lt;/p&gt;
+&lt;p&gt;⭐ 94,406 | +287 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Shubhamsaboo/awesome-llm-apps#2026-02-13</guid><pubDate>Fri, 13 Feb 2026 03:36:38 +0000</pubDate></item><item><title>#7 HandsOnLLM/Hands-On-Large-Language-Models (+361 stars)</title><link>https://github.com/HandsOnLLM/Hands-On-Large-Language-Models</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;HandsOnLLM/Hands-On-Large-Language-Models&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Official code repo for the O'Reilly Book - "Hands-On Large Language Models"&lt;/p&gt;
+&lt;p&gt;⭐ 20,942 | +361 today | 🔧 Jupyter Notebook&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/HandsOnLLM/Hands-On-Large-Language-Models#2026-02-13</guid><pubDate>Fri, 13 Feb 2026 03:36:38 +0000</pubDate></item><item><title>#8 tambo-ai/tambo (+300 stars)</title><link>https://github.com/tambo-ai/tambo</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;tambo-ai/tambo&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Generative UI SDK for React&lt;/p&gt;
+&lt;p&gt;⭐ 9,107 | +300 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/EveryInc/compound-engineering-plugin#2026-02-12</guid><pubDate>Thu, 12 Feb 2026 03:37:15 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/tambo-ai/tambo#2026-02-13</guid><pubDate>Fri, 13 Feb 2026 03:36:38 +0000</pubDate></item><item><title>#9 github/gh-aw (+405 stars)</title><link>https://github.com/github/gh-aw</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;github/gh-aw&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;GitHub Agentic Workflows&lt;/p&gt;
+&lt;p&gt;⭐ 2,035 | +405 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/github/gh-aw#2026-02-13</guid><pubDate>Fri, 13 Feb 2026 03:36:38 +0000</pubDate></item><item><title>#10 unslothai/unsloth (+81 stars)</title><link>https://github.com/unslothai/unsloth</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;unslothai/unsloth&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fine-tuning &amp; Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.&lt;/p&gt;
+&lt;p&gt;⭐ 52,061 | +81 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/unslothai/unsloth#2026-02-13</guid><pubDate>Fri, 13 Feb 2026 03:36:38 +0000</pubDate></item></channel></rss>

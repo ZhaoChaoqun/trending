@@ -1,0 +1,111 @@
+{
+  "date": "2026-02-13",
+  "updated_at": "2026-02-13 03:36:38",
+  "count": 13,
+  "rankings": [
+    {
+      "name": "google/langextract",
+      "rank": 1,
+      "stars": "31,491",
+      "stars_today": "1,122",
+      "language": "Python",
+      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization."
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "rank": 2,
+      "stars": "129,675",
+      "stars_today": "316",
+      "language": "C#",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows"
+    },
+    {
+      "name": "danielmiessler/Personal_AI_Infrastructure",
+      "rank": 3,
+      "stars": "7,584",
+      "stars_today": "351",
+      "language": "TypeScript",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities."
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "rank": 4,
+      "stars": "24,448",
+      "stars_today": "436",
+      "language": "TypeScript",
+      "description": "Chrome DevTools for coding agents"
+    },
+    {
+      "name": "iOfficeAI/AionUi",
+      "rank": 5,
+      "stars": "15,436",
+      "stars_today": "271",
+      "language": "TypeScript",
+      "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "rank": 6,
+      "stars": "94,406",
+      "stars_today": "287",
+      "language": "Python",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
+    },
+    {
+      "name": "HandsOnLLM/Hands-On-Large-Language-Models",
+      "rank": 7,
+      "stars": "20,942",
+      "stars_today": "361",
+      "language": "Jupyter Notebook",
+      "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\""
+    },
+    {
+      "name": "tambo-ai/tambo",
+      "rank": 8,
+      "stars": "9,107",
+      "stars_today": "300",
+      "language": "TypeScript",
+      "description": "Generative UI SDK for React"
+    },
+    {
+      "name": "github/gh-aw",
+      "rank": 9,
+      "stars": "2,035",
+      "stars_today": "405",
+      "language": "Go",
+      "description": "GitHub Agentic Workflows"
+    },
+    {
+      "name": "unslothai/unsloth",
+      "rank": 10,
+      "stars": "52,061",
+      "stars_today": "81",
+      "language": "Python",
+      "description": "Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM."
+    },
+    {
+      "name": "Jeffallan/claude-skills",
+      "rank": 11,
+      "stars": "1,735",
+      "stars_today": "278",
+      "language": "Python",
+      "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer."
+    },
+    {
+      "name": "rowboatlabs/rowboat",
+      "rank": 12,
+      "stars": "5,227",
+      "stars_today": "191",
+      "language": "TypeScript",
+      "description": "Open-source AI coworker, with memory"
+    },
+    {
+      "name": "cinnyapp/cinny",
+      "rank": 13,
+      "stars": "2,892",
+      "stars_today": "38",
+      "language": "TypeScript",
+      "description": "Yet another matrix client"
+    }
+  ]
+}
