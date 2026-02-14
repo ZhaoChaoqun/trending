@@ -1,0 +1,87 @@
+{
+  "date": "2026-02-14",
+  "updated_at": "2026-02-14 03:23:07",
+  "count": 10,
+  "rankings": [
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "rank": 1,
+      "stars": "24,753",
+      "stars_today": "363",
+      "language": "TypeScript",
+      "description": "Chrome DevTools for coding agents"
+    },
+    {
+      "name": "danielmiessler/Personal_AI_Infrastructure",
+      "rank": 2,
+      "stars": "8,107",
+      "stars_today": "595",
+      "language": "TypeScript",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities."
+    },
+    {
+      "name": "cheahjs/free-llm-api-resources",
+      "rank": 3,
+      "stars": "10,695",
+      "stars_today": "392",
+      "language": "Python",
+      "description": "A list of free LLM inference resources accessible via API."
+    },
+    {
+      "name": "HandsOnLLM/Hands-On-Large-Language-Models",
+      "rank": 4,
+      "stars": "21,178",
+      "stars_today": "329",
+      "language": "Jupyter Notebook",
+      "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\""
+    },
+    {
+      "name": "patchy631/ai-engineering-hub",
+      "rank": 5,
+      "stars": "29,354",
+      "stars_today": "84",
+      "language": "Jupyter Notebook",
+      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications."
+    },
+    {
+      "name": "SynkraAI/aios-core",
+      "rank": 6,
+      "stars": "453",
+      "stars_today": "106",
+      "language": "JavaScript",
+      "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0"
+    },
+    {
+      "name": "TelegramMessenger/MTProxy",
+      "rank": 7,
+      "stars": "5,896",
+      "stars_today": "35",
+      "language": "C",
+      "description": ""
+    },
+    {
+      "name": "THUDM/slime",
+      "rank": 8,
+      "stars": "4,098",
+      "stars_today": "85",
+      "language": "Python",
+      "description": "slime is an LLM post-training framework for RL Scaling."
+    },
+    {
+      "name": "DebugSwift/DebugSwift",
+      "rank": 9,
+      "stars": "1,463",
+      "stars_today": "52",
+      "language": "Swift",
+      "description": "A toolkit to make debugging iOS applications easier 🚀"
+    },
+    {
+      "name": "google-deepmind/superhuman",
+      "rank": 10,
+      "stars": "394",
+      "stars_today": "49",
+      "language": "TeX",
+      "description": ""
+    }
+  ]
+}
