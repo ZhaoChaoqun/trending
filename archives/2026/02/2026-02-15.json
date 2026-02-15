@@ -1,0 +1,95 @@
+{
+  "date": "2026-02-15",
+  "updated_at": "2026-02-15 03:36:33",
+  "count": 11,
+  "rankings": [
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "rank": 1,
+      "stars": "25,123",
+      "stars_today": "331",
+      "language": "TypeScript",
+      "description": "Chrome DevTools for coding agents"
+    },
+    {
+      "name": "rowboatlabs/rowboat",
+      "rank": 2,
+      "stars": "6,161",
+      "stars_today": "217",
+      "language": "TypeScript",
+      "description": "Open-source AI coworker, with memory"
+    },
+    {
+      "name": "minio/minio",
+      "rank": 3,
+      "stars": "60,284",
+      "stars_today": "29",
+      "language": "Go",
+      "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license."
+    },
+    {
+      "name": "tambo-ai/tambo",
+      "rank": 4,
+      "stars": "9,689",
+      "stars_today": "127",
+      "language": "TypeScript",
+      "description": "Generative UI SDK for React"
+    },
+    {
+      "name": "SynkraAI/aios-core",
+      "rank": 5,
+      "stars": "627",
+      "stars_today": "209",
+      "language": "JavaScript",
+      "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0"
+    },
+    {
+      "name": "alibaba/zvec",
+      "rank": 6,
+      "stars": "1,337",
+      "stars_today": "172",
+      "language": "C++",
+      "description": "A lightweight, lightning-fast, in-process vector database"
+    },
+    {
+      "name": "ruvnet/wifi-densepose",
+      "rank": 7,
+      "stars": "6,201",
+      "stars_today": "98",
+      "language": "Python",
+      "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers"
+    },
+    {
+      "name": "Zipstack/unstract",
+      "rank": 8,
+      "stars": "6,331",
+      "stars_today": "40",
+      "language": "Python",
+      "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents"
+    },
+    {
+      "name": "letta-ai/letta-code",
+      "rank": 9,
+      "stars": "1,245",
+      "stars_today": "55",
+      "language": "TypeScript",
+      "description": "The memory-first coding agent"
+    },
+    {
+      "name": "ruby/ruby",
+      "rank": 10,
+      "stars": "23,381",
+      "stars_today": "15",
+      "language": "Ruby",
+      "description": "The Ruby Programming Language"
+    },
+    {
+      "name": "cinnyapp/cinny",
+      "rank": 11,
+      "stars": "3,057",
+      "stars_today": "41",
+      "language": "TypeScript",
+      "description": "Yet another matrix client"
+    }
+  ]
+}
