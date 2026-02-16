@@ -1,0 +1,95 @@
+{
+  "date": "2026-02-16",
+  "updated_at": "2026-02-16 03:35:46",
+  "count": 11,
+  "rankings": [
+    {
+      "name": "openclaw/openclaw",
+      "rank": 1,
+      "stars": "197,757",
+      "stars_today": "2,380",
+      "language": "TypeScript",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞"
+    },
+    {
+      "name": "rowboatlabs/rowboat",
+      "rank": 2,
+      "stars": "6,859",
+      "stars_today": "803",
+      "language": "TypeScript",
+      "description": "Open-source AI coworker, with memory"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "rank": 3,
+      "stars": "25,458",
+      "stars_today": "357",
+      "language": "TypeScript",
+      "description": "Chrome DevTools for coding agents"
+    },
+    {
+      "name": "alibaba/zvec",
+      "rank": 4,
+      "stars": "2,426",
+      "stars_today": "673",
+      "language": "C++",
+      "description": "A lightweight, lightning-fast, in-process vector database"
+    },
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "rank": 5,
+      "stars": "19,361",
+      "stars_today": "68",
+      "language": "Rust",
+      "description": "A high-performance algorithmic trading platform and event-driven backtester"
+    },
+    {
+      "name": "steipete/gogcli",
+      "rank": 6,
+      "stars": "3,032",
+      "stars_today": "630",
+      "language": "Go",
+      "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts."
+    },
+    {
+      "name": "moonshine-ai/moonshine",
+      "rank": 7,
+      "stars": "3,864",
+      "stars_today": "157",
+      "language": "C",
+      "description": "Fast and accurate automatic speech recognition (ASR) for edge devices"
+    },
+    {
+      "name": "brave/brave-browser",
+      "rank": 8,
+      "stars": "21,564",
+      "stars_today": "27",
+      "language": null,
+      "description": "Brave browser for Android, iOS, Linux, macOS, Windows."
+    },
+    {
+      "name": "ruvnet/wifi-densepose",
+      "rank": 9,
+      "stars": "6,527",
+      "stars_today": "352",
+      "language": "Python",
+      "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers"
+    },
+    {
+      "name": "github/gh-aw",
+      "rank": 10,
+      "stars": "2,744",
+      "stars_today": "213",
+      "language": "Go",
+      "description": "GitHub Agentic Workflows"
+    },
+    {
+      "name": "SynkraAI/aios-core",
+      "rank": 11,
+      "stars": "807",
+      "stars_today": "163",
+      "language": "JavaScript",
+      "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0"
+    }
+  ]
+}

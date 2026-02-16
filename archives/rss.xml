@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sun, 15 Feb 2026 03:36:33 +0000</pubDate><lastBuildDate>Sun, 15 Feb 2026 03:36:33 +0000</lastBuildDate><item><title>#1 ChromeDevTools/chrome-devtools-mcp (+331 stars)</title><link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Mon, 16 Feb 2026 03:35:46 +0000</pubDate><lastBuildDate>Mon, 16 Feb 2026 03:35:46 +0000</lastBuildDate><item><title>#1 openclaw/openclaw (+2,380 stars)</title><link>https://github.com/openclaw/openclaw</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ChromeDevTools/chrome-devtools-mcp&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Chrome DevTools for coding agents&lt;/p&gt;
-&lt;p&gt;⭐ 25,123 | +331 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;openclaw/openclaw&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞&lt;/p&gt;
+&lt;p&gt;⭐ 197,757 | +2,380 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/ChromeDevTools/chrome-devtools-mcp#2026-02-15</guid><pubDate>Sun, 15 Feb 2026 03:36:33 +0000</pubDate></item><item><title>#2 rowboatlabs/rowboat (+217 stars)</title><link>https://github.com/rowboatlabs/rowboat</link><description>
+</description><guid isPermaLink="false">https://github.com/openclaw/openclaw#2026-02-16</guid><pubDate>Mon, 16 Feb 2026 03:35:46 +0000</pubDate></item><item><title>#2 rowboatlabs/rowboat (+803 stars)</title><link>https://github.com/rowboatlabs/rowboat</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;rowboatlabs/rowboat&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Open-source AI coworker, with memory&lt;/p&gt;
-&lt;p&gt;⭐ 6,161 | +217 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+&lt;p&gt;⭐ 6,859 | +803 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/rowboatlabs/rowboat#2026-02-15</guid><pubDate>Sun, 15 Feb 2026 03:36:33 +0000</pubDate></item><item><title>#3 minio/minio (+29 stars)</title><link>https://github.com/minio/minio</link><description>
+</description><guid isPermaLink="false">https://github.com/rowboatlabs/rowboat#2026-02-16</guid><pubDate>Mon, 16 Feb 2026 03:35:46 +0000</pubDate></item><item><title>#3 ChromeDevTools/chrome-devtools-mcp (+357 stars)</title><link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;minio/minio&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.&lt;/p&gt;
-&lt;p&gt;⭐ 60,284 | +29 today | 🔧 Go&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ChromeDevTools/chrome-devtools-mcp&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Chrome DevTools for coding agents&lt;/p&gt;
+&lt;p&gt;⭐ 25,458 | +357 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/minio/minio#2026-02-15</guid><pubDate>Sun, 15 Feb 2026 03:36:33 +0000</pubDate></item><item><title>#4 tambo-ai/tambo (+127 stars)</title><link>https://github.com/tambo-ai/tambo</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;tambo-ai/tambo&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Generative UI SDK for React&lt;/p&gt;
-&lt;p&gt;⭐ 9,689 | +127 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/tambo-ai/tambo#2026-02-15</guid><pubDate>Sun, 15 Feb 2026 03:36:33 +0000</pubDate></item><item><title>#5 SynkraAI/aios-core (+209 stars)</title><link>https://github.com/SynkraAI/aios-core</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;SynkraAI/aios-core&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0&lt;/p&gt;
-&lt;p&gt;⭐ 627 | +209 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/SynkraAI/aios-core#2026-02-15</guid><pubDate>Sun, 15 Feb 2026 03:36:33 +0000</pubDate></item><item><title>#6 alibaba/zvec (+172 stars)</title><link>https://github.com/alibaba/zvec</link><description>
+</description><guid isPermaLink="false">https://github.com/ChromeDevTools/chrome-devtools-mcp#2026-02-16</guid><pubDate>Mon, 16 Feb 2026 03:35:46 +0000</pubDate></item><item><title>#4 alibaba/zvec (+673 stars)</title><link>https://github.com/alibaba/zvec</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;alibaba/zvec&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A lightweight, lightning-fast, in-process vector database&lt;/p&gt;
-&lt;p&gt;⭐ 1,337 | +172 today | 🔧 C++&lt;/p&gt;
-&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
+&lt;p&gt;⭐ 2,426 | +673 today | 🔧 C++&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/alibaba/zvec#2026-02-15</guid><pubDate>Sun, 15 Feb 2026 03:36:33 +0000</pubDate></item><item><title>#7 ruvnet/wifi-densepose (+98 stars)</title><link>https://github.com/ruvnet/wifi-densepose</link><description>
+</description><guid isPermaLink="false">https://github.com/alibaba/zvec#2026-02-16</guid><pubDate>Mon, 16 Feb 2026 03:35:46 +0000</pubDate></item><item><title>#5 nautechsystems/nautilus_trader (+68 stars)</title><link>https://github.com/nautechsystems/nautilus_trader</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;nautechsystems/nautilus_trader&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A high-performance algorithmic trading platform and event-driven backtester&lt;/p&gt;
+&lt;p&gt;⭐ 19,361 | +68 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/nautechsystems/nautilus_trader#2026-02-16</guid><pubDate>Mon, 16 Feb 2026 03:35:46 +0000</pubDate></item><item><title>#6 steipete/gogcli (+630 stars)</title><link>https://github.com/steipete/gogcli</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;steipete/gogcli&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Google Suite CLI: Gmail, GCal, GDrive, GContacts.&lt;/p&gt;
+&lt;p&gt;⭐ 3,032 | +630 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/steipete/gogcli#2026-02-16</guid><pubDate>Mon, 16 Feb 2026 03:35:46 +0000</pubDate></item><item><title>#7 moonshine-ai/moonshine (+157 stars)</title><link>https://github.com/moonshine-ai/moonshine</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;moonshine-ai/moonshine&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fast and accurate automatic speech recognition (ASR) for edge devices&lt;/p&gt;
+&lt;p&gt;⭐ 3,864 | +157 today | 🔧 C&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/moonshine-ai/moonshine#2026-02-16</guid><pubDate>Mon, 16 Feb 2026 03:35:46 +0000</pubDate></item><item><title>#8 brave/brave-browser (+27 stars)</title><link>https://github.com/brave/brave-browser</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;brave/brave-browser&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Brave browser for Android, iOS, Linux, macOS, Windows.&lt;/p&gt;
+&lt;p&gt;⭐ 21,564 | +27 today | 🔧 Unknown&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/brave/brave-browser#2026-02-16</guid><pubDate>Mon, 16 Feb 2026 03:35:46 +0000</pubDate></item><item><title>#9 ruvnet/wifi-densepose (+352 stars)</title><link>https://github.com/ruvnet/wifi-densepose</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;ruvnet/wifi-densepose&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers&lt;/p&gt;
-&lt;p&gt;⭐ 6,201 | +98 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
+&lt;p&gt;⭐ 6,527 | +352 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/ruvnet/wifi-densepose#2026-02-15</guid><pubDate>Sun, 15 Feb 2026 03:36:33 +0000</pubDate></item><item><title>#8 Zipstack/unstract (+40 stars)</title><link>https://github.com/Zipstack/unstract</link><description>
+</description><guid isPermaLink="false">https://github.com/ruvnet/wifi-densepose#2026-02-16</guid><pubDate>Mon, 16 Feb 2026 03:35:46 +0000</pubDate></item><item><title>#10 github/gh-aw (+213 stars)</title><link>https://github.com/github/gh-aw</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Zipstack/unstract&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents&lt;/p&gt;
-&lt;p&gt;⭐ 6,331 | +40 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;github/gh-aw&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;GitHub Agentic Workflows&lt;/p&gt;
+&lt;p&gt;⭐ 2,744 | +213 today | 🔧 Go&lt;/p&gt;
 &lt;p&gt;推荐指数: 6/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Zipstack/unstract#2026-02-15</guid><pubDate>Sun, 15 Feb 2026 03:36:33 +0000</pubDate></item><item><title>#9 letta-ai/letta-code (+55 stars)</title><link>https://github.com/letta-ai/letta-code</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;letta-ai/letta-code&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The memory-first coding agent&lt;/p&gt;
-&lt;p&gt;⭐ 1,245 | +55 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/letta-ai/letta-code#2026-02-15</guid><pubDate>Sun, 15 Feb 2026 03:36:33 +0000</pubDate></item><item><title>#10 ruby/ruby (+15 stars)</title><link>https://github.com/ruby/ruby</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ruby/ruby&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The Ruby Programming Language&lt;/p&gt;
-&lt;p&gt;⭐ 23,381 | +15 today | 🔧 Ruby&lt;/p&gt;
-&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/ruby/ruby#2026-02-15</guid><pubDate>Sun, 15 Feb 2026 03:36:33 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/github/gh-aw#2026-02-16</guid><pubDate>Mon, 16 Feb 2026 03:35:46 +0000</pubDate></item></channel></rss>
