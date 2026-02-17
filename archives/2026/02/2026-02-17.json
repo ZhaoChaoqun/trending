@@ -1,0 +1,87 @@
+{
+  "date": "2026-02-17",
+  "updated_at": "2026-02-17 03:30:39",
+  "count": 10,
+  "rankings": [
+    {
+      "name": "openclaw/openclaw",
+      "rank": 1,
+      "stars": "202,020",
+      "stars_today": "3,873",
+      "language": "TypeScript",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞"
+    },
+    {
+      "name": "alibaba/zvec",
+      "rank": 2,
+      "stars": "3,726",
+      "stars_today": "1,094",
+      "language": "C++",
+      "description": "A lightweight, lightning-fast, in-process vector database"
+    },
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "rank": 3,
+      "stars": "19,812",
+      "stars_today": "546",
+      "language": "Rust",
+      "description": "A high-performance algorithmic trading platform and event-driven backtester"
+    },
+    {
+      "name": "rowboatlabs/rowboat",
+      "rank": 4,
+      "stars": "7,360",
+      "stars_today": "700",
+      "language": "TypeScript",
+      "description": "Open-source AI coworker, with memory"
+    },
+    {
+      "name": "hummingbot/hummingbot",
+      "rank": 5,
+      "stars": "16,610",
+      "stars_today": "339",
+      "language": "Python",
+      "description": "Open source software that helps you create and deploy high-frequency crypto trading bots"
+    },
+    {
+      "name": "steipete/gogcli",
+      "rank": 6,
+      "stars": "3,550",
+      "stars_today": "637",
+      "language": "Go",
+      "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts."
+    },
+    {
+      "name": "ruvnet/wifi-densepose",
+      "rank": 7,
+      "stars": "6,827",
+      "stars_today": "344",
+      "language": "Python",
+      "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers"
+    },
+    {
+      "name": "seerr-team/seerr",
+      "rank": 8,
+      "stars": "9,093",
+      "stars_today": "182",
+      "language": "TypeScript",
+      "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby."
+    },
+    {
+      "name": "SynkraAI/aios-core",
+      "rank": 9,
+      "stars": "1,006",
+      "stars_today": "205",
+      "language": "JavaScript",
+      "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0"
+    },
+    {
+      "name": "letta-ai/letta-code",
+      "rank": 10,
+      "stars": "1,477",
+      "stars_today": "22",
+      "language": "TypeScript",
+      "description": "The memory-first coding agent"
+    }
+  ]
+}
