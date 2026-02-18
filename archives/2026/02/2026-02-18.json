@@ -1,0 +1,111 @@
+{
+  "date": "2026-02-18",
+  "updated_at": "2026-02-18 03:33:03",
+  "count": 13,
+  "rankings": [
+    {
+      "name": "obra/superpowers",
+      "rank": 1,
+      "stars": "53,681",
+      "stars_today": "569",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "openclaw/openclaw",
+      "rank": 2,
+      "stars": "205,759",
+      "stars_today": "4,201",
+      "language": "TypeScript",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞"
+    },
+    {
+      "name": "ashishps1/awesome-system-design-resources",
+      "rank": 3,
+      "stars": "32,857",
+      "stars_today": "510",
+      "language": "Java",
+      "description": "Learn System Design concepts and prepare for interviews using free resources."
+    },
+    {
+      "name": "p-e-w/heretic",
+      "rank": 4,
+      "stars": "7,318",
+      "stars_today": "656",
+      "language": "Python",
+      "description": "Fully automatic censorship removal for language models"
+    },
+    {
+      "name": "alibaba/zvec",
+      "rank": 5,
+      "stars": "4,536",
+      "stars_today": "1,473",
+      "language": "C++",
+      "description": "A lightweight, lightning-fast, in-process vector database"
+    },
+    {
+      "name": "hummingbot/hummingbot",
+      "rank": 6,
+      "stars": "17,085",
+      "stars_today": "568",
+      "language": "Python",
+      "description": "Open source software that helps you create and deploy high-frequency crypto trading bots"
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "rank": 7,
+      "stars": "20,745",
+      "stars_today": "111",
+      "language": "Python",
+      "description": "CLI tool for configuring and monitoring Claude Code"
+    },
+    {
+      "name": "seerr-team/seerr",
+      "rank": 8,
+      "stars": "9,353",
+      "stars_today": "282",
+      "language": "TypeScript",
+      "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby."
+    },
+    {
+      "name": "steipete/gogcli",
+      "rank": 9,
+      "stars": "3,905",
+      "stars_today": "469",
+      "language": "Go",
+      "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts."
+    },
+    {
+      "name": "steipete/summarize",
+      "rank": 10,
+      "stars": "3,485",
+      "stars_today": "119",
+      "language": "TypeScript",
+      "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension."
+    },
+    {
+      "name": "anthropics/claude-quickstarts",
+      "rank": 11,
+      "stars": "14,523",
+      "stars_today": "87",
+      "language": "Python",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API"
+    },
+    {
+      "name": "SynkraAI/aios-core",
+      "rank": 12,
+      "stars": "1,225",
+      "stars_today": "194",
+      "language": "JavaScript",
+      "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0"
+    },
+    {
+      "name": "OpenCTI-Platform/opencti",
+      "rank": 13,
+      "stars": "8,434",
+      "stars_today": "16",
+      "language": "TypeScript",
+      "description": "Open Cyber Threat Intelligence Platform"
+    }
+  ]
+}
