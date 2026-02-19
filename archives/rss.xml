@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Wed, 18 Feb 2026 03:33:03 +0000</pubDate><lastBuildDate>Wed, 18 Feb 2026 03:33:03 +0000</lastBuildDate><item><title>#1 obra/superpowers (+569 stars)</title><link>https://github.com/obra/superpowers</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Thu, 19 Feb 2026 03:31:47 +0000</pubDate><lastBuildDate>Thu, 19 Feb 2026 03:31:47 +0000</lastBuildDate><item><title>#1 obra/superpowers (+868 stars)</title><link>https://github.com/obra/superpowers</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 53,681 | +569 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 54,548 | +868 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-02-18</guid><pubDate>Wed, 18 Feb 2026 03:33:03 +0000</pubDate></item><item><title>#2 openclaw/openclaw (+4,201 stars)</title><link>https://github.com/openclaw/openclaw</link><description>
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-02-19</guid><pubDate>Thu, 19 Feb 2026 03:31:47 +0000</pubDate></item><item><title>#2 openclaw/openclaw (+3,805 stars)</title><link>https://github.com/openclaw/openclaw</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;openclaw/openclaw&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞&lt;/p&gt;
-&lt;p&gt;⭐ 205,759 | +4,201 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 209,136 | +3,805 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/openclaw/openclaw#2026-02-18</guid><pubDate>Wed, 18 Feb 2026 03:33:03 +0000</pubDate></item><item><title>#3 ashishps1/awesome-system-design-resources (+510 stars)</title><link>https://github.com/ashishps1/awesome-system-design-resources</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ashishps1/awesome-system-design-resources&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Learn System Design concepts and prepare for interviews using free resources.&lt;/p&gt;
-&lt;p&gt;⭐ 32,857 | +510 today | 🔧 Java&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/ashishps1/awesome-system-design-resources#2026-02-18</guid><pubDate>Wed, 18 Feb 2026 03:33:03 +0000</pubDate></item><item><title>#4 p-e-w/heretic (+656 stars)</title><link>https://github.com/p-e-w/heretic</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;p-e-w/heretic&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Fully automatic censorship removal for language models&lt;/p&gt;
-&lt;p&gt;⭐ 7,318 | +656 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/p-e-w/heretic#2026-02-18</guid><pubDate>Wed, 18 Feb 2026 03:33:03 +0000</pubDate></item><item><title>#5 alibaba/zvec (+1,473 stars)</title><link>https://github.com/alibaba/zvec</link><description>
+</description><guid isPermaLink="false">https://github.com/openclaw/openclaw#2026-02-19</guid><pubDate>Thu, 19 Feb 2026 03:31:47 +0000</pubDate></item><item><title>#3 alibaba/zvec (+502 stars)</title><link>https://github.com/alibaba/zvec</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;alibaba/zvec&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A lightweight, lightning-fast, in-process vector database&lt;/p&gt;
-&lt;p&gt;⭐ 4,536 | +1,473 today | 🔧 C++&lt;/p&gt;
+&lt;p&gt;⭐ 4,944 | +502 today | 🔧 C++&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/alibaba/zvec#2026-02-18</guid><pubDate>Wed, 18 Feb 2026 03:33:03 +0000</pubDate></item><item><title>#6 hummingbot/hummingbot (+568 stars)</title><link>https://github.com/hummingbot/hummingbot</link><description>
+</description><guid isPermaLink="false">https://github.com/alibaba/zvec#2026-02-19</guid><pubDate>Thu, 19 Feb 2026 03:31:47 +0000</pubDate></item><item><title>#4 p-e-w/heretic (+946 stars)</title><link>https://github.com/p-e-w/heretic</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;hummingbot/hummingbot&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Open source software that helps you create and deploy high-frequency crypto trading bots&lt;/p&gt;
-&lt;p&gt;⭐ 17,085 | +568 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;p-e-w/heretic&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fully automatic censorship removal for language models&lt;/p&gt;
+&lt;p&gt;⭐ 8,088 | +946 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/hummingbot/hummingbot#2026-02-18</guid><pubDate>Wed, 18 Feb 2026 03:33:03 +0000</pubDate></item><item><title>#7 davila7/claude-code-templates (+111 stars)</title><link>https://github.com/davila7/claude-code-templates</link><description>
+</description><guid isPermaLink="false">https://github.com/p-e-w/heretic#2026-02-19</guid><pubDate>Thu, 19 Feb 2026 03:31:47 +0000</pubDate></item><item><title>#5 NirDiamant/RAG_Techniques (+292 stars)</title><link>https://github.com/NirDiamant/RAG_Techniques</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;davila7/claude-code-templates&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;CLI tool for configuring and monitoring Claude Code&lt;/p&gt;
-&lt;p&gt;⭐ 20,745 | +111 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NirDiamant/RAG_Techniques&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.&lt;/p&gt;
+&lt;p&gt;⭐ 25,295 | +292 today | 🔧 Jupyter Notebook&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/davila7/claude-code-templates#2026-02-18</guid><pubDate>Wed, 18 Feb 2026 03:33:03 +0000</pubDate></item><item><title>#8 seerr-team/seerr (+282 stars)</title><link>https://github.com/seerr-team/seerr</link><description>
+</description><guid isPermaLink="false">https://github.com/NirDiamant/RAG_Techniques#2026-02-19</guid><pubDate>Thu, 19 Feb 2026 03:31:47 +0000</pubDate></item><item><title>#6 harvard-edge/cs249r_book (+690 stars)</title><link>https://github.com/harvard-edge/cs249r_book</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;seerr-team/seerr&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Open-source media request and discovery manager for Jellyfin, Plex, and Emby.&lt;/p&gt;
-&lt;p&gt;⭐ 9,353 | +282 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;harvard-edge/cs249r_book&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Introduction to Machine Learning Systems&lt;/p&gt;
+&lt;p&gt;⭐ 19,739 | +690 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/harvard-edge/cs249r_book#2026-02-19</guid><pubDate>Thu, 19 Feb 2026 03:31:47 +0000</pubDate></item><item><title>#7 OpenCTI-Platform/opencti (+281 stars)</title><link>https://github.com/OpenCTI-Platform/opencti</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;OpenCTI-Platform/opencti&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open Cyber Threat Intelligence Platform&lt;/p&gt;
+&lt;p&gt;⭐ 8,721 | +281 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/seerr-team/seerr#2026-02-18</guid><pubDate>Wed, 18 Feb 2026 03:33:03 +0000</pubDate></item><item><title>#9 steipete/gogcli (+469 stars)</title><link>https://github.com/steipete/gogcli</link><description>
+</description><guid isPermaLink="false">https://github.com/OpenCTI-Platform/opencti#2026-02-19</guid><pubDate>Thu, 19 Feb 2026 03:31:47 +0000</pubDate></item><item><title>#8 QwenLM/qwen-code (+95 stars)</title><link>https://github.com/QwenLM/qwen-code</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;steipete/gogcli&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Google Suite CLI: Gmail, GCal, GDrive, GContacts.&lt;/p&gt;
-&lt;p&gt;⭐ 3,905 | +469 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;QwenLM/qwen-code&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An open-source AI agent that lives in your terminal.&lt;/p&gt;
+&lt;p&gt;⭐ 18,888 | +95 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/steipete/gogcli#2026-02-18</guid><pubDate>Wed, 18 Feb 2026 03:33:03 +0000</pubDate></item><item><title>#10 steipete/summarize (+119 stars)</title><link>https://github.com/steipete/summarize</link><description>
+</description><guid isPermaLink="false">https://github.com/QwenLM/qwen-code#2026-02-19</guid><pubDate>Thu, 19 Feb 2026 03:31:47 +0000</pubDate></item><item><title>#9 HailToDodongo/pyrite64 (+419 stars)</title><link>https://github.com/HailToDodongo/pyrite64</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;steipete/summarize&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.&lt;/p&gt;
-&lt;p&gt;⭐ 3,485 | +119 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HailToDodongo/pyrite64&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;N64 Game-Engine and Editor using libdragon &amp; tiny3d&lt;/p&gt;
+&lt;p&gt;⭐ 1,351 | +419 today | 🔧 C++&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/steipete/summarize#2026-02-18</guid><pubDate>Wed, 18 Feb 2026 03:33:03 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/HailToDodongo/pyrite64#2026-02-19</guid><pubDate>Thu, 19 Feb 2026 03:31:47 +0000</pubDate></item><item><title>#10 p2r3/convert (+391 stars)</title><link>https://github.com/p2r3/convert</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;p2r3/convert&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Truly universal online file converter&lt;/p&gt;
+&lt;p&gt;⭐ 1,496 | +391 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/p2r3/convert#2026-02-19</guid><pubDate>Thu, 19 Feb 2026 03:31:47 +0000</pubDate></item></channel></rss>
