@@ -1,72 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Thu, 19 Feb 2026 03:31:47 +0000</pubDate><lastBuildDate>Thu, 19 Feb 2026 03:31:47 +0000</lastBuildDate><item><title>#1 obra/superpowers (+868 stars)</title><link>https://github.com/obra/superpowers</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 20 Feb 2026 03:27:42 +0000</pubDate><lastBuildDate>Fri, 20 Feb 2026 03:27:42 +0000</lastBuildDate><item><title>#1 obra/superpowers (+889 stars)</title><link>https://github.com/obra/superpowers</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 54,548 | +868 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 55,474 | +889 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-02-19</guid><pubDate>Thu, 19 Feb 2026 03:31:47 +0000</pubDate></item><item><title>#2 openclaw/openclaw (+3,805 stars)</title><link>https://github.com/openclaw/openclaw</link><description>
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-02-20</guid><pubDate>Fri, 20 Feb 2026 03:27:42 +0000</pubDate></item><item><title>#2 openclaw/openclaw (+3,390 stars)</title><link>https://github.com/openclaw/openclaw</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;openclaw/openclaw&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞&lt;/p&gt;
-&lt;p&gt;⭐ 209,136 | +3,805 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 212,167 | +3,390 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/openclaw/openclaw#2026-02-19</guid><pubDate>Thu, 19 Feb 2026 03:31:47 +0000</pubDate></item><item><title>#3 alibaba/zvec (+502 stars)</title><link>https://github.com/alibaba/zvec</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;alibaba/zvec&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A lightweight, lightning-fast, in-process vector database&lt;/p&gt;
-&lt;p&gt;⭐ 4,944 | +502 today | 🔧 C++&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/alibaba/zvec#2026-02-19</guid><pubDate>Thu, 19 Feb 2026 03:31:47 +0000</pubDate></item><item><title>#4 p-e-w/heretic (+946 stars)</title><link>https://github.com/p-e-w/heretic</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;p-e-w/heretic&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Fully automatic censorship removal for language models&lt;/p&gt;
-&lt;p&gt;⭐ 8,088 | +946 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/p-e-w/heretic#2026-02-19</guid><pubDate>Thu, 19 Feb 2026 03:31:47 +0000</pubDate></item><item><title>#5 NirDiamant/RAG_Techniques (+292 stars)</title><link>https://github.com/NirDiamant/RAG_Techniques</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;NirDiamant/RAG_Techniques&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.&lt;/p&gt;
-&lt;p&gt;⭐ 25,295 | +292 today | 🔧 Jupyter Notebook&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/NirDiamant/RAG_Techniques#2026-02-19</guid><pubDate>Thu, 19 Feb 2026 03:31:47 +0000</pubDate></item><item><title>#6 harvard-edge/cs249r_book (+690 stars)</title><link>https://github.com/harvard-edge/cs249r_book</link><description>
+</description><guid isPermaLink="false">https://github.com/openclaw/openclaw#2026-02-20</guid><pubDate>Fri, 20 Feb 2026 03:27:42 +0000</pubDate></item><item><title>#3 harvard-edge/cs249r_book (+663 stars)</title><link>https://github.com/harvard-edge/cs249r_book</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;harvard-edge/cs249r_book&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Introduction to Machine Learning Systems&lt;/p&gt;
-&lt;p&gt;⭐ 19,739 | +690 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 20,243 | +663 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/harvard-edge/cs249r_book#2026-02-19</guid><pubDate>Thu, 19 Feb 2026 03:31:47 +0000</pubDate></item><item><title>#7 OpenCTI-Platform/opencti (+281 stars)</title><link>https://github.com/OpenCTI-Platform/opencti</link><description>
+</description><guid isPermaLink="false">https://github.com/harvard-edge/cs249r_book#2026-02-20</guid><pubDate>Fri, 20 Feb 2026 03:27:42 +0000</pubDate></item><item><title>#4 p-e-w/heretic (+652 stars)</title><link>https://github.com/p-e-w/heretic</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;OpenCTI-Platform/opencti&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Open Cyber Threat Intelligence Platform&lt;/p&gt;
-&lt;p&gt;⭐ 8,721 | +281 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;p-e-w/heretic&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fully automatic censorship removal for language models&lt;/p&gt;
+&lt;p&gt;⭐ 8,538 | +652 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/OpenCTI-Platform/opencti#2026-02-19</guid><pubDate>Thu, 19 Feb 2026 03:31:47 +0000</pubDate></item><item><title>#8 QwenLM/qwen-code (+95 stars)</title><link>https://github.com/QwenLM/qwen-code</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;QwenLM/qwen-code&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An open-source AI agent that lives in your terminal.&lt;/p&gt;
-&lt;p&gt;⭐ 18,888 | +95 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/QwenLM/qwen-code#2026-02-19</guid><pubDate>Thu, 19 Feb 2026 03:31:47 +0000</pubDate></item><item><title>#9 HailToDodongo/pyrite64 (+419 stars)</title><link>https://github.com/HailToDodongo/pyrite64</link><description>
+</description><guid isPermaLink="false">https://github.com/p-e-w/heretic#2026-02-20</guid><pubDate>Fri, 20 Feb 2026 03:27:42 +0000</pubDate></item><item><title>#5 HailToDodongo/pyrite64 (+608 stars)</title><link>https://github.com/HailToDodongo/pyrite64</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;HailToDodongo/pyrite64&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;N64 Game-Engine and Editor using libdragon &amp; tiny3d&lt;/p&gt;
-&lt;p&gt;⭐ 1,351 | +419 today | 🔧 C++&lt;/p&gt;
+&lt;p&gt;⭐ 1,793 | +608 today | 🔧 C++&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/HailToDodongo/pyrite64#2026-02-19</guid><pubDate>Thu, 19 Feb 2026 03:31:47 +0000</pubDate></item><item><title>#10 p2r3/convert (+391 stars)</title><link>https://github.com/p2r3/convert</link><description>
+</description><guid isPermaLink="false">https://github.com/HailToDodongo/pyrite64#2026-02-20</guid><pubDate>Fri, 20 Feb 2026 03:27:42 +0000</pubDate></item><item><title>#6 freemocap/freemocap (+141 stars)</title><link>https://github.com/freemocap/freemocap</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;p2r3/convert&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Truly universal online file converter&lt;/p&gt;
-&lt;p&gt;⭐ 1,496 | +391 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;freemocap/freemocap&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Free Motion Capture for Everyone 💀✨&lt;/p&gt;
+&lt;p&gt;⭐ 5,247 | +141 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/p2r3/convert#2026-02-19</guid><pubDate>Thu, 19 Feb 2026 03:31:47 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/freemocap/freemocap#2026-02-20</guid><pubDate>Fri, 20 Feb 2026 03:27:42 +0000</pubDate></item><item><title>#7 RichardAtCT/claude-code-telegram (+174 stars)</title><link>https://github.com/RichardAtCT/claude-code-telegram</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;RichardAtCT/claude-code-telegram&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.&lt;/p&gt;
+&lt;p&gt;⭐ 1,003 | +174 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/RichardAtCT/claude-code-telegram#2026-02-20</guid><pubDate>Fri, 20 Feb 2026 03:27:42 +0000</pubDate></item><item><title>#8 open-mercato/open-mercato (+56 stars)</title><link>https://github.com/open-mercato/open-mercato</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;open-mercato/open-mercato&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AI‑supportive CRM / ERP foundation framework — built to power R&amp;D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!&lt;/p&gt;
+&lt;p&gt;⭐ 758 | +56 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/open-mercato/open-mercato#2026-02-20</guid><pubDate>Fri, 20 Feb 2026 03:27:42 +0000</pubDate></item></channel></rss>

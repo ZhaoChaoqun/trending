@@ -1,0 +1,71 @@
+{
+  "date": "2026-02-20",
+  "updated_at": "2026-02-20 03:27:42",
+  "count": 8,
+  "rankings": [
+    {
+      "name": "obra/superpowers",
+      "rank": 1,
+      "stars": "55,474",
+      "stars_today": "889",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "openclaw/openclaw",
+      "rank": 2,
+      "stars": "212,167",
+      "stars_today": "3,390",
+      "language": "TypeScript",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞"
+    },
+    {
+      "name": "harvard-edge/cs249r_book",
+      "rank": 3,
+      "stars": "20,243",
+      "stars_today": "663",
+      "language": "JavaScript",
+      "description": "Introduction to Machine Learning Systems"
+    },
+    {
+      "name": "p-e-w/heretic",
+      "rank": 4,
+      "stars": "8,538",
+      "stars_today": "652",
+      "language": "Python",
+      "description": "Fully automatic censorship removal for language models"
+    },
+    {
+      "name": "HailToDodongo/pyrite64",
+      "rank": 5,
+      "stars": "1,793",
+      "stars_today": "608",
+      "language": "C++",
+      "description": "N64 Game-Engine and Editor using libdragon & tiny3d"
+    },
+    {
+      "name": "freemocap/freemocap",
+      "rank": 6,
+      "stars": "5,247",
+      "stars_today": "141",
+      "language": "Python",
+      "description": "Free Motion Capture for Everyone 💀✨"
+    },
+    {
+      "name": "RichardAtCT/claude-code-telegram",
+      "rank": 7,
+      "stars": "1,003",
+      "stars_today": "174",
+      "language": "Python",
+      "description": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence."
+    },
+    {
+      "name": "open-mercato/open-mercato",
+      "rank": 8,
+      "stars": "758",
+      "stars_today": "56",
+      "language": "TypeScript",
+      "description": "AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!"
+    }
+  ]
+}
