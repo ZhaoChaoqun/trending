@@ -1,0 +1,111 @@
+{
+  "date": "2026-02-22",
+  "updated_at": "2026-02-22 03:31:17",
+  "count": 13,
+  "rankings": [
+    {
+      "name": "obra/superpowers",
+      "rank": 1,
+      "stars": "57,088",
+      "stars_today": "772",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "vxcontrol/pentagi",
+      "rank": 2,
+      "stars": "5,708",
+      "stars_today": "2,118",
+      "language": "Go",
+      "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "rank": 3,
+      "stars": "68,467",
+      "stars_today": "222",
+      "language": "Shell",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "Stremio/stremio-web",
+      "rank": 4,
+      "stars": "9,477",
+      "stars_today": "301",
+      "language": "JavaScript",
+      "description": "Stremio - Freedom to Stream"
+    },
+    {
+      "name": "HandsOnLLM/Hands-On-Large-Language-Models",
+      "rank": 5,
+      "stars": "22,604",
+      "stars_today": "355",
+      "language": "Jupyter Notebook",
+      "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\""
+    },
+    {
+      "name": "hiddify/hiddify-app",
+      "rank": 6,
+      "stars": "26,442",
+      "stars_today": "132",
+      "language": "Dart",
+      "description": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free."
+    },
+    {
+      "name": "stan-smith/FossFLOW",
+      "rank": 7,
+      "stars": "17,812",
+      "stars_today": "74",
+      "language": "TypeScript",
+      "description": "Make beautiful isometric infrastructure diagrams"
+    },
+    {
+      "name": "ggml-org/ggml",
+      "rank": 8,
+      "stars": "14,074",
+      "stars_today": "47",
+      "language": "C++",
+      "description": "Tensor library for machine learning"
+    },
+    {
+      "name": "abhigyanpatwari/GitNexus",
+      "rank": 9,
+      "stars": "1,087",
+      "stars_today": "132",
+      "language": "TypeScript",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration"
+    },
+    {
+      "name": "huggingface/skills",
+      "rank": 10,
+      "stars": "1,718",
+      "stars_today": "247",
+      "language": "Python",
+      "description": ""
+    },
+    {
+      "name": "PowerShell/PowerShell",
+      "rank": 11,
+      "stars": "51,565",
+      "stars_today": "13",
+      "language": "C#",
+      "description": "PowerShell for every system!"
+    },
+    {
+      "name": "RichardAtCT/claude-code-telegram",
+      "rank": 12,
+      "stars": "1,422",
+      "stars_today": "109",
+      "language": "Python",
+      "description": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence."
+    },
+    {
+      "name": "cloudflare/agents",
+      "rank": 13,
+      "stars": "3,476",
+      "stars_today": "65",
+      "language": "TypeScript",
+      "description": "Build and deploy AI Agents on Cloudflare"
+    }
+  ]
+}

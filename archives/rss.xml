@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sat, 21 Feb 2026 03:15:26 +0000</pubDate><lastBuildDate>Sat, 21 Feb 2026 03:15:26 +0000</lastBuildDate><item><title>#1 obra/superpowers (+980 stars)</title><link>https://github.com/obra/superpowers</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sun, 22 Feb 2026 03:31:17 +0000</pubDate><lastBuildDate>Sun, 22 Feb 2026 03:31:17 +0000</lastBuildDate><item><title>#1 obra/superpowers (+772 stars)</title><link>https://github.com/obra/superpowers</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 56,297 | +980 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 57,088 | +772 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-02-21</guid><pubDate>Sat, 21 Feb 2026 03:15:26 +0000</pubDate></item><item><title>#2 vxcontrol/pentagi (+875 stars)</title><link>https://github.com/vxcontrol/pentagi</link><description>
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-02-22</guid><pubDate>Sun, 22 Feb 2026 03:31:17 +0000</pubDate></item><item><title>#2 vxcontrol/pentagi (+2,118 stars)</title><link>https://github.com/vxcontrol/pentagi</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;vxcontrol/pentagi&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks&lt;/p&gt;
-&lt;p&gt;⭐ 4,046 | +875 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;⭐ 5,708 | +2,118 today | 🔧 Go&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/vxcontrol/pentagi#2026-02-21</guid><pubDate>Sat, 21 Feb 2026 03:15:26 +0000</pubDate></item><item><title>#3 blackboardsh/electrobun (+419 stars)</title><link>https://github.com/blackboardsh/electrobun</link><description>
+</description><guid isPermaLink="false">https://github.com/vxcontrol/pentagi#2026-02-22</guid><pubDate>Sun, 22 Feb 2026 03:31:17 +0000</pubDate></item><item><title>#3 anthropics/claude-code (+222 stars)</title><link>https://github.com/anthropics/claude-code</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;blackboardsh/electrobun&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Build ultra fast, tiny, and cross-platform desktop apps with Typescript.&lt;/p&gt;
-&lt;p&gt;⭐ 6,092 | +419 today | 🔧 C++&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;anthropics/claude-code&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.&lt;/p&gt;
+&lt;p&gt;⭐ 68,467 | +222 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/blackboardsh/electrobun#2026-02-21</guid><pubDate>Sat, 21 Feb 2026 03:15:26 +0000</pubDate></item><item><title>#4 google-research/timesfm (+404 stars)</title><link>https://github.com/google-research/timesfm</link><description>
+</description><guid isPermaLink="false">https://github.com/anthropics/claude-code#2026-02-22</guid><pubDate>Sun, 22 Feb 2026 03:31:17 +0000</pubDate></item><item><title>#4 Stremio/stremio-web (+301 stars)</title><link>https://github.com/Stremio/stremio-web</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;google-research/timesfm&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.&lt;/p&gt;
-&lt;p&gt;⭐ 8,866 | +404 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Stremio/stremio-web&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Stremio - Freedom to Stream&lt;/p&gt;
+&lt;p&gt;⭐ 9,477 | +301 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/google-research/timesfm#2026-02-21</guid><pubDate>Sat, 21 Feb 2026 03:15:26 +0000</pubDate></item><item><title>#5 HailToDodongo/pyrite64 (+425 stars)</title><link>https://github.com/HailToDodongo/pyrite64</link><description>
+</description><guid isPermaLink="false">https://github.com/Stremio/stremio-web#2026-02-22</guid><pubDate>Sun, 22 Feb 2026 03:31:17 +0000</pubDate></item><item><title>#5 HandsOnLLM/Hands-On-Large-Language-Models (+355 stars)</title><link>https://github.com/HandsOnLLM/Hands-On-Large-Language-Models</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;HailToDodongo/pyrite64&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;N64 Game-Engine and Editor using libdragon &amp; tiny3d&lt;/p&gt;
-&lt;p&gt;⭐ 2,149 | +425 today | 🔧 C++&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HandsOnLLM/Hands-On-Large-Language-Models&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Official code repo for the O'Reilly Book - "Hands-On Large Language Models"&lt;/p&gt;
+&lt;p&gt;⭐ 22,604 | +355 today | 🔧 Jupyter Notebook&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/HandsOnLLM/Hands-On-Large-Language-Models#2026-02-22</guid><pubDate>Sun, 22 Feb 2026 03:31:17 +0000</pubDate></item><item><title>#6 hiddify/hiddify-app (+132 stars)</title><link>https://github.com/hiddify/hiddify-app</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;hiddify/hiddify-app&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.&lt;/p&gt;
+&lt;p&gt;⭐ 26,442 | +132 today | 🔧 Dart&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/hiddify/hiddify-app#2026-02-22</guid><pubDate>Sun, 22 Feb 2026 03:31:17 +0000</pubDate></item><item><title>#7 stan-smith/FossFLOW (+74 stars)</title><link>https://github.com/stan-smith/FossFLOW</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;stan-smith/FossFLOW&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Make beautiful isometric infrastructure diagrams&lt;/p&gt;
+&lt;p&gt;⭐ 17,812 | +74 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/HailToDodongo/pyrite64#2026-02-21</guid><pubDate>Sat, 21 Feb 2026 03:15:26 +0000</pubDate></item><item><title>#6 aquasecurity/trivy (+31 stars)</title><link>https://github.com/aquasecurity/trivy</link><description>
+</description><guid isPermaLink="false">https://github.com/stan-smith/FossFLOW#2026-02-22</guid><pubDate>Sun, 22 Feb 2026 03:31:17 +0000</pubDate></item><item><title>#8 ggml-org/ggml (+47 stars)</title><link>https://github.com/ggml-org/ggml</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;aquasecurity/trivy&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more&lt;/p&gt;
-&lt;p&gt;⭐ 32,116 | +31 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ggml-org/ggml&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tensor library for machine learning&lt;/p&gt;
+&lt;p&gt;⭐ 14,074 | +47 today | 🔧 C++&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/aquasecurity/trivy#2026-02-21</guid><pubDate>Sat, 21 Feb 2026 03:15:26 +0000</pubDate></item><item><title>#7 PostHog/posthog (+46 stars)</title><link>https://github.com/PostHog/posthog</link><description>
+</description><guid isPermaLink="false">https://github.com/ggml-org/ggml#2026-02-22</guid><pubDate>Sun, 22 Feb 2026 03:31:17 +0000</pubDate></item><item><title>#9 abhigyanpatwari/GitNexus (+132 stars)</title><link>https://github.com/abhigyanpatwari/GitNexus</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;PostHog/posthog&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.&lt;/p&gt;
-&lt;p&gt;⭐ 31,580 | +46 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;abhigyanpatwari/GitNexus&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration&lt;/p&gt;
+&lt;p&gt;⭐ 1,087 | +132 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/PostHog/posthog#2026-02-21</guid><pubDate>Sat, 21 Feb 2026 03:15:26 +0000</pubDate></item><item><title>#8 eslint/eslint (+30 stars)</title><link>https://github.com/eslint/eslint</link><description>
+</description><guid isPermaLink="false">https://github.com/abhigyanpatwari/GitNexus#2026-02-22</guid><pubDate>Sun, 22 Feb 2026 03:31:17 +0000</pubDate></item><item><title>#10 huggingface/skills (+247 stars)</title><link>https://github.com/huggingface/skills</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;eslint/eslint&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Find and fix problems in your JavaScript code.&lt;/p&gt;
-&lt;p&gt;⭐ 27,064 | +30 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;huggingface/skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;⭐ 1,718 | +247 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/eslint/eslint#2026-02-21</guid><pubDate>Sat, 21 Feb 2026 03:15:26 +0000</pubDate></item><item><title>#9 anthropics/claude-plugins-official (+75 stars)</title><link>https://github.com/anthropics/claude-plugins-official</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;anthropics/claude-plugins-official&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Official, Anthropic-managed directory of high quality Claude Code Plugins.&lt;/p&gt;
-&lt;p&gt;⭐ 7,901 | +75 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/anthropics/claude-plugins-official#2026-02-21</guid><pubDate>Sat, 21 Feb 2026 03:15:26 +0000</pubDate></item><item><title>#10 freemocap/freemocap (+497 stars)</title><link>https://github.com/freemocap/freemocap</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;freemocap/freemocap&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Free Motion Capture for Everyone 💀✨&lt;/p&gt;
-&lt;p&gt;⭐ 5,584 | +497 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/freemocap/freemocap#2026-02-21</guid><pubDate>Sat, 21 Feb 2026 03:15:26 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/huggingface/skills#2026-02-22</guid><pubDate>Sun, 22 Feb 2026 03:31:17 +0000</pubDate></item></channel></rss>
