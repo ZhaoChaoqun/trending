@@ -1,72 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sun, 22 Feb 2026 03:31:17 +0000</pubDate><lastBuildDate>Sun, 22 Feb 2026 03:31:17 +0000</lastBuildDate><item><title>#1 obra/superpowers (+772 stars)</title><link>https://github.com/obra/superpowers</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 57,088 | +772 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-02-22</guid><pubDate>Sun, 22 Feb 2026 03:31:17 +0000</pubDate></item><item><title>#2 vxcontrol/pentagi (+2,118 stars)</title><link>https://github.com/vxcontrol/pentagi</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;vxcontrol/pentagi&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks&lt;/p&gt;
-&lt;p&gt;⭐ 5,708 | +2,118 today | 🔧 Go&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/vxcontrol/pentagi#2026-02-22</guid><pubDate>Sun, 22 Feb 2026 03:31:17 +0000</pubDate></item><item><title>#3 anthropics/claude-code (+222 stars)</title><link>https://github.com/anthropics/claude-code</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Mon, 23 Feb 2026 03:35:16 +0000</pubDate><lastBuildDate>Mon, 23 Feb 2026 03:35:16 +0000</lastBuildDate><item><title>#1 anthropics/claude-code (+503 stars)</title><link>https://github.com/anthropics/claude-code</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;anthropics/claude-code&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.&lt;/p&gt;
-&lt;p&gt;⭐ 68,467 | +222 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 69,031 | +503 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/anthropics/claude-code#2026-02-22</guid><pubDate>Sun, 22 Feb 2026 03:31:17 +0000</pubDate></item><item><title>#4 Stremio/stremio-web (+301 stars)</title><link>https://github.com/Stremio/stremio-web</link><description>
+</description><guid isPermaLink="false">https://github.com/anthropics/claude-code#2026-02-23</guid><pubDate>Mon, 23 Feb 2026 03:35:16 +0000</pubDate></item><item><title>#2 x1xhlol/system-prompts-and-models-of-ai-tools (+1,134 stars)</title><link>https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Stremio/stremio-web&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Stremio - Freedom to Stream&lt;/p&gt;
-&lt;p&gt;⭐ 9,477 | +301 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;x1xhlol/system-prompts-and-models-of-ai-tools&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models&lt;/p&gt;
+&lt;p&gt;⭐ 118,015 | +1,134 today | 🔧 Unknown&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Stremio/stremio-web#2026-02-22</guid><pubDate>Sun, 22 Feb 2026 03:31:17 +0000</pubDate></item><item><title>#5 HandsOnLLM/Hands-On-Large-Language-Models (+355 stars)</title><link>https://github.com/HandsOnLLM/Hands-On-Large-Language-Models</link><description>
+</description><guid isPermaLink="false">https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools#2026-02-23</guid><pubDate>Mon, 23 Feb 2026 03:35:16 +0000</pubDate></item><item><title>#3 vxcontrol/pentagi (+1,579 stars)</title><link>https://github.com/vxcontrol/pentagi</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;HandsOnLLM/Hands-On-Large-Language-Models&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Official code repo for the O'Reilly Book - "Hands-On Large Language Models"&lt;/p&gt;
-&lt;p&gt;⭐ 22,604 | +355 today | 🔧 Jupyter Notebook&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;vxcontrol/pentagi&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks&lt;/p&gt;
+&lt;p&gt;⭐ 7,162 | +1,579 today | 🔧 Go&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/HandsOnLLM/Hands-On-Large-Language-Models#2026-02-22</guid><pubDate>Sun, 22 Feb 2026 03:31:17 +0000</pubDate></item><item><title>#6 hiddify/hiddify-app (+132 stars)</title><link>https://github.com/hiddify/hiddify-app</link><description>
+</description><guid isPermaLink="false">https://github.com/vxcontrol/pentagi#2026-02-23</guid><pubDate>Mon, 23 Feb 2026 03:35:16 +0000</pubDate></item><item><title>#4 OpenBB-finance/OpenBB (+188 stars)</title><link>https://github.com/OpenBB-finance/OpenBB</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;hiddify/hiddify-app&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.&lt;/p&gt;
-&lt;p&gt;⭐ 26,442 | +132 today | 🔧 Dart&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OpenBB-finance/OpenBB&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Financial data platform for analysts, quants and AI agents.&lt;/p&gt;
+&lt;p&gt;⭐ 61,034 | +188 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/hiddify/hiddify-app#2026-02-22</guid><pubDate>Sun, 22 Feb 2026 03:31:17 +0000</pubDate></item><item><title>#7 stan-smith/FossFLOW (+74 stars)</title><link>https://github.com/stan-smith/FossFLOW</link><description>
+</description><guid isPermaLink="false">https://github.com/OpenBB-finance/OpenBB#2026-02-23</guid><pubDate>Mon, 23 Feb 2026 03:35:16 +0000</pubDate></item><item><title>#5 stan-smith/FossFLOW (+340 stars)</title><link>https://github.com/stan-smith/FossFLOW</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;stan-smith/FossFLOW&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Make beautiful isometric infrastructure diagrams&lt;/p&gt;
-&lt;p&gt;⭐ 17,812 | +74 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+&lt;p&gt;⭐ 18,214 | +340 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/stan-smith/FossFLOW#2026-02-22</guid><pubDate>Sun, 22 Feb 2026 03:31:17 +0000</pubDate></item><item><title>#8 ggml-org/ggml (+47 stars)</title><link>https://github.com/ggml-org/ggml</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ggml-org/ggml&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Tensor library for machine learning&lt;/p&gt;
-&lt;p&gt;⭐ 14,074 | +47 today | 🔧 C++&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/ggml-org/ggml#2026-02-22</guid><pubDate>Sun, 22 Feb 2026 03:31:17 +0000</pubDate></item><item><title>#9 abhigyanpatwari/GitNexus (+132 stars)</title><link>https://github.com/abhigyanpatwari/GitNexus</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;abhigyanpatwari/GitNexus&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration&lt;/p&gt;
-&lt;p&gt;⭐ 1,087 | +132 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/abhigyanpatwari/GitNexus#2026-02-22</guid><pubDate>Sun, 22 Feb 2026 03:31:17 +0000</pubDate></item><item><title>#10 huggingface/skills (+247 stars)</title><link>https://github.com/huggingface/skills</link><description>
+</description><guid isPermaLink="false">https://github.com/stan-smith/FossFLOW#2026-02-23</guid><pubDate>Mon, 23 Feb 2026 03:35:16 +0000</pubDate></item><item><title>#6 huggingface/skills (+364 stars)</title><link>https://github.com/huggingface/skills</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;huggingface/skills&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;⭐ 1,718 | +247 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 2,793 | +364 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/huggingface/skills#2026-02-23</guid><pubDate>Mon, 23 Feb 2026 03:35:16 +0000</pubDate></item><item><title>#7 Stremio/stremio-web (+247 stars)</title><link>https://github.com/Stremio/stremio-web</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Stremio/stremio-web&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Stremio - Freedom to Stream&lt;/p&gt;
+&lt;p&gt;⭐ 9,740 | +247 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Stremio/stremio-web#2026-02-23</guid><pubDate>Mon, 23 Feb 2026 03:35:16 +0000</pubDate></item><item><title>#8 abhigyanpatwari/GitNexus (+424 stars)</title><link>https://github.com/abhigyanpatwari/GitNexus</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;abhigyanpatwari/GitNexus&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration&lt;/p&gt;
+&lt;p&gt;⭐ 1,562 | +424 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/abhigyanpatwari/GitNexus#2026-02-23</guid><pubDate>Mon, 23 Feb 2026 03:35:16 +0000</pubDate></item><item><title>#9 cloudflare/agents (+257 stars)</title><link>https://github.com/cloudflare/agents</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;cloudflare/agents&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Build and deploy AI Agents on Cloudflare&lt;/p&gt;
+&lt;p&gt;⭐ 3,772 | +257 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 6/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/huggingface/skills#2026-02-22</guid><pubDate>Sun, 22 Feb 2026 03:31:17 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/cloudflare/agents#2026-02-23</guid><pubDate>Mon, 23 Feb 2026 03:35:16 +0000</pubDate></item></channel></rss>
