@@ -1,0 +1,103 @@
+{
+  "date": "2026-02-25",
+  "updated_at": "2026-02-25 03:31:14",
+  "count": 12,
+  "rankings": [
+    {
+      "name": "OpenBB-finance/OpenBB",
+      "rank": 1,
+      "stars": "61,936",
+      "stars_today": "504",
+      "language": "Python",
+      "description": "Financial data platform for analysts, quants and AI agents."
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "rank": 2,
+      "stars": "123,207",
+      "stars_today": "3,804",
+      "language": null,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 3,
+      "stars": "60,621",
+      "stars_today": "1,195",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "huggingface/skills",
+      "rank": 4,
+      "stars": "5,522",
+      "stars_today": "1,206",
+      "language": "Python",
+      "description": ""
+    },
+    {
+      "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "rank": 5,
+      "stars": "10,058",
+      "stars_today": "722",
+      "language": "Python",
+      "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management."
+    },
+    {
+      "name": "LadybirdBrowser/ladybird",
+      "rank": 6,
+      "stars": "59,141",
+      "stars_today": "236",
+      "language": "C++",
+      "description": "Truly independent web browser"
+    },
+    {
+      "name": "D4Vinci/Scrapling",
+      "rank": 7,
+      "stars": "12,828",
+      "stars_today": "1,970",
+      "language": "Python",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!"
+    },
+    {
+      "name": "VectifyAI/PageIndex",
+      "rank": 8,
+      "stars": "17,303",
+      "stars_today": "714",
+      "language": "Python",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG"
+    },
+    {
+      "name": "GVCLab/PersonaLive",
+      "rank": 9,
+      "stars": "2,056",
+      "stars_today": "73",
+      "language": "Python",
+      "description": "[CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming"
+    },
+    {
+      "name": "HunxByts/GhostTrack",
+      "rank": 10,
+      "stars": "7,504",
+      "stars_today": "145",
+      "language": "Python",
+      "description": "Useful tool to track location or mobile number"
+    },
+    {
+      "name": "openemr/openemr",
+      "rank": 11,
+      "stars": "4,878",
+      "stars_today": "13",
+      "language": "PHP",
+      "description": "The most popular open source electronic health records and medical practice management solution."
+    },
+    {
+      "name": "ruvnet/ruvector",
+      "rank": 12,
+      "stars": "774",
+      "stars_today": "41",
+      "language": "Rust",
+      "description": "RuVector is a high performance vector and graph database built in Rust for AI, agentic systems, and real time analytics. It combines HNSW search, dynamic minimum cut coherence, graph intelligence, and self learning memory into one unified engine for scalable, low latency reasoning and structured retrieval."
+    }
+  ]
+}
