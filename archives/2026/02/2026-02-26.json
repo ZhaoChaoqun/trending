@@ -1,0 +1,135 @@
+{
+  "date": "2026-02-26",
+  "updated_at": "2026-02-26 03:28:14",
+  "count": 16,
+  "rankings": [
+    {
+      "name": "obra/superpowers",
+      "rank": 1,
+      "stars": "62,024",
+      "stars_today": "1,250",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "rank": 2,
+      "stars": "124,313",
+      "stars_today": "1,241",
+      "language": null,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+    },
+    {
+      "name": "D4Vinci/Scrapling",
+      "rank": 3,
+      "stars": "15,369",
+      "stars_today": "1,656",
+      "language": "Python",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!"
+    },
+    {
+      "name": "huggingface/skills",
+      "rank": 4,
+      "stars": "6,494",
+      "stars_today": "1,538",
+      "language": "Python",
+      "description": ""
+    },
+    {
+      "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "rank": 5,
+      "stars": "10,881",
+      "stars_today": "1,042",
+      "language": "Python",
+      "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management."
+    },
+    {
+      "name": "datawhalechina/hello-agents",
+      "rank": 6,
+      "stars": "22,108",
+      "stars_today": "222",
+      "language": "Python",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
+    },
+    {
+      "name": "VectifyAI/PageIndex",
+      "rank": 7,
+      "stars": "17,776",
+      "stars_today": "378",
+      "language": "Python",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG"
+    },
+    {
+      "name": "abhigyanpatwari/GitNexus",
+      "rank": 8,
+      "stars": "3,857",
+      "stars_today": "894",
+      "language": "TypeScript",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration"
+    },
+    {
+      "name": "bytedance/deer-flow",
+      "rank": 9,
+      "stars": "20,536",
+      "stars_today": "59",
+      "language": "TypeScript",
+      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours."
+    },
+    {
+      "name": "NevaMind-AI/memU",
+      "rank": 10,
+      "stars": "10,874",
+      "stars_today": "187",
+      "language": "Python",
+      "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot)."
+    },
+    {
+      "name": "ruvnet/ruvector",
+      "rank": 11,
+      "stars": "1,237",
+      "stars_today": "437",
+      "language": "Rust",
+      "description": "RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust."
+    },
+    {
+      "name": "shareAI-lab/learn-claude-code",
+      "rank": 12,
+      "stars": "18,047",
+      "stars_today": "175",
+      "language": "TypeScript",
+      "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1"
+    },
+    {
+      "name": "katanemo/plano",
+      "rank": 13,
+      "stars": "5,617",
+      "stars_today": "205",
+      "language": "Rust",
+      "description": "Delivery infrastructure for agentic apps - Plano is an AI-native proxy and data plane that offloads plumbing work, so you stay focused on your agent's core logic (via any AI framework)."
+    },
+    {
+      "name": "liyupi/ai-guide",
+      "rank": 14,
+      "stars": "7,786",
+      "stars_today": "182",
+      "language": "JavaScript",
+      "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站"
+    },
+    {
+      "name": "siteboon/claudecodeui",
+      "rank": 15,
+      "stars": "7,064",
+      "stars_today": "73",
+      "language": "TypeScript",
+      "description": "Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely"
+    },
+    {
+      "name": "NVIDIA/Megatron-LM",
+      "rank": 16,
+      "stars": "15,369",
+      "stars_today": "10",
+      "language": "Python",
+      "description": "Ongoing research training transformer models at scale"
+    }
+  ]
+}
