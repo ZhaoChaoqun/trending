@@ -1,0 +1,143 @@
+{
+  "date": "2026-03-01",
+  "updated_at": "2026-03-01 03:36:28",
+  "count": 17,
+  "rankings": [
+    {
+      "name": "anthropics/claude-code",
+      "rank": 1,
+      "stars": "71,897",
+      "stars_today": "699",
+      "language": "Shell",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "rank": 2,
+      "stars": "98,303",
+      "stars_today": "635",
+      "language": "Python",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
+    },
+    {
+      "name": "bytedance/deer-flow",
+      "rank": 3,
+      "stars": "22,647",
+      "stars_today": "899",
+      "language": "Python",
+      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours."
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 4,
+      "stars": "66,065",
+      "stars_today": "1,323",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "ruvnet/wifi-densepose",
+      "rank": 5,
+      "stars": "11,604",
+      "stars_today": "2,152",
+      "language": "Rust",
+      "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "rank": 6,
+      "stars": "19,420",
+      "stars_today": "1,065",
+      "language": "TypeScript",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "rank": 7,
+      "stars": "16,615",
+      "stars_today": "928",
+      "language": "TypeScript",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration"
+    },
+    {
+      "name": "moonshine-ai/moonshine",
+      "rank": 8,
+      "stars": "6,289",
+      "stars_today": "496",
+      "language": "C",
+      "description": "Fast and accurate automatic speech recognition (ASR) for edge devices"
+    },
+    {
+      "name": "Wei-Shaw/claude-relay-service",
+      "rank": 9,
+      "stars": "8,702",
+      "stars_today": "171",
+      "language": "JavaScript",
+      "description": "CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。"
+    },
+    {
+      "name": "superset-sh/superset",
+      "rank": 10,
+      "stars": "2,476",
+      "stars_today": "181",
+      "language": "TypeScript",
+      "description": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine"
+    },
+    {
+      "name": "alibaba/OpenSandbox",
+      "rank": 11,
+      "stars": "2,345",
+      "stars_today": "349",
+      "language": "Python",
+      "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training."
+    },
+    {
+      "name": "tukaani-project/xz",
+      "rank": 12,
+      "stars": "1,237",
+      "stars_today": "107",
+      "language": "C",
+      "description": "XZ Utils"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "rank": 13,
+      "stars": "1,152",
+      "stars_today": "182",
+      "language": "Python",
+      "description": ""
+    },
+    {
+      "name": "PaddlePaddle/Paddle",
+      "rank": 14,
+      "stars": "23,704",
+      "stars_today": "10",
+      "language": "C++",
+      "description": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）"
+    },
+    {
+      "name": "datagouv/datagouv-mcp",
+      "rank": 15,
+      "stars": "670",
+      "stars_today": "115",
+      "language": "Python",
+      "description": "Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation."
+    },
+    {
+      "name": "Wei-Shaw/sub2api",
+      "rank": 16,
+      "stars": "2,414",
+      "stars_today": "98",
+      "language": "Go",
+      "description": "Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。"
+    },
+    {
+      "name": "X-PLUG/MobileAgent",
+      "rank": 17,
+      "stars": "7,537",
+      "stars_today": "45",
+      "language": "Python",
+      "description": "Mobile-Agent: The Powerful GUI Agent Family"
+    }
+  ]
+}
