@@ -1,0 +1,79 @@
+{
+  "date": "2026-03-03",
+  "updated_at": "2026-03-03 03:29:04",
+  "count": 9,
+  "rankings": [
+    {
+      "name": "ruvnet/RuView",
+      "rank": 1,
+      "stars": "22,503",
+      "stars_today": "5,096",
+      "language": "Rust",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video."
+    },
+    {
+      "name": "moeru-ai/airi",
+      "rank": 2,
+      "stars": "21,528",
+      "stars_today": "1,412",
+      "language": "TypeScript",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
+    },
+    {
+      "name": "microsoft/markitdown",
+      "rank": 3,
+      "stars": "89,694",
+      "stars_today": "648",
+      "language": "Python",
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "name": "anthropics/prompt-eng-interactive-tutorial",
+      "rank": 4,
+      "stars": "31,712",
+      "stars_today": "526",
+      "language": "Jupyter Notebook",
+      "description": "Anthropic's Interactive Prompt Engineering Tutorial"
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "rank": 5,
+      "stars": "18,147",
+      "stars_today": "830",
+      "language": "TypeScript",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration"
+    },
+    {
+      "name": "alibaba/OpenSandbox",
+      "rank": 6,
+      "stars": "4,472",
+      "stars_today": "1,026",
+      "language": "Python",
+      "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training."
+    },
+    {
+      "name": "K-Dense-AI/claude-scientific-skills",
+      "rank": 7,
+      "stars": "11,183",
+      "stars_today": "820",
+      "language": "Python",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing."
+    },
+    {
+      "name": "superset-sh/superset",
+      "rank": 8,
+      "stars": "3,584",
+      "stars_today": "585",
+      "language": "TypeScript",
+      "description": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine"
+    },
+    {
+      "name": "servo/servo",
+      "rank": 9,
+      "stars": "35,783",
+      "stars_today": "45",
+      "language": "Rust",
+      "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications."
+    }
+  ]
+}
