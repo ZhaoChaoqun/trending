@@ -1,0 +1,87 @@
+{
+  "date": "2026-03-04",
+  "updated_at": "2026-03-04 03:20:12",
+  "count": 10,
+  "rankings": [
+    {
+      "name": "ruvnet/RuView",
+      "rank": 1,
+      "stars": "25,614",
+      "stars_today": "4,419",
+      "language": "Rust",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video."
+    },
+    {
+      "name": "moeru-ai/airi",
+      "rank": 2,
+      "stars": "22,284",
+      "stars_today": "832",
+      "language": "TypeScript",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
+    },
+    {
+      "name": "K-Dense-AI/claude-scientific-skills",
+      "rank": 3,
+      "stars": "12,064",
+      "stars_today": "798",
+      "language": "Python",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing."
+    },
+    {
+      "name": "superset-sh/superset",
+      "rank": 4,
+      "stars": "4,265",
+      "stars_today": "632",
+      "language": "TypeScript",
+      "description": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine"
+    },
+    {
+      "name": "alibaba/OpenSandbox",
+      "rank": 5,
+      "stars": "5,470",
+      "stars_today": "1,150",
+      "language": "Python",
+      "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training."
+    },
+    {
+      "name": "agentscope-ai/agentscope",
+      "rank": 6,
+      "stars": "17,093",
+      "stars_today": "112",
+      "language": "Python",
+      "description": "Build and run agents you can see, understand and trust."
+    },
+    {
+      "name": "LMCache/LMCache",
+      "rank": 7,
+      "stars": "7,431",
+      "stars_today": "135",
+      "language": "Python",
+      "description": "Supercharge Your LLM with the Fastest KV Cache Layer"
+    },
+    {
+      "name": "CodebuffAI/codebuff",
+      "rank": 8,
+      "stars": "3,316",
+      "stars_today": "126",
+      "language": "TypeScript",
+      "description": "Generate code from the terminal!"
+    },
+    {
+      "name": "agentscope-ai/ReMe",
+      "rank": 9,
+      "stars": "1,345",
+      "stars_today": "49",
+      "language": "Python",
+      "description": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me."
+    },
+    {
+      "name": "aquasecurity/trivy",
+      "rank": 10,
+      "stars": "581",
+      "stars_today": "164",
+      "language": "Go",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
+    }
+  ]
+}
