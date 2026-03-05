@@ -1,0 +1,103 @@
+{
+  "date": "2026-03-05",
+  "updated_at": "2026-03-05 03:24:25",
+  "count": 12,
+  "rankings": [
+    {
+      "name": "KeygraphHQ/shannon",
+      "rank": 1,
+      "stars": "30,630",
+      "stars_today": "1,854",
+      "language": "TypeScript",
+      "description": "Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark."
+    },
+    {
+      "name": "moeru-ai/airi",
+      "rank": 2,
+      "stars": "25,162",
+      "stars_today": "1,454",
+      "language": "TypeScript",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "rank": 3,
+      "stars": "5,631",
+      "stars_today": "2,209",
+      "language": null,
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "name": "K-Dense-AI/claude-scientific-skills",
+      "rank": 4,
+      "stars": "12,814",
+      "stars_today": "940",
+      "language": "Python",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing."
+    },
+    {
+      "name": "alibaba/OpenSandbox",
+      "rank": 5,
+      "stars": "6,049",
+      "stars_today": "788",
+      "language": "Python",
+      "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training."
+    },
+    {
+      "name": "ItzCrazyKns/Perplexica",
+      "rank": 6,
+      "stars": "30,924",
+      "stars_today": "1,090",
+      "language": "TypeScript",
+      "description": "Perplexica is an AI-powered answering engine."
+    },
+    {
+      "name": "agentscope-ai/agentscope",
+      "rank": 7,
+      "stars": "17,437",
+      "stars_today": "427",
+      "language": "Python",
+      "description": "Build and run agents you can see, understand and trust."
+    },
+    {
+      "name": "FlowiseAI/Flowise",
+      "rank": 8,
+      "stars": "50,144",
+      "stars_today": "145",
+      "language": "TypeScript",
+      "description": "Build AI Agents, Visually"
+    },
+    {
+      "name": "CodebuffAI/codebuff",
+      "rank": 9,
+      "stars": "3,598",
+      "stars_today": "337",
+      "language": "TypeScript",
+      "description": "Generate code from the terminal!"
+    },
+    {
+      "name": "FujiwaraChoki/MoneyPrinterV2",
+      "rank": 10,
+      "stars": "14,274",
+      "stars_today": "143",
+      "language": "Python",
+      "description": "Automate the process of making money online."
+    },
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "rank": 11,
+      "stars": "20,781",
+      "stars_today": "89",
+      "language": "Rust",
+      "description": "A high-performance algorithmic trading platform and event-driven backtester"
+    },
+    {
+      "name": "aquasecurity/trivy",
+      "rank": 12,
+      "stars": "890",
+      "stars_today": "380",
+      "language": "Go",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
+    }
+  ]
+}
