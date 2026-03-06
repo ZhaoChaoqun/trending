@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Thu, 05 Mar 2026 03:24:25 +0000</pubDate><lastBuildDate>Thu, 05 Mar 2026 03:24:25 +0000</lastBuildDate><item><title>#1 KeygraphHQ/shannon (+1,854 stars)</title><link>https://github.com/KeygraphHQ/shannon</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 06 Mar 2026 03:22:57 +0000</pubDate><lastBuildDate>Fri, 06 Mar 2026 03:22:57 +0000</lastBuildDate><item><title>#1 KeygraphHQ/shannon (+2,930 stars)</title><link>https://github.com/KeygraphHQ/shannon</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;KeygraphHQ/shannon&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.&lt;/p&gt;
-&lt;p&gt;⭐ 30,630 | +1,854 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 31,883 | +2,930 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/KeygraphHQ/shannon#2026-03-05</guid><pubDate>Thu, 05 Mar 2026 03:24:25 +0000</pubDate></item><item><title>#2 moeru-ai/airi (+1,454 stars)</title><link>https://github.com/moeru-ai/airi</link><description>
+</description><guid isPermaLink="false">https://github.com/KeygraphHQ/shannon#2026-03-06</guid><pubDate>Fri, 06 Mar 2026 03:22:57 +0000</pubDate></item><item><title>#2 moeru-ai/airi (+3,006 stars)</title><link>https://github.com/moeru-ai/airi</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;moeru-ai/airi&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.&lt;/p&gt;
-&lt;p&gt;⭐ 25,162 | +1,454 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 27,687 | +3,006 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/moeru-ai/airi#2026-03-05</guid><pubDate>Thu, 05 Mar 2026 03:24:25 +0000</pubDate></item><item><title>#3 msitarzewski/agency-agents (+2,209 stars)</title><link>https://github.com/msitarzewski/agency-agents</link><description>
+</description><guid isPermaLink="false">https://github.com/moeru-ai/airi#2026-03-06</guid><pubDate>Fri, 06 Mar 2026 03:22:57 +0000</pubDate></item><item><title>#3 msitarzewski/agency-agents (+1,468 stars)</title><link>https://github.com/msitarzewski/agency-agents</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;msitarzewski/agency-agents&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.&lt;/p&gt;
-&lt;p&gt;⭐ 5,631 | +2,209 today | 🔧 Unknown&lt;/p&gt;
+&lt;p&gt;⭐ 7,898 | +1,468 today | 🔧 Unknown&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/msitarzewski/agency-agents#2026-03-05</guid><pubDate>Thu, 05 Mar 2026 03:24:25 +0000</pubDate></item><item><title>#4 K-Dense-AI/claude-scientific-skills (+940 stars)</title><link>https://github.com/K-Dense-AI/claude-scientific-skills</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;K-Dense-AI/claude-scientific-skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.&lt;/p&gt;
-&lt;p&gt;⭐ 12,814 | +940 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/K-Dense-AI/claude-scientific-skills#2026-03-05</guid><pubDate>Thu, 05 Mar 2026 03:24:25 +0000</pubDate></item><item><title>#5 alibaba/OpenSandbox (+788 stars)</title><link>https://github.com/alibaba/OpenSandbox</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;alibaba/OpenSandbox&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.&lt;/p&gt;
-&lt;p&gt;⭐ 6,049 | +788 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/alibaba/OpenSandbox#2026-03-05</guid><pubDate>Thu, 05 Mar 2026 03:24:25 +0000</pubDate></item><item><title>#6 ItzCrazyKns/Perplexica (+1,090 stars)</title><link>https://github.com/ItzCrazyKns/Perplexica</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ItzCrazyKns/Perplexica&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Perplexica is an AI-powered answering engine.&lt;/p&gt;
-&lt;p&gt;⭐ 30,924 | +1,090 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/ItzCrazyKns/Perplexica#2026-03-05</guid><pubDate>Thu, 05 Mar 2026 03:24:25 +0000</pubDate></item><item><title>#7 agentscope-ai/agentscope (+427 stars)</title><link>https://github.com/agentscope-ai/agentscope</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;agentscope-ai/agentscope&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Build and run agents you can see, understand and trust.&lt;/p&gt;
-&lt;p&gt;⭐ 17,437 | +427 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/agentscope-ai/agentscope#2026-03-05</guid><pubDate>Thu, 05 Mar 2026 03:24:25 +0000</pubDate></item><item><title>#8 FlowiseAI/Flowise (+145 stars)</title><link>https://github.com/FlowiseAI/Flowise</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;FlowiseAI/Flowise&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Build AI Agents, Visually&lt;/p&gt;
-&lt;p&gt;⭐ 50,144 | +145 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/FlowiseAI/Flowise#2026-03-05</guid><pubDate>Thu, 05 Mar 2026 03:24:25 +0000</pubDate></item><item><title>#9 CodebuffAI/codebuff (+337 stars)</title><link>https://github.com/CodebuffAI/codebuff</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;CodebuffAI/codebuff&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Generate code from the terminal!&lt;/p&gt;
-&lt;p&gt;⭐ 3,598 | +337 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/CodebuffAI/codebuff#2026-03-05</guid><pubDate>Thu, 05 Mar 2026 03:24:25 +0000</pubDate></item><item><title>#10 FujiwaraChoki/MoneyPrinterV2 (+143 stars)</title><link>https://github.com/FujiwaraChoki/MoneyPrinterV2</link><description>
+</description><guid isPermaLink="false">https://github.com/msitarzewski/agency-agents#2026-03-06</guid><pubDate>Fri, 06 Mar 2026 03:22:57 +0000</pubDate></item><item><title>#4 FujiwaraChoki/MoneyPrinterV2 (+511 stars)</title><link>https://github.com/FujiwaraChoki/MoneyPrinterV2</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;FujiwaraChoki/MoneyPrinterV2&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Automate the process of making money online.&lt;/p&gt;
-&lt;p&gt;⭐ 14,274 | +143 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 14,746 | +511 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/FujiwaraChoki/MoneyPrinterV2#2026-03-06</guid><pubDate>Fri, 06 Mar 2026 03:22:57 +0000</pubDate></item><item><title>#5 TheCraigHewitt/seomachine (+310 stars)</title><link>https://github.com/TheCraigHewitt/seomachine</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;TheCraigHewitt/seomachine&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.&lt;/p&gt;
+&lt;p&gt;⭐ 1,717 | +310 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/FujiwaraChoki/MoneyPrinterV2#2026-03-05</guid><pubDate>Thu, 05 Mar 2026 03:24:25 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/TheCraigHewitt/seomachine#2026-03-06</guid><pubDate>Fri, 06 Mar 2026 03:22:57 +0000</pubDate></item><item><title>#6 aquasecurity/trivy (+298 stars)</title><link>https://github.com/aquasecurity/trivy</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;aquasecurity/trivy&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more&lt;/p&gt;
+&lt;p&gt;⭐ 32,903 | +298 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/aquasecurity/trivy#2026-03-06</guid><pubDate>Fri, 06 Mar 2026 03:22:57 +0000</pubDate></item><item><title>#7 microsoft/mcp-for-beginners (+137 stars)</title><link>https://github.com/microsoft/mcp-for-beginners</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;microsoft/mcp-for-beginners&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.&lt;/p&gt;
+&lt;p&gt;⭐ 14,965 | +137 today | 🔧 Jupyter Notebook&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/microsoft/mcp-for-beginners#2026-03-06</guid><pubDate>Fri, 06 Mar 2026 03:22:57 +0000</pubDate></item><item><title>#8 inclusionAI/AReaL (+173 stars)</title><link>https://github.com/inclusionAI/AReaL</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;inclusionAI/AReaL&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Lightning-Fast RL for LLM Reasoning and Agents. Made Simple &amp; Flexible.&lt;/p&gt;
+&lt;p&gt;⭐ 4,145 | +173 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/inclusionAI/AReaL#2026-03-06</guid><pubDate>Fri, 06 Mar 2026 03:22:57 +0000</pubDate></item><item><title>#9 CodebuffAI/codebuff (+275 stars)</title><link>https://github.com/CodebuffAI/codebuff</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;CodebuffAI/codebuff&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Generate code from the terminal!&lt;/p&gt;
+&lt;p&gt;⭐ 3,895 | +275 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/CodebuffAI/codebuff#2026-03-06</guid><pubDate>Fri, 06 Mar 2026 03:22:57 +0000</pubDate></item><item><title>#10 agentscope-ai/ReMe (+194 stars)</title><link>https://github.com/agentscope-ai/ReMe</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;agentscope-ai/ReMe&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.&lt;/p&gt;
+&lt;p&gt;⭐ 1,854 | +194 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/agentscope-ai/ReMe#2026-03-06</guid><pubDate>Fri, 06 Mar 2026 03:22:57 +0000</pubDate></item></channel></rss>

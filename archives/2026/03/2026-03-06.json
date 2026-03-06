@@ -1,0 +1,95 @@
+{
+  "date": "2026-03-06",
+  "updated_at": "2026-03-06 03:22:57",
+  "count": 11,
+  "rankings": [
+    {
+      "name": "KeygraphHQ/shannon",
+      "rank": 1,
+      "stars": "31,883",
+      "stars_today": "2,930",
+      "language": "TypeScript",
+      "description": "Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark."
+    },
+    {
+      "name": "moeru-ai/airi",
+      "rank": 2,
+      "stars": "27,687",
+      "stars_today": "3,006",
+      "language": "TypeScript",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "rank": 3,
+      "stars": "7,898",
+      "stars_today": "1,468",
+      "language": null,
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "name": "FujiwaraChoki/MoneyPrinterV2",
+      "rank": 4,
+      "stars": "14,746",
+      "stars_today": "511",
+      "language": "Python",
+      "description": "Automate the process of making money online."
+    },
+    {
+      "name": "TheCraigHewitt/seomachine",
+      "rank": 5,
+      "stars": "1,717",
+      "stars_today": "310",
+      "language": "Python",
+      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience."
+    },
+    {
+      "name": "aquasecurity/trivy",
+      "rank": 6,
+      "stars": "32,903",
+      "stars_today": "298",
+      "language": "Go",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
+    },
+    {
+      "name": "microsoft/mcp-for-beginners",
+      "rank": 7,
+      "stars": "14,965",
+      "stars_today": "137",
+      "language": "Jupyter Notebook",
+      "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration."
+    },
+    {
+      "name": "inclusionAI/AReaL",
+      "rank": 8,
+      "stars": "4,145",
+      "stars_today": "173",
+      "language": "Python",
+      "description": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible."
+    },
+    {
+      "name": "CodebuffAI/codebuff",
+      "rank": 9,
+      "stars": "3,895",
+      "stars_today": "275",
+      "language": "TypeScript",
+      "description": "Generate code from the terminal!"
+    },
+    {
+      "name": "agentscope-ai/ReMe",
+      "rank": 10,
+      "stars": "1,854",
+      "stars_today": "194",
+      "language": "Python",
+      "description": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me."
+    },
+    {
+      "name": "microsoft/hve-core",
+      "rank": 11,
+      "stars": "331",
+      "stars_today": "11",
+      "language": "PowerShell",
+      "description": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots"
+    }
+  ]
+}
