@@ -1,0 +1,95 @@
+{
+  "date": "2026-03-07",
+  "updated_at": "2026-03-07 03:09:41",
+  "count": 11,
+  "rankings": [
+    {
+      "name": "moeru-ai/airi",
+      "rank": 1,
+      "stars": "29,649",
+      "stars_today": "2,562",
+      "language": "TypeScript",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
+    },
+    {
+      "name": "QwenLM/Qwen-Agent",
+      "rank": 2,
+      "stars": "14,687",
+      "stars_today": "696",
+      "language": "Python",
+      "description": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc."
+    },
+    {
+      "name": "openai/skills",
+      "rank": 3,
+      "stars": "12,070",
+      "stars_today": "595",
+      "language": "Python",
+      "description": "Skills Catalog for Codex"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "rank": 4,
+      "stars": "9,951",
+      "stars_today": "2,846",
+      "language": null,
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "name": "inclusionAI/AReaL",
+      "rank": 5,
+      "stars": "4,418",
+      "stars_today": "347",
+      "language": "Python",
+      "description": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible."
+    },
+    {
+      "name": "TheCraigHewitt/seomachine",
+      "rank": 6,
+      "stars": "2,188",
+      "stars_today": "690",
+      "language": "Python",
+      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience."
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "rank": 7,
+      "stars": "46,350",
+      "stars_today": "81",
+      "language": "Python",
+      "description": "An AI Hedge Fund Team"
+    },
+    {
+      "name": "aidenybai/react-grab",
+      "rank": 8,
+      "stars": "6,035",
+      "stars_today": "450",
+      "language": "TypeScript",
+      "description": "Select context for coding agents directly from your website"
+    },
+    {
+      "name": "microsoft/hve-core",
+      "rank": 9,
+      "stars": "565",
+      "stars_today": "273",
+      "language": "PowerShell",
+      "description": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots"
+    },
+    {
+      "name": "Ed1s0nZ/CyberStrikeAI",
+      "rank": 10,
+      "stars": "1,654",
+      "stars_today": "106",
+      "language": "Go",
+      "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities."
+    },
+    {
+      "name": "lingfengQAQ/webnovel-writer",
+      "rank": 11,
+      "stars": "808",
+      "stars_today": "90",
+      "language": "Python",
+      "description": "基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。"
+    }
+  ]
+}
