@@ -1,0 +1,103 @@
+{
+  "date": "2026-03-09",
+  "updated_at": "2026-03-09 03:29:33",
+  "count": 12,
+  "rankings": [
+    {
+      "name": "openclaw/openclaw",
+      "rank": 1,
+      "stars": "282,529",
+      "stars_today": "4,603",
+      "language": "TypeScript",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞"
+    },
+    {
+      "name": "toeverything/AFFiNE",
+      "rank": 2,
+      "stars": "65,294",
+      "stars_today": "533",
+      "language": "TypeScript",
+      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use."
+    },
+    {
+      "name": "shareAI-lab/learn-claude-code",
+      "rank": 3,
+      "stars": "24,031",
+      "stars_today": "566",
+      "language": "TypeScript",
+      "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1"
+    },
+    {
+      "name": "GoogleCloudPlatform/generative-ai",
+      "rank": 4,
+      "stars": "14,556",
+      "stars_today": "522",
+      "language": "Jupyter Notebook",
+      "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI"
+    },
+    {
+      "name": "666ghj/MiroFish",
+      "rank": 5,
+      "stars": "7,471",
+      "stars_today": "1,104",
+      "language": "Python",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
+    },
+    {
+      "name": "shadcn-ui/ui",
+      "rank": 6,
+      "stars": "108,775",
+      "stars_today": "488",
+      "language": "TypeScript",
+      "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code."
+    },
+    {
+      "name": "openai/skills",
+      "rank": 7,
+      "stars": "13,327",
+      "stars_today": "612",
+      "language": "Python",
+      "description": "Skills Catalog for Codex"
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "rank": 8,
+      "stars": "46,866",
+      "stars_today": "275",
+      "language": "Python",
+      "description": "An AI Hedge Fund Team"
+    },
+    {
+      "name": "Ed1s0nZ/CyberStrikeAI",
+      "rank": 9,
+      "stars": "2,324",
+      "stars_today": "244",
+      "language": "Go",
+      "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities."
+    },
+    {
+      "name": "is-a-dev/register",
+      "rank": 10,
+      "stars": "9,826",
+      "stars_today": "10",
+      "language": "JavaScript",
+      "description": "Grab your own sweet-looking '.is-a.dev' subdomain."
+    },
+    {
+      "name": "teng-lin/notebooklm-py",
+      "rank": 11,
+      "stars": "3,790",
+      "stars_today": "196",
+      "language": "Python",
+      "description": "Unofficial Python API for Google NotebookLM"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "rank": 12,
+      "stars": "1,942",
+      "stars_today": "443",
+      "language": "JavaScript",
+      "description": "The design language that makes your AI harness better at design."
+    }
+  ]
+}

@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sun, 08 Mar 2026 03:26:03 +0000</pubDate><lastBuildDate>Sun, 08 Mar 2026 03:26:03 +0000</lastBuildDate><item><title>#1 openai/skills (+948 stars)</title><link>https://github.com/openai/skills</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Mon, 09 Mar 2026 03:29:33 +0000</pubDate><lastBuildDate>Mon, 09 Mar 2026 03:29:33 +0000</lastBuildDate><item><title>#1 openclaw/openclaw (+4,603 stars)</title><link>https://github.com/openclaw/openclaw</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;openai/skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Skills Catalog for Codex&lt;/p&gt;
-&lt;p&gt;⭐ 12,765 | +948 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;openclaw/openclaw&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞&lt;/p&gt;
+&lt;p&gt;⭐ 282,529 | +4,603 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/openai/skills#2026-03-08</guid><pubDate>Sun, 08 Mar 2026 03:26:03 +0000</pubDate></item><item><title>#2 msitarzewski/agency-agents (+1,468 stars)</title><link>https://github.com/msitarzewski/agency-agents</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;msitarzewski/agency-agents&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.&lt;/p&gt;
-&lt;p&gt;⭐ 10,853 | +1,468 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/msitarzewski/agency-agents#2026-03-08</guid><pubDate>Sun, 08 Mar 2026 03:26:03 +0000</pubDate></item><item><title>#3 GoogleCloudPlatform/generative-ai (+384 stars)</title><link>https://github.com/GoogleCloudPlatform/generative-ai</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;GoogleCloudPlatform/generative-ai&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI&lt;/p&gt;
-&lt;p&gt;⭐ 13,593 | +384 today | 🔧 Jupyter Notebook&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/GoogleCloudPlatform/generative-ai#2026-03-08</guid><pubDate>Sun, 08 Mar 2026 03:26:03 +0000</pubDate></item><item><title>#4 QwenLM/Qwen-Agent (+586 stars)</title><link>https://github.com/QwenLM/Qwen-Agent</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;QwenLM/Qwen-Agent&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Agent framework and applications built upon Qwen&gt;=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.&lt;/p&gt;
-&lt;p&gt;⭐ 15,057 | +586 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/QwenLM/Qwen-Agent#2026-03-08</guid><pubDate>Sun, 08 Mar 2026 03:26:03 +0000</pubDate></item><item><title>#5 virattt/ai-hedge-fund (+248 stars)</title><link>https://github.com/virattt/ai-hedge-fund</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;virattt/ai-hedge-fund&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An AI Hedge Fund Team&lt;/p&gt;
-&lt;p&gt;⭐ 46,600 | +248 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/virattt/ai-hedge-fund#2026-03-08</guid><pubDate>Sun, 08 Mar 2026 03:26:03 +0000</pubDate></item><item><title>#6 toeverything/AFFiNE (+281 stars)</title><link>https://github.com/toeverything/AFFiNE</link><description>
+</description><guid isPermaLink="false">https://github.com/openclaw/openclaw#2026-03-09</guid><pubDate>Mon, 09 Mar 2026 03:29:33 +0000</pubDate></item><item><title>#2 toeverything/AFFiNE (+533 stars)</title><link>https://github.com/toeverything/AFFiNE</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;toeverything/AFFiNE&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.&lt;/p&gt;
-&lt;p&gt;⭐ 64,738 | +281 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 65,294 | +533 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/toeverything/AFFiNE#2026-03-08</guid><pubDate>Sun, 08 Mar 2026 03:26:03 +0000</pubDate></item><item><title>#7 shadcn-ui/ui (+129 stars)</title><link>https://github.com/shadcn-ui/ui</link><description>
+</description><guid isPermaLink="false">https://github.com/toeverything/AFFiNE#2026-03-09</guid><pubDate>Mon, 09 Mar 2026 03:29:33 +0000</pubDate></item><item><title>#3 shareAI-lab/learn-claude-code (+566 stars)</title><link>https://github.com/shareAI-lab/learn-claude-code</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;shadcn-ui/ui&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.&lt;/p&gt;
-&lt;p&gt;⭐ 108,222 | +129 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;shareAI-lab/learn-claude-code&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bash is all you need - A nano Claude Code–like agent, built from 0 to 1&lt;/p&gt;
+&lt;p&gt;⭐ 24,031 | +566 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/shareAI-lab/learn-claude-code#2026-03-09</guid><pubDate>Mon, 09 Mar 2026 03:29:33 +0000</pubDate></item><item><title>#4 GoogleCloudPlatform/generative-ai (+522 stars)</title><link>https://github.com/GoogleCloudPlatform/generative-ai</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;GoogleCloudPlatform/generative-ai&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI&lt;/p&gt;
+&lt;p&gt;⭐ 14,556 | +522 today | 🔧 Jupyter Notebook&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/shadcn-ui/ui#2026-03-08</guid><pubDate>Sun, 08 Mar 2026 03:26:03 +0000</pubDate></item><item><title>#8 666ghj/MiroFish (+399 stars)</title><link>https://github.com/666ghj/MiroFish</link><description>
+</description><guid isPermaLink="false">https://github.com/GoogleCloudPlatform/generative-ai#2026-03-09</guid><pubDate>Mon, 09 Mar 2026 03:29:33 +0000</pubDate></item><item><title>#5 666ghj/MiroFish (+1,104 stars)</title><link>https://github.com/666ghj/MiroFish</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;666ghj/MiroFish&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物&lt;/p&gt;
-&lt;p&gt;⭐ 5,769 | +399 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 7,471 | +1,104 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/666ghj/MiroFish#2026-03-09</guid><pubDate>Mon, 09 Mar 2026 03:29:33 +0000</pubDate></item><item><title>#6 shadcn-ui/ui (+488 stars)</title><link>https://github.com/shadcn-ui/ui</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;shadcn-ui/ui&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.&lt;/p&gt;
+&lt;p&gt;⭐ 108,775 | +488 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/shadcn-ui/ui#2026-03-09</guid><pubDate>Mon, 09 Mar 2026 03:29:33 +0000</pubDate></item><item><title>#7 openai/skills (+612 stars)</title><link>https://github.com/openai/skills</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;openai/skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Skills Catalog for Codex&lt;/p&gt;
+&lt;p&gt;⭐ 13,327 | +612 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/openai/skills#2026-03-09</guid><pubDate>Mon, 09 Mar 2026 03:29:33 +0000</pubDate></item><item><title>#8 virattt/ai-hedge-fund (+275 stars)</title><link>https://github.com/virattt/ai-hedge-fund</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;virattt/ai-hedge-fund&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An AI Hedge Fund Team&lt;/p&gt;
+&lt;p&gt;⭐ 46,866 | +275 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/virattt/ai-hedge-fund#2026-03-09</guid><pubDate>Mon, 09 Mar 2026 03:29:33 +0000</pubDate></item><item><title>#9 Ed1s0nZ/CyberStrikeAI (+244 stars)</title><link>https://github.com/Ed1s0nZ/CyberStrikeAI</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Ed1s0nZ/CyberStrikeAI&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.&lt;/p&gt;
+&lt;p&gt;⭐ 2,324 | +244 today | 🔧 Go&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/666ghj/MiroFish#2026-03-08</guid><pubDate>Sun, 08 Mar 2026 03:26:03 +0000</pubDate></item><item><title>#9 agentjido/jido (+115 stars)</title><link>https://github.com/agentjido/jido</link><description>
+</description><guid isPermaLink="false">https://github.com/Ed1s0nZ/CyberStrikeAI#2026-03-09</guid><pubDate>Mon, 09 Mar 2026 03:29:33 +0000</pubDate></item><item><title>#10 is-a-dev/register (+10 stars)</title><link>https://github.com/is-a-dev/register</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;agentjido/jido&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.&lt;/p&gt;
-&lt;p&gt;⭐ 1,439 | +115 today | 🔧 Elixir&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;is-a-dev/register&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Grab your own sweet-looking '.is-a.dev' subdomain.&lt;/p&gt;
+&lt;p&gt;⭐ 9,826 | +10 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 6/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/agentjido/jido#2026-03-08</guid><pubDate>Sun, 08 Mar 2026 03:26:03 +0000</pubDate></item><item><title>#10 microsoft/hve-core (+217 stars)</title><link>https://github.com/microsoft/hve-core</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;microsoft/hve-core&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of all Copilots&lt;/p&gt;
-&lt;p&gt;⭐ 763 | +217 today | 🔧 PowerShell&lt;/p&gt;
-&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/microsoft/hve-core#2026-03-08</guid><pubDate>Sun, 08 Mar 2026 03:26:03 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/is-a-dev/register#2026-03-09</guid><pubDate>Mon, 09 Mar 2026 03:29:33 +0000</pubDate></item></channel></rss>
