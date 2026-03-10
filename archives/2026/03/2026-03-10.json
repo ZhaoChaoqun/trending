@@ -1,0 +1,103 @@
+{
+  "date": "2026-03-10",
+  "updated_at": "2026-03-10 03:21:48",
+  "count": 12,
+  "rankings": [
+    {
+      "name": "openclaw/openclaw",
+      "rank": 1,
+      "stars": "291,660",
+      "stars_today": "9,164",
+      "language": "TypeScript",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞"
+    },
+    {
+      "name": "666ghj/BettaFish",
+      "rank": 2,
+      "stars": "37,476",
+      "stars_today": "514",
+      "language": "Python",
+      "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。"
+    },
+    {
+      "name": "GoogleCloudPlatform/generative-ai",
+      "rank": 3,
+      "stars": "15,354",
+      "stars_today": "1,282",
+      "language": "Jupyter Notebook",
+      "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI"
+    },
+    {
+      "name": "666ghj/MiroFish",
+      "rank": 4,
+      "stars": "11,487",
+      "stars_today": "2,294",
+      "language": "Python",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
+    },
+    {
+      "name": "karpathy/nanochat",
+      "rank": 5,
+      "stars": "45,615",
+      "stars_today": "355",
+      "language": "Python",
+      "description": "The best ChatGPT that $100 can buy."
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "rank": 6,
+      "stars": "19,851",
+      "stars_today": "4,415",
+      "language": "Shell",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "name": "Raphire/Win11Debloat",
+      "rank": 7,
+      "stars": "41,285",
+      "stars_today": "104",
+      "language": "PowerShell",
+      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11."
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "rank": 8,
+      "stars": "3,043",
+      "stars_today": "377",
+      "language": "Python",
+      "description": "The agent that grows with you"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "rank": 9,
+      "stars": "3,078",
+      "stars_today": "1,288",
+      "language": "JavaScript",
+      "description": "The design language that makes your AI harness better at design."
+    },
+    {
+      "name": "alibaba/page-agent",
+      "rank": 10,
+      "stars": "2,719",
+      "stars_today": "465",
+      "language": "TypeScript",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language."
+    },
+    {
+      "name": "alirezarezvani/claude-skills",
+      "rank": 11,
+      "stars": "3,472",
+      "stars_today": "259",
+      "language": "Python",
+      "description": "169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace."
+    },
+    {
+      "name": "teng-lin/notebooklm-py",
+      "rank": 12,
+      "stars": "4,314",
+      "stars_today": "457",
+      "language": "Python",
+      "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw."
+    }
+  ]
+}
