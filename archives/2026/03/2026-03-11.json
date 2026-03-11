@@ -1,0 +1,111 @@
+{
+  "date": "2026-03-11",
+  "updated_at": "2026-03-11 03:20:28",
+  "count": 13,
+  "rankings": [
+    {
+      "name": "msitarzewski/agency-agents",
+      "rank": 1,
+      "stars": "26,000",
+      "stars_today": "6,223",
+      "language": "Shell",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "name": "karpathy/nanochat",
+      "rank": 2,
+      "stars": "46,304",
+      "stars_today": "705",
+      "language": "Python",
+      "description": "The best ChatGPT that $100 can buy."
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 3,
+      "stars": "76,765",
+      "stars_today": "1,387",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "openclaw/openclaw",
+      "rank": 4,
+      "stars": "299,451",
+      "stars_today": "9,080",
+      "language": "TypeScript",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞"
+    },
+    {
+      "name": "bytedance/deer-flow",
+      "rank": 5,
+      "stars": "28,712",
+      "stars_today": "1,413",
+      "language": "Python",
+      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours."
+    },
+    {
+      "name": "666ghj/MiroFish",
+      "rank": 6,
+      "stars": "14,633",
+      "stars_today": "4,504",
+      "language": "Python",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
+    },
+    {
+      "name": "promptfoo/promptfoo",
+      "rank": 7,
+      "stars": "12,036",
+      "stars_today": "661",
+      "language": "TypeScript",
+      "description": "Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration."
+    },
+    {
+      "name": "GoogleCloudPlatform/generative-ai",
+      "rank": 8,
+      "stars": "15,806",
+      "stars_today": "530",
+      "language": "Jupyter Notebook",
+      "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI"
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "rank": 9,
+      "stars": "47,673",
+      "stars_today": "300",
+      "language": "Python",
+      "description": "An AI Hedge Fund Team"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "rank": 10,
+      "stars": "3,945",
+      "stars_today": "781",
+      "language": "Python",
+      "description": "The agent that grows with you"
+    },
+    {
+      "name": "alibaba/page-agent",
+      "rank": 11,
+      "stars": "3,783",
+      "stars_today": "891",
+      "language": "TypeScript",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language."
+    },
+    {
+      "name": "sepinf-inc/IPED",
+      "rank": 12,
+      "stars": "2,239",
+      "stars_today": "273",
+      "language": "Java",
+      "description": "IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners."
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "rank": 13,
+      "stars": "3,733",
+      "stars_today": "939",
+      "language": "JavaScript",
+      "description": "The design language that makes your AI harness better at design."
+    }
+  ]
+}
