@@ -1,0 +1,79 @@
+{
+  "date": "2026-03-12",
+  "updated_at": "2026-03-12 03:27:26",
+  "count": 9,
+  "rankings": [
+    {
+      "name": "msitarzewski/agency-agents",
+      "rank": 1,
+      "stars": "30,584",
+      "stars_today": "6,167",
+      "language": "Shell",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 2,
+      "stars": "78,283",
+      "stars_today": "1,483",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "rank": 3,
+      "stars": "48,222",
+      "stars_today": "636",
+      "language": "Python",
+      "description": "An AI Hedge Fund Team"
+    },
+    {
+      "name": "666ghj/MiroFish",
+      "rank": 4,
+      "stars": "17,047",
+      "stars_today": "2,907",
+      "language": "Python",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
+    },
+    {
+      "name": "promptfoo/promptfoo",
+      "rank": 5,
+      "stars": "12,646",
+      "stars_today": "718",
+      "language": "TypeScript",
+      "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration."
+    },
+    {
+      "name": "fishaudio/fish-speech",
+      "rank": 6,
+      "stars": "25,888",
+      "stars_today": "313",
+      "language": "Python",
+      "description": "SOTA Open Source TTS"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "rank": 7,
+      "stars": "5,396",
+      "stars_today": "1,234",
+      "language": "Python",
+      "description": "The agent that grows with you"
+    },
+    {
+      "name": "AstrBotDevs/AstrBot",
+      "rank": 8,
+      "stars": "21,367",
+      "stars_today": "342",
+      "language": "Python",
+      "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨"
+    },
+    {
+      "name": "alibaba/page-agent",
+      "rank": 9,
+      "stars": "4,929",
+      "stars_today": "1,215",
+      "language": "TypeScript",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language."
+    }
+  ]
+}

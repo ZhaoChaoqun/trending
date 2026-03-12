@@ -1,72 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Wed, 11 Mar 2026 03:20:28 +0000</pubDate><lastBuildDate>Wed, 11 Mar 2026 03:20:28 +0000</lastBuildDate><item><title>#1 msitarzewski/agency-agents (+6,223 stars)</title><link>https://github.com/msitarzewski/agency-agents</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Thu, 12 Mar 2026 03:27:26 +0000</pubDate><lastBuildDate>Thu, 12 Mar 2026 03:27:26 +0000</lastBuildDate><item><title>#1 msitarzewski/agency-agents (+6,167 stars)</title><link>https://github.com/msitarzewski/agency-agents</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;msitarzewski/agency-agents&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.&lt;/p&gt;
-&lt;p&gt;⭐ 26,000 | +6,223 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 30,584 | +6,167 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/msitarzewski/agency-agents#2026-03-11</guid><pubDate>Wed, 11 Mar 2026 03:20:28 +0000</pubDate></item><item><title>#2 karpathy/nanochat (+705 stars)</title><link>https://github.com/karpathy/nanochat</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;karpathy/nanochat&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The best ChatGPT that $100 can buy.&lt;/p&gt;
-&lt;p&gt;⭐ 46,304 | +705 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/karpathy/nanochat#2026-03-11</guid><pubDate>Wed, 11 Mar 2026 03:20:28 +0000</pubDate></item><item><title>#3 obra/superpowers (+1,387 stars)</title><link>https://github.com/obra/superpowers</link><description>
+</description><guid isPermaLink="false">https://github.com/msitarzewski/agency-agents#2026-03-12</guid><pubDate>Thu, 12 Mar 2026 03:27:26 +0000</pubDate></item><item><title>#2 obra/superpowers (+1,483 stars)</title><link>https://github.com/obra/superpowers</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 76,765 | +1,387 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 78,283 | +1,483 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-03-11</guid><pubDate>Wed, 11 Mar 2026 03:20:28 +0000</pubDate></item><item><title>#4 openclaw/openclaw (+9,080 stars)</title><link>https://github.com/openclaw/openclaw</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;openclaw/openclaw&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞&lt;/p&gt;
-&lt;p&gt;⭐ 299,451 | +9,080 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/openclaw/openclaw#2026-03-11</guid><pubDate>Wed, 11 Mar 2026 03:20:28 +0000</pubDate></item><item><title>#5 bytedance/deer-flow (+1,413 stars)</title><link>https://github.com/bytedance/deer-flow</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;bytedance/deer-flow&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.&lt;/p&gt;
-&lt;p&gt;⭐ 28,712 | +1,413 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/bytedance/deer-flow#2026-03-11</guid><pubDate>Wed, 11 Mar 2026 03:20:28 +0000</pubDate></item><item><title>#6 666ghj/MiroFish (+4,504 stars)</title><link>https://github.com/666ghj/MiroFish</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;666ghj/MiroFish&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物&lt;/p&gt;
-&lt;p&gt;⭐ 14,633 | +4,504 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/666ghj/MiroFish#2026-03-11</guid><pubDate>Wed, 11 Mar 2026 03:20:28 +0000</pubDate></item><item><title>#7 promptfoo/promptfoo (+661 stars)</title><link>https://github.com/promptfoo/promptfoo</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;promptfoo/promptfoo&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.&lt;/p&gt;
-&lt;p&gt;⭐ 12,036 | +661 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/promptfoo/promptfoo#2026-03-11</guid><pubDate>Wed, 11 Mar 2026 03:20:28 +0000</pubDate></item><item><title>#8 GoogleCloudPlatform/generative-ai (+530 stars)</title><link>https://github.com/GoogleCloudPlatform/generative-ai</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;GoogleCloudPlatform/generative-ai&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI&lt;/p&gt;
-&lt;p&gt;⭐ 15,806 | +530 today | 🔧 Jupyter Notebook&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/GoogleCloudPlatform/generative-ai#2026-03-11</guid><pubDate>Wed, 11 Mar 2026 03:20:28 +0000</pubDate></item><item><title>#9 virattt/ai-hedge-fund (+300 stars)</title><link>https://github.com/virattt/ai-hedge-fund</link><description>
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-03-12</guid><pubDate>Thu, 12 Mar 2026 03:27:26 +0000</pubDate></item><item><title>#3 virattt/ai-hedge-fund (+636 stars)</title><link>https://github.com/virattt/ai-hedge-fund</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;virattt/ai-hedge-fund&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;An AI Hedge Fund Team&lt;/p&gt;
-&lt;p&gt;⭐ 47,673 | +300 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 48,222 | +636 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/virattt/ai-hedge-fund#2026-03-12</guid><pubDate>Thu, 12 Mar 2026 03:27:26 +0000</pubDate></item><item><title>#4 666ghj/MiroFish (+2,907 stars)</title><link>https://github.com/666ghj/MiroFish</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;666ghj/MiroFish&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物&lt;/p&gt;
+&lt;p&gt;⭐ 17,047 | +2,907 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/virattt/ai-hedge-fund#2026-03-11</guid><pubDate>Wed, 11 Mar 2026 03:20:28 +0000</pubDate></item><item><title>#10 NousResearch/hermes-agent (+781 stars)</title><link>https://github.com/NousResearch/hermes-agent</link><description>
+</description><guid isPermaLink="false">https://github.com/666ghj/MiroFish#2026-03-12</guid><pubDate>Thu, 12 Mar 2026 03:27:26 +0000</pubDate></item><item><title>#5 promptfoo/promptfoo (+718 stars)</title><link>https://github.com/promptfoo/promptfoo</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;promptfoo/promptfoo&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.&lt;/p&gt;
+&lt;p&gt;⭐ 12,646 | +718 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/promptfoo/promptfoo#2026-03-12</guid><pubDate>Thu, 12 Mar 2026 03:27:26 +0000</pubDate></item><item><title>#6 fishaudio/fish-speech (+313 stars)</title><link>https://github.com/fishaudio/fish-speech</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;fishaudio/fish-speech&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SOTA Open Source TTS&lt;/p&gt;
+&lt;p&gt;⭐ 25,888 | +313 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/fishaudio/fish-speech#2026-03-12</guid><pubDate>Thu, 12 Mar 2026 03:27:26 +0000</pubDate></item><item><title>#7 NousResearch/hermes-agent (+1,234 stars)</title><link>https://github.com/NousResearch/hermes-agent</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;NousResearch/hermes-agent&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The agent that grows with you&lt;/p&gt;
-&lt;p&gt;⭐ 3,945 | +781 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 5,396 | +1,234 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/NousResearch/hermes-agent#2026-03-12</guid><pubDate>Thu, 12 Mar 2026 03:27:26 +0000</pubDate></item><item><title>#8 AstrBotDevs/AstrBot (+342 stars)</title><link>https://github.com/AstrBotDevs/AstrBot</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;AstrBotDevs/AstrBot&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨&lt;/p&gt;
+&lt;p&gt;⭐ 21,367 | +342 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/AstrBotDevs/AstrBot#2026-03-12</guid><pubDate>Thu, 12 Mar 2026 03:27:26 +0000</pubDate></item><item><title>#9 alibaba/page-agent (+1,215 stars)</title><link>https://github.com/alibaba/page-agent</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;alibaba/page-agent&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;JavaScript in-page GUI agent. Control web interfaces with natural language.&lt;/p&gt;
+&lt;p&gt;⭐ 4,929 | +1,215 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/NousResearch/hermes-agent#2026-03-11</guid><pubDate>Wed, 11 Mar 2026 03:20:28 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/alibaba/page-agent#2026-03-12</guid><pubDate>Thu, 12 Mar 2026 03:27:26 +0000</pubDate></item></channel></rss>
