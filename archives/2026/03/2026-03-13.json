@@ -1,0 +1,111 @@
+{
+  "date": "2026-03-13",
+  "updated_at": "2026-03-13 03:23:52",
+  "count": 13,
+  "rankings": [
+    {
+      "name": "microsoft/BitNet",
+      "rank": 1,
+      "stars": "32,552",
+      "stars_today": "2,149",
+      "language": "Python",
+      "description": "Official inference framework for 1-bit LLMs"
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 2,
+      "stars": "80,196",
+      "stars_today": "1,706",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "rank": 3,
+      "stars": "35,501",
+      "stars_today": "4,168",
+      "language": "Shell",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "name": "fishaudio/fish-speech",
+      "rank": 4,
+      "stars": "26,457",
+      "stars_today": "637",
+      "language": "Python",
+      "description": "SOTA Open Source TTS"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "rank": 5,
+      "stars": "6,250",
+      "stars_today": "1,264",
+      "language": "Python",
+      "description": "The agent that grows with you"
+    },
+    {
+      "name": "666ghj/MiroFish",
+      "rank": 6,
+      "stars": "19,499",
+      "stars_today": "1,857",
+      "language": "Python",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
+    },
+    {
+      "name": "langflow-ai/openrag",
+      "rank": 7,
+      "stars": "1,670",
+      "stars_today": "322",
+      "language": "Python",
+      "description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch."
+    },
+    {
+      "name": "InsForge/InsForge",
+      "rank": 8,
+      "stars": "3,173",
+      "stars_today": "263",
+      "language": "TypeScript",
+      "description": "Give agents everything they need to ship fullstack apps. The backend built for agentic development."
+    },
+    {
+      "name": "vectorize-io/hindsight",
+      "rank": 9,
+      "stars": "3,162",
+      "stars_today": "217",
+      "language": "Python",
+      "description": "Hindsight: Agent Memory That Learns"
+    },
+    {
+      "name": "alibaba/page-agent",
+      "rank": 10,
+      "stars": "6,289",
+      "stars_today": "1,205",
+      "language": "TypeScript",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language."
+    },
+    {
+      "name": "google/A2UI",
+      "rank": 11,
+      "stars": "12,687",
+      "stars_today": "225",
+      "language": "TypeScript",
+      "description": ""
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "rank": 12,
+      "stars": "10,344",
+      "stars_today": "150",
+      "language": "Python",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
+    },
+    {
+      "name": "google-ai-edge/LiteRT",
+      "rank": 13,
+      "stars": "1,696",
+      "stars_today": "13",
+      "language": "C++",
+      "description": "LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization"
+    }
+  ]
+}
