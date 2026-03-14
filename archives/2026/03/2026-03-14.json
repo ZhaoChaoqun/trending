@@ -1,0 +1,135 @@
+{
+  "date": "2026-03-14",
+  "updated_at": "2026-03-14 03:21:56",
+  "count": 16,
+  "rankings": [
+    {
+      "name": "microsoft/BitNet",
+      "rank": 1,
+      "stars": "34,082",
+      "stars_today": "2,227",
+      "language": "Python",
+      "description": "Official inference framework for 1-bit LLMs"
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 2,
+      "stars": "82,027",
+      "stars_today": "2,106",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "public-apis/public-apis",
+      "rank": 3,
+      "stars": "409,594",
+      "stars_today": "892",
+      "language": "Python",
+      "description": "A collective list of free APIs"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "rank": 4,
+      "stars": "40,533",
+      "stars_today": "5,745",
+      "language": "Shell",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "name": "AstrBotDevs/AstrBot",
+      "rank": 5,
+      "stars": "23,919",
+      "stars_today": "1,128",
+      "language": "Python",
+      "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨"
+    },
+    {
+      "name": "langflow-ai/openrag",
+      "rank": 6,
+      "stars": "2,322",
+      "stars_today": "905",
+      "language": "Python",
+      "description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch."
+    },
+    {
+      "name": "lightpanda-io/browser",
+      "rank": 7,
+      "stars": "15,633",
+      "stars_today": "2,093",
+      "language": "Zig",
+      "description": "Lightpanda: the headless browser designed for AI and automation"
+    },
+    {
+      "name": "promptfoo/promptfoo",
+      "rank": 8,
+      "stars": "15,361",
+      "stars_today": "1,668",
+      "language": "TypeScript",
+      "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration."
+    },
+    {
+      "name": "google/A2UI",
+      "rank": 9,
+      "stars": "13,084",
+      "stars_today": "635",
+      "language": "TypeScript",
+      "description": ""
+    },
+    {
+      "name": "fishaudio/fish-speech",
+      "rank": 10,
+      "stars": "26,900",
+      "stars_today": "559",
+      "language": "Python",
+      "description": "SOTA Open Source TTS"
+    },
+    {
+      "name": "alibaba/page-agent",
+      "rank": 11,
+      "stars": "7,663",
+      "stars_today": "1,468",
+      "language": "TypeScript",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language."
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "rank": 12,
+      "stars": "10,836",
+      "stars_today": "654",
+      "language": "Python",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
+    },
+    {
+      "name": "InsForge/InsForge",
+      "rank": 13,
+      "stars": "3,677",
+      "stars_today": "766",
+      "language": "TypeScript",
+      "description": "Give agents everything they need to ship fullstack apps. The backend built for agentic development."
+    },
+    {
+      "name": "dolthub/dolt",
+      "rank": 14,
+      "stars": "21,118",
+      "stars_today": "60",
+      "language": "Go",
+      "description": "Dolt – Git for Data"
+    },
+    {
+      "name": "vectorize-io/hindsight",
+      "rank": 15,
+      "stars": "3,706",
+      "stars_today": "595",
+      "language": "Python",
+      "description": "Hindsight: Agent Memory That Learns"
+    },
+    {
+      "name": "google-ai-edge/LiteRT",
+      "rank": 16,
+      "stars": "1,879",
+      "stars_today": "211",
+      "language": "C++",
+      "description": "LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization"
+    }
+  ]
+}
