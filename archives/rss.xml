@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sun, 15 Mar 2026 03:45:50 +0000</pubDate><lastBuildDate>Sun, 15 Mar 2026 03:45:50 +0000</lastBuildDate><item><title>#1 msitarzewski/agency-agents (+4,280 stars)</title><link>https://github.com/msitarzewski/agency-agents</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Mon, 16 Mar 2026 03:49:42 +0000</pubDate><lastBuildDate>Mon, 16 Mar 2026 03:49:42 +0000</lastBuildDate><item><title>#1 shareAI-lab/learn-claude-code (+872 stars)</title><link>https://github.com/shareAI-lab/learn-claude-code</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;msitarzewski/agency-agents&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.&lt;/p&gt;
-&lt;p&gt;⭐ 44,093 | +4,280 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;shareAI-lab/learn-claude-code&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bash is all you need - A nano Claude Code–like agent, built from 0 to 1&lt;/p&gt;
+&lt;p&gt;⭐ 28,229 | +872 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/msitarzewski/agency-agents#2026-03-15</guid><pubDate>Sun, 15 Mar 2026 03:45:50 +0000</pubDate></item><item><title>#2 obra/superpowers (+1,439 stars)</title><link>https://github.com/obra/superpowers</link><description>
+</description><guid isPermaLink="false">https://github.com/shareAI-lab/learn-claude-code#2026-03-16</guid><pubDate>Mon, 16 Mar 2026 03:49:42 +0000</pubDate></item><item><title>#2 obra/superpowers (+1,867 stars)</title><link>https://github.com/obra/superpowers</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 83,712 | +1,439 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 86,382 | +1,867 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-03-15</guid><pubDate>Sun, 15 Mar 2026 03:45:50 +0000</pubDate></item><item><title>#3 volcengine/OpenViking (+1,610 stars)</title><link>https://github.com/volcengine/OpenViking</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;volcengine/OpenViking&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.&lt;/p&gt;
-&lt;p&gt;⭐ 10,794 | +1,610 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/volcengine/OpenViking#2026-03-15</guid><pubDate>Sun, 15 Mar 2026 03:45:50 +0000</pubDate></item><item><title>#4 anthropics/claude-plugins-official (+411 stars)</title><link>https://github.com/anthropics/claude-plugins-official</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;anthropics/claude-plugins-official&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Official, Anthropic-managed directory of high quality Claude Code Plugins.&lt;/p&gt;
-&lt;p&gt;⭐ 11,396 | +411 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/anthropics/claude-plugins-official#2026-03-15</guid><pubDate>Sun, 15 Mar 2026 03:45:50 +0000</pubDate></item><item><title>#5 p-e-w/heretic (+694 stars)</title><link>https://github.com/p-e-w/heretic</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;p-e-w/heretic&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Fully automatic censorship removal for language models&lt;/p&gt;
-&lt;p&gt;⭐ 13,896 | +694 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/p-e-w/heretic#2026-03-15</guid><pubDate>Sun, 15 Mar 2026 03:45:50 +0000</pubDate></item><item><title>#6 langflow-ai/openrag (+564 stars)</title><link>https://github.com/langflow-ai/openrag</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;langflow-ai/openrag&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.&lt;/p&gt;
-&lt;p&gt;⭐ 2,768 | +564 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/langflow-ai/openrag#2026-03-15</guid><pubDate>Sun, 15 Mar 2026 03:45:50 +0000</pubDate></item><item><title>#7 lightpanda-io/browser (+2,069 stars)</title><link>https://github.com/lightpanda-io/browser</link><description>
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-03-16</guid><pubDate>Mon, 16 Mar 2026 03:49:42 +0000</pubDate></item><item><title>#3 lightpanda-io/browser (+1,335 stars)</title><link>https://github.com/lightpanda-io/browser</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;lightpanda-io/browser&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Lightpanda: the headless browser designed for AI and automation&lt;/p&gt;
-&lt;p&gt;⭐ 17,244 | +2,069 today | 🔧 Zig&lt;/p&gt;
+&lt;p&gt;⭐ 18,937 | +1,335 today | 🔧 Zig&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/lightpanda-io/browser#2026-03-15</guid><pubDate>Sun, 15 Mar 2026 03:45:50 +0000</pubDate></item><item><title>#8 fishaudio/fish-speech (+381 stars)</title><link>https://github.com/fishaudio/fish-speech</link><description>
+</description><guid isPermaLink="false">https://github.com/lightpanda-io/browser#2026-03-16</guid><pubDate>Mon, 16 Mar 2026 03:49:42 +0000</pubDate></item><item><title>#4 volcengine/OpenViking (+1,870 stars)</title><link>https://github.com/volcengine/OpenViking</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;fishaudio/fish-speech&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;SOTA Open Source TTS&lt;/p&gt;
-&lt;p&gt;⭐ 27,265 | +381 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;volcengine/OpenViking&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.&lt;/p&gt;
+&lt;p&gt;⭐ 12,704 | +1,870 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/fishaudio/fish-speech#2026-03-15</guid><pubDate>Sun, 15 Mar 2026 03:45:50 +0000</pubDate></item><item><title>#9 InsForge/InsForge (+482 stars)</title><link>https://github.com/InsForge/InsForge</link><description>
+</description><guid isPermaLink="false">https://github.com/volcengine/OpenViking#2026-03-16</guid><pubDate>Mon, 16 Mar 2026 03:49:42 +0000</pubDate></item><item><title>#5 shanraisshan/claude-code-best-practice (+851 stars)</title><link>https://github.com/shanraisshan/claude-code-best-practice</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;shanraisshan/claude-code-best-practice&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;practice made claude perfect&lt;/p&gt;
+&lt;p&gt;⭐ 17,213 | +851 today | 🔧 HTML&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/shanraisshan/claude-code-best-practice#2026-03-16</guid><pubDate>Mon, 16 Mar 2026 03:49:42 +0000</pubDate></item><item><title>#6 p-e-w/heretic (+1,062 stars)</title><link>https://github.com/p-e-w/heretic</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;p-e-w/heretic&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fully automatic censorship removal for language models&lt;/p&gt;
+&lt;p&gt;⭐ 14,798 | +1,062 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/p-e-w/heretic#2026-03-16</guid><pubDate>Mon, 16 Mar 2026 03:49:42 +0000</pubDate></item><item><title>#7 666ghj/MiroFish (+2,782 stars)</title><link>https://github.com/666ghj/MiroFish</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;666ghj/MiroFish&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物&lt;/p&gt;
+&lt;p&gt;⭐ 27,676 | +2,782 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/666ghj/MiroFish#2026-03-16</guid><pubDate>Mon, 16 Mar 2026 03:49:42 +0000</pubDate></item><item><title>#8 abhigyanpatwari/GitNexus (+451 stars)</title><link>https://github.com/abhigyanpatwari/GitNexus</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;abhigyanpatwari/GitNexus&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration&lt;/p&gt;
+&lt;p&gt;⭐ 14,530 | +451 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/abhigyanpatwari/GitNexus#2026-03-16</guid><pubDate>Mon, 16 Mar 2026 03:49:42 +0000</pubDate></item><item><title>#9 topoteretes/cognee (+270 stars)</title><link>https://github.com/topoteretes/cognee</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;topoteretes/cognee&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Knowledge Engine for AI Agent Memory in 6 lines of code&lt;/p&gt;
+&lt;p&gt;⭐ 13,992 | +270 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/topoteretes/cognee#2026-03-16</guid><pubDate>Mon, 16 Mar 2026 03:49:42 +0000</pubDate></item><item><title>#10 InsForge/InsForge (+515 stars)</title><link>https://github.com/InsForge/InsForge</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;InsForge/InsForge&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Give agents everything they need to ship fullstack apps. The backend built for agentic development.&lt;/p&gt;
-&lt;p&gt;⭐ 4,238 | +482 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+&lt;p&gt;⭐ 4,646 | +515 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/InsForge/InsForge#2026-03-15</guid><pubDate>Sun, 15 Mar 2026 03:45:50 +0000</pubDate></item><item><title>#10 dimensionalOS/dimos (+72 stars)</title><link>https://github.com/dimensionalOS/dimos</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;dimensionalOS/dimos&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The Dimensional Framework&lt;/p&gt;
-&lt;p&gt;⭐ 894 | +72 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/dimensionalOS/dimos#2026-03-15</guid><pubDate>Sun, 15 Mar 2026 03:45:50 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/InsForge/InsForge#2026-03-16</guid><pubDate>Mon, 16 Mar 2026 03:49:42 +0000</pubDate></item></channel></rss>
