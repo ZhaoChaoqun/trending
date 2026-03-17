@@ -1,0 +1,103 @@
+{
+  "date": "2026-03-17",
+  "updated_at": "2026-03-17 03:28:11",
+  "count": 12,
+  "rankings": [
+    {
+      "name": "thedotmack/claude-mem",
+      "rank": 1,
+      "stars": "36,992",
+      "stars_today": "1,045",
+      "language": "TypeScript",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions."
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 2,
+      "stars": "89,065",
+      "stars_today": "3,152",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "lightpanda-io/browser",
+      "rank": 3,
+      "stars": "20,351",
+      "stars_today": "2,086",
+      "language": "Zig",
+      "description": "Lightpanda: the headless browser designed for AI and automation"
+    },
+    {
+      "name": "shareAI-lab/learn-claude-code",
+      "rank": 4,
+      "stars": "29,477",
+      "stars_today": "1,535",
+      "language": "TypeScript",
+      "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1"
+    },
+    {
+      "name": "666ghj/MiroFish",
+      "rank": 5,
+      "stars": "30,365",
+      "stars_today": "3,260",
+      "language": "Python",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
+    },
+    {
+      "name": "abhigyanpatwari/GitNexus",
+      "rank": 6,
+      "stars": "15,734",
+      "stars_today": "1,860",
+      "language": "TypeScript",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration"
+    },
+    {
+      "name": "volcengine/OpenViking",
+      "rank": 7,
+      "stars": "14,323",
+      "stars_today": "2,012",
+      "language": "Python",
+      "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving."
+    },
+    {
+      "name": "p-e-w/heretic",
+      "rank": 8,
+      "stars": "15,346",
+      "stars_today": "788",
+      "language": "Python",
+      "description": "Fully automatic censorship removal for language models"
+    },
+    {
+      "name": "langchain-ai/deepagents",
+      "rank": 9,
+      "stars": "13,097",
+      "stars_today": "1,026",
+      "language": "Python",
+      "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks."
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "rank": 10,
+      "stars": "1,912",
+      "stars_today": "775",
+      "language": "TypeScript",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere."
+    },
+    {
+      "name": "voidzero-dev/vite-plus",
+      "rank": 11,
+      "stars": "2,302",
+      "stars_today": "621",
+      "language": "Rust",
+      "description": "Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place."
+    },
+    {
+      "name": "YishenTu/claudian",
+      "rank": 12,
+      "stars": "4,230",
+      "stars_today": "111",
+      "language": "TypeScript",
+      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault"
+    }
+  ]
+}
