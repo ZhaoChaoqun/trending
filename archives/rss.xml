@@ -1,72 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Tue, 17 Mar 2026 03:28:11 +0000</pubDate><lastBuildDate>Tue, 17 Mar 2026 03:28:11 +0000</lastBuildDate><item><title>#1 thedotmack/claude-mem (+1,045 stars)</title><link>https://github.com/thedotmack/claude-mem</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;thedotmack/claude-mem&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.&lt;/p&gt;
-&lt;p&gt;⭐ 36,992 | +1,045 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/thedotmack/claude-mem#2026-03-17</guid><pubDate>Tue, 17 Mar 2026 03:28:11 +0000</pubDate></item><item><title>#2 obra/superpowers (+3,152 stars)</title><link>https://github.com/obra/superpowers</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Wed, 18 Mar 2026 03:35:16 +0000</pubDate><lastBuildDate>Wed, 18 Mar 2026 03:35:16 +0000</lastBuildDate><item><title>#1 obra/superpowers (+3,078 stars)</title><link>https://github.com/obra/superpowers</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 89,065 | +3,152 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 92,945 | +3,078 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-03-17</guid><pubDate>Tue, 17 Mar 2026 03:28:11 +0000</pubDate></item><item><title>#3 lightpanda-io/browser (+2,086 stars)</title><link>https://github.com/lightpanda-io/browser</link><description>
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-03-18</guid><pubDate>Wed, 18 Mar 2026 03:35:16 +0000</pubDate></item><item><title>#2 codecrafters-io/build-your-own-x (+1,998 stars)</title><link>https://github.com/codecrafters-io/build-your-own-x</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;lightpanda-io/browser&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Lightpanda: the headless browser designed for AI and automation&lt;/p&gt;
-&lt;p&gt;⭐ 20,351 | +2,086 today | 🔧 Zig&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;codecrafters-io/build-your-own-x&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Master programming by recreating your favorite technologies from scratch.&lt;/p&gt;
+&lt;p&gt;⭐ 480,054 | +1,998 today | 🔧 Markdown&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/lightpanda-io/browser#2026-03-17</guid><pubDate>Tue, 17 Mar 2026 03:28:11 +0000</pubDate></item><item><title>#4 shareAI-lab/learn-claude-code (+1,535 stars)</title><link>https://github.com/shareAI-lab/learn-claude-code</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;shareAI-lab/learn-claude-code&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Bash is all you need - A nano Claude Code–like agent, built from 0 to 1&lt;/p&gt;
-&lt;p&gt;⭐ 29,477 | +1,535 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/shareAI-lab/learn-claude-code#2026-03-17</guid><pubDate>Tue, 17 Mar 2026 03:28:11 +0000</pubDate></item><item><title>#5 666ghj/MiroFish (+3,260 stars)</title><link>https://github.com/666ghj/MiroFish</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;666ghj/MiroFish&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物&lt;/p&gt;
-&lt;p&gt;⭐ 30,365 | +3,260 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/666ghj/MiroFish#2026-03-17</guid><pubDate>Tue, 17 Mar 2026 03:28:11 +0000</pubDate></item><item><title>#6 abhigyanpatwari/GitNexus (+1,860 stars)</title><link>https://github.com/abhigyanpatwari/GitNexus</link><description>
+</description><guid isPermaLink="false">https://github.com/codecrafters-io/build-your-own-x#2026-03-18</guid><pubDate>Wed, 18 Mar 2026 03:35:16 +0000</pubDate></item><item><title>#3 abhigyanpatwari/GitNexus (+1,116 stars)</title><link>https://github.com/abhigyanpatwari/GitNexus</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;abhigyanpatwari/GitNexus&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration&lt;/p&gt;
-&lt;p&gt;⭐ 15,734 | +1,860 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 16,863 | +1,116 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/abhigyanpatwari/GitNexus#2026-03-17</guid><pubDate>Tue, 17 Mar 2026 03:28:11 +0000</pubDate></item><item><title>#7 volcengine/OpenViking (+2,012 stars)</title><link>https://github.com/volcengine/OpenViking</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;volcengine/OpenViking&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.&lt;/p&gt;
-&lt;p&gt;⭐ 14,323 | +2,012 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/volcengine/OpenViking#2026-03-17</guid><pubDate>Tue, 17 Mar 2026 03:28:11 +0000</pubDate></item><item><title>#8 p-e-w/heretic (+788 stars)</title><link>https://github.com/p-e-w/heretic</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;p-e-w/heretic&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Fully automatic censorship removal for language models&lt;/p&gt;
-&lt;p&gt;⭐ 15,346 | +788 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/p-e-w/heretic#2026-03-17</guid><pubDate>Tue, 17 Mar 2026 03:28:11 +0000</pubDate></item><item><title>#9 langchain-ai/deepagents (+1,026 stars)</title><link>https://github.com/langchain-ai/deepagents</link><description>
+</description><guid isPermaLink="false">https://github.com/abhigyanpatwari/GitNexus#2026-03-18</guid><pubDate>Wed, 18 Mar 2026 03:35:16 +0000</pubDate></item><item><title>#4 langchain-ai/deepagents (+1,415 stars)</title><link>https://github.com/langchain-ai/deepagents</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;langchain-ai/deepagents&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.&lt;/p&gt;
-&lt;p&gt;⭐ 13,097 | +1,026 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 14,301 | +1,415 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/langchain-ai/deepagents#2026-03-17</guid><pubDate>Tue, 17 Mar 2026 03:28:11 +0000</pubDate></item><item><title>#10 Crosstalk-Solutions/project-nomad (+775 stars)</title><link>https://github.com/Crosstalk-Solutions/project-nomad</link><description>
+</description><guid isPermaLink="false">https://github.com/langchain-ai/deepagents#2026-03-18</guid><pubDate>Wed, 18 Mar 2026 03:35:16 +0000</pubDate></item><item><title>#5 jarrodwatts/claude-hud (+466 stars)</title><link>https://github.com/jarrodwatts/claude-hud</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Crosstalk-Solutions/project-nomad&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.&lt;/p&gt;
-&lt;p&gt;⭐ 1,912 | +775 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;jarrodwatts/claude-hud&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress&lt;/p&gt;
+&lt;p&gt;⭐ 5,789 | +466 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Crosstalk-Solutions/project-nomad#2026-03-17</guid><pubDate>Tue, 17 Mar 2026 03:28:11 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/jarrodwatts/claude-hud#2026-03-18</guid><pubDate>Wed, 18 Mar 2026 03:35:16 +0000</pubDate></item><item><title>#6 cloudflare/workerd (+31 stars)</title><link>https://github.com/cloudflare/workerd</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;cloudflare/workerd&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The JavaScript / Wasm runtime that powers Cloudflare Workers&lt;/p&gt;
+&lt;p&gt;⭐ 7,867 | +31 today | 🔧 C++&lt;/p&gt;
+&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/cloudflare/workerd#2026-03-18</guid><pubDate>Wed, 18 Mar 2026 03:35:16 +0000</pubDate></item></channel></rss>

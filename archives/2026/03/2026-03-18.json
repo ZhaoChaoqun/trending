@@ -1,0 +1,55 @@
+{
+  "date": "2026-03-18",
+  "updated_at": "2026-03-18 03:35:16",
+  "count": 6,
+  "rankings": [
+    {
+      "name": "obra/superpowers",
+      "rank": 1,
+      "stars": "92,945",
+      "stars_today": "3,078",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "rank": 2,
+      "stars": "480,054",
+      "stars_today": "1,998",
+      "language": "Markdown",
+      "description": "Master programming by recreating your favorite technologies from scratch."
+    },
+    {
+      "name": "abhigyanpatwari/GitNexus",
+      "rank": 3,
+      "stars": "16,863",
+      "stars_today": "1,116",
+      "language": "TypeScript",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration"
+    },
+    {
+      "name": "langchain-ai/deepagents",
+      "rank": 4,
+      "stars": "14,301",
+      "stars_today": "1,415",
+      "language": "Python",
+      "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks."
+    },
+    {
+      "name": "jarrodwatts/claude-hud",
+      "rank": 5,
+      "stars": "5,789",
+      "stars_today": "466",
+      "language": "JavaScript",
+      "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress"
+    },
+    {
+      "name": "cloudflare/workerd",
+      "rank": 6,
+      "stars": "7,867",
+      "stars_today": "31",
+      "language": "C++",
+      "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers"
+    }
+  ]
+}
