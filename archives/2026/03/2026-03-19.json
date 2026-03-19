@@ -1,0 +1,55 @@
+{
+  "date": "2026-03-19",
+  "updated_at": "2026-03-19 03:35:28",
+  "count": 6,
+  "rankings": [
+    {
+      "name": "obra/superpowers",
+      "rank": 1,
+      "stars": "96,662",
+      "stars_today": "4,089",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "unslothai/unsloth",
+      "rank": 2,
+      "stars": "55,984",
+      "stars_today": "1,005",
+      "language": "Python",
+      "description": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally."
+    },
+    {
+      "name": "jarrodwatts/claude-hud",
+      "rank": 3,
+      "stars": "7,368",
+      "stars_today": "1,038",
+      "language": "JavaScript",
+      "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress"
+    },
+    {
+      "name": "shadps4-emu/shadPS4",
+      "rank": 4,
+      "stars": "29,943",
+      "stars_today": "237",
+      "language": "C++",
+      "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++"
+    },
+    {
+      "name": "langchain-ai/open-swe",
+      "rank": 5,
+      "stars": "6,473",
+      "stars_today": "481",
+      "language": "Python",
+      "description": "An Open-Source Asynchronous Coding Agent"
+    },
+    {
+      "name": "newton-physics/newton",
+      "rank": 6,
+      "stars": "2,959",
+      "stars_today": "26",
+      "language": "Python",
+      "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers."
+    }
+  ]
+}

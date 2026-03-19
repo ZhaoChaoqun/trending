@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Wed, 18 Mar 2026 03:35:16 +0000</pubDate><lastBuildDate>Wed, 18 Mar 2026 03:35:16 +0000</lastBuildDate><item><title>#1 obra/superpowers (+3,078 stars)</title><link>https://github.com/obra/superpowers</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Thu, 19 Mar 2026 03:35:28 +0000</pubDate><lastBuildDate>Thu, 19 Mar 2026 03:35:28 +0000</lastBuildDate><item><title>#1 obra/superpowers (+4,089 stars)</title><link>https://github.com/obra/superpowers</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 92,945 | +3,078 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 96,662 | +4,089 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-03-18</guid><pubDate>Wed, 18 Mar 2026 03:35:16 +0000</pubDate></item><item><title>#2 codecrafters-io/build-your-own-x (+1,998 stars)</title><link>https://github.com/codecrafters-io/build-your-own-x</link><description>
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-03-19</guid><pubDate>Thu, 19 Mar 2026 03:35:28 +0000</pubDate></item><item><title>#2 unslothai/unsloth (+1,005 stars)</title><link>https://github.com/unslothai/unsloth</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;codecrafters-io/build-your-own-x&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Master programming by recreating your favorite technologies from scratch.&lt;/p&gt;
-&lt;p&gt;⭐ 480,054 | +1,998 today | 🔧 Markdown&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;unslothai/unsloth&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.&lt;/p&gt;
+&lt;p&gt;⭐ 55,984 | +1,005 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/codecrafters-io/build-your-own-x#2026-03-18</guid><pubDate>Wed, 18 Mar 2026 03:35:16 +0000</pubDate></item><item><title>#3 abhigyanpatwari/GitNexus (+1,116 stars)</title><link>https://github.com/abhigyanpatwari/GitNexus</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;abhigyanpatwari/GitNexus&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration&lt;/p&gt;
-&lt;p&gt;⭐ 16,863 | +1,116 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/abhigyanpatwari/GitNexus#2026-03-18</guid><pubDate>Wed, 18 Mar 2026 03:35:16 +0000</pubDate></item><item><title>#4 langchain-ai/deepagents (+1,415 stars)</title><link>https://github.com/langchain-ai/deepagents</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;langchain-ai/deepagents&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.&lt;/p&gt;
-&lt;p&gt;⭐ 14,301 | +1,415 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/langchain-ai/deepagents#2026-03-18</guid><pubDate>Wed, 18 Mar 2026 03:35:16 +0000</pubDate></item><item><title>#5 jarrodwatts/claude-hud (+466 stars)</title><link>https://github.com/jarrodwatts/claude-hud</link><description>
+</description><guid isPermaLink="false">https://github.com/unslothai/unsloth#2026-03-19</guid><pubDate>Thu, 19 Mar 2026 03:35:28 +0000</pubDate></item><item><title>#3 jarrodwatts/claude-hud (+1,038 stars)</title><link>https://github.com/jarrodwatts/claude-hud</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;jarrodwatts/claude-hud&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress&lt;/p&gt;
-&lt;p&gt;⭐ 5,789 | +466 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 7,368 | +1,038 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/jarrodwatts/claude-hud#2026-03-19</guid><pubDate>Thu, 19 Mar 2026 03:35:28 +0000</pubDate></item><item><title>#4 shadps4-emu/shadPS4 (+237 stars)</title><link>https://github.com/shadps4-emu/shadPS4</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;shadps4-emu/shadPS4&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;PlayStation 4 emulator for Windows, Linux and macOS written in C++&lt;/p&gt;
+&lt;p&gt;⭐ 29,943 | +237 today | 🔧 C++&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/shadps4-emu/shadPS4#2026-03-19</guid><pubDate>Thu, 19 Mar 2026 03:35:28 +0000</pubDate></item><item><title>#5 langchain-ai/open-swe (+481 stars)</title><link>https://github.com/langchain-ai/open-swe</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;langchain-ai/open-swe&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An Open-Source Asynchronous Coding Agent&lt;/p&gt;
+&lt;p&gt;⭐ 6,473 | +481 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/jarrodwatts/claude-hud#2026-03-18</guid><pubDate>Wed, 18 Mar 2026 03:35:16 +0000</pubDate></item><item><title>#6 cloudflare/workerd (+31 stars)</title><link>https://github.com/cloudflare/workerd</link><description>
+</description><guid isPermaLink="false">https://github.com/langchain-ai/open-swe#2026-03-19</guid><pubDate>Thu, 19 Mar 2026 03:35:28 +0000</pubDate></item><item><title>#6 newton-physics/newton (+26 stars)</title><link>https://github.com/newton-physics/newton</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;cloudflare/workerd&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The JavaScript / Wasm runtime that powers Cloudflare Workers&lt;/p&gt;
-&lt;p&gt;⭐ 7,867 | +31 today | 🔧 C++&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;newton-physics/newton&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.&lt;/p&gt;
+&lt;p&gt;⭐ 2,959 | +26 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 6/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/cloudflare/workerd#2026-03-18</guid><pubDate>Wed, 18 Mar 2026 03:35:16 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/newton-physics/newton#2026-03-19</guid><pubDate>Thu, 19 Mar 2026 03:35:28 +0000</pubDate></item></channel></rss>
