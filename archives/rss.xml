@@ -1,44 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Thu, 19 Mar 2026 03:35:28 +0000</pubDate><lastBuildDate>Thu, 19 Mar 2026 03:35:28 +0000</lastBuildDate><item><title>#1 obra/superpowers (+4,089 stars)</title><link>https://github.com/obra/superpowers</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 20 Mar 2026 03:25:16 +0000</pubDate><lastBuildDate>Fri, 20 Mar 2026 03:25:16 +0000</lastBuildDate><item><title>#1 obra/superpowers (+3,494 stars)</title><link>https://github.com/obra/superpowers</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 96,662 | +4,089 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 99,589 | +3,494 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-03-19</guid><pubDate>Thu, 19 Mar 2026 03:35:28 +0000</pubDate></item><item><title>#2 unslothai/unsloth (+1,005 stars)</title><link>https://github.com/unslothai/unsloth</link><description>
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-03-20</guid><pubDate>Fri, 20 Mar 2026 03:25:16 +0000</pubDate></item><item><title>#2 unslothai/unsloth (+1,262 stars)</title><link>https://github.com/unslothai/unsloth</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;unslothai/unsloth&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.&lt;/p&gt;
-&lt;p&gt;⭐ 55,984 | +1,005 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 56,796 | +1,262 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/unslothai/unsloth#2026-03-19</guid><pubDate>Thu, 19 Mar 2026 03:35:28 +0000</pubDate></item><item><title>#3 jarrodwatts/claude-hud (+1,038 stars)</title><link>https://github.com/jarrodwatts/claude-hud</link><description>
+</description><guid isPermaLink="false">https://github.com/unslothai/unsloth#2026-03-20</guid><pubDate>Fri, 20 Mar 2026 03:25:16 +0000</pubDate></item><item><title>#3 gsd-build/get-shit-done (+1,491 stars)</title><link>https://github.com/gsd-build/get-shit-done</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;jarrodwatts/claude-hud&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress&lt;/p&gt;
-&lt;p&gt;⭐ 7,368 | +1,038 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;gsd-build/get-shit-done&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.&lt;/p&gt;
+&lt;p&gt;⭐ 36,299 | +1,491 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/gsd-build/get-shit-done#2026-03-20</guid><pubDate>Fri, 20 Mar 2026 03:25:16 +0000</pubDate></item><item><title>#4 shareAI-lab/learn-claude-code (+1,448 stars)</title><link>https://github.com/shareAI-lab/learn-claude-code</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;shareAI-lab/learn-claude-code&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1&lt;/p&gt;
+&lt;p&gt;⭐ 33,857 | +1,448 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/shareAI-lab/learn-claude-code#2026-03-20</guid><pubDate>Fri, 20 Mar 2026 03:25:16 +0000</pubDate></item><item><title>#5 opendataloader-project/opendataloader-pdf (+1,416 stars)</title><link>https://github.com/opendataloader-project/opendataloader-pdf</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;opendataloader-project/opendataloader-pdf&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.&lt;/p&gt;
+&lt;p&gt;⭐ 5,933 | +1,416 today | 🔧 Java&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/jarrodwatts/claude-hud#2026-03-19</guid><pubDate>Thu, 19 Mar 2026 03:35:28 +0000</pubDate></item><item><title>#4 shadps4-emu/shadPS4 (+237 stars)</title><link>https://github.com/shadps4-emu/shadPS4</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;shadps4-emu/shadPS4&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;PlayStation 4 emulator for Windows, Linux and macOS written in C++&lt;/p&gt;
-&lt;p&gt;⭐ 29,943 | +237 today | 🔧 C++&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/shadps4-emu/shadPS4#2026-03-19</guid><pubDate>Thu, 19 Mar 2026 03:35:28 +0000</pubDate></item><item><title>#5 langchain-ai/open-swe (+481 stars)</title><link>https://github.com/langchain-ai/open-swe</link><description>
+</description><guid isPermaLink="false">https://github.com/opendataloader-project/opendataloader-pdf#2026-03-20</guid><pubDate>Fri, 20 Mar 2026 03:25:16 +0000</pubDate></item><item><title>#6 langchain-ai/open-swe (+965 stars)</title><link>https://github.com/langchain-ai/open-swe</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;langchain-ai/open-swe&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;An Open-Source Asynchronous Coding Agent&lt;/p&gt;
-&lt;p&gt;⭐ 6,473 | +481 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+&lt;p&gt;⭐ 7,120 | +965 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/langchain-ai/open-swe#2026-03-19</guid><pubDate>Thu, 19 Mar 2026 03:35:28 +0000</pubDate></item><item><title>#6 newton-physics/newton (+26 stars)</title><link>https://github.com/newton-physics/newton</link><description>
+</description><guid isPermaLink="false">https://github.com/langchain-ai/open-swe#2026-03-20</guid><pubDate>Fri, 20 Mar 2026 03:25:16 +0000</pubDate></item><item><title>#7 jarrodwatts/claude-hud (+1,851 stars)</title><link>https://github.com/jarrodwatts/claude-hud</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;newton-physics/newton&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.&lt;/p&gt;
-&lt;p&gt;⭐ 2,959 | +26 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;jarrodwatts/claude-hud&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress&lt;/p&gt;
+&lt;p&gt;⭐ 8,645 | +1,851 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/newton-physics/newton#2026-03-19</guid><pubDate>Thu, 19 Mar 2026 03:35:28 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/jarrodwatts/claude-hud#2026-03-20</guid><pubDate>Fri, 20 Mar 2026 03:25:16 +0000</pubDate></item><item><title>#8 mobile-dev-inc/Maestro (+492 stars)</title><link>https://github.com/mobile-dev-inc/Maestro</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;mobile-dev-inc/Maestro&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Painless E2E Automation for Mobile and Web&lt;/p&gt;
+&lt;p&gt;⭐ 12,528 | +492 today | 🔧 Kotlin&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/mobile-dev-inc/Maestro#2026-03-20</guid><pubDate>Fri, 20 Mar 2026 03:25:16 +0000</pubDate></item><item><title>#9 tw93/Mole (+399 stars)</title><link>https://github.com/tw93/Mole</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;tw93/Mole&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;🐹 Deep clean and optimize your Mac.&lt;/p&gt;
+&lt;p&gt;⭐ 42,073 | +399 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/tw93/Mole#2026-03-20</guid><pubDate>Fri, 20 Mar 2026 03:25:16 +0000</pubDate></item><item><title>#10 louis-e/arnis (+946 stars)</title><link>https://github.com/louis-e/arnis</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;louis-e/arnis&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Generate any location from the real world in Minecraft with a high level of detail.&lt;/p&gt;
+&lt;p&gt;⭐ 10,868 | +946 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/louis-e/arnis#2026-03-20</guid><pubDate>Fri, 20 Mar 2026 03:25:16 +0000</pubDate></item></channel></rss>

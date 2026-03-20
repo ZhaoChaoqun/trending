@@ -1,0 +1,103 @@
+{
+  "date": "2026-03-20",
+  "updated_at": "2026-03-20 03:25:16",
+  "count": 12,
+  "rankings": [
+    {
+      "name": "obra/superpowers",
+      "rank": 1,
+      "stars": "99,589",
+      "stars_today": "3,494",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "unslothai/unsloth",
+      "rank": 2,
+      "stars": "56,796",
+      "stars_today": "1,262",
+      "language": "Python",
+      "description": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally."
+    },
+    {
+      "name": "gsd-build/get-shit-done",
+      "rank": 3,
+      "stars": "36,299",
+      "stars_today": "1,491",
+      "language": "JavaScript",
+      "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES."
+    },
+    {
+      "name": "shareAI-lab/learn-claude-code",
+      "rank": 4,
+      "stars": "33,857",
+      "stars_today": "1,448",
+      "language": "TypeScript",
+      "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1"
+    },
+    {
+      "name": "opendataloader-project/opendataloader-pdf",
+      "rank": 5,
+      "stars": "5,933",
+      "stars_today": "1,416",
+      "language": "Java",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source."
+    },
+    {
+      "name": "langchain-ai/open-swe",
+      "rank": 6,
+      "stars": "7,120",
+      "stars_today": "965",
+      "language": "Python",
+      "description": "An Open-Source Asynchronous Coding Agent"
+    },
+    {
+      "name": "jarrodwatts/claude-hud",
+      "rank": 7,
+      "stars": "8,645",
+      "stars_today": "1,851",
+      "language": "JavaScript",
+      "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress"
+    },
+    {
+      "name": "mobile-dev-inc/Maestro",
+      "rank": 8,
+      "stars": "12,528",
+      "stars_today": "492",
+      "language": "Kotlin",
+      "description": "Painless E2E Automation for Mobile and Web"
+    },
+    {
+      "name": "tw93/Mole",
+      "rank": 9,
+      "stars": "42,073",
+      "stars_today": "399",
+      "language": "Shell",
+      "description": "🐹 Deep clean and optimize your Mac."
+    },
+    {
+      "name": "louis-e/arnis",
+      "rank": 10,
+      "stars": "10,868",
+      "stars_today": "946",
+      "language": "Rust",
+      "description": "Generate any location from the real world in Minecraft with a high level of detail."
+    },
+    {
+      "name": "newton-physics/newton",
+      "rank": 11,
+      "stars": "3,252",
+      "stars_today": "346",
+      "language": "Python",
+      "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers."
+    },
+    {
+      "name": "FujiwaraChoki/MoneyPrinterV2",
+      "rank": 12,
+      "stars": "16,160",
+      "stars_today": "146",
+      "language": "Python",
+      "description": "Automate the process of making money online."
+    }
+  ]
+}
