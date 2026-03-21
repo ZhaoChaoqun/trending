@@ -1,0 +1,79 @@
+{
+  "date": "2026-03-21",
+  "updated_at": "2026-03-21 03:14:11",
+  "count": 9,
+  "rankings": [
+    {
+      "name": "obra/superpowers",
+      "rank": 1,
+      "stars": "101,739",
+      "stars_today": "2,819",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "jarrodwatts/claude-hud",
+      "rank": 2,
+      "stars": "9,640",
+      "stars_today": "1,068",
+      "language": "JavaScript",
+      "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress"
+    },
+    {
+      "name": "langchain-ai/open-swe",
+      "rank": 3,
+      "stars": "7,682",
+      "stars_today": "635",
+      "language": "Python",
+      "description": "An Open-Source Asynchronous Coding Agent"
+    },
+    {
+      "name": "opendataloader-project/opendataloader-pdf",
+      "rank": 4,
+      "stars": "7,126",
+      "stars_today": "1,812",
+      "language": "Java",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source."
+    },
+    {
+      "name": "louis-e/arnis",
+      "rank": 5,
+      "stars": "11,636",
+      "stars_today": "1,045",
+      "language": "Rust",
+      "description": "Generate any location from the real world in Minecraft with a high level of detail."
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "rank": 6,
+      "stars": "34,210",
+      "stars_today": "433",
+      "language": "Python",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+    },
+    {
+      "name": "newton-physics/newton",
+      "rank": 7,
+      "stars": "3,496",
+      "stars_today": "266",
+      "language": "Python",
+      "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers."
+    },
+    {
+      "name": "openrocket/openrocket",
+      "rank": 8,
+      "stars": "2,239",
+      "stars_today": "144",
+      "language": "Java",
+      "description": "Model-rocketry aerodynamics and trajectory simulation software"
+    },
+    {
+      "name": "vas3k/TaxHacker",
+      "rank": 9,
+      "stars": "1,990",
+      "stars_today": "137",
+      "language": "TypeScript",
+      "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories"
+    }
+  ]
+}
