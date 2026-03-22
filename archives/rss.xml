@@ -1,65 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sat, 21 Mar 2026 03:14:11 +0000</pubDate><lastBuildDate>Sat, 21 Mar 2026 03:14:11 +0000</lastBuildDate><item><title>#1 obra/superpowers (+2,819 stars)</title><link>https://github.com/obra/superpowers</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sun, 22 Mar 2026 03:34:29 +0000</pubDate><lastBuildDate>Sun, 22 Mar 2026 03:34:29 +0000</lastBuildDate><item><title>#1 FujiwaraChoki/MoneyPrinterV2 (+283 stars)</title><link>https://github.com/FujiwaraChoki/MoneyPrinterV2</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 101,739 | +2,819 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-03-21</guid><pubDate>Sat, 21 Mar 2026 03:14:11 +0000</pubDate></item><item><title>#2 jarrodwatts/claude-hud (+1,068 stars)</title><link>https://github.com/jarrodwatts/claude-hud</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;jarrodwatts/claude-hud&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress&lt;/p&gt;
-&lt;p&gt;⭐ 9,640 | +1,068 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FujiwaraChoki/MoneyPrinterV2&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Automate the process of making money online.&lt;/p&gt;
+&lt;p&gt;⭐ 17,926 | +283 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/jarrodwatts/claude-hud#2026-03-21</guid><pubDate>Sat, 21 Mar 2026 03:14:11 +0000</pubDate></item><item><title>#3 langchain-ai/open-swe (+635 stars)</title><link>https://github.com/langchain-ai/open-swe</link><description>
+</description><guid isPermaLink="false">https://github.com/FujiwaraChoki/MoneyPrinterV2#2026-03-22</guid><pubDate>Sun, 22 Mar 2026 03:34:29 +0000</pubDate></item><item><title>#2 Crosstalk-Solutions/project-nomad (+2,032 stars)</title><link>https://github.com/Crosstalk-Solutions/project-nomad</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;langchain-ai/open-swe&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An Open-Source Asynchronous Coding Agent&lt;/p&gt;
-&lt;p&gt;⭐ 7,682 | +635 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Crosstalk-Solutions/project-nomad&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.&lt;/p&gt;
+&lt;p&gt;⭐ 6,972 | +2,032 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/langchain-ai/open-swe#2026-03-21</guid><pubDate>Sat, 21 Mar 2026 03:14:11 +0000</pubDate></item><item><title>#4 opendataloader-project/opendataloader-pdf (+1,812 stars)</title><link>https://github.com/opendataloader-project/opendataloader-pdf</link><description>
+</description><guid isPermaLink="false">https://github.com/Crosstalk-Solutions/project-nomad#2026-03-22</guid><pubDate>Sun, 22 Mar 2026 03:34:29 +0000</pubDate></item><item><title>#3 opendataloader-project/opendataloader-pdf (+950 stars)</title><link>https://github.com/opendataloader-project/opendataloader-pdf</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;opendataloader-project/opendataloader-pdf&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.&lt;/p&gt;
-&lt;p&gt;⭐ 7,126 | +1,812 today | 🔧 Java&lt;/p&gt;
+&lt;p&gt;⭐ 7,948 | +950 today | 🔧 Java&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/opendataloader-project/opendataloader-pdf#2026-03-21</guid><pubDate>Sat, 21 Mar 2026 03:14:11 +0000</pubDate></item><item><title>#5 louis-e/arnis (+1,045 stars)</title><link>https://github.com/louis-e/arnis</link><description>
+</description><guid isPermaLink="false">https://github.com/opendataloader-project/opendataloader-pdf#2026-03-22</guid><pubDate>Sun, 22 Mar 2026 03:34:29 +0000</pubDate></item><item><title>#4 jarrodwatts/claude-hud (+970 stars)</title><link>https://github.com/jarrodwatts/claude-hud</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;jarrodwatts/claude-hud&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress&lt;/p&gt;
+&lt;p&gt;⭐ 10,530 | +970 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/jarrodwatts/claude-hud#2026-03-22</guid><pubDate>Sun, 22 Mar 2026 03:34:29 +0000</pubDate></item><item><title>#5 louis-e/arnis (+690 stars)</title><link>https://github.com/louis-e/arnis</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;louis-e/arnis&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Generate any location from the real world in Minecraft with a high level of detail.&lt;/p&gt;
-&lt;p&gt;⭐ 11,636 | +1,045 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;⭐ 12,272 | +690 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/louis-e/arnis#2026-03-21</guid><pubDate>Sat, 21 Mar 2026 03:14:11 +0000</pubDate></item><item><title>#6 TauricResearch/TradingAgents (+433 stars)</title><link>https://github.com/TauricResearch/TradingAgents</link><description>
+</description><guid isPermaLink="false">https://github.com/louis-e/arnis#2026-03-22</guid><pubDate>Sun, 22 Mar 2026 03:34:29 +0000</pubDate></item><item><title>#6 systemd/systemd (+58 stars)</title><link>https://github.com/systemd/systemd</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;TauricResearch/TradingAgents&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;TradingAgents: Multi-Agents LLM Financial Trading Framework&lt;/p&gt;
-&lt;p&gt;⭐ 34,210 | +433 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/TauricResearch/TradingAgents#2026-03-21</guid><pubDate>Sat, 21 Mar 2026 03:14:11 +0000</pubDate></item><item><title>#7 newton-physics/newton (+266 stars)</title><link>https://github.com/newton-physics/newton</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;newton-physics/newton&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.&lt;/p&gt;
-&lt;p&gt;⭐ 3,496 | +266 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;systemd/systemd&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The systemd System and Service Manager&lt;/p&gt;
+&lt;p&gt;⭐ 15,751 | +58 today | 🔧 C&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/newton-physics/newton#2026-03-21</guid><pubDate>Sat, 21 Mar 2026 03:14:11 +0000</pubDate></item><item><title>#8 openrocket/openrocket (+144 stars)</title><link>https://github.com/openrocket/openrocket</link><description>
+</description><guid isPermaLink="false">https://github.com/systemd/systemd#2026-03-22</guid><pubDate>Sun, 22 Mar 2026 03:34:29 +0000</pubDate></item><item><title>#7 aquasecurity/trivy (+39 stars)</title><link>https://github.com/aquasecurity/trivy</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;openrocket/openrocket&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Model-rocketry aerodynamics and trajectory simulation software&lt;/p&gt;
-&lt;p&gt;⭐ 2,239 | +144 today | 🔧 Java&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/openrocket/openrocket#2026-03-21</guid><pubDate>Sat, 21 Mar 2026 03:14:11 +0000</pubDate></item><item><title>#9 vas3k/TaxHacker (+137 stars)</title><link>https://github.com/vas3k/TaxHacker</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;vas3k/TaxHacker&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories&lt;/p&gt;
-&lt;p&gt;⭐ 1,990 | +137 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;aquasecurity/trivy&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more&lt;/p&gt;
+&lt;p&gt;⭐ 33,403 | +39 today | 🔧 Go&lt;/p&gt;
 &lt;p&gt;推荐指数: 6/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/vas3k/TaxHacker#2026-03-21</guid><pubDate>Sat, 21 Mar 2026 03:14:11 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/aquasecurity/trivy#2026-03-22</guid><pubDate>Sun, 22 Mar 2026 03:34:29 +0000</pubDate></item><item><title>#8 protocolbuffers/protobuf (+7 stars)</title><link>https://github.com/protocolbuffers/protobuf</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;protocolbuffers/protobuf&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Protocol Buffers - Google's data interchange format&lt;/p&gt;
+&lt;p&gt;⭐ 70,955 | +7 today | 🔧 C++&lt;/p&gt;
+&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/protocolbuffers/protobuf#2026-03-22</guid><pubDate>Sun, 22 Mar 2026 03:34:29 +0000</pubDate></item><item><title>#9 vllm-project/vllm-omni (+71 stars)</title><link>https://github.com/vllm-project/vllm-omni</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;vllm-project/vllm-omni&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A framework for efficient model inference with omni-modality models&lt;/p&gt;
+&lt;p&gt;⭐ 3,533 | +71 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/vllm-project/vllm-omni#2026-03-22</guid><pubDate>Sun, 22 Mar 2026 03:34:29 +0000</pubDate></item></channel></rss>
