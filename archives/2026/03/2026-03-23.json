@@ -1,0 +1,127 @@
+{
+  "date": "2026-03-23",
+  "updated_at": "2026-03-23 03:38:27",
+  "count": 15,
+  "rankings": [
+    {
+      "name": "FujiwaraChoki/MoneyPrinterV2",
+      "rank": 1,
+      "stars": "20,186",
+      "stars_today": "1,787",
+      "language": "Python",
+      "description": "Automate the process of making money online."
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "rank": 2,
+      "stars": "37,641",
+      "stars_today": "1,051",
+      "language": "Python",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+    },
+    {
+      "name": "affaan-m/everything-claude-code",
+      "rank": 3,
+      "stars": "98,644",
+      "stars_today": "3,724",
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "name": "browser-use/browser-use",
+      "rank": 4,
+      "stars": "82,753",
+      "stars_today": "428",
+      "language": "Python",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "bytedance/deer-flow",
+      "rank": 5,
+      "stars": "35,898",
+      "stars_today": "1,690",
+      "language": "Python",
+      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours."
+    },
+    {
+      "name": "vxcontrol/pentagi",
+      "rank": 6,
+      "stars": "12,202",
+      "stars_today": "1,069",
+      "language": "Go",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks"
+    },
+    {
+      "name": "jarrodwatts/claude-hud",
+      "rank": 7,
+      "stars": "11,376",
+      "stars_today": "834",
+      "language": "JavaScript",
+      "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress"
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "rank": 8,
+      "stars": "10,561",
+      "stars_today": "2,300",
+      "language": "TypeScript",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere."
+    },
+    {
+      "name": "systemd/systemd",
+      "rank": 9,
+      "stars": "16,021",
+      "stars_today": "313",
+      "language": "C",
+      "description": "The systemd System and Service Manager"
+    },
+    {
+      "name": "HKUDS/LightRAG",
+      "rank": 10,
+      "stars": "30,104",
+      "stars_today": "220",
+      "language": "Python",
+      "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\""
+    },
+    {
+      "name": "hsliuping/TradingAgents-CN",
+      "rank": 11,
+      "stars": "19,915",
+      "stars_today": "230",
+      "language": "Python",
+      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版"
+    },
+    {
+      "name": "louis-e/arnis",
+      "rank": 12,
+      "stars": "12,798",
+      "stars_today": "582",
+      "language": "Rust",
+      "description": "Generate any location from the real world in Minecraft with a high level of detail."
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "rank": 13,
+      "stars": "51,144",
+      "stars_today": "189",
+      "language": "Python",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
+    },
+    {
+      "name": "jamwithai/production-agentic-rag-course",
+      "rank": 14,
+      "stars": "4,847",
+      "stars_today": "237",
+      "language": "Python",
+      "description": ""
+    },
+    {
+      "name": "aquasecurity/trivy",
+      "rank": 15,
+      "stars": "33,701",
+      "stars_today": "251",
+      "language": "Go",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
+    }
+  ]
+}

@@ -1,65 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sun, 22 Mar 2026 03:34:29 +0000</pubDate><lastBuildDate>Sun, 22 Mar 2026 03:34:29 +0000</lastBuildDate><item><title>#1 FujiwaraChoki/MoneyPrinterV2 (+283 stars)</title><link>https://github.com/FujiwaraChoki/MoneyPrinterV2</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Mon, 23 Mar 2026 03:38:27 +0000</pubDate><lastBuildDate>Mon, 23 Mar 2026 03:38:27 +0000</lastBuildDate><item><title>#1 FujiwaraChoki/MoneyPrinterV2 (+1,787 stars)</title><link>https://github.com/FujiwaraChoki/MoneyPrinterV2</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;FujiwaraChoki/MoneyPrinterV2&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Automate the process of making money online.&lt;/p&gt;
-&lt;p&gt;⭐ 17,926 | +283 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 20,186 | +1,787 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/FujiwaraChoki/MoneyPrinterV2#2026-03-22</guid><pubDate>Sun, 22 Mar 2026 03:34:29 +0000</pubDate></item><item><title>#2 Crosstalk-Solutions/project-nomad (+2,032 stars)</title><link>https://github.com/Crosstalk-Solutions/project-nomad</link><description>
+</description><guid isPermaLink="false">https://github.com/FujiwaraChoki/MoneyPrinterV2#2026-03-23</guid><pubDate>Mon, 23 Mar 2026 03:38:27 +0000</pubDate></item><item><title>#2 TauricResearch/TradingAgents (+1,051 stars)</title><link>https://github.com/TauricResearch/TradingAgents</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Crosstalk-Solutions/project-nomad&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.&lt;/p&gt;
-&lt;p&gt;⭐ 6,972 | +2,032 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;TauricResearch/TradingAgents&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;TradingAgents: Multi-Agents LLM Financial Trading Framework&lt;/p&gt;
+&lt;p&gt;⭐ 37,641 | +1,051 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Crosstalk-Solutions/project-nomad#2026-03-22</guid><pubDate>Sun, 22 Mar 2026 03:34:29 +0000</pubDate></item><item><title>#3 opendataloader-project/opendataloader-pdf (+950 stars)</title><link>https://github.com/opendataloader-project/opendataloader-pdf</link><description>
+</description><guid isPermaLink="false">https://github.com/TauricResearch/TradingAgents#2026-03-23</guid><pubDate>Mon, 23 Mar 2026 03:38:27 +0000</pubDate></item><item><title>#3 affaan-m/everything-claude-code (+3,724 stars)</title><link>https://github.com/affaan-m/everything-claude-code</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;opendataloader-project/opendataloader-pdf&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.&lt;/p&gt;
-&lt;p&gt;⭐ 7,948 | +950 today | 🔧 Java&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;affaan-m/everything-claude-code&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.&lt;/p&gt;
+&lt;p&gt;⭐ 98,644 | +3,724 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/affaan-m/everything-claude-code#2026-03-23</guid><pubDate>Mon, 23 Mar 2026 03:38:27 +0000</pubDate></item><item><title>#4 browser-use/browser-use (+428 stars)</title><link>https://github.com/browser-use/browser-use</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;browser-use/browser-use&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;🌐 Make websites accessible for AI agents. Automate tasks online with ease.&lt;/p&gt;
+&lt;p&gt;⭐ 82,753 | +428 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/browser-use/browser-use#2026-03-23</guid><pubDate>Mon, 23 Mar 2026 03:38:27 +0000</pubDate></item><item><title>#5 bytedance/deer-flow (+1,690 stars)</title><link>https://github.com/bytedance/deer-flow</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;bytedance/deer-flow&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.&lt;/p&gt;
+&lt;p&gt;⭐ 35,898 | +1,690 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/bytedance/deer-flow#2026-03-23</guid><pubDate>Mon, 23 Mar 2026 03:38:27 +0000</pubDate></item><item><title>#6 vxcontrol/pentagi (+1,069 stars)</title><link>https://github.com/vxcontrol/pentagi</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;vxcontrol/pentagi&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fully autonomous AI Agents system capable of performing complex penetration testing tasks&lt;/p&gt;
+&lt;p&gt;⭐ 12,202 | +1,069 today | 🔧 Go&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/opendataloader-project/opendataloader-pdf#2026-03-22</guid><pubDate>Sun, 22 Mar 2026 03:34:29 +0000</pubDate></item><item><title>#4 jarrodwatts/claude-hud (+970 stars)</title><link>https://github.com/jarrodwatts/claude-hud</link><description>
+</description><guid isPermaLink="false">https://github.com/vxcontrol/pentagi#2026-03-23</guid><pubDate>Mon, 23 Mar 2026 03:38:27 +0000</pubDate></item><item><title>#7 jarrodwatts/claude-hud (+834 stars)</title><link>https://github.com/jarrodwatts/claude-hud</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;jarrodwatts/claude-hud&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress&lt;/p&gt;
-&lt;p&gt;⭐ 10,530 | +970 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 11,376 | +834 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/jarrodwatts/claude-hud#2026-03-22</guid><pubDate>Sun, 22 Mar 2026 03:34:29 +0000</pubDate></item><item><title>#5 louis-e/arnis (+690 stars)</title><link>https://github.com/louis-e/arnis</link><description>
+</description><guid isPermaLink="false">https://github.com/jarrodwatts/claude-hud#2026-03-23</guid><pubDate>Mon, 23 Mar 2026 03:38:27 +0000</pubDate></item><item><title>#8 Crosstalk-Solutions/project-nomad (+2,300 stars)</title><link>https://github.com/Crosstalk-Solutions/project-nomad</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;louis-e/arnis&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Generate any location from the real world in Minecraft with a high level of detail.&lt;/p&gt;
-&lt;p&gt;⭐ 12,272 | +690 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Crosstalk-Solutions/project-nomad&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.&lt;/p&gt;
+&lt;p&gt;⭐ 10,561 | +2,300 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/louis-e/arnis#2026-03-22</guid><pubDate>Sun, 22 Mar 2026 03:34:29 +0000</pubDate></item><item><title>#6 systemd/systemd (+58 stars)</title><link>https://github.com/systemd/systemd</link><description>
+</description><guid isPermaLink="false">https://github.com/Crosstalk-Solutions/project-nomad#2026-03-23</guid><pubDate>Mon, 23 Mar 2026 03:38:27 +0000</pubDate></item><item><title>#9 systemd/systemd (+313 stars)</title><link>https://github.com/systemd/systemd</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;systemd/systemd&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The systemd System and Service Manager&lt;/p&gt;
-&lt;p&gt;⭐ 15,751 | +58 today | 🔧 C&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+&lt;p&gt;⭐ 16,021 | +313 today | 🔧 C&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/systemd/systemd#2026-03-22</guid><pubDate>Sun, 22 Mar 2026 03:34:29 +0000</pubDate></item><item><title>#7 aquasecurity/trivy (+39 stars)</title><link>https://github.com/aquasecurity/trivy</link><description>
+</description><guid isPermaLink="false">https://github.com/systemd/systemd#2026-03-23</guid><pubDate>Mon, 23 Mar 2026 03:38:27 +0000</pubDate></item><item><title>#10 HKUDS/LightRAG (+220 stars)</title><link>https://github.com/HKUDS/LightRAG</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;aquasecurity/trivy&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more&lt;/p&gt;
-&lt;p&gt;⭐ 33,403 | +39 today | 🔧 Go&lt;/p&gt;
-&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HKUDS/LightRAG&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;[EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"&lt;/p&gt;
+&lt;p&gt;⭐ 30,104 | +220 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/aquasecurity/trivy#2026-03-22</guid><pubDate>Sun, 22 Mar 2026 03:34:29 +0000</pubDate></item><item><title>#8 protocolbuffers/protobuf (+7 stars)</title><link>https://github.com/protocolbuffers/protobuf</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;protocolbuffers/protobuf&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Protocol Buffers - Google's data interchange format&lt;/p&gt;
-&lt;p&gt;⭐ 70,955 | +7 today | 🔧 C++&lt;/p&gt;
-&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/protocolbuffers/protobuf#2026-03-22</guid><pubDate>Sun, 22 Mar 2026 03:34:29 +0000</pubDate></item><item><title>#9 vllm-project/vllm-omni (+71 stars)</title><link>https://github.com/vllm-project/vllm-omni</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;vllm-project/vllm-omni&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A framework for efficient model inference with omni-modality models&lt;/p&gt;
-&lt;p&gt;⭐ 3,533 | +71 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/vllm-project/vllm-omni#2026-03-22</guid><pubDate>Sun, 22 Mar 2026 03:34:29 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/HKUDS/LightRAG#2026-03-23</guid><pubDate>Mon, 23 Mar 2026 03:38:27 +0000</pubDate></item></channel></rss>
