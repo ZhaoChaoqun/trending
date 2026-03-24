@@ -1,0 +1,127 @@
+{
+  "date": "2026-03-24",
+  "updated_at": "2026-03-24 03:29:41",
+  "count": 15,
+  "rankings": [
+    {
+      "name": "FujiwaraChoki/MoneyPrinterV2",
+      "rank": 1,
+      "stars": "23,238",
+      "stars_today": "2,880",
+      "language": "Python",
+      "description": "Automate the process of making money online."
+    },
+    {
+      "name": "bytedance/deer-flow",
+      "rank": 2,
+      "stars": "39,983",
+      "stars_today": "3,546",
+      "language": "Python",
+      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours."
+    },
+    {
+      "name": "browser-use/browser-use",
+      "rank": 3,
+      "stars": "83,794",
+      "stars_today": "1,157",
+      "language": "Python",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "rank": 4,
+      "stars": "39,551",
+      "stars_today": "2,530",
+      "language": "Python",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+    },
+    {
+      "name": "affaan-m/everything-claude-code",
+      "rank": 5,
+      "stars": "102,352",
+      "stars_today": "4,458",
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "name": "hsliuping/TradingAgents-CN",
+      "rank": 6,
+      "stars": "20,399",
+      "stars_today": "676",
+      "language": "Python",
+      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版"
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "rank": 7,
+      "stars": "13,572",
+      "stars_today": "4,138",
+      "language": "TypeScript",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere."
+    },
+    {
+      "name": "vxcontrol/pentagi",
+      "rank": 8,
+      "stars": "13,093",
+      "stars_today": "1,309",
+      "language": "Go",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "rank": 9,
+      "stars": "11,684",
+      "stars_today": "919",
+      "language": "Python",
+      "description": "The agent that grows with you"
+    },
+    {
+      "name": "jingyaogong/minimind",
+      "rank": 10,
+      "stars": "42,676",
+      "stars_today": "487",
+      "language": "Python",
+      "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!"
+    },
+    {
+      "name": "kepano/obsidian-skills",
+      "rank": 11,
+      "stars": "16,450",
+      "stars_today": "354",
+      "language": null,
+      "description": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI."
+    },
+    {
+      "name": "iptv-org/iptv",
+      "rank": 12,
+      "stars": "113,655",
+      "stars_today": "106",
+      "language": "TypeScript",
+      "description": "Collection of publicly available IPTV channels from all over the world"
+    },
+    {
+      "name": "hesreallyhim/awesome-claude-code",
+      "rank": 13,
+      "stars": "31,111",
+      "stars_today": "429",
+      "language": "Python",
+      "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic"
+    },
+    {
+      "name": "tinygrad/tinygrad",
+      "rank": 14,
+      "stars": "31,912",
+      "stars_today": "56",
+      "language": "Python",
+      "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️"
+    },
+    {
+      "name": "czlonkowski/n8n-mcp",
+      "rank": 15,
+      "stars": "16,111",
+      "stars_today": "146",
+      "language": "TypeScript",
+      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you"
+    }
+  ]
+}
