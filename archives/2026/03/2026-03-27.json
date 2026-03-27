@@ -1,0 +1,79 @@
+{
+  "date": "2026-03-27",
+  "updated_at": "2026-03-27 03:45:10",
+  "count": 9,
+  "rankings": [
+    {
+      "name": "ruvnet/RuView",
+      "rank": 1,
+      "stars": "43,306",
+      "stars_today": "1,002",
+      "language": "Rust",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video."
+    },
+    {
+      "name": "bytedance/deer-flow",
+      "rank": 2,
+      "stars": "48,852",
+      "stars_today": "2,394",
+      "language": "Python",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours."
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "rank": 3,
+      "stars": "10,613",
+      "stars_today": "2,685",
+      "language": "Python",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+    },
+    {
+      "name": "Yeachan-Heo/oh-my-claudecode",
+      "rank": 4,
+      "stars": "12,843",
+      "stars_today": "598",
+      "language": "TypeScript",
+      "description": "Teams-first Multi-agent orchestration for Claude Code"
+    },
+    {
+      "name": "virattt/dexter",
+      "rank": 5,
+      "stars": "19,078",
+      "stars_today": "210",
+      "language": "TypeScript",
+      "description": "An autonomous agent for deep financial research"
+    },
+    {
+      "name": "Vaibhavs10/insanely-fast-whisper",
+      "rank": 6,
+      "stars": "11,355",
+      "stars_today": "1,370",
+      "language": "Jupyter Notebook",
+      "description": ""
+    },
+    {
+      "name": "agentscope-ai/agentscope",
+      "rank": 7,
+      "stars": "20,582",
+      "stars_today": "437",
+      "language": "Python",
+      "description": "Build and run agents you can see, understand and trust."
+    },
+    {
+      "name": "twentyhq/twenty",
+      "rank": 8,
+      "stars": "41,357",
+      "stars_today": "117",
+      "language": "TypeScript",
+      "description": "Building a modern alternative to Salesforce, powered by the community."
+    },
+    {
+      "name": "datalab-to/chandra",
+      "rank": 9,
+      "stars": "6,262",
+      "stars_today": "557",
+      "language": "Python",
+      "description": "OCR model that handles complex tables, forms, handwriting with full layout."
+    }
+  ]
+}
