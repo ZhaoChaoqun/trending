@@ -1,0 +1,103 @@
+{
+  "date": "2026-03-28",
+  "updated_at": "2026-03-28 03:31:21",
+  "count": 12,
+  "rankings": [
+    {
+      "name": "hacksider/Deep-Live-Cam",
+      "rank": 1,
+      "stars": "83,202",
+      "stars_today": "1,616",
+      "language": "Python",
+      "description": "real time face swap and one-click video deepfake with only a single image"
+    },
+    {
+      "name": "twentyhq/twenty",
+      "rank": 2,
+      "stars": "42,055",
+      "stars_today": "668",
+      "language": "TypeScript",
+      "description": "Building a modern alternative to Salesforce, powered by the community."
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 3,
+      "stars": "118,763",
+      "stars_today": "2,752",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "rank": 4,
+      "stars": "12,858",
+      "stars_today": "2,821",
+      "language": "Python",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "rank": 5,
+      "stars": "24,732",
+      "stars_today": "337",
+      "language": "Python",
+      "description": "Open-Source Frontier Voice AI"
+    },
+    {
+      "name": "datalab-to/chandra",
+      "rank": 6,
+      "stars": "7,086",
+      "stars_today": "912",
+      "language": "Python",
+      "description": "OCR model that handles complex tables, forms, handwriting with full layout."
+    },
+    {
+      "name": "virattt/dexter",
+      "rank": 7,
+      "stars": "19,744",
+      "stars_today": "672",
+      "language": "TypeScript",
+      "description": "An autonomous agent for deep financial research"
+    },
+    {
+      "name": "Yeachan-Heo/oh-my-claudecode",
+      "rank": 8,
+      "stars": "14,059",
+      "stars_today": "1,411",
+      "language": "TypeScript",
+      "description": "Teams-first Multi-agent orchestration for Claude Code"
+    },
+    {
+      "name": "Vaibhavs10/insanely-fast-whisper",
+      "rank": 9,
+      "stars": "11,911",
+      "stars_today": "1,066",
+      "language": "Jupyter Notebook",
+      "description": ""
+    },
+    {
+      "name": "onyx-dot-app/onyx",
+      "rank": 10,
+      "stars": "19,200",
+      "stars_today": "547",
+      "language": "Python",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM"
+    },
+    {
+      "name": "SakanaAI/AI-Scientist-v2",
+      "rank": 11,
+      "stars": "2,920",
+      "stars_today": "143",
+      "language": "Python",
+      "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search"
+    },
+    {
+      "name": "FreeCAD/FreeCAD",
+      "rank": 12,
+      "stars": "29,701",
+      "stars_today": "79",
+      "language": "C++",
+      "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler."
+    }
+  ]
+}

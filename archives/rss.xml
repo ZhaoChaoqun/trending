@@ -1,65 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 27 Mar 2026 03:45:10 +0000</pubDate><lastBuildDate>Fri, 27 Mar 2026 03:45:10 +0000</lastBuildDate><item><title>#1 ruvnet/RuView (+1,002 stars)</title><link>https://github.com/ruvnet/RuView</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sat, 28 Mar 2026 03:31:21 +0000</pubDate><lastBuildDate>Sat, 28 Mar 2026 03:31:21 +0000</lastBuildDate><item><title>#1 hacksider/Deep-Live-Cam (+1,616 stars)</title><link>https://github.com/hacksider/Deep-Live-Cam</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ruvnet/RuView&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.&lt;/p&gt;
-&lt;p&gt;⭐ 43,306 | +1,002 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;hacksider/Deep-Live-Cam&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;real time face swap and one-click video deepfake with only a single image&lt;/p&gt;
+&lt;p&gt;⭐ 83,202 | +1,616 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/ruvnet/RuView#2026-03-27</guid><pubDate>Fri, 27 Mar 2026 03:45:10 +0000</pubDate></item><item><title>#2 bytedance/deer-flow (+2,394 stars)</title><link>https://github.com/bytedance/deer-flow</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;bytedance/deer-flow&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.&lt;/p&gt;
-&lt;p&gt;⭐ 48,852 | +2,394 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/bytedance/deer-flow#2026-03-27</guid><pubDate>Fri, 27 Mar 2026 03:45:10 +0000</pubDate></item><item><title>#3 mvanhorn/last30days-skill (+2,685 stars)</title><link>https://github.com/mvanhorn/last30days-skill</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;mvanhorn/last30days-skill&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary&lt;/p&gt;
-&lt;p&gt;⭐ 10,613 | +2,685 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/mvanhorn/last30days-skill#2026-03-27</guid><pubDate>Fri, 27 Mar 2026 03:45:10 +0000</pubDate></item><item><title>#4 Yeachan-Heo/oh-my-claudecode (+598 stars)</title><link>https://github.com/Yeachan-Heo/oh-my-claudecode</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Yeachan-Heo/oh-my-claudecode&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Teams-first Multi-agent orchestration for Claude Code&lt;/p&gt;
-&lt;p&gt;⭐ 12,843 | +598 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/Yeachan-Heo/oh-my-claudecode#2026-03-27</guid><pubDate>Fri, 27 Mar 2026 03:45:10 +0000</pubDate></item><item><title>#5 virattt/dexter (+210 stars)</title><link>https://github.com/virattt/dexter</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;virattt/dexter&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An autonomous agent for deep financial research&lt;/p&gt;
-&lt;p&gt;⭐ 19,078 | +210 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/virattt/dexter#2026-03-27</guid><pubDate>Fri, 27 Mar 2026 03:45:10 +0000</pubDate></item><item><title>#6 Vaibhavs10/insanely-fast-whisper (+1,370 stars)</title><link>https://github.com/Vaibhavs10/insanely-fast-whisper</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Vaibhavs10/insanely-fast-whisper&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;⭐ 11,355 | +1,370 today | 🔧 Jupyter Notebook&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/Vaibhavs10/insanely-fast-whisper#2026-03-27</guid><pubDate>Fri, 27 Mar 2026 03:45:10 +0000</pubDate></item><item><title>#7 agentscope-ai/agentscope (+437 stars)</title><link>https://github.com/agentscope-ai/agentscope</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;agentscope-ai/agentscope&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Build and run agents you can see, understand and trust.&lt;/p&gt;
-&lt;p&gt;⭐ 20,582 | +437 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/agentscope-ai/agentscope#2026-03-27</guid><pubDate>Fri, 27 Mar 2026 03:45:10 +0000</pubDate></item><item><title>#8 twentyhq/twenty (+117 stars)</title><link>https://github.com/twentyhq/twenty</link><description>
+</description><guid isPermaLink="false">https://github.com/hacksider/Deep-Live-Cam#2026-03-28</guid><pubDate>Sat, 28 Mar 2026 03:31:21 +0000</pubDate></item><item><title>#2 twentyhq/twenty (+668 stars)</title><link>https://github.com/twentyhq/twenty</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;twentyhq/twenty&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Building a modern alternative to Salesforce, powered by the community.&lt;/p&gt;
-&lt;p&gt;⭐ 41,357 | +117 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 42,055 | +668 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/twentyhq/twenty#2026-03-28</guid><pubDate>Sat, 28 Mar 2026 03:31:21 +0000</pubDate></item><item><title>#3 obra/superpowers (+2,752 stars)</title><link>https://github.com/obra/superpowers</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
+&lt;p&gt;⭐ 118,763 | +2,752 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-03-28</guid><pubDate>Sat, 28 Mar 2026 03:31:21 +0000</pubDate></item><item><title>#4 mvanhorn/last30days-skill (+2,821 stars)</title><link>https://github.com/mvanhorn/last30days-skill</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;mvanhorn/last30days-skill&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary&lt;/p&gt;
+&lt;p&gt;⭐ 12,858 | +2,821 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/twentyhq/twenty#2026-03-27</guid><pubDate>Fri, 27 Mar 2026 03:45:10 +0000</pubDate></item><item><title>#9 datalab-to/chandra (+557 stars)</title><link>https://github.com/datalab-to/chandra</link><description>
+</description><guid isPermaLink="false">https://github.com/mvanhorn/last30days-skill#2026-03-28</guid><pubDate>Sat, 28 Mar 2026 03:31:21 +0000</pubDate></item><item><title>#5 microsoft/VibeVoice (+337 stars)</title><link>https://github.com/microsoft/VibeVoice</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;microsoft/VibeVoice&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open-Source Frontier Voice AI&lt;/p&gt;
+&lt;p&gt;⭐ 24,732 | +337 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/microsoft/VibeVoice#2026-03-28</guid><pubDate>Sat, 28 Mar 2026 03:31:21 +0000</pubDate></item><item><title>#6 datalab-to/chandra (+912 stars)</title><link>https://github.com/datalab-to/chandra</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;datalab-to/chandra&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;OCR model that handles complex tables, forms, handwriting with full layout.&lt;/p&gt;
-&lt;p&gt;⭐ 6,262 | +557 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 7,086 | +912 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/datalab-to/chandra#2026-03-27</guid><pubDate>Fri, 27 Mar 2026 03:45:10 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/datalab-to/chandra#2026-03-28</guid><pubDate>Sat, 28 Mar 2026 03:31:21 +0000</pubDate></item><item><title>#7 virattt/dexter (+672 stars)</title><link>https://github.com/virattt/dexter</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;virattt/dexter&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An autonomous agent for deep financial research&lt;/p&gt;
+&lt;p&gt;⭐ 19,744 | +672 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/virattt/dexter#2026-03-28</guid><pubDate>Sat, 28 Mar 2026 03:31:21 +0000</pubDate></item><item><title>#8 Yeachan-Heo/oh-my-claudecode (+1,411 stars)</title><link>https://github.com/Yeachan-Heo/oh-my-claudecode</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Yeachan-Heo/oh-my-claudecode&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Teams-first Multi-agent orchestration for Claude Code&lt;/p&gt;
+&lt;p&gt;⭐ 14,059 | +1,411 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Yeachan-Heo/oh-my-claudecode#2026-03-28</guid><pubDate>Sat, 28 Mar 2026 03:31:21 +0000</pubDate></item><item><title>#9 Vaibhavs10/insanely-fast-whisper (+1,066 stars)</title><link>https://github.com/Vaibhavs10/insanely-fast-whisper</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Vaibhavs10/insanely-fast-whisper&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;⭐ 11,911 | +1,066 today | 🔧 Jupyter Notebook&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Vaibhavs10/insanely-fast-whisper#2026-03-28</guid><pubDate>Sat, 28 Mar 2026 03:31:21 +0000</pubDate></item><item><title>#10 onyx-dot-app/onyx (+547 stars)</title><link>https://github.com/onyx-dot-app/onyx</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;onyx-dot-app/onyx&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open Source AI Platform - AI Chat with advanced features that works with every LLM&lt;/p&gt;
+&lt;p&gt;⭐ 19,200 | +547 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/onyx-dot-app/onyx#2026-03-28</guid><pubDate>Sat, 28 Mar 2026 03:31:21 +0000</pubDate></item></channel></rss>
