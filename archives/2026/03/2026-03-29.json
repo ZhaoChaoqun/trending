@@ -1,0 +1,79 @@
+{
+  "date": "2026-03-29",
+  "updated_at": "2026-03-29 03:50:36",
+  "count": 9,
+  "rankings": [
+    {
+      "name": "hacksider/Deep-Live-Cam",
+      "rank": 1,
+      "stars": "84,436",
+      "stars_today": "1,814",
+      "language": "Python",
+      "description": "real time face swap and one-click video deepfake with only a single image"
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 2,
+      "stars": "121,006",
+      "stars_today": "2,292",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "virattt/dexter",
+      "rank": 3,
+      "stars": "20,258",
+      "stars_today": "581",
+      "language": "TypeScript",
+      "description": "An autonomous agent for deep financial research"
+    },
+    {
+      "name": "twentyhq/twenty",
+      "rank": 4,
+      "stars": "42,478",
+      "stars_today": "563",
+      "language": "TypeScript",
+      "description": "Building a modern alternative to Salesforce, powered by the community."
+    },
+    {
+      "name": "SakanaAI/AI-Scientist-v2",
+      "rank": 5,
+      "stars": "3,546",
+      "stars_today": "506",
+      "language": "Python",
+      "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search"
+    },
+    {
+      "name": "onyx-dot-app/onyx",
+      "rank": 6,
+      "stars": "19,809",
+      "stars_today": "880",
+      "language": "Python",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM"
+    },
+    {
+      "name": "datalab-to/chandra",
+      "rank": 7,
+      "stars": "7,640",
+      "stars_today": "687",
+      "language": "Python",
+      "description": "OCR model that handles complex tables, forms, handwriting with full layout."
+    },
+    {
+      "name": "agentscope-ai/agentscope",
+      "rank": 8,
+      "stars": "21,662",
+      "stars_today": "398",
+      "language": "Python",
+      "description": "Build and run agents you can see, understand and trust."
+    },
+    {
+      "name": "apache/superset",
+      "rank": 9,
+      "stars": "71,505",
+      "stars_today": "31",
+      "language": "TypeScript",
+      "description": "Apache Superset is a Data Visualization and Data Exploration Platform"
+    }
+  ]
+}

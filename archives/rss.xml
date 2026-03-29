@@ -1,72 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sat, 28 Mar 2026 03:31:21 +0000</pubDate><lastBuildDate>Sat, 28 Mar 2026 03:31:21 +0000</lastBuildDate><item><title>#1 hacksider/Deep-Live-Cam (+1,616 stars)</title><link>https://github.com/hacksider/Deep-Live-Cam</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sun, 29 Mar 2026 03:50:36 +0000</pubDate><lastBuildDate>Sun, 29 Mar 2026 03:50:36 +0000</lastBuildDate><item><title>#1 hacksider/Deep-Live-Cam (+1,814 stars)</title><link>https://github.com/hacksider/Deep-Live-Cam</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;hacksider/Deep-Live-Cam&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;real time face swap and one-click video deepfake with only a single image&lt;/p&gt;
-&lt;p&gt;⭐ 83,202 | +1,616 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 84,436 | +1,814 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/hacksider/Deep-Live-Cam#2026-03-28</guid><pubDate>Sat, 28 Mar 2026 03:31:21 +0000</pubDate></item><item><title>#2 twentyhq/twenty (+668 stars)</title><link>https://github.com/twentyhq/twenty</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;twentyhq/twenty&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Building a modern alternative to Salesforce, powered by the community.&lt;/p&gt;
-&lt;p&gt;⭐ 42,055 | +668 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/twentyhq/twenty#2026-03-28</guid><pubDate>Sat, 28 Mar 2026 03:31:21 +0000</pubDate></item><item><title>#3 obra/superpowers (+2,752 stars)</title><link>https://github.com/obra/superpowers</link><description>
+</description><guid isPermaLink="false">https://github.com/hacksider/Deep-Live-Cam#2026-03-29</guid><pubDate>Sun, 29 Mar 2026 03:50:36 +0000</pubDate></item><item><title>#2 obra/superpowers (+2,292 stars)</title><link>https://github.com/obra/superpowers</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 118,763 | +2,752 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 121,006 | +2,292 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-03-28</guid><pubDate>Sat, 28 Mar 2026 03:31:21 +0000</pubDate></item><item><title>#4 mvanhorn/last30days-skill (+2,821 stars)</title><link>https://github.com/mvanhorn/last30days-skill</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;mvanhorn/last30days-skill&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary&lt;/p&gt;
-&lt;p&gt;⭐ 12,858 | +2,821 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/mvanhorn/last30days-skill#2026-03-28</guid><pubDate>Sat, 28 Mar 2026 03:31:21 +0000</pubDate></item><item><title>#5 microsoft/VibeVoice (+337 stars)</title><link>https://github.com/microsoft/VibeVoice</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;microsoft/VibeVoice&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Open-Source Frontier Voice AI&lt;/p&gt;
-&lt;p&gt;⭐ 24,732 | +337 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/microsoft/VibeVoice#2026-03-28</guid><pubDate>Sat, 28 Mar 2026 03:31:21 +0000</pubDate></item><item><title>#6 datalab-to/chandra (+912 stars)</title><link>https://github.com/datalab-to/chandra</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;datalab-to/chandra&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OCR model that handles complex tables, forms, handwriting with full layout.&lt;/p&gt;
-&lt;p&gt;⭐ 7,086 | +912 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/datalab-to/chandra#2026-03-28</guid><pubDate>Sat, 28 Mar 2026 03:31:21 +0000</pubDate></item><item><title>#7 virattt/dexter (+672 stars)</title><link>https://github.com/virattt/dexter</link><description>
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-03-29</guid><pubDate>Sun, 29 Mar 2026 03:50:36 +0000</pubDate></item><item><title>#3 virattt/dexter (+581 stars)</title><link>https://github.com/virattt/dexter</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;virattt/dexter&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;An autonomous agent for deep financial research&lt;/p&gt;
-&lt;p&gt;⭐ 19,744 | +672 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 20,258 | +581 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/virattt/dexter#2026-03-28</guid><pubDate>Sat, 28 Mar 2026 03:31:21 +0000</pubDate></item><item><title>#8 Yeachan-Heo/oh-my-claudecode (+1,411 stars)</title><link>https://github.com/Yeachan-Heo/oh-my-claudecode</link><description>
+</description><guid isPermaLink="false">https://github.com/virattt/dexter#2026-03-29</guid><pubDate>Sun, 29 Mar 2026 03:50:36 +0000</pubDate></item><item><title>#4 twentyhq/twenty (+563 stars)</title><link>https://github.com/twentyhq/twenty</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Yeachan-Heo/oh-my-claudecode&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Teams-first Multi-agent orchestration for Claude Code&lt;/p&gt;
-&lt;p&gt;⭐ 14,059 | +1,411 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;twentyhq/twenty&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Building a modern alternative to Salesforce, powered by the community.&lt;/p&gt;
+&lt;p&gt;⭐ 42,478 | +563 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Yeachan-Heo/oh-my-claudecode#2026-03-28</guid><pubDate>Sat, 28 Mar 2026 03:31:21 +0000</pubDate></item><item><title>#9 Vaibhavs10/insanely-fast-whisper (+1,066 stars)</title><link>https://github.com/Vaibhavs10/insanely-fast-whisper</link><description>
+</description><guid isPermaLink="false">https://github.com/twentyhq/twenty#2026-03-29</guid><pubDate>Sun, 29 Mar 2026 03:50:36 +0000</pubDate></item><item><title>#5 SakanaAI/AI-Scientist-v2 (+506 stars)</title><link>https://github.com/SakanaAI/AI-Scientist-v2</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Vaibhavs10/insanely-fast-whisper&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;⭐ 11,911 | +1,066 today | 🔧 Jupyter Notebook&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SakanaAI/AI-Scientist-v2&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search&lt;/p&gt;
+&lt;p&gt;⭐ 3,546 | +506 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Vaibhavs10/insanely-fast-whisper#2026-03-28</guid><pubDate>Sat, 28 Mar 2026 03:31:21 +0000</pubDate></item><item><title>#10 onyx-dot-app/onyx (+547 stars)</title><link>https://github.com/onyx-dot-app/onyx</link><description>
+</description><guid isPermaLink="false">https://github.com/SakanaAI/AI-Scientist-v2#2026-03-29</guid><pubDate>Sun, 29 Mar 2026 03:50:36 +0000</pubDate></item><item><title>#6 onyx-dot-app/onyx (+880 stars)</title><link>https://github.com/onyx-dot-app/onyx</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;onyx-dot-app/onyx&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Open Source AI Platform - AI Chat with advanced features that works with every LLM&lt;/p&gt;
-&lt;p&gt;⭐ 19,200 | +547 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 19,809 | +880 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/onyx-dot-app/onyx#2026-03-28</guid><pubDate>Sat, 28 Mar 2026 03:31:21 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/onyx-dot-app/onyx#2026-03-29</guid><pubDate>Sun, 29 Mar 2026 03:50:36 +0000</pubDate></item><item><title>#7 datalab-to/chandra (+687 stars)</title><link>https://github.com/datalab-to/chandra</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;datalab-to/chandra&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OCR model that handles complex tables, forms, handwriting with full layout.&lt;/p&gt;
+&lt;p&gt;⭐ 7,640 | +687 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/datalab-to/chandra#2026-03-29</guid><pubDate>Sun, 29 Mar 2026 03:50:36 +0000</pubDate></item><item><title>#8 agentscope-ai/agentscope (+398 stars)</title><link>https://github.com/agentscope-ai/agentscope</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;agentscope-ai/agentscope&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Build and run agents you can see, understand and trust.&lt;/p&gt;
+&lt;p&gt;⭐ 21,662 | +398 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/agentscope-ai/agentscope#2026-03-29</guid><pubDate>Sun, 29 Mar 2026 03:50:36 +0000</pubDate></item><item><title>#9 apache/superset (+31 stars)</title><link>https://github.com/apache/superset</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;apache/superset&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Apache Superset is a Data Visualization and Data Exploration Platform&lt;/p&gt;
+&lt;p&gt;⭐ 71,505 | +31 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/apache/superset#2026-03-29</guid><pubDate>Sun, 29 Mar 2026 03:50:36 +0000</pubDate></item></channel></rss>
