@@ -1,0 +1,103 @@
+{
+  "date": "2026-03-30",
+  "updated_at": "2026-03-30 03:54:17",
+  "count": 12,
+  "rankings": [
+    {
+      "name": "obra/superpowers",
+      "rank": 1,
+      "stars": "123,474",
+      "stars_today": "2,230",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "hacksider/Deep-Live-Cam",
+      "rank": 2,
+      "stars": "85,465",
+      "stars_today": "1,132",
+      "language": "Python",
+      "description": "real time face swap and one-click video deepfake with only a single image"
+    },
+    {
+      "name": "shareAI-lab/learn-claude-code",
+      "rank": 3,
+      "stars": "42,968",
+      "stars_today": "919",
+      "language": "TypeScript",
+      "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1"
+    },
+    {
+      "name": "luongnv89/claude-howto",
+      "rank": 4,
+      "stars": "7,308",
+      "stars_today": "1,165",
+      "language": "Python",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value."
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "rank": 5,
+      "stars": "27,676",
+      "stars_today": "1,056",
+      "language": "Python",
+      "description": "Open-Source Frontier Voice AI"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "rank": 6,
+      "stars": "17,029",
+      "stars_today": "917",
+      "language": "Python",
+      "description": "The agent that grows with you"
+    },
+    {
+      "name": "OpenBB-finance/OpenBB",
+      "rank": 7,
+      "stars": "64,102",
+      "stars_today": "137",
+      "language": "Python",
+      "description": "Financial data platform for analysts, quants and AI agents."
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "rank": 8,
+      "stars": "42,782",
+      "stars_today": "373",
+      "language": "TypeScript",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions."
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "rank": 9,
+      "stars": "15,608",
+      "stars_today": "1,308",
+      "language": "Python",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "rank": 10,
+      "stars": "36,428",
+      "stars_today": "224",
+      "language": "TypeScript",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
+    },
+    {
+      "name": "twentyhq/twenty",
+      "rank": 11,
+      "stars": "43,019",
+      "stars_today": "447",
+      "language": "TypeScript",
+      "description": "Building a modern alternative to Salesforce, powered by the community."
+    },
+    {
+      "name": "fastfetch-cli/fastfetch",
+      "rank": 12,
+      "stars": "21,198",
+      "stars_today": "37",
+      "language": "C",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool."
+    }
+  ]
+}
