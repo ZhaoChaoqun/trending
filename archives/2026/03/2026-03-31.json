@@ -1,0 +1,87 @@
+{
+  "date": "2026-03-31",
+  "updated_at": "2026-03-31 03:45:15",
+  "count": 10,
+  "rankings": [
+    {
+      "name": "hacksider/Deep-Live-Cam",
+      "rank": 1,
+      "stars": "86,480",
+      "stars_today": "1,136",
+      "language": "Python",
+      "description": "real time face swap and one-click video deepfake with only a single image"
+    },
+    {
+      "name": "OpenBB-finance/OpenBB",
+      "rank": 2,
+      "stars": "64,609",
+      "stars_today": "502",
+      "language": "Python",
+      "description": "Financial data platform for analysts, quants and AI agents."
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "rank": 3,
+      "stars": "30,992",
+      "stars_today": "2,492",
+      "language": "Python",
+      "description": "Open-Source Frontier Voice AI"
+    },
+    {
+      "name": "luongnv89/claude-howto",
+      "rank": 4,
+      "stars": "10,279",
+      "stars_today": "4,232",
+      "language": "Python",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value."
+    },
+    {
+      "name": "shanraisshan/claude-code-best-practice",
+      "rank": 5,
+      "stars": "26,498",
+      "stars_today": "1,108",
+      "language": "HTML",
+      "description": "practice made claude perfect"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "rank": 6,
+      "stars": "439,810",
+      "stars_today": "368",
+      "language": "TypeScript",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+    },
+    {
+      "name": "sherlock-project/sherlock",
+      "rank": 7,
+      "stars": "74,835",
+      "stars_today": "76",
+      "language": "Python",
+      "description": "Hunt down social media accounts by username across social networks"
+    },
+    {
+      "name": "fastfetch-cli/fastfetch",
+      "rank": 8,
+      "stars": "21,443",
+      "stars_today": "276",
+      "language": "C",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool."
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "rank": 9,
+      "stars": "18,866",
+      "stars_today": "1,851",
+      "language": "Python",
+      "description": "The agent that grows with you"
+    },
+    {
+      "name": "apache/superset",
+      "rank": 10,
+      "stars": "71,988",
+      "stars_today": "49",
+      "language": "TypeScript",
+      "description": "Apache Superset is a Data Visualization and Data Exploration Platform"
+    }
+  ]
+}

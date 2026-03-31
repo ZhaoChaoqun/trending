@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Mon, 30 Mar 2026 03:54:17 +0000</pubDate><lastBuildDate>Mon, 30 Mar 2026 03:54:17 +0000</lastBuildDate><item><title>#1 obra/superpowers (+2,230 stars)</title><link>https://github.com/obra/superpowers</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 123,474 | +2,230 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-03-30</guid><pubDate>Mon, 30 Mar 2026 03:54:17 +0000</pubDate></item><item><title>#2 hacksider/Deep-Live-Cam (+1,132 stars)</title><link>https://github.com/hacksider/Deep-Live-Cam</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Tue, 31 Mar 2026 03:45:15 +0000</pubDate><lastBuildDate>Tue, 31 Mar 2026 03:45:15 +0000</lastBuildDate><item><title>#1 hacksider/Deep-Live-Cam (+1,136 stars)</title><link>https://github.com/hacksider/Deep-Live-Cam</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;hacksider/Deep-Live-Cam&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;real time face swap and one-click video deepfake with only a single image&lt;/p&gt;
-&lt;p&gt;⭐ 85,465 | +1,132 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 86,480 | +1,136 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/hacksider/Deep-Live-Cam#2026-03-30</guid><pubDate>Mon, 30 Mar 2026 03:54:17 +0000</pubDate></item><item><title>#3 shareAI-lab/learn-claude-code (+919 stars)</title><link>https://github.com/shareAI-lab/learn-claude-code</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;shareAI-lab/learn-claude-code&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1&lt;/p&gt;
-&lt;p&gt;⭐ 42,968 | +919 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/shareAI-lab/learn-claude-code#2026-03-30</guid><pubDate>Mon, 30 Mar 2026 03:54:17 +0000</pubDate></item><item><title>#4 luongnv89/claude-howto (+1,165 stars)</title><link>https://github.com/luongnv89/claude-howto</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;luongnv89/claude-howto&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.&lt;/p&gt;
-&lt;p&gt;⭐ 7,308 | +1,165 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/luongnv89/claude-howto#2026-03-30</guid><pubDate>Mon, 30 Mar 2026 03:54:17 +0000</pubDate></item><item><title>#5 microsoft/VibeVoice (+1,056 stars)</title><link>https://github.com/microsoft/VibeVoice</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;microsoft/VibeVoice&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Open-Source Frontier Voice AI&lt;/p&gt;
-&lt;p&gt;⭐ 27,676 | +1,056 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/microsoft/VibeVoice#2026-03-30</guid><pubDate>Mon, 30 Mar 2026 03:54:17 +0000</pubDate></item><item><title>#6 NousResearch/hermes-agent (+917 stars)</title><link>https://github.com/NousResearch/hermes-agent</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;NousResearch/hermes-agent&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The agent that grows with you&lt;/p&gt;
-&lt;p&gt;⭐ 17,029 | +917 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/NousResearch/hermes-agent#2026-03-30</guid><pubDate>Mon, 30 Mar 2026 03:54:17 +0000</pubDate></item><item><title>#7 OpenBB-finance/OpenBB (+137 stars)</title><link>https://github.com/OpenBB-finance/OpenBB</link><description>
+</description><guid isPermaLink="false">https://github.com/hacksider/Deep-Live-Cam#2026-03-31</guid><pubDate>Tue, 31 Mar 2026 03:45:15 +0000</pubDate></item><item><title>#2 OpenBB-finance/OpenBB (+502 stars)</title><link>https://github.com/OpenBB-finance/OpenBB</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;OpenBB-finance/OpenBB&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Financial data platform for analysts, quants and AI agents.&lt;/p&gt;
-&lt;p&gt;⭐ 64,102 | +137 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 64,609 | +502 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/OpenBB-finance/OpenBB#2026-03-30</guid><pubDate>Mon, 30 Mar 2026 03:54:17 +0000</pubDate></item><item><title>#8 thedotmack/claude-mem (+373 stars)</title><link>https://github.com/thedotmack/claude-mem</link><description>
+</description><guid isPermaLink="false">https://github.com/OpenBB-finance/OpenBB#2026-03-31</guid><pubDate>Tue, 31 Mar 2026 03:45:15 +0000</pubDate></item><item><title>#3 microsoft/VibeVoice (+2,492 stars)</title><link>https://github.com/microsoft/VibeVoice</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;thedotmack/claude-mem&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.&lt;/p&gt;
-&lt;p&gt;⭐ 42,782 | +373 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;microsoft/VibeVoice&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open-Source Frontier Voice AI&lt;/p&gt;
+&lt;p&gt;⭐ 30,992 | +2,492 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/thedotmack/claude-mem#2026-03-30</guid><pubDate>Mon, 30 Mar 2026 03:54:17 +0000</pubDate></item><item><title>#9 mvanhorn/last30days-skill (+1,308 stars)</title><link>https://github.com/mvanhorn/last30days-skill</link><description>
+</description><guid isPermaLink="false">https://github.com/microsoft/VibeVoice#2026-03-31</guid><pubDate>Tue, 31 Mar 2026 03:45:15 +0000</pubDate></item><item><title>#4 luongnv89/claude-howto (+4,232 stars)</title><link>https://github.com/luongnv89/claude-howto</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;mvanhorn/last30days-skill&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary&lt;/p&gt;
-&lt;p&gt;⭐ 15,608 | +1,308 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;luongnv89/claude-howto&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.&lt;/p&gt;
+&lt;p&gt;⭐ 10,279 | +4,232 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/mvanhorn/last30days-skill#2026-03-30</guid><pubDate>Mon, 30 Mar 2026 03:54:17 +0000</pubDate></item><item><title>#10 moeru-ai/airi (+224 stars)</title><link>https://github.com/moeru-ai/airi</link><description>
+</description><guid isPermaLink="false">https://github.com/luongnv89/claude-howto#2026-03-31</guid><pubDate>Tue, 31 Mar 2026 03:45:15 +0000</pubDate></item><item><title>#5 shanraisshan/claude-code-best-practice (+1,108 stars)</title><link>https://github.com/shanraisshan/claude-code-best-practice</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;moeru-ai/airi&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.&lt;/p&gt;
-&lt;p&gt;⭐ 36,428 | +224 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;shanraisshan/claude-code-best-practice&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;practice made claude perfect&lt;/p&gt;
+&lt;p&gt;⭐ 26,498 | +1,108 today | 🔧 HTML&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/moeru-ai/airi#2026-03-30</guid><pubDate>Mon, 30 Mar 2026 03:54:17 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/shanraisshan/claude-code-best-practice#2026-03-31</guid><pubDate>Tue, 31 Mar 2026 03:45:15 +0000</pubDate></item><item><title>#6 freeCodeCamp/freeCodeCamp (+368 stars)</title><link>https://github.com/freeCodeCamp/freeCodeCamp</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;freeCodeCamp/freeCodeCamp&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.&lt;/p&gt;
+&lt;p&gt;⭐ 439,810 | +368 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/freeCodeCamp/freeCodeCamp#2026-03-31</guid><pubDate>Tue, 31 Mar 2026 03:45:15 +0000</pubDate></item><item><title>#7 sherlock-project/sherlock (+76 stars)</title><link>https://github.com/sherlock-project/sherlock</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;sherlock-project/sherlock&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hunt down social media accounts by username across social networks&lt;/p&gt;
+&lt;p&gt;⭐ 74,835 | +76 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/sherlock-project/sherlock#2026-03-31</guid><pubDate>Tue, 31 Mar 2026 03:45:15 +0000</pubDate></item><item><title>#8 fastfetch-cli/fastfetch (+276 stars)</title><link>https://github.com/fastfetch-cli/fastfetch</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;fastfetch-cli/fastfetch&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A maintained, feature-rich and performance oriented, neofetch like system information tool.&lt;/p&gt;
+&lt;p&gt;⭐ 21,443 | +276 today | 🔧 C&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/fastfetch-cli/fastfetch#2026-03-31</guid><pubDate>Tue, 31 Mar 2026 03:45:15 +0000</pubDate></item><item><title>#9 NousResearch/hermes-agent (+1,851 stars)</title><link>https://github.com/NousResearch/hermes-agent</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;NousResearch/hermes-agent&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The agent that grows with you&lt;/p&gt;
+&lt;p&gt;⭐ 18,866 | +1,851 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/NousResearch/hermes-agent#2026-03-31</guid><pubDate>Tue, 31 Mar 2026 03:45:15 +0000</pubDate></item><item><title>#10 apache/superset (+49 stars)</title><link>https://github.com/apache/superset</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;apache/superset&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Apache Superset is a Data Visualization and Data Exploration Platform&lt;/p&gt;
+&lt;p&gt;⭐ 71,988 | +49 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/apache/superset#2026-03-31</guid><pubDate>Tue, 31 Mar 2026 03:45:15 +0000</pubDate></item></channel></rss>
