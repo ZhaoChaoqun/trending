@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-02",
+  "updated_at": "2026-04-02 03:38:31",
+  "count": 7,
+  "rankings": [
+    {
+      "name": "anthropics/claude-code",
+      "rank": 1,
+      "stars": "102,111",
+      "stars_today": "10,749",
+      "language": "Shell",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "openai/codex",
+      "rank": 2,
+      "stars": "71,943",
+      "stars_today": "2,390",
+      "language": "Rust",
+      "description": "Lightweight coding agent that runs in your terminal"
+    },
+    {
+      "name": "f/prompts.chat",
+      "rank": 3,
+      "stars": "156,163",
+      "stars_today": "398",
+      "language": "HTML",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy."
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "rank": 4,
+      "stars": "34,582",
+      "stars_today": "1,685",
+      "language": "Python",
+      "description": "Open-Source Frontier Voice AI"
+    },
+    {
+      "name": "google-research/timesfm",
+      "rank": 5,
+      "stars": "12,294",
+      "stars_today": "380",
+      "language": "Python",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
+    },
+    {
+      "name": "luongnv89/claude-howto",
+      "rank": 6,
+      "stars": "15,881",
+      "stars_today": "3,301",
+      "language": "Python",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value."
+    },
+    {
+      "name": "axios/axios",
+      "rank": 7,
+      "stars": "108,890",
+      "stars_today": "93",
+      "language": "JavaScript",
+      "description": "Promise based HTTP client for the browser and node.js"
+    }
+  ]
+}
