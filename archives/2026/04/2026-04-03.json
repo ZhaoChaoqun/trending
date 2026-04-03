@@ -1,0 +1,39 @@
+{
+  "date": "2026-04-03",
+  "updated_at": "2026-04-03 03:40:40",
+  "count": 4,
+  "rankings": [
+    {
+      "name": "sherlock-project/sherlock",
+      "rank": 1,
+      "stars": "77,426",
+      "stars_today": "827",
+      "language": "Python",
+      "description": "Hunt down social media accounts by username across social networks"
+    },
+    {
+      "name": "siddharthvaddem/openscreen",
+      "rank": 2,
+      "stars": "16,267",
+      "stars_today": "2,573",
+      "language": "TypeScript",
+      "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio."
+    },
+    {
+      "name": "Yeachan-Heo/oh-my-codex",
+      "rank": 3,
+      "stars": "12,103",
+      "stars_today": "2,867",
+      "language": "TypeScript",
+      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more."
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "rank": 4,
+      "stars": "36,565",
+      "stars_today": "306",
+      "language": null,
+      "description": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly."
+    }
+  ]
+}
