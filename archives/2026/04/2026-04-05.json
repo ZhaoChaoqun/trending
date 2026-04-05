@@ -1,0 +1,71 @@
+{
+  "date": "2026-04-05",
+  "updated_at": "2026-04-05 03:49:28",
+  "count": 8,
+  "rankings": [
+    {
+      "name": "onyx-dot-app/onyx",
+      "rank": 1,
+      "stars": "24,362",
+      "stars_today": "1,197",
+      "language": "Python",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM"
+    },
+    {
+      "name": "siddharthvaddem/openscreen",
+      "rank": 2,
+      "stars": "20,335",
+      "stars_today": "1,591",
+      "language": "TypeScript",
+      "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio."
+    },
+    {
+      "name": "block/goose",
+      "rank": 3,
+      "stars": "35,765",
+      "stars_today": "935",
+      "language": "Rust",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM"
+    },
+    {
+      "name": "sherlock-project/sherlock",
+      "rank": 4,
+      "stars": "79,445",
+      "stars_today": "994",
+      "language": "Python",
+      "description": "Hunt down social media accounts by username across social networks"
+    },
+    {
+      "name": "Yeachan-Heo/oh-my-codex",
+      "rank": 5,
+      "stars": "15,792",
+      "stars_today": "1,789",
+      "language": "TypeScript",
+      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more."
+    },
+    {
+      "name": "telegramdesktop/tdesktop",
+      "rank": 6,
+      "stars": "30,856",
+      "stars_today": "249",
+      "language": "C++",
+      "description": "Telegram Desktop messaging app"
+    },
+    {
+      "name": "Blaizzy/mlx-vlm",
+      "rank": 7,
+      "stars": "3,649",
+      "stars_today": "343",
+      "language": "Python",
+      "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX."
+    },
+    {
+      "name": "microsoft/agent-framework",
+      "rank": 8,
+      "stars": "8,741",
+      "stars_today": "72",
+      "language": "Python",
+      "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET."
+    }
+  ]
+}
