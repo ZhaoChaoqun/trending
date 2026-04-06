@@ -1,58 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sun, 05 Apr 2026 03:49:28 +0000</pubDate><lastBuildDate>Sun, 05 Apr 2026 03:49:28 +0000</lastBuildDate><item><title>#1 onyx-dot-app/onyx (+1,197 stars)</title><link>https://github.com/onyx-dot-app/onyx</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;onyx-dot-app/onyx&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Open Source AI Platform - AI Chat with advanced features that works with every LLM&lt;/p&gt;
-&lt;p&gt;⭐ 24,362 | +1,197 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/onyx-dot-app/onyx#2026-04-05</guid><pubDate>Sun, 05 Apr 2026 03:49:28 +0000</pubDate></item><item><title>#2 siddharthvaddem/openscreen (+1,591 stars)</title><link>https://github.com/siddharthvaddem/openscreen</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Mon, 06 Apr 2026 03:53:17 +0000</pubDate><lastBuildDate>Mon, 06 Apr 2026 03:53:17 +0000</lastBuildDate><item><title>#1 siddharthvaddem/openscreen (+2,749 stars)</title><link>https://github.com/siddharthvaddem/openscreen</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;siddharthvaddem/openscreen&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.&lt;/p&gt;
-&lt;p&gt;⭐ 20,335 | +1,591 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 22,730 | +2,749 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/siddharthvaddem/openscreen#2026-04-05</guid><pubDate>Sun, 05 Apr 2026 03:49:28 +0000</pubDate></item><item><title>#3 block/goose (+935 stars)</title><link>https://github.com/block/goose</link><description>
+</description><guid isPermaLink="false">https://github.com/siddharthvaddem/openscreen#2026-04-06</guid><pubDate>Mon, 06 Apr 2026 03:53:17 +0000</pubDate></item><item><title>#2 block/goose (+882 stars)</title><link>https://github.com/block/goose</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;block/goose&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM&lt;/p&gt;
-&lt;p&gt;⭐ 35,765 | +935 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;⭐ 37,168 | +882 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/block/goose#2026-04-05</guid><pubDate>Sun, 05 Apr 2026 03:49:28 +0000</pubDate></item><item><title>#4 sherlock-project/sherlock (+994 stars)</title><link>https://github.com/sherlock-project/sherlock</link><description>
+</description><guid isPermaLink="false">https://github.com/block/goose#2026-04-06</guid><pubDate>Mon, 06 Apr 2026 03:53:17 +0000</pubDate></item><item><title>#3 onyx-dot-app/onyx (+998 stars)</title><link>https://github.com/onyx-dot-app/onyx</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;sherlock-project/sherlock&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Hunt down social media accounts by username across social networks&lt;/p&gt;
-&lt;p&gt;⭐ 79,445 | +994 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;onyx-dot-app/onyx&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open Source AI Platform - AI Chat with advanced features that works with every LLM&lt;/p&gt;
+&lt;p&gt;⭐ 25,117 | +998 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/sherlock-project/sherlock#2026-04-05</guid><pubDate>Sun, 05 Apr 2026 03:49:28 +0000</pubDate></item><item><title>#5 Yeachan-Heo/oh-my-codex (+1,789 stars)</title><link>https://github.com/Yeachan-Heo/oh-my-codex</link><description>
+</description><guid isPermaLink="false">https://github.com/onyx-dot-app/onyx#2026-04-06</guid><pubDate>Mon, 06 Apr 2026 03:53:17 +0000</pubDate></item><item><title>#4 google-ai-edge/gallery (+389 stars)</title><link>https://github.com/google-ai-edge/gallery</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Yeachan-Heo/oh-my-codex&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.&lt;/p&gt;
-&lt;p&gt;⭐ 15,792 | +1,789 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;google-ai-edge/gallery&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.&lt;/p&gt;
+&lt;p&gt;⭐ 17,106 | +389 today | 🔧 Kotlin&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Yeachan-Heo/oh-my-codex#2026-04-05</guid><pubDate>Sun, 05 Apr 2026 03:49:28 +0000</pubDate></item><item><title>#6 telegramdesktop/tdesktop (+249 stars)</title><link>https://github.com/telegramdesktop/tdesktop</link><description>
+</description><guid isPermaLink="false">https://github.com/google-ai-edge/gallery#2026-04-06</guid><pubDate>Mon, 06 Apr 2026 03:53:17 +0000</pubDate></item><item><title>#5 badlogic/pi-mono (+355 stars)</title><link>https://github.com/badlogic/pi-mono</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;badlogic/pi-mono&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods&lt;/p&gt;
+&lt;p&gt;⭐ 31,982 | +355 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/badlogic/pi-mono#2026-04-06</guid><pubDate>Mon, 06 Apr 2026 03:53:17 +0000</pubDate></item><item><title>#6 telegramdesktop/tdesktop (+287 stars)</title><link>https://github.com/telegramdesktop/tdesktop</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;telegramdesktop/tdesktop&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Telegram Desktop messaging app&lt;/p&gt;
-&lt;p&gt;⭐ 30,856 | +249 today | 🔧 C++&lt;/p&gt;
+&lt;p&gt;⭐ 31,098 | +287 today | 🔧 C++&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/telegramdesktop/tdesktop#2026-04-05</guid><pubDate>Sun, 05 Apr 2026 03:49:28 +0000</pubDate></item><item><title>#7 Blaizzy/mlx-vlm (+343 stars)</title><link>https://github.com/Blaizzy/mlx-vlm</link><description>
+</description><guid isPermaLink="false">https://github.com/telegramdesktop/tdesktop#2026-04-06</guid><pubDate>Mon, 06 Apr 2026 03:53:17 +0000</pubDate></item><item><title>#7 freeCodeCamp/freeCodeCamp (+335 stars)</title><link>https://github.com/freeCodeCamp/freeCodeCamp</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;freeCodeCamp/freeCodeCamp&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.&lt;/p&gt;
+&lt;p&gt;⭐ 441,593 | +335 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/freeCodeCamp/freeCodeCamp#2026-04-06</guid><pubDate>Mon, 06 Apr 2026 03:53:17 +0000</pubDate></item><item><title>#8 Blaizzy/mlx-vlm (+416 stars)</title><link>https://github.com/Blaizzy/mlx-vlm</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;Blaizzy/mlx-vlm&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.&lt;/p&gt;
-&lt;p&gt;⭐ 3,649 | +343 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 3,971 | +416 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Blaizzy/mlx-vlm#2026-04-05</guid><pubDate>Sun, 05 Apr 2026 03:49:28 +0000</pubDate></item><item><title>#8 microsoft/agent-framework (+72 stars)</title><link>https://github.com/microsoft/agent-framework</link><description>
+</description><guid isPermaLink="false">https://github.com/Blaizzy/mlx-vlm#2026-04-06</guid><pubDate>Mon, 06 Apr 2026 03:53:17 +0000</pubDate></item><item><title>#9 dmtrKovalenko/fff.nvim (+76 stars)</title><link>https://github.com/dmtrKovalenko/fff.nvim</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;microsoft/agent-framework&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.&lt;/p&gt;
-&lt;p&gt;⭐ 8,741 | +72 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;dmtrKovalenko/fff.nvim&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS&lt;/p&gt;
+&lt;p&gt;⭐ 3,730 | +76 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/microsoft/agent-framework#2026-04-05</guid><pubDate>Sun, 05 Apr 2026 03:49:28 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/dmtrKovalenko/fff.nvim#2026-04-06</guid><pubDate>Mon, 06 Apr 2026 03:53:17 +0000</pubDate></item><item><title>#10 google-ai-edge/LiteRT-LM (+124 stars)</title><link>https://github.com/google-ai-edge/LiteRT-LM</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;google-ai-edge/LiteRT-LM&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;⭐ 1,616 | +124 today | 🔧 C++&lt;/p&gt;
+&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/google-ai-edge/LiteRT-LM#2026-04-06</guid><pubDate>Mon, 06 Apr 2026 03:53:17 +0000</pubDate></item></channel></rss>

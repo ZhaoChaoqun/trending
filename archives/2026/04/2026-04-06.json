@@ -1,0 +1,87 @@
+{
+  "date": "2026-04-06",
+  "updated_at": "2026-04-06 03:53:17",
+  "count": 10,
+  "rankings": [
+    {
+      "name": "siddharthvaddem/openscreen",
+      "rank": 1,
+      "stars": "22,730",
+      "stars_today": "2,749",
+      "language": "TypeScript",
+      "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio."
+    },
+    {
+      "name": "block/goose",
+      "rank": 2,
+      "stars": "37,168",
+      "stars_today": "882",
+      "language": "Rust",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM"
+    },
+    {
+      "name": "onyx-dot-app/onyx",
+      "rank": 3,
+      "stars": "25,117",
+      "stars_today": "998",
+      "language": "Python",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM"
+    },
+    {
+      "name": "google-ai-edge/gallery",
+      "rank": 4,
+      "stars": "17,106",
+      "stars_today": "389",
+      "language": "Kotlin",
+      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally."
+    },
+    {
+      "name": "badlogic/pi-mono",
+      "rank": 5,
+      "stars": "31,982",
+      "stars_today": "355",
+      "language": "TypeScript",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods"
+    },
+    {
+      "name": "telegramdesktop/tdesktop",
+      "rank": 6,
+      "stars": "31,098",
+      "stars_today": "287",
+      "language": "C++",
+      "description": "Telegram Desktop messaging app"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "rank": 7,
+      "stars": "441,593",
+      "stars_today": "335",
+      "language": "TypeScript",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+    },
+    {
+      "name": "Blaizzy/mlx-vlm",
+      "rank": 8,
+      "stars": "3,971",
+      "stars_today": "416",
+      "language": "Python",
+      "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX."
+    },
+    {
+      "name": "dmtrKovalenko/fff.nvim",
+      "rank": 9,
+      "stars": "3,730",
+      "stars_today": "76",
+      "language": "Rust",
+      "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS"
+    },
+    {
+      "name": "google-ai-edge/LiteRT-LM",
+      "rank": 10,
+      "stars": "1,616",
+      "stars_today": "124",
+      "language": "C++",
+      "description": ""
+    }
+  ]
+}
