@@ -1,0 +1,79 @@
+{
+  "date": "2026-04-08",
+  "updated_at": "2026-04-08 03:46:42",
+  "count": 9,
+  "rankings": [
+    {
+      "name": "abhigyanpatwari/GitNexus",
+      "rank": 1,
+      "stars": "24,651",
+      "stars_today": "1,195",
+      "language": "TypeScript",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration"
+    },
+    {
+      "name": "google-ai-edge/gallery",
+      "rank": 2,
+      "stars": "18,914",
+      "stars_today": "897",
+      "language": "Kotlin",
+      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally."
+    },
+    {
+      "name": "NVIDIA/personaplex",
+      "rank": 3,
+      "stars": "8,023",
+      "stars_today": "662",
+      "language": "Python",
+      "description": "PersonaPlex code."
+    },
+    {
+      "name": "tobi/qmd",
+      "rank": 4,
+      "stars": "19,661",
+      "stars_today": "859",
+      "language": "TypeScript",
+      "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local"
+    },
+    {
+      "name": "elebumm/RedditVideoMakerBot",
+      "rank": 5,
+      "stars": "10,102",
+      "stars_today": "636",
+      "language": "Python",
+      "description": "Create Reddit Videos with just✨ one command ✨"
+    },
+    {
+      "name": "google-ai-edge/LiteRT-LM",
+      "rank": 6,
+      "stars": "2,628",
+      "stars_today": "528",
+      "language": "C++",
+      "description": ""
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "rank": 7,
+      "stars": "12,377",
+      "stars_today": "168",
+      "language": "Python",
+      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\""
+    },
+    {
+      "name": "TheCraigHewitt/seomachine",
+      "rank": 8,
+      "stars": "3,980",
+      "stars_today": "215",
+      "language": "Python",
+      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience."
+    },
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "rank": 9,
+      "stars": "8,162",
+      "stars_today": "51",
+      "language": null,
+      "description": ""
+    }
+  ]
+}
