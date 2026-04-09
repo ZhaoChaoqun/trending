@@ -1,0 +1,95 @@
+{
+  "date": "2026-04-09",
+  "updated_at": "2026-04-09 03:42:00",
+  "count": 11,
+  "rankings": [
+    {
+      "name": "obra/superpowers",
+      "rank": 1,
+      "stars": "141,860",
+      "stars_today": "2,028",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "abhigyanpatwari/GitNexus",
+      "rank": 2,
+      "stars": "25,411",
+      "stars_today": "980",
+      "language": "TypeScript",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration"
+    },
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "rank": 3,
+      "stars": "9,205",
+      "stars_today": "702",
+      "language": null,
+      "description": ""
+    },
+    {
+      "name": "google-ai-edge/gallery",
+      "rank": 4,
+      "stars": "19,593",
+      "stars_today": "853",
+      "language": "Kotlin",
+      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally."
+    },
+    {
+      "name": "NVIDIA/personaplex",
+      "rank": 5,
+      "stars": "8,509",
+      "stars_today": "586",
+      "language": "Python",
+      "description": "PersonaPlex code."
+    },
+    {
+      "name": "elebumm/RedditVideoMakerBot",
+      "rank": 6,
+      "stars": "10,555",
+      "stars_today": "555",
+      "language": "Python",
+      "description": "Create Reddit Videos with just✨ one command ✨"
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "rank": 7,
+      "stars": "50,765",
+      "stars_today": "151",
+      "language": "Python",
+      "description": "An AI Hedge Fund Team"
+    },
+    {
+      "name": "TheCraigHewitt/seomachine",
+      "rank": 8,
+      "stars": "4,693",
+      "stars_today": "649",
+      "language": "Python",
+      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience."
+    },
+    {
+      "name": "google-ai-edge/LiteRT-LM",
+      "rank": 9,
+      "stars": "3,032",
+      "stars_today": "501",
+      "language": "C++",
+      "description": ""
+    },
+    {
+      "name": "goharbor/harbor",
+      "rank": 10,
+      "stars": "28,153",
+      "stars_today": "42",
+      "language": "Go",
+      "description": "An open source trusted cloud native registry project that stores, signs, and scans content."
+    },
+    {
+      "name": "newton-physics/newton",
+      "rank": 11,
+      "stars": "4,133",
+      "stars_today": "91",
+      "language": "Python",
+      "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers."
+    }
+  ]
+}

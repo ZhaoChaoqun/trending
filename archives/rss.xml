@@ -1,65 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Wed, 08 Apr 2026 03:46:42 +0000</pubDate><lastBuildDate>Wed, 08 Apr 2026 03:46:42 +0000</lastBuildDate><item><title>#1 abhigyanpatwari/GitNexus (+1,195 stars)</title><link>https://github.com/abhigyanpatwari/GitNexus</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Thu, 09 Apr 2026 03:42:00 +0000</pubDate><lastBuildDate>Thu, 09 Apr 2026 03:42:00 +0000</lastBuildDate><item><title>#1 obra/superpowers (+2,028 stars)</title><link>https://github.com/obra/superpowers</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
+&lt;p&gt;⭐ 141,860 | +2,028 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-04-09</guid><pubDate>Thu, 09 Apr 2026 03:42:00 +0000</pubDate></item><item><title>#2 abhigyanpatwari/GitNexus (+980 stars)</title><link>https://github.com/abhigyanpatwari/GitNexus</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;abhigyanpatwari/GitNexus&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration&lt;/p&gt;
-&lt;p&gt;⭐ 24,651 | +1,195 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 25,411 | +980 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/abhigyanpatwari/GitNexus#2026-04-08</guid><pubDate>Wed, 08 Apr 2026 03:46:42 +0000</pubDate></item><item><title>#2 google-ai-edge/gallery (+897 stars)</title><link>https://github.com/google-ai-edge/gallery</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;google-ai-edge/gallery&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.&lt;/p&gt;
-&lt;p&gt;⭐ 18,914 | +897 today | 🔧 Kotlin&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/google-ai-edge/gallery#2026-04-08</guid><pubDate>Wed, 08 Apr 2026 03:46:42 +0000</pubDate></item><item><title>#3 NVIDIA/personaplex (+662 stars)</title><link>https://github.com/NVIDIA/personaplex</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;NVIDIA/personaplex&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;PersonaPlex code.&lt;/p&gt;
-&lt;p&gt;⭐ 8,023 | +662 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/NVIDIA/personaplex#2026-04-08</guid><pubDate>Wed, 08 Apr 2026 03:46:42 +0000</pubDate></item><item><title>#4 tobi/qmd (+859 stars)</title><link>https://github.com/tobi/qmd</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;tobi/qmd&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local&lt;/p&gt;
-&lt;p&gt;⭐ 19,661 | +859 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/tobi/qmd#2026-04-08</guid><pubDate>Wed, 08 Apr 2026 03:46:42 +0000</pubDate></item><item><title>#5 elebumm/RedditVideoMakerBot (+636 stars)</title><link>https://github.com/elebumm/RedditVideoMakerBot</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;elebumm/RedditVideoMakerBot&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Create Reddit Videos with just✨ one command ✨&lt;/p&gt;
-&lt;p&gt;⭐ 10,102 | +636 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/elebumm/RedditVideoMakerBot#2026-04-08</guid><pubDate>Wed, 08 Apr 2026 03:46:42 +0000</pubDate></item><item><title>#6 google-ai-edge/LiteRT-LM (+528 stars)</title><link>https://github.com/google-ai-edge/LiteRT-LM</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;google-ai-edge/LiteRT-LM&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;⭐ 2,628 | +528 today | 🔧 C++&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/google-ai-edge/LiteRT-LM#2026-04-08</guid><pubDate>Wed, 08 Apr 2026 03:46:42 +0000</pubDate></item><item><title>#7 HKUDS/DeepTutor (+168 stars)</title><link>https://github.com/HKUDS/DeepTutor</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;HKUDS/DeepTutor&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;"DeepTutor: Agent-Native Personalized Learning Assistant"&lt;/p&gt;
-&lt;p&gt;⭐ 12,377 | +168 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/HKUDS/DeepTutor#2026-04-08</guid><pubDate>Wed, 08 Apr 2026 03:46:42 +0000</pubDate></item><item><title>#8 TheCraigHewitt/seomachine (+215 stars)</title><link>https://github.com/TheCraigHewitt/seomachine</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;TheCraigHewitt/seomachine&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.&lt;/p&gt;
-&lt;p&gt;⭐ 3,980 | +215 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/TheCraigHewitt/seomachine#2026-04-08</guid><pubDate>Wed, 08 Apr 2026 03:46:42 +0000</pubDate></item><item><title>#9 forrestchang/andrej-karpathy-skills (+51 stars)</title><link>https://github.com/forrestchang/andrej-karpathy-skills</link><description>
+</description><guid isPermaLink="false">https://github.com/abhigyanpatwari/GitNexus#2026-04-09</guid><pubDate>Thu, 09 Apr 2026 03:42:00 +0000</pubDate></item><item><title>#3 forrestchang/andrej-karpathy-skills (+702 stars)</title><link>https://github.com/forrestchang/andrej-karpathy-skills</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;forrestchang/andrej-karpathy-skills&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;⭐ 8,162 | +51 today | 🔧 Unknown&lt;/p&gt;
-&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
+&lt;p&gt;⭐ 9,205 | +702 today | 🔧 Unknown&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/forrestchang/andrej-karpathy-skills#2026-04-08</guid><pubDate>Wed, 08 Apr 2026 03:46:42 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/forrestchang/andrej-karpathy-skills#2026-04-09</guid><pubDate>Thu, 09 Apr 2026 03:42:00 +0000</pubDate></item><item><title>#4 google-ai-edge/gallery (+853 stars)</title><link>https://github.com/google-ai-edge/gallery</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;google-ai-edge/gallery&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.&lt;/p&gt;
+&lt;p&gt;⭐ 19,593 | +853 today | 🔧 Kotlin&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/google-ai-edge/gallery#2026-04-09</guid><pubDate>Thu, 09 Apr 2026 03:42:00 +0000</pubDate></item><item><title>#5 NVIDIA/personaplex (+586 stars)</title><link>https://github.com/NVIDIA/personaplex</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;NVIDIA/personaplex&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;PersonaPlex code.&lt;/p&gt;
+&lt;p&gt;⭐ 8,509 | +586 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/NVIDIA/personaplex#2026-04-09</guid><pubDate>Thu, 09 Apr 2026 03:42:00 +0000</pubDate></item><item><title>#6 elebumm/RedditVideoMakerBot (+555 stars)</title><link>https://github.com/elebumm/RedditVideoMakerBot</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;elebumm/RedditVideoMakerBot&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Create Reddit Videos with just✨ one command ✨&lt;/p&gt;
+&lt;p&gt;⭐ 10,555 | +555 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/elebumm/RedditVideoMakerBot#2026-04-09</guid><pubDate>Thu, 09 Apr 2026 03:42:00 +0000</pubDate></item><item><title>#7 virattt/ai-hedge-fund (+151 stars)</title><link>https://github.com/virattt/ai-hedge-fund</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;virattt/ai-hedge-fund&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An AI Hedge Fund Team&lt;/p&gt;
+&lt;p&gt;⭐ 50,765 | +151 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/virattt/ai-hedge-fund#2026-04-09</guid><pubDate>Thu, 09 Apr 2026 03:42:00 +0000</pubDate></item><item><title>#8 TheCraigHewitt/seomachine (+649 stars)</title><link>https://github.com/TheCraigHewitt/seomachine</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;TheCraigHewitt/seomachine&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.&lt;/p&gt;
+&lt;p&gt;⭐ 4,693 | +649 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/TheCraigHewitt/seomachine#2026-04-09</guid><pubDate>Thu, 09 Apr 2026 03:42:00 +0000</pubDate></item><item><title>#9 google-ai-edge/LiteRT-LM (+501 stars)</title><link>https://github.com/google-ai-edge/LiteRT-LM</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;google-ai-edge/LiteRT-LM&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;⭐ 3,032 | +501 today | 🔧 C++&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/google-ai-edge/LiteRT-LM#2026-04-09</guid><pubDate>Thu, 09 Apr 2026 03:42:00 +0000</pubDate></item><item><title>#10 goharbor/harbor (+42 stars)</title><link>https://github.com/goharbor/harbor</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;goharbor/harbor&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An open source trusted cloud native registry project that stores, signs, and scans content.&lt;/p&gt;
+&lt;p&gt;⭐ 28,153 | +42 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/goharbor/harbor#2026-04-09</guid><pubDate>Thu, 09 Apr 2026 03:42:00 +0000</pubDate></item></channel></rss>
