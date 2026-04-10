@@ -1,0 +1,87 @@
+{
+  "date": "2026-04-10",
+  "updated_at": "2026-04-10 03:55:24",
+  "count": 10,
+  "rankings": [
+    {
+      "name": "NousResearch/hermes-agent",
+      "rank": 1,
+      "stars": "46,010",
+      "stars_today": "6,485",
+      "language": "Python",
+      "description": "The agent that grows with you"
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 2,
+      "stars": "144,055",
+      "stars_today": "2,299",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "rank": 3,
+      "stars": "10,704",
+      "stars_today": "1,364",
+      "language": null,
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "rank": 4,
+      "stars": "15,096",
+      "stars_today": "1,310",
+      "language": "Python",
+      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\""
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "rank": 5,
+      "stars": "7,809",
+      "stars_today": "496",
+      "language": "Python",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning"
+    },
+    {
+      "name": "opendataloader-project/opendataloader-pdf",
+      "rank": 6,
+      "stars": "13,958",
+      "stars_today": "1,124",
+      "language": "Java",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source."
+    },
+    {
+      "name": "TheCraigHewitt/seomachine",
+      "rank": 7,
+      "stars": "5,271",
+      "stars_today": "725",
+      "language": "Python",
+      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience."
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "rank": 8,
+      "stars": "12,279",
+      "stars_today": "245",
+      "language": "Python",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets"
+    },
+    {
+      "name": "coleam00/Archon",
+      "rank": 9,
+      "stars": "14,516",
+      "stars_today": "185",
+      "language": "TypeScript",
+      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable."
+    },
+    {
+      "name": "YishenTu/claudian",
+      "rank": 10,
+      "stars": "6,924",
+      "stars_today": "200",
+      "language": "TypeScript",
+      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault"
+    }
+  ]
+}

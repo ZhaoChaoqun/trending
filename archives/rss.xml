@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Thu, 09 Apr 2026 03:42:00 +0000</pubDate><lastBuildDate>Thu, 09 Apr 2026 03:42:00 +0000</lastBuildDate><item><title>#1 obra/superpowers (+2,028 stars)</title><link>https://github.com/obra/superpowers</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 10 Apr 2026 03:55:24 +0000</pubDate><lastBuildDate>Fri, 10 Apr 2026 03:55:24 +0000</lastBuildDate><item><title>#1 NousResearch/hermes-agent (+6,485 stars)</title><link>https://github.com/NousResearch/hermes-agent</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;NousResearch/hermes-agent&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The agent that grows with you&lt;/p&gt;
+&lt;p&gt;⭐ 46,010 | +6,485 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/NousResearch/hermes-agent#2026-04-10</guid><pubDate>Fri, 10 Apr 2026 03:55:24 +0000</pubDate></item><item><title>#2 obra/superpowers (+2,299 stars)</title><link>https://github.com/obra/superpowers</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 141,860 | +2,028 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 144,055 | +2,299 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-04-09</guid><pubDate>Thu, 09 Apr 2026 03:42:00 +0000</pubDate></item><item><title>#2 abhigyanpatwari/GitNexus (+980 stars)</title><link>https://github.com/abhigyanpatwari/GitNexus</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;abhigyanpatwari/GitNexus&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration&lt;/p&gt;
-&lt;p&gt;⭐ 25,411 | +980 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/abhigyanpatwari/GitNexus#2026-04-09</guid><pubDate>Thu, 09 Apr 2026 03:42:00 +0000</pubDate></item><item><title>#3 forrestchang/andrej-karpathy-skills (+702 stars)</title><link>https://github.com/forrestchang/andrej-karpathy-skills</link><description>
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-04-10</guid><pubDate>Fri, 10 Apr 2026 03:55:24 +0000</pubDate></item><item><title>#3 forrestchang/andrej-karpathy-skills (+1,364 stars)</title><link>https://github.com/forrestchang/andrej-karpathy-skills</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;forrestchang/andrej-karpathy-skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;⭐ 9,205 | +702 today | 🔧 Unknown&lt;/p&gt;
+&lt;p&gt;A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.&lt;/p&gt;
+&lt;p&gt;⭐ 10,704 | +1,364 today | 🔧 Unknown&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/forrestchang/andrej-karpathy-skills#2026-04-09</guid><pubDate>Thu, 09 Apr 2026 03:42:00 +0000</pubDate></item><item><title>#4 google-ai-edge/gallery (+853 stars)</title><link>https://github.com/google-ai-edge/gallery</link><description>
+</description><guid isPermaLink="false">https://github.com/forrestchang/andrej-karpathy-skills#2026-04-10</guid><pubDate>Fri, 10 Apr 2026 03:55:24 +0000</pubDate></item><item><title>#4 HKUDS/DeepTutor (+1,310 stars)</title><link>https://github.com/HKUDS/DeepTutor</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;google-ai-edge/gallery&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.&lt;/p&gt;
-&lt;p&gt;⭐ 19,593 | +853 today | 🔧 Kotlin&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HKUDS/DeepTutor&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;"DeepTutor: Agent-Native Personalized Learning Assistant"&lt;/p&gt;
+&lt;p&gt;⭐ 15,096 | +1,310 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/google-ai-edge/gallery#2026-04-09</guid><pubDate>Thu, 09 Apr 2026 03:42:00 +0000</pubDate></item><item><title>#5 NVIDIA/personaplex (+586 stars)</title><link>https://github.com/NVIDIA/personaplex</link><description>
+</description><guid isPermaLink="false">https://github.com/HKUDS/DeepTutor#2026-04-10</guid><pubDate>Fri, 10 Apr 2026 03:55:24 +0000</pubDate></item><item><title>#5 OpenBMB/VoxCPM (+496 stars)</title><link>https://github.com/OpenBMB/VoxCPM</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;NVIDIA/personaplex&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;PersonaPlex code.&lt;/p&gt;
-&lt;p&gt;⭐ 8,509 | +586 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OpenBMB/VoxCPM&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning&lt;/p&gt;
+&lt;p&gt;⭐ 7,809 | +496 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/NVIDIA/personaplex#2026-04-09</guid><pubDate>Thu, 09 Apr 2026 03:42:00 +0000</pubDate></item><item><title>#6 elebumm/RedditVideoMakerBot (+555 stars)</title><link>https://github.com/elebumm/RedditVideoMakerBot</link><description>
+</description><guid isPermaLink="false">https://github.com/OpenBMB/VoxCPM#2026-04-10</guid><pubDate>Fri, 10 Apr 2026 03:55:24 +0000</pubDate></item><item><title>#6 opendataloader-project/opendataloader-pdf (+1,124 stars)</title><link>https://github.com/opendataloader-project/opendataloader-pdf</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;elebumm/RedditVideoMakerBot&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Create Reddit Videos with just✨ one command ✨&lt;/p&gt;
-&lt;p&gt;⭐ 10,555 | +555 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;opendataloader-project/opendataloader-pdf&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.&lt;/p&gt;
+&lt;p&gt;⭐ 13,958 | +1,124 today | 🔧 Java&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/elebumm/RedditVideoMakerBot#2026-04-09</guid><pubDate>Thu, 09 Apr 2026 03:42:00 +0000</pubDate></item><item><title>#7 virattt/ai-hedge-fund (+151 stars)</title><link>https://github.com/virattt/ai-hedge-fund</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;virattt/ai-hedge-fund&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An AI Hedge Fund Team&lt;/p&gt;
-&lt;p&gt;⭐ 50,765 | +151 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/virattt/ai-hedge-fund#2026-04-09</guid><pubDate>Thu, 09 Apr 2026 03:42:00 +0000</pubDate></item><item><title>#8 TheCraigHewitt/seomachine (+649 stars)</title><link>https://github.com/TheCraigHewitt/seomachine</link><description>
+</description><guid isPermaLink="false">https://github.com/opendataloader-project/opendataloader-pdf#2026-04-10</guid><pubDate>Fri, 10 Apr 2026 03:55:24 +0000</pubDate></item><item><title>#7 TheCraigHewitt/seomachine (+725 stars)</title><link>https://github.com/TheCraigHewitt/seomachine</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;TheCraigHewitt/seomachine&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.&lt;/p&gt;
-&lt;p&gt;⭐ 4,693 | +649 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+&lt;p&gt;⭐ 5,271 | +725 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/TheCraigHewitt/seomachine#2026-04-09</guid><pubDate>Thu, 09 Apr 2026 03:42:00 +0000</pubDate></item><item><title>#9 google-ai-edge/LiteRT-LM (+501 stars)</title><link>https://github.com/google-ai-edge/LiteRT-LM</link><description>
+</description><guid isPermaLink="false">https://github.com/TheCraigHewitt/seomachine#2026-04-10</guid><pubDate>Fri, 10 Apr 2026 03:55:24 +0000</pubDate></item><item><title>#8 shiyu-coder/Kronos (+245 stars)</title><link>https://github.com/shiyu-coder/Kronos</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;google-ai-edge/LiteRT-LM&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;⭐ 3,032 | +501 today | 🔧 C++&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;shiyu-coder/Kronos&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kronos: A Foundation Model for the Language of Financial Markets&lt;/p&gt;
+&lt;p&gt;⭐ 12,279 | +245 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/google-ai-edge/LiteRT-LM#2026-04-09</guid><pubDate>Thu, 09 Apr 2026 03:42:00 +0000</pubDate></item><item><title>#10 goharbor/harbor (+42 stars)</title><link>https://github.com/goharbor/harbor</link><description>
+</description><guid isPermaLink="false">https://github.com/shiyu-coder/Kronos#2026-04-10</guid><pubDate>Fri, 10 Apr 2026 03:55:24 +0000</pubDate></item><item><title>#9 coleam00/Archon (+185 stars)</title><link>https://github.com/coleam00/Archon</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;goharbor/harbor&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An open source trusted cloud native registry project that stores, signs, and scans content.&lt;/p&gt;
-&lt;p&gt;⭐ 28,153 | +42 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;coleam00/Archon&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.&lt;/p&gt;
+&lt;p&gt;⭐ 14,516 | +185 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/goharbor/harbor#2026-04-09</guid><pubDate>Thu, 09 Apr 2026 03:42:00 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/coleam00/Archon#2026-04-10</guid><pubDate>Fri, 10 Apr 2026 03:55:24 +0000</pubDate></item><item><title>#10 YishenTu/claudian (+200 stars)</title><link>https://github.com/YishenTu/claudian</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;YishenTu/claudian&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault&lt;/p&gt;
+&lt;p&gt;⭐ 6,924 | +200 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/YishenTu/claudian#2026-04-10</guid><pubDate>Fri, 10 Apr 2026 03:55:24 +0000</pubDate></item></channel></rss>
