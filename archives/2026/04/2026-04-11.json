@@ -1,0 +1,103 @@
+{
+  "date": "2026-04-11",
+  "updated_at": "2026-04-11 03:32:02",
+  "count": 12,
+  "rankings": [
+    {
+      "name": "microsoft/markitdown",
+      "rank": 1,
+      "stars": "99,994",
+      "stars_today": "2,352",
+      "language": "Python",
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "rank": 2,
+      "stars": "52,837",
+      "stars_today": "7,671",
+      "language": "Python",
+      "description": "The agent that grows with you"
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 3,
+      "stars": "145,929",
+      "stars_today": "2,150",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "coleam00/Archon",
+      "rank": 4,
+      "stars": "15,763",
+      "stars_today": "756",
+      "language": "TypeScript",
+      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable."
+    },
+    {
+      "name": "rowboatlabs/rowboat",
+      "rank": 5,
+      "stars": "11,796",
+      "stars_today": "507",
+      "language": "TypeScript",
+      "description": "Open-source AI coworker, with memory"
+    },
+    {
+      "name": "multica-ai/multica",
+      "rank": 6,
+      "stars": "6,300",
+      "stars_today": "1,506",
+      "language": "TypeScript",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills."
+    },
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "rank": 7,
+      "stars": "11,860",
+      "stars_today": "1,450",
+      "language": null,
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "rank": 8,
+      "stars": "12,757",
+      "stars_today": "601",
+      "language": "Python",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "rank": 9,
+      "stars": "16,062",
+      "stars_today": "1,424",
+      "language": "Python",
+      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\""
+    },
+    {
+      "name": "opendataloader-project/opendataloader-pdf",
+      "rank": 10,
+      "stars": "14,878",
+      "stars_today": "1,306",
+      "language": "Java",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source."
+    },
+    {
+      "name": "shanraisshan/claude-code-best-practice",
+      "rank": 11,
+      "stars": "35,930",
+      "stars_today": "1,251",
+      "language": "HTML",
+      "description": "practice made claude perfect"
+    },
+    {
+      "name": "jqlang/jq",
+      "rank": 12,
+      "stars": "34,328",
+      "stars_today": "75",
+      "language": "C",
+      "description": "Command-line JSON processor"
+    }
+  ]
+}
