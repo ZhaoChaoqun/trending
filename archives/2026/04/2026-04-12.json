@@ -1,0 +1,111 @@
+{
+  "date": "2026-04-12",
+  "updated_at": "2026-04-12 03:58:01",
+  "count": 13,
+  "rankings": [
+    {
+      "name": "NousResearch/hermes-agent",
+      "rank": 1,
+      "stars": "60,040",
+      "stars_today": "6,438",
+      "language": "Python",
+      "description": "The agent that grows with you"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "rank": 2,
+      "stars": "102,550",
+      "stars_today": "3,086",
+      "language": "Python",
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 3,
+      "stars": "147,292",
+      "stars_today": "1,591",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "alexpate/awesome-design-systems",
+      "rank": 4,
+      "stars": "22,585",
+      "stars_today": "2,050",
+      "language": null,
+      "description": "💅🏻 ⚒ A collection of awesome design systems"
+    },
+    {
+      "name": "coleam00/Archon",
+      "rank": 5,
+      "stars": "16,536",
+      "stars_today": "1,346",
+      "language": "TypeScript",
+      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable."
+    },
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "rank": 6,
+      "stars": "13,835",
+      "stars_today": "1,066",
+      "language": null,
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+    },
+    {
+      "name": "multica-ai/multica",
+      "rank": 7,
+      "stars": "8,128",
+      "stars_today": "1,948",
+      "language": "TypeScript",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills."
+    },
+    {
+      "name": "shanraisshan/claude-code-best-practice",
+      "rank": 8,
+      "stars": "37,234",
+      "stars_today": "1,475",
+      "language": "HTML",
+      "description": "practice made claude perfect"
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "rank": 9,
+      "stars": "67,863",
+      "stars_today": "361",
+      "language": "Roff",
+      "description": "所有小初高、大学PDF教材。"
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "rank": 10,
+      "stars": "10,007",
+      "stars_today": "1,084",
+      "language": "Python",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "rank": 11,
+      "stars": "14,455",
+      "stars_today": "595",
+      "language": "Python",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets"
+    },
+    {
+      "name": "opendataloader-project/opendataloader-pdf",
+      "rank": 12,
+      "stars": "15,680",
+      "stars_today": "775",
+      "language": "Java",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source."
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "rank": 13,
+      "stars": "16,860",
+      "stars_today": "837",
+      "language": "Python",
+      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\""
+    }
+  ]
+}
