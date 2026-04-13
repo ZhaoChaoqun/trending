@@ -1,0 +1,119 @@
+{
+  "date": "2026-04-13",
+  "updated_at": "2026-04-13 04:15:31",
+  "count": 14,
+  "rankings": [
+    {
+      "name": "NousResearch/hermes-agent",
+      "rank": 1,
+      "stars": "69,370",
+      "stars_today": "7,454",
+      "language": "Python",
+      "description": "The agent that grows with you"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "rank": 2,
+      "stars": "105,313",
+      "stars_today": "2,513",
+      "language": "Python",
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "rank": 3,
+      "stars": "50,535",
+      "stars_today": "753",
+      "language": "TypeScript",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions."
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "rank": 4,
+      "stars": "52,288",
+      "stars_today": "663",
+      "language": "Python",
+      "description": "An AI Hedge Fund Team"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "rank": 5,
+      "stars": "16,057",
+      "stars_today": "1,985",
+      "language": "Python",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets"
+    },
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "rank": 6,
+      "stars": "17,659",
+      "stars_today": "2,369",
+      "language": null,
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+    },
+    {
+      "name": "multica-ai/multica",
+      "rank": 7,
+      "stars": "9,713",
+      "stars_today": "1,609",
+      "language": "TypeScript",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills."
+    },
+    {
+      "name": "coleam00/Archon",
+      "rank": 8,
+      "stars": "17,183",
+      "stars_today": "612",
+      "language": "TypeScript",
+      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable."
+    },
+    {
+      "name": "shanraisshan/claude-code-best-practice",
+      "rank": 9,
+      "stars": "39,455",
+      "stars_today": "1,548",
+      "language": "HTML",
+      "description": "practice made claude perfect"
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "rank": 10,
+      "stars": "11,527",
+      "stars_today": "1,278",
+      "language": "Python",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning"
+    },
+    {
+      "name": "ahujasid/blender-mcp",
+      "rank": 11,
+      "stars": "19,208",
+      "stars_today": "215",
+      "language": "Python",
+      "description": ""
+    },
+    {
+      "name": "rustfs/rustfs",
+      "rank": 12,
+      "stars": "25,338",
+      "stars_today": "182",
+      "language": "Rust",
+      "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph."
+    },
+    {
+      "name": "snarktank/ralph",
+      "rank": 13,
+      "stars": "16,066",
+      "stars_today": "463",
+      "language": "TypeScript",
+      "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete."
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "rank": 14,
+      "stars": "68,444",
+      "stars_today": "454",
+      "language": "Roff",
+      "description": "所有小初高、大学PDF教材。"
+    }
+  ]
+}
