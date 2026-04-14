@@ -1,0 +1,135 @@
+{
+  "date": "2026-04-14",
+  "updated_at": "2026-04-14 03:56:51",
+  "count": 16,
+  "rankings": [
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "rank": 1,
+      "stars": "26,373",
+      "stars_today": "5,733",
+      "language": null,
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "rank": 2,
+      "stars": "78,846",
+      "stars_today": "11,289",
+      "language": "Python",
+      "description": "The agent that grows with you"
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "rank": 3,
+      "stars": "53,695",
+      "stars_today": "3,175",
+      "language": "TypeScript",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions."
+    },
+    {
+      "name": "microsoft/markitdown",
+      "rank": 4,
+      "stars": "107,246",
+      "stars_today": "2,808",
+      "language": "Python",
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "rank": 5,
+      "stars": "53,104",
+      "stars_today": "783",
+      "language": "Python",
+      "description": "An AI Hedge Fund Team"
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "rank": 6,
+      "stars": "39,649",
+      "stars_today": "1,012",
+      "language": "Jupyter Notebook",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude."
+    },
+    {
+      "name": "gsd-build/get-shit-done",
+      "rank": 7,
+      "stars": "52,252",
+      "stars_today": "655",
+      "language": "JavaScript",
+      "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES."
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "rank": 8,
+      "stars": "17,156",
+      "stars_today": "1,554",
+      "language": "Python",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets"
+    },
+    {
+      "name": "multica-ai/multica",
+      "rank": 9,
+      "stars": "11,393",
+      "stars_today": "1,715",
+      "language": "TypeScript",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills."
+    },
+    {
+      "name": "coleam00/Archon",
+      "rank": 10,
+      "stars": "17,693",
+      "stars_today": "677",
+      "language": "TypeScript",
+      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable."
+    },
+    {
+      "name": "snarktank/ralph",
+      "rank": 11,
+      "stars": "16,602",
+      "stars_today": "691",
+      "language": "TypeScript",
+      "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete."
+    },
+    {
+      "name": "shanraisshan/claude-code-best-practice",
+      "rank": 12,
+      "stars": "42,147",
+      "stars_today": "2,461",
+      "language": "HTML",
+      "description": "practice made claude perfect"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "rank": 13,
+      "stars": "16,446",
+      "stars_today": "512",
+      "language": "TypeScript",
+      "description": "The open-source voice synthesis studio"
+    },
+    {
+      "name": "ahujasid/blender-mcp",
+      "rank": 14,
+      "stars": "19,555",
+      "stars_today": "339",
+      "language": "Python",
+      "description": ""
+    },
+    {
+      "name": "hacksider/Deep-Live-Cam",
+      "rank": 15,
+      "stars": "90,319",
+      "stars_today": "217",
+      "language": "Python",
+      "description": "real time face swap and one-click video deepfake with only a single image"
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "rank": 16,
+      "stars": "69,019",
+      "stars_today": "703",
+      "language": "Roff",
+      "description": "所有小初高、大学PDF教材。"
+    }
+  ]
+}
