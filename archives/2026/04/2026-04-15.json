@@ -1,0 +1,103 @@
+{
+  "date": "2026-04-15",
+  "updated_at": "2026-04-15 03:55:31",
+  "count": 12,
+  "rankings": [
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "rank": 1,
+      "stars": "35,117",
+      "stars_today": "9,263",
+      "language": null,
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "rank": 2,
+      "stars": "56,102",
+      "stars_today": "2,997",
+      "language": "TypeScript",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions."
+    },
+    {
+      "name": "microsoft/markitdown",
+      "rank": 3,
+      "stars": "108,672",
+      "stars_today": "1,675",
+      "language": "Python",
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 4,
+      "stars": "152,630",
+      "stars_today": "1,919",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "chrislgarry/Apollo-11",
+      "rank": 5,
+      "stars": "66,435",
+      "stars_today": "472",
+      "language": "Assembly",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules."
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "rank": 6,
+      "stars": "54,309",
+      "stars_today": "1,007",
+      "language": "Python",
+      "description": "An AI Hedge Fund Team"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "rank": 7,
+      "stars": "85,526",
+      "stars_today": "8,301",
+      "language": "Python",
+      "description": "The agent that grows with you"
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "rank": 8,
+      "stars": "40,364",
+      "stars_today": "931",
+      "language": "Jupyter Notebook",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude."
+    },
+    {
+      "name": "shanraisshan/claude-code-best-practice",
+      "rank": 9,
+      "stars": "44,072",
+      "stars_today": "2,583",
+      "language": "HTML",
+      "description": "from vibe coding to agentic engineering - practice makes claude perfect"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "rank": 10,
+      "stars": "17,500",
+      "stars_today": "1,162",
+      "language": "TypeScript",
+      "description": "The open-source voice synthesis studio"
+    },
+    {
+      "name": "pascalorg/editor",
+      "rank": 11,
+      "stars": "11,794",
+      "stars_today": "820",
+      "language": "TypeScript",
+      "description": "Create and share 3D architectural projects."
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "rank": 12,
+      "stars": "17,879",
+      "stars_today": "963",
+      "language": "Python",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets"
+    }
+  ]
+}
