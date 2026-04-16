@@ -1,0 +1,111 @@
+{
+  "date": "2026-04-16",
+  "updated_at": "2026-04-16 04:10:30",
+  "count": 13,
+  "rankings": [
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "rank": 1,
+      "stars": "44,191",
+      "stars_today": "9,646",
+      "language": null,
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "rank": 2,
+      "stars": "58,078",
+      "stars_today": "2,305",
+      "language": "TypeScript",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions."
+    },
+    {
+      "name": "Lordog/dive-into-llms",
+      "rank": 3,
+      "stars": "29,773",
+      "stars_today": "941",
+      "language": "Jupyter Notebook",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程"
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "rank": 4,
+      "stars": "55,212",
+      "stars_today": "1,058",
+      "language": "Python",
+      "description": "An AI Hedge Fund Team"
+    },
+    {
+      "name": "chrislgarry/Apollo-11",
+      "rank": 5,
+      "stars": "66,847",
+      "stars_today": "606",
+      "language": "Assembly",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules."
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 6,
+      "stars": "154,638",
+      "stars_today": "2,055",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "public-apis/public-apis",
+      "rank": 7,
+      "stars": "423,537",
+      "stars_today": "950",
+      "language": "Python",
+      "description": "A collective list of free APIs"
+    },
+    {
+      "name": "pascalorg/editor",
+      "rank": 8,
+      "stars": "12,780",
+      "stars_today": "1,391",
+      "language": "TypeScript",
+      "description": "Create and share 3D architectural projects."
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "rank": 9,
+      "stars": "18,420",
+      "stars_today": "1,062",
+      "language": "TypeScript",
+      "description": "The open-source voice synthesis studio"
+    },
+    {
+      "name": "google/magika",
+      "rank": 10,
+      "stars": "13,926",
+      "stars_today": "768",
+      "language": "Python",
+      "description": "Fast and accurate AI powered file content types detection"
+    },
+    {
+      "name": "Donchitos/Claude-Code-Game-Studios",
+      "rank": 11,
+      "stars": "10,688",
+      "stars_today": "612",
+      "language": "Shell",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy."
+    },
+    {
+      "name": "vercel-labs/open-agents",
+      "rank": 12,
+      "stars": "2,739",
+      "stars_today": "915",
+      "language": "TypeScript",
+      "description": "An open source template for building cloud agents."
+    },
+    {
+      "name": "lsdefine/GenericAgent",
+      "rank": 13,
+      "stars": "2,085",
+      "stars_today": "446",
+      "language": "Python",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption"
+    }
+  ]
+}
