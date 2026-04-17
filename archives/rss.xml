@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Thu, 16 Apr 2026 04:10:30 +0000</pubDate><lastBuildDate>Thu, 16 Apr 2026 04:10:30 +0000</lastBuildDate><item><title>#1 forrestchang/andrej-karpathy-skills (+9,646 stars)</title><link>https://github.com/forrestchang/andrej-karpathy-skills</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 17 Apr 2026 03:59:05 +0000</pubDate><lastBuildDate>Fri, 17 Apr 2026 03:59:05 +0000</lastBuildDate><item><title>#1 forrestchang/andrej-karpathy-skills (+7,959 stars)</title><link>https://github.com/forrestchang/andrej-karpathy-skills</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;forrestchang/andrej-karpathy-skills&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.&lt;/p&gt;
-&lt;p&gt;⭐ 44,191 | +9,646 today | 🔧 Unknown&lt;/p&gt;
+&lt;p&gt;⭐ 50,852 | +7,959 today | 🔧 Unknown&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/forrestchang/andrej-karpathy-skills#2026-04-16</guid><pubDate>Thu, 16 Apr 2026 04:10:30 +0000</pubDate></item><item><title>#2 thedotmack/claude-mem (+2,305 stars)</title><link>https://github.com/thedotmack/claude-mem</link><description>
+</description><guid isPermaLink="false">https://github.com/forrestchang/andrej-karpathy-skills#2026-04-17</guid><pubDate>Fri, 17 Apr 2026 03:59:05 +0000</pubDate></item><item><title>#2 thedotmack/claude-mem (+1,897 stars)</title><link>https://github.com/thedotmack/claude-mem</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;thedotmack/claude-mem&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.&lt;/p&gt;
-&lt;p&gt;⭐ 58,078 | +2,305 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 60,166 | +1,897 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/thedotmack/claude-mem#2026-04-16</guid><pubDate>Thu, 16 Apr 2026 04:10:30 +0000</pubDate></item><item><title>#3 Lordog/dive-into-llms (+941 stars)</title><link>https://github.com/Lordog/dive-into-llms</link><description>
+</description><guid isPermaLink="false">https://github.com/thedotmack/claude-mem#2026-04-17</guid><pubDate>Fri, 17 Apr 2026 03:59:05 +0000</pubDate></item><item><title>#3 Lordog/dive-into-llms (+1,385 stars)</title><link>https://github.com/Lordog/dive-into-llms</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;Lordog/dive-into-llms&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;《动手学大模型Dive into LLMs》系列编程实践教程&lt;/p&gt;
-&lt;p&gt;⭐ 29,773 | +941 today | 🔧 Jupyter Notebook&lt;/p&gt;
+&lt;p&gt;⭐ 30,884 | +1,385 today | 🔧 Jupyter Notebook&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Lordog/dive-into-llms#2026-04-16</guid><pubDate>Thu, 16 Apr 2026 04:10:30 +0000</pubDate></item><item><title>#4 virattt/ai-hedge-fund (+1,058 stars)</title><link>https://github.com/virattt/ai-hedge-fund</link><description>
+</description><guid isPermaLink="false">https://github.com/Lordog/dive-into-llms#2026-04-17</guid><pubDate>Fri, 17 Apr 2026 03:59:05 +0000</pubDate></item><item><title>#4 lsdefine/GenericAgent (+872 stars)</title><link>https://github.com/lsdefine/GenericAgent</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;virattt/ai-hedge-fund&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An AI Hedge Fund Team&lt;/p&gt;
-&lt;p&gt;⭐ 55,212 | +1,058 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/virattt/ai-hedge-fund#2026-04-16</guid><pubDate>Thu, 16 Apr 2026 04:10:30 +0000</pubDate></item><item><title>#5 chrislgarry/Apollo-11 (+606 stars)</title><link>https://github.com/chrislgarry/Apollo-11</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;chrislgarry/Apollo-11&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.&lt;/p&gt;
-&lt;p&gt;⭐ 66,847 | +606 today | 🔧 Assembly&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/chrislgarry/Apollo-11#2026-04-16</guid><pubDate>Thu, 16 Apr 2026 04:10:30 +0000</pubDate></item><item><title>#6 obra/superpowers (+2,055 stars)</title><link>https://github.com/obra/superpowers</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 154,638 | +2,055 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-04-16</guid><pubDate>Thu, 16 Apr 2026 04:10:30 +0000</pubDate></item><item><title>#7 public-apis/public-apis (+950 stars)</title><link>https://github.com/public-apis/public-apis</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;public-apis/public-apis&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A collective list of free APIs&lt;/p&gt;
-&lt;p&gt;⭐ 423,537 | +950 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/public-apis/public-apis#2026-04-16</guid><pubDate>Thu, 16 Apr 2026 04:10:30 +0000</pubDate></item><item><title>#8 pascalorg/editor (+1,391 stars)</title><link>https://github.com/pascalorg/editor</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;pascalorg/editor&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Create and share 3D architectural projects.&lt;/p&gt;
-&lt;p&gt;⭐ 12,780 | +1,391 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;lsdefine/GenericAgent&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption&lt;/p&gt;
+&lt;p&gt;⭐ 2,935 | +872 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/pascalorg/editor#2026-04-16</guid><pubDate>Thu, 16 Apr 2026 04:10:30 +0000</pubDate></item><item><title>#9 jamiepine/voicebox (+1,062 stars)</title><link>https://github.com/jamiepine/voicebox</link><description>
+</description><guid isPermaLink="false">https://github.com/lsdefine/GenericAgent#2026-04-17</guid><pubDate>Fri, 17 Apr 2026 03:59:05 +0000</pubDate></item><item><title>#5 jamiepine/voicebox (+880 stars)</title><link>https://github.com/jamiepine/voicebox</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;jamiepine/voicebox&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The open-source voice synthesis studio&lt;/p&gt;
-&lt;p&gt;⭐ 18,420 | +1,062 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 19,178 | +880 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/jamiepine/voicebox#2026-04-16</guid><pubDate>Thu, 16 Apr 2026 04:10:30 +0000</pubDate></item><item><title>#10 google/magika (+768 stars)</title><link>https://github.com/google/magika</link><description>
+</description><guid isPermaLink="false">https://github.com/jamiepine/voicebox#2026-04-17</guid><pubDate>Fri, 17 Apr 2026 03:59:05 +0000</pubDate></item><item><title>#6 google/magika (+854 stars)</title><link>https://github.com/google/magika</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;google/magika&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Fast and accurate AI powered file content types detection&lt;/p&gt;
-&lt;p&gt;⭐ 13,926 | +768 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 14,897 | +854 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/google/magika#2026-04-16</guid><pubDate>Thu, 16 Apr 2026 04:10:30 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/google/magika#2026-04-17</guid><pubDate>Fri, 17 Apr 2026 03:59:05 +0000</pubDate></item><item><title>#7 openai/openai-agents-python (+172 stars)</title><link>https://github.com/openai/openai-agents-python</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;openai/openai-agents-python&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A lightweight, powerful framework for multi-agent workflows&lt;/p&gt;
+&lt;p&gt;⭐ 21,344 | +172 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/openai/openai-agents-python#2026-04-17</guid><pubDate>Fri, 17 Apr 2026 03:59:05 +0000</pubDate></item><item><title>#8 EvoMap/evolver (+812 stars)</title><link>https://github.com/EvoMap/evolver</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;EvoMap/evolver&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai&lt;/p&gt;
+&lt;p&gt;⭐ 3,286 | +812 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/EvoMap/evolver#2026-04-17</guid><pubDate>Fri, 17 Apr 2026 03:59:05 +0000</pubDate></item><item><title>#9 BasedHardware/omi (+378 stars)</title><link>https://github.com/BasedHardware/omi</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;BasedHardware/omi&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AI that sees your screen, listens to your conversations and tells you what to do&lt;/p&gt;
+&lt;p&gt;⭐ 9,218 | +378 today | 🔧 Dart&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/BasedHardware/omi#2026-04-17</guid><pubDate>Fri, 17 Apr 2026 03:59:05 +0000</pubDate></item><item><title>#10 vercel-labs/open-agents (+738 stars)</title><link>https://github.com/vercel-labs/open-agents</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;vercel-labs/open-agents&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An open source template for building cloud agents.&lt;/p&gt;
+&lt;p&gt;⭐ 3,289 | +738 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/vercel-labs/open-agents#2026-04-17</guid><pubDate>Fri, 17 Apr 2026 03:59:05 +0000</pubDate></item></channel></rss>
