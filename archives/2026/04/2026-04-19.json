@@ -1,0 +1,87 @@
+{
+  "date": "2026-04-19",
+  "updated_at": "2026-04-19 04:10:26",
+  "count": 10,
+  "rankings": [
+    {
+      "name": "Lordog/dive-into-llms",
+      "rank": 1,
+      "stars": "32,103",
+      "stars_today": "547",
+      "language": "Jupyter Notebook",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程"
+    },
+    {
+      "name": "rustdesk/rustdesk",
+      "rank": 2,
+      "stars": "112,145",
+      "stars_today": "393",
+      "language": "Rust",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer."
+    },
+    {
+      "name": "BasedHardware/omi",
+      "rank": 3,
+      "stars": "10,550",
+      "stars_today": "609",
+      "language": "Dart",
+      "description": "AI that sees your screen, listens to your conversations and tells you what to do"
+    },
+    {
+      "name": "openai/openai-agents-python",
+      "rank": 4,
+      "stars": "22,445",
+      "stars_today": "470",
+      "language": "Python",
+      "description": "A lightweight, powerful framework for multi-agent workflows"
+    },
+    {
+      "name": "EvoMap/evolver",
+      "rank": 5,
+      "stars": "5,086",
+      "stars_today": "1,131",
+      "language": "JavaScript",
+      "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai"
+    },
+    {
+      "name": "thunderbird/thunderbolt",
+      "rank": 6,
+      "stars": "1,652",
+      "stars_today": "447",
+      "language": "TypeScript",
+      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in."
+    },
+    {
+      "name": "SimoneAvogadro/android-reverse-engineering-skill",
+      "rank": 7,
+      "stars": "3,201",
+      "stars_today": "403",
+      "language": "Shell",
+      "description": "Claude Code skill to support Android app's reverse engineering"
+    },
+    {
+      "name": "deepseek-ai/DeepGEMM",
+      "rank": 8,
+      "stars": "6,568",
+      "stars_today": "31",
+      "language": "Cuda",
+      "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling"
+    },
+    {
+      "name": "aaddrick/claude-desktop-debian",
+      "rank": 9,
+      "stars": "3,489",
+      "stars_today": "44",
+      "language": "Shell",
+      "description": "Claude Desktop for Debian-based Linux distributions"
+    },
+    {
+      "name": "tractorjuice/arc-kit",
+      "rank": 10,
+      "stars": "768",
+      "stars_today": "135",
+      "language": "HTML",
+      "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit"
+    }
+  ]
+}

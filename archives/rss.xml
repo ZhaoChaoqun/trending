@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sat, 18 Apr 2026 03:43:26 +0000</pubDate><lastBuildDate>Sat, 18 Apr 2026 03:43:26 +0000</lastBuildDate><item><title>#1 Lordog/dive-into-llms (+944 stars)</title><link>https://github.com/Lordog/dive-into-llms</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sun, 19 Apr 2026 04:10:26 +0000</pubDate><lastBuildDate>Sun, 19 Apr 2026 04:10:26 +0000</lastBuildDate><item><title>#1 Lordog/dive-into-llms (+547 stars)</title><link>https://github.com/Lordog/dive-into-llms</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;Lordog/dive-into-llms&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;《动手学大模型Dive into LLMs》系列编程实践教程&lt;/p&gt;
-&lt;p&gt;⭐ 31,604 | +944 today | 🔧 Jupyter Notebook&lt;/p&gt;
+&lt;p&gt;⭐ 32,103 | +547 today | 🔧 Jupyter Notebook&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Lordog/dive-into-llms#2026-04-18</guid><pubDate>Sat, 18 Apr 2026 03:43:26 +0000</pubDate></item><item><title>#2 obra/superpowers (+1,713 stars)</title><link>https://github.com/obra/superpowers</link><description>
+</description><guid isPermaLink="false">https://github.com/Lordog/dive-into-llms#2026-04-19</guid><pubDate>Sun, 19 Apr 2026 04:10:26 +0000</pubDate></item><item><title>#2 rustdesk/rustdesk (+393 stars)</title><link>https://github.com/rustdesk/rustdesk</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 157,904 | +1,713 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;rustdesk/rustdesk&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.&lt;/p&gt;
+&lt;p&gt;⭐ 112,145 | +393 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-04-18</guid><pubDate>Sat, 18 Apr 2026 03:43:26 +0000</pubDate></item><item><title>#3 openai/openai-agents-python (+625 stars)</title><link>https://github.com/openai/openai-agents-python</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;openai/openai-agents-python&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A lightweight, powerful framework for multi-agent workflows&lt;/p&gt;
-&lt;p&gt;⭐ 21,879 | +625 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/openai/openai-agents-python#2026-04-18</guid><pubDate>Sat, 18 Apr 2026 03:43:26 +0000</pubDate></item><item><title>#4 EvoMap/evolver (+737 stars)</title><link>https://github.com/EvoMap/evolver</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;EvoMap/evolver&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai&lt;/p&gt;
-&lt;p&gt;⭐ 4,380 | +737 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/EvoMap/evolver#2026-04-18</guid><pubDate>Sat, 18 Apr 2026 03:43:26 +0000</pubDate></item><item><title>#5 lsdefine/GenericAgent (+845 stars)</title><link>https://github.com/lsdefine/GenericAgent</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;lsdefine/GenericAgent&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption&lt;/p&gt;
-&lt;p&gt;⭐ 3,753 | +845 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/lsdefine/GenericAgent#2026-04-18</guid><pubDate>Sat, 18 Apr 2026 03:43:26 +0000</pubDate></item><item><title>#6 BasedHardware/omi (+824 stars)</title><link>https://github.com/BasedHardware/omi</link><description>
+</description><guid isPermaLink="false">https://github.com/rustdesk/rustdesk#2026-04-19</guid><pubDate>Sun, 19 Apr 2026 04:10:26 +0000</pubDate></item><item><title>#3 BasedHardware/omi (+609 stars)</title><link>https://github.com/BasedHardware/omi</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;BasedHardware/omi&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;AI that sees your screen, listens to your conversations and tells you what to do&lt;/p&gt;
-&lt;p&gt;⭐ 9,899 | +824 today | 🔧 Dart&lt;/p&gt;
+&lt;p&gt;⭐ 10,550 | +609 today | 🔧 Dart&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/BasedHardware/omi#2026-04-18</guid><pubDate>Sat, 18 Apr 2026 03:43:26 +0000</pubDate></item><item><title>#7 Donchitos/Claude-Code-Game-Studios (+311 stars)</title><link>https://github.com/Donchitos/Claude-Code-Game-Studios</link><description>
+</description><guid isPermaLink="false">https://github.com/BasedHardware/omi#2026-04-19</guid><pubDate>Sun, 19 Apr 2026 04:10:26 +0000</pubDate></item><item><title>#4 openai/openai-agents-python (+470 stars)</title><link>https://github.com/openai/openai-agents-python</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Donchitos/Claude-Code-Game-Studios&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.&lt;/p&gt;
-&lt;p&gt;⭐ 11,852 | +311 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;openai/openai-agents-python&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A lightweight, powerful framework for multi-agent workflows&lt;/p&gt;
+&lt;p&gt;⭐ 22,445 | +470 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Donchitos/Claude-Code-Game-Studios#2026-04-18</guid><pubDate>Sat, 18 Apr 2026 03:43:26 +0000</pubDate></item><item><title>#8 jamiepine/voicebox (+797 stars)</title><link>https://github.com/jamiepine/voicebox</link><description>
+</description><guid isPermaLink="false">https://github.com/openai/openai-agents-python#2026-04-19</guid><pubDate>Sun, 19 Apr 2026 04:10:26 +0000</pubDate></item><item><title>#5 EvoMap/evolver (+1,131 stars)</title><link>https://github.com/EvoMap/evolver</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;jamiepine/voicebox&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The open-source voice synthesis studio&lt;/p&gt;
-&lt;p&gt;⭐ 19,928 | +797 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EvoMap/evolver&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai&lt;/p&gt;
+&lt;p&gt;⭐ 5,086 | +1,131 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/jamiepine/voicebox#2026-04-18</guid><pubDate>Sat, 18 Apr 2026 03:43:26 +0000</pubDate></item><item><title>#9 google/magika (+956 stars)</title><link>https://github.com/google/magika</link><description>
+</description><guid isPermaLink="false">https://github.com/EvoMap/evolver#2026-04-19</guid><pubDate>Sun, 19 Apr 2026 04:10:26 +0000</pubDate></item><item><title>#6 thunderbird/thunderbolt (+447 stars)</title><link>https://github.com/thunderbird/thunderbolt</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;google/magika&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Fast and accurate AI powered file content types detection&lt;/p&gt;
-&lt;p&gt;⭐ 15,530 | +956 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;thunderbird/thunderbolt&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.&lt;/p&gt;
+&lt;p&gt;⭐ 1,652 | +447 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/google/magika#2026-04-18</guid><pubDate>Sat, 18 Apr 2026 03:43:26 +0000</pubDate></item><item><title>#10 SimoneAvogadro/android-reverse-engineering-skill (+538 stars)</title><link>https://github.com/SimoneAvogadro/android-reverse-engineering-skill</link><description>
+</description><guid isPermaLink="false">https://github.com/thunderbird/thunderbolt#2026-04-19</guid><pubDate>Sun, 19 Apr 2026 04:10:26 +0000</pubDate></item><item><title>#7 SimoneAvogadro/android-reverse-engineering-skill (+403 stars)</title><link>https://github.com/SimoneAvogadro/android-reverse-engineering-skill</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;SimoneAvogadro/android-reverse-engineering-skill&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Claude Code skill to support Android app's reverse engineering&lt;/p&gt;
-&lt;p&gt;⭐ 2,799 | +538 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 3,201 | +403 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/SimoneAvogadro/android-reverse-engineering-skill#2026-04-18</guid><pubDate>Sat, 18 Apr 2026 03:43:26 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/SimoneAvogadro/android-reverse-engineering-skill#2026-04-19</guid><pubDate>Sun, 19 Apr 2026 04:10:26 +0000</pubDate></item><item><title>#8 deepseek-ai/DeepGEMM (+31 stars)</title><link>https://github.com/deepseek-ai/DeepGEMM</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;deepseek-ai/DeepGEMM&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling&lt;/p&gt;
+&lt;p&gt;⭐ 6,568 | +31 today | 🔧 Cuda&lt;/p&gt;
+&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/deepseek-ai/DeepGEMM#2026-04-19</guid><pubDate>Sun, 19 Apr 2026 04:10:26 +0000</pubDate></item><item><title>#9 aaddrick/claude-desktop-debian (+44 stars)</title><link>https://github.com/aaddrick/claude-desktop-debian</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;aaddrick/claude-desktop-debian&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Claude Desktop for Debian-based Linux distributions&lt;/p&gt;
+&lt;p&gt;⭐ 3,489 | +44 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/aaddrick/claude-desktop-debian#2026-04-19</guid><pubDate>Sun, 19 Apr 2026 04:10:26 +0000</pubDate></item><item><title>#10 tractorjuice/arc-kit (+135 stars)</title><link>https://github.com/tractorjuice/arc-kit</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;tractorjuice/arc-kit&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Enterprise Architecture Governance &amp; Vendor Procurement Toolkit&lt;/p&gt;
+&lt;p&gt;⭐ 768 | +135 today | 🔧 HTML&lt;/p&gt;
+&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/tractorjuice/arc-kit#2026-04-19</guid><pubDate>Sun, 19 Apr 2026 04:10:26 +0000</pubDate></item></channel></rss>
