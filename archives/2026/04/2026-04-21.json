@@ -1,0 +1,87 @@
+{
+  "date": "2026-04-21",
+  "updated_at": "2026-04-21 03:59:00",
+  "count": 10,
+  "rankings": [
+    {
+      "name": "ruvnet/RuView",
+      "rank": 1,
+      "stars": "48,351",
+      "stars_today": "713",
+      "language": "Rust",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video."
+    },
+    {
+      "name": "paperless-ngx/paperless-ngx",
+      "rank": 2,
+      "stars": "39,507",
+      "stars_today": "606",
+      "language": "Python",
+      "description": "A community-supported supercharged document management system: scan, index and archive all your documents"
+    },
+    {
+      "name": "koala73/worldmonitor",
+      "rank": 3,
+      "stars": "50,333",
+      "stars_today": "316",
+      "language": "TypeScript",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface"
+    },
+    {
+      "name": "openai/openai-agents-python",
+      "rank": 4,
+      "stars": "24,056",
+      "stars_today": "905",
+      "language": "Python",
+      "description": "A lightweight, powerful framework for multi-agent workflows"
+    },
+    {
+      "name": "Fincept-Corporation/FinceptTerminal",
+      "rank": 5,
+      "stars": "9,913",
+      "stars_today": "3,109",
+      "language": "Python",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment."
+    },
+    {
+      "name": "thunderbird/thunderbolt",
+      "rank": 6,
+      "stars": "2,895",
+      "stars_today": "675",
+      "language": "TypeScript",
+      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in."
+    },
+    {
+      "name": "pi-hole/pi-hole",
+      "rank": 7,
+      "stars": "57,296",
+      "stars_today": "196",
+      "language": "Shell",
+      "description": "A black hole for Internet advertisements"
+    },
+    {
+      "name": "tractorjuice/arc-kit",
+      "rank": 8,
+      "stars": "1,379",
+      "stars_today": "329",
+      "language": "HTML",
+      "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit"
+    },
+    {
+      "name": "deepseek-ai/DeepGEMM",
+      "rank": 9,
+      "stars": "6,861",
+      "stars_today": "109",
+      "language": "Cuda",
+      "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling"
+    },
+    {
+      "name": "XTLS/Xray-core",
+      "rank": 10,
+      "stars": "37,513",
+      "stars_today": "78",
+      "language": "Go",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses."
+    }
+  ]
+}
