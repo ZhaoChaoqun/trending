@@ -1,0 +1,79 @@
+{
+  "date": "2026-04-22",
+  "updated_at": "2026-04-22 03:55:12",
+  "count": 9,
+  "rankings": [
+    {
+      "name": "ruvnet/RuView",
+      "rank": 1,
+      "stars": "48,981",
+      "stars_today": "824",
+      "language": "Rust",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video."
+    },
+    {
+      "name": "sansan0/TrendRadar",
+      "rank": 2,
+      "stars": "53,848",
+      "stars_today": "534",
+      "language": "Python",
+      "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。"
+    },
+    {
+      "name": "Fincept-Corporation/FinceptTerminal",
+      "rank": 3,
+      "stars": "11,876",
+      "stars_today": "2,548",
+      "language": "Python",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment."
+    },
+    {
+      "name": "thunderbird/thunderbolt",
+      "rank": 4,
+      "stars": "3,539",
+      "stars_today": "596",
+      "language": "TypeScript",
+      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in."
+    },
+    {
+      "name": "microsoft/ai-agents-for-beginners",
+      "rank": 5,
+      "stars": "57,936",
+      "stars_today": "200",
+      "language": "Jupyter Notebook",
+      "description": "12 Lessons to Get Started Building AI Agents"
+    },
+    {
+      "name": "zilliztech/claude-context",
+      "rank": 6,
+      "stars": "6,750",
+      "stars_today": "169",
+      "language": "TypeScript",
+      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent."
+    },
+    {
+      "name": "HKUDS/RAG-Anything",
+      "rank": 7,
+      "stars": "17,031",
+      "stars_today": "162",
+      "language": "Python",
+      "description": "\"RAG-Anything: All-in-One RAG Framework\""
+    },
+    {
+      "name": "VoltAgent/awesome-agent-skills",
+      "rank": 8,
+      "stars": "16,938",
+      "stars_today": "139",
+      "language": null,
+      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more."
+    },
+    {
+      "name": "dayanch96/YTLite",
+      "rank": 9,
+      "stars": "4,861",
+      "stars_today": "55",
+      "language": "Logos",
+      "description": "A flexible enhancer for YouTube on iOS"
+    }
+  ]
+}
