@@ -1,0 +1,103 @@
+{
+  "date": "2026-04-23",
+  "updated_at": "2026-04-23 04:00:08",
+  "count": 12,
+  "rankings": [
+    {
+      "name": "koala73/worldmonitor",
+      "rank": 1,
+      "stars": "51,751",
+      "stars_today": "424",
+      "language": "TypeScript",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "rank": 2,
+      "stars": "49,430",
+      "stars_today": "565",
+      "language": "Rust",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video."
+    },
+    {
+      "name": "sansan0/TrendRadar",
+      "rank": 3,
+      "stars": "54,579",
+      "stars_today": "969",
+      "language": "Python",
+      "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。"
+    },
+    {
+      "name": "Z4nzu/hackingtool",
+      "rank": 4,
+      "stars": "59,876",
+      "stars_today": "518",
+      "language": "Python",
+      "description": "ALL IN ONE Hacking Tool For Hackers"
+    },
+    {
+      "name": "zilliztech/claude-context",
+      "rank": 5,
+      "stars": "7,705",
+      "stars_today": "871",
+      "language": "TypeScript",
+      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent."
+    },
+    {
+      "name": "Fincept-Corporation/FinceptTerminal",
+      "rank": 6,
+      "stars": "13,286",
+      "stars_today": "1,772",
+      "language": "Python",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment."
+    },
+    {
+      "name": "langfuse/langfuse",
+      "rank": 7,
+      "stars": "25,712",
+      "stars_today": "149",
+      "language": "TypeScript",
+      "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23"
+    },
+    {
+      "name": "KeygraphHQ/shannon",
+      "rank": 8,
+      "stars": "39,689",
+      "stars_today": "372",
+      "language": "TypeScript",
+      "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production."
+    },
+    {
+      "name": "open-metadata/OpenMetadata",
+      "rank": 9,
+      "stars": "12,261",
+      "stars_today": "521",
+      "language": "TypeScript",
+      "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration."
+    },
+    {
+      "name": "HKUDS/RAG-Anything",
+      "rank": 10,
+      "stars": "17,649",
+      "stars_today": "786",
+      "language": "Python",
+      "description": "\"RAG-Anything: All-in-One RAG Framework\""
+    },
+    {
+      "name": "AIDC-AI/Pixelle-Video",
+      "rank": 11,
+      "stars": "5,818",
+      "stars_today": "308",
+      "language": "Python",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
+    },
+    {
+      "name": "vercel-labs/skills",
+      "rank": 12,
+      "stars": "15,590",
+      "stars_today": "333",
+      "language": "TypeScript",
+      "description": "The open agent skills tool - npx skills"
+    }
+  ]
+}
