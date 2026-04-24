@@ -1,0 +1,135 @@
+{
+  "date": "2026-04-24",
+  "updated_at": "2026-04-24 04:13:19",
+  "count": 16,
+  "rankings": [
+    {
+      "name": "Z4nzu/hackingtool",
+      "rank": 1,
+      "stars": "61,292",
+      "stars_today": "1,383",
+      "language": "Python",
+      "description": "ALL IN ONE Hacking Tool For Hackers"
+    },
+    {
+      "name": "huggingface/ml-intern",
+      "rank": 2,
+      "stars": "3,703",
+      "stars_today": "720",
+      "language": "Python",
+      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models"
+    },
+    {
+      "name": "zilliztech/claude-context",
+      "rank": 3,
+      "stars": "8,541",
+      "stars_today": "1,011",
+      "language": "TypeScript",
+      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent."
+    },
+    {
+      "name": "HKUDS/RAG-Anything",
+      "rank": 4,
+      "stars": "18,302",
+      "stars_today": "590",
+      "language": "Python",
+      "description": "\"RAG-Anything: All-in-One RAG Framework\""
+    },
+    {
+      "name": "ruvnet/RuView",
+      "rank": 5,
+      "stars": "49,892",
+      "stars_today": "429",
+      "language": "Rust",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video."
+    },
+    {
+      "name": "Anil-matcha/Open-Generative-AI",
+      "rank": 6,
+      "stars": "7,115",
+      "stars_today": "316",
+      "language": "JavaScript",
+      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik, Krea, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed."
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "rank": 7,
+      "stars": "5,844",
+      "stars_today": "1,962",
+      "language": "Python",
+      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw"
+    },
+    {
+      "name": "open-metadata/OpenMetadata",
+      "rank": 8,
+      "stars": "13,002",
+      "stars_today": "776",
+      "language": "TypeScript",
+      "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration."
+    },
+    {
+      "name": "microsoft/ai-agents-for-beginners",
+      "rank": 9,
+      "stars": "58,940",
+      "stars_today": "208",
+      "language": "Jupyter Notebook",
+      "description": "12 Lessons to Get Started Building AI Agents"
+    },
+    {
+      "name": "cline/cline",
+      "rank": 10,
+      "stars": "60,866",
+      "stars_today": "123",
+      "language": "TypeScript",
+      "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way."
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "rank": 11,
+      "stars": "23,996",
+      "stars_today": "285",
+      "language": "JavaScript",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering."
+    },
+    {
+      "name": "chiphuyen/aie-book",
+      "rank": 12,
+      "stars": "15,238",
+      "stars_today": "215",
+      "language": "Jupyter Notebook",
+      "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)"
+    },
+    {
+      "name": "VoltAgent/awesome-agent-skills",
+      "rank": 13,
+      "stars": "18,250",
+      "stars_today": "228",
+      "language": null,
+      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more."
+    },
+    {
+      "name": "PowerShell/PowerShell",
+      "rank": 14,
+      "stars": "52,826",
+      "stars_today": "67",
+      "language": "C#",
+      "description": "PowerShell for every system!"
+    },
+    {
+      "name": "microsoft/onnxruntime",
+      "rank": 15,
+      "stars": "20,229",
+      "stars_today": "49",
+      "language": "C++",
+      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "rank": 16,
+      "stars": "9,535",
+      "stars_today": "238",
+      "language": "TypeScript",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms"
+    }
+  ]
+}

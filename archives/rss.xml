@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Thu, 23 Apr 2026 04:00:08 +0000</pubDate><lastBuildDate>Thu, 23 Apr 2026 04:00:08 +0000</lastBuildDate><item><title>#1 koala73/worldmonitor (+424 stars)</title><link>https://github.com/koala73/worldmonitor</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;koala73/worldmonitor&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface&lt;/p&gt;
-&lt;p&gt;⭐ 51,751 | +424 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/koala73/worldmonitor#2026-04-23</guid><pubDate>Thu, 23 Apr 2026 04:00:08 +0000</pubDate></item><item><title>#2 ruvnet/RuView (+565 stars)</title><link>https://github.com/ruvnet/RuView</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ruvnet/RuView&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.&lt;/p&gt;
-&lt;p&gt;⭐ 49,430 | +565 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/ruvnet/RuView#2026-04-23</guid><pubDate>Thu, 23 Apr 2026 04:00:08 +0000</pubDate></item><item><title>#3 sansan0/TrendRadar (+969 stars)</title><link>https://github.com/sansan0/TrendRadar</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;sansan0/TrendRadar&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;⭐AI-driven public opinion &amp; trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。&lt;/p&gt;
-&lt;p&gt;⭐ 54,579 | +969 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/sansan0/TrendRadar#2026-04-23</guid><pubDate>Thu, 23 Apr 2026 04:00:08 +0000</pubDate></item><item><title>#4 Z4nzu/hackingtool (+518 stars)</title><link>https://github.com/Z4nzu/hackingtool</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 24 Apr 2026 04:13:19 +0000</pubDate><lastBuildDate>Fri, 24 Apr 2026 04:13:19 +0000</lastBuildDate><item><title>#1 Z4nzu/hackingtool (+1,383 stars)</title><link>https://github.com/Z4nzu/hackingtool</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;Z4nzu/hackingtool&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;ALL IN ONE Hacking Tool For Hackers&lt;/p&gt;
-&lt;p&gt;⭐ 59,876 | +518 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 61,292 | +1,383 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Z4nzu/hackingtool#2026-04-23</guid><pubDate>Thu, 23 Apr 2026 04:00:08 +0000</pubDate></item><item><title>#5 zilliztech/claude-context (+871 stars)</title><link>https://github.com/zilliztech/claude-context</link><description>
+</description><guid isPermaLink="false">https://github.com/Z4nzu/hackingtool#2026-04-24</guid><pubDate>Fri, 24 Apr 2026 04:13:19 +0000</pubDate></item><item><title>#2 huggingface/ml-intern (+720 stars)</title><link>https://github.com/huggingface/ml-intern</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;huggingface/ml-intern&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models&lt;/p&gt;
+&lt;p&gt;⭐ 3,703 | +720 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/huggingface/ml-intern#2026-04-24</guid><pubDate>Fri, 24 Apr 2026 04:13:19 +0000</pubDate></item><item><title>#3 zilliztech/claude-context (+1,011 stars)</title><link>https://github.com/zilliztech/claude-context</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;zilliztech/claude-context&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Code search MCP for Claude Code. Make entire codebase the context for any coding agent.&lt;/p&gt;
-&lt;p&gt;⭐ 7,705 | +871 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 8,541 | +1,011 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/zilliztech/claude-context#2026-04-23</guid><pubDate>Thu, 23 Apr 2026 04:00:08 +0000</pubDate></item><item><title>#6 Fincept-Corporation/FinceptTerminal (+1,772 stars)</title><link>https://github.com/Fincept-Corporation/FinceptTerminal</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Fincept-Corporation/FinceptTerminal&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.&lt;/p&gt;
-&lt;p&gt;⭐ 13,286 | +1,772 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/Fincept-Corporation/FinceptTerminal#2026-04-23</guid><pubDate>Thu, 23 Apr 2026 04:00:08 +0000</pubDate></item><item><title>#7 langfuse/langfuse (+149 stars)</title><link>https://github.com/langfuse/langfuse</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;langfuse/langfuse&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23&lt;/p&gt;
-&lt;p&gt;⭐ 25,712 | +149 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/langfuse/langfuse#2026-04-23</guid><pubDate>Thu, 23 Apr 2026 04:00:08 +0000</pubDate></item><item><title>#8 KeygraphHQ/shannon (+372 stars)</title><link>https://github.com/KeygraphHQ/shannon</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;KeygraphHQ/shannon&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.&lt;/p&gt;
-&lt;p&gt;⭐ 39,689 | +372 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/KeygraphHQ/shannon#2026-04-23</guid><pubDate>Thu, 23 Apr 2026 04:00:08 +0000</pubDate></item><item><title>#9 open-metadata/OpenMetadata (+521 stars)</title><link>https://github.com/open-metadata/OpenMetadata</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;open-metadata/OpenMetadata&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.&lt;/p&gt;
-&lt;p&gt;⭐ 12,261 | +521 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/open-metadata/OpenMetadata#2026-04-23</guid><pubDate>Thu, 23 Apr 2026 04:00:08 +0000</pubDate></item><item><title>#10 HKUDS/RAG-Anything (+786 stars)</title><link>https://github.com/HKUDS/RAG-Anything</link><description>
+</description><guid isPermaLink="false">https://github.com/zilliztech/claude-context#2026-04-24</guid><pubDate>Fri, 24 Apr 2026 04:13:19 +0000</pubDate></item><item><title>#4 HKUDS/RAG-Anything (+590 stars)</title><link>https://github.com/HKUDS/RAG-Anything</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;HKUDS/RAG-Anything&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;"RAG-Anything: All-in-One RAG Framework"&lt;/p&gt;
-&lt;p&gt;⭐ 17,649 | +786 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 18,302 | +590 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/HKUDS/RAG-Anything#2026-04-23</guid><pubDate>Thu, 23 Apr 2026 04:00:08 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/HKUDS/RAG-Anything#2026-04-24</guid><pubDate>Fri, 24 Apr 2026 04:13:19 +0000</pubDate></item><item><title>#5 ruvnet/RuView (+429 stars)</title><link>https://github.com/ruvnet/RuView</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;ruvnet/RuView&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.&lt;/p&gt;
+&lt;p&gt;⭐ 49,892 | +429 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/ruvnet/RuView#2026-04-24</guid><pubDate>Fri, 24 Apr 2026 04:13:19 +0000</pubDate></item><item><title>#6 Anil-matcha/Open-Generative-AI (+316 stars)</title><link>https://github.com/Anil-matcha/Open-Generative-AI</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Anil-matcha/Open-Generative-AI&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Uncensored, open-source alternative to Higgsfield AI, Freepik, Krea, Openart AI — Free, unrestricted AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.&lt;/p&gt;
+&lt;p&gt;⭐ 7,115 | +316 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Anil-matcha/Open-Generative-AI#2026-04-24</guid><pubDate>Fri, 24 Apr 2026 04:13:19 +0000</pubDate></item><item><title>#7 Alishahryar1/free-claude-code (+1,962 stars)</title><link>https://github.com/Alishahryar1/free-claude-code</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Alishahryar1/free-claude-code&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Use claude-code for free in the terminal, VSCode extension or via discord like openclaw&lt;/p&gt;
+&lt;p&gt;⭐ 5,844 | +1,962 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Alishahryar1/free-claude-code#2026-04-24</guid><pubDate>Fri, 24 Apr 2026 04:13:19 +0000</pubDate></item><item><title>#8 open-metadata/OpenMetadata (+776 stars)</title><link>https://github.com/open-metadata/OpenMetadata</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;open-metadata/OpenMetadata&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.&lt;/p&gt;
+&lt;p&gt;⭐ 13,002 | +776 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/open-metadata/OpenMetadata#2026-04-24</guid><pubDate>Fri, 24 Apr 2026 04:13:19 +0000</pubDate></item><item><title>#9 microsoft/ai-agents-for-beginners (+208 stars)</title><link>https://github.com/microsoft/ai-agents-for-beginners</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;microsoft/ai-agents-for-beginners&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;12 Lessons to Get Started Building AI Agents&lt;/p&gt;
+&lt;p&gt;⭐ 58,940 | +208 today | 🔧 Jupyter Notebook&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/microsoft/ai-agents-for-beginners#2026-04-24</guid><pubDate>Fri, 24 Apr 2026 04:13:19 +0000</pubDate></item><item><title>#10 cline/cline (+123 stars)</title><link>https://github.com/cline/cline</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;cline/cline&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.&lt;/p&gt;
+&lt;p&gt;⭐ 60,866 | +123 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/cline/cline#2026-04-24</guid><pubDate>Fri, 24 Apr 2026 04:13:19 +0000</pubDate></item></channel></rss>
