@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 24 Apr 2026 04:13:19 +0000</pubDate><lastBuildDate>Fri, 24 Apr 2026 04:13:19 +0000</lastBuildDate><item><title>#1 Z4nzu/hackingtool (+1,383 stars)</title><link>https://github.com/Z4nzu/hackingtool</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sat, 25 Apr 2026 03:47:38 +0000</pubDate><lastBuildDate>Sat, 25 Apr 2026 03:47:38 +0000</lastBuildDate><item><title>#1 Z4nzu/hackingtool (+1,378 stars)</title><link>https://github.com/Z4nzu/hackingtool</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;Z4nzu/hackingtool&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;ALL IN ONE Hacking Tool For Hackers&lt;/p&gt;
-&lt;p&gt;⭐ 61,292 | +1,383 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 62,486 | +1,378 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Z4nzu/hackingtool#2026-04-24</guid><pubDate>Fri, 24 Apr 2026 04:13:19 +0000</pubDate></item><item><title>#2 huggingface/ml-intern (+720 stars)</title><link>https://github.com/huggingface/ml-intern</link><description>
+</description><guid isPermaLink="false">https://github.com/Z4nzu/hackingtool#2026-04-25</guid><pubDate>Sat, 25 Apr 2026 03:47:38 +0000</pubDate></item><item><title>#2 codecrafters-io/build-your-own-x (+991 stars)</title><link>https://github.com/codecrafters-io/build-your-own-x</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;huggingface/ml-intern&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models&lt;/p&gt;
-&lt;p&gt;⭐ 3,703 | +720 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;codecrafters-io/build-your-own-x&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Master programming by recreating your favorite technologies from scratch.&lt;/p&gt;
+&lt;p&gt;⭐ 494,963 | +991 today | 🔧 Markdown&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/huggingface/ml-intern#2026-04-24</guid><pubDate>Fri, 24 Apr 2026 04:13:19 +0000</pubDate></item><item><title>#3 zilliztech/claude-context (+1,011 stars)</title><link>https://github.com/zilliztech/claude-context</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;zilliztech/claude-context&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Code search MCP for Claude Code. Make entire codebase the context for any coding agent.&lt;/p&gt;
-&lt;p&gt;⭐ 8,541 | +1,011 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/zilliztech/claude-context#2026-04-24</guid><pubDate>Fri, 24 Apr 2026 04:13:19 +0000</pubDate></item><item><title>#4 HKUDS/RAG-Anything (+590 stars)</title><link>https://github.com/HKUDS/RAG-Anything</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;HKUDS/RAG-Anything&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;"RAG-Anything: All-in-One RAG Framework"&lt;/p&gt;
-&lt;p&gt;⭐ 18,302 | +590 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/HKUDS/RAG-Anything#2026-04-24</guid><pubDate>Fri, 24 Apr 2026 04:13:19 +0000</pubDate></item><item><title>#5 ruvnet/RuView (+429 stars)</title><link>https://github.com/ruvnet/RuView</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ruvnet/RuView&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.&lt;/p&gt;
-&lt;p&gt;⭐ 49,892 | +429 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/ruvnet/RuView#2026-04-24</guid><pubDate>Fri, 24 Apr 2026 04:13:19 +0000</pubDate></item><item><title>#6 Anil-matcha/Open-Generative-AI (+316 stars)</title><link>https://github.com/Anil-matcha/Open-Generative-AI</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Anil-matcha/Open-Generative-AI&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Uncensored, open-source alternative to Higgsfield AI, Freepik, Krea, Openart AI — Free, unrestricted AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.&lt;/p&gt;
-&lt;p&gt;⭐ 7,115 | +316 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/Anil-matcha/Open-Generative-AI#2026-04-24</guid><pubDate>Fri, 24 Apr 2026 04:13:19 +0000</pubDate></item><item><title>#7 Alishahryar1/free-claude-code (+1,962 stars)</title><link>https://github.com/Alishahryar1/free-claude-code</link><description>
+</description><guid isPermaLink="false">https://github.com/codecrafters-io/build-your-own-x#2026-04-25</guid><pubDate>Sat, 25 Apr 2026 03:47:38 +0000</pubDate></item><item><title>#3 Alishahryar1/free-claude-code (+2,638 stars)</title><link>https://github.com/Alishahryar1/free-claude-code</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;Alishahryar1/free-claude-code&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Use claude-code for free in the terminal, VSCode extension or via discord like openclaw&lt;/p&gt;
-&lt;p&gt;⭐ 5,844 | +1,962 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 9,320 | +2,638 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Alishahryar1/free-claude-code#2026-04-24</guid><pubDate>Fri, 24 Apr 2026 04:13:19 +0000</pubDate></item><item><title>#8 open-metadata/OpenMetadata (+776 stars)</title><link>https://github.com/open-metadata/OpenMetadata</link><description>
+</description><guid isPermaLink="false">https://github.com/Alishahryar1/free-claude-code#2026-04-25</guid><pubDate>Sat, 25 Apr 2026 03:47:38 +0000</pubDate></item><item><title>#4 huggingface/ml-intern (+2,985 stars)</title><link>https://github.com/huggingface/ml-intern</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;huggingface/ml-intern&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models&lt;/p&gt;
+&lt;p&gt;⭐ 5,471 | +2,985 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/huggingface/ml-intern#2026-04-25</guid><pubDate>Sat, 25 Apr 2026 03:47:38 +0000</pubDate></item><item><title>#5 zilliztech/claude-context (+706 stars)</title><link>https://github.com/zilliztech/claude-context</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;zilliztech/claude-context&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Code search MCP for Claude Code. Make entire codebase the context for any coding agent.&lt;/p&gt;
+&lt;p&gt;⭐ 9,067 | +706 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/zilliztech/claude-context#2026-04-25</guid><pubDate>Sat, 25 Apr 2026 03:47:38 +0000</pubDate></item><item><title>#6 open-metadata/OpenMetadata (+530 stars)</title><link>https://github.com/open-metadata/OpenMetadata</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;open-metadata/OpenMetadata&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.&lt;/p&gt;
-&lt;p&gt;⭐ 13,002 | +776 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 13,400 | +530 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/open-metadata/OpenMetadata#2026-04-24</guid><pubDate>Fri, 24 Apr 2026 04:13:19 +0000</pubDate></item><item><title>#9 microsoft/ai-agents-for-beginners (+208 stars)</title><link>https://github.com/microsoft/ai-agents-for-beginners</link><description>
+</description><guid isPermaLink="false">https://github.com/open-metadata/OpenMetadata#2026-04-25</guid><pubDate>Sat, 25 Apr 2026 03:47:38 +0000</pubDate></item><item><title>#7 dani-garcia/vaultwarden (+268 stars)</title><link>https://github.com/dani-garcia/vaultwarden</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;microsoft/ai-agents-for-beginners&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;12 Lessons to Get Started Building AI Agents&lt;/p&gt;
-&lt;p&gt;⭐ 58,940 | +208 today | 🔧 Jupyter Notebook&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;dani-garcia/vaultwarden&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs&lt;/p&gt;
+&lt;p&gt;⭐ 59,194 | +268 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/microsoft/ai-agents-for-beginners#2026-04-24</guid><pubDate>Fri, 24 Apr 2026 04:13:19 +0000</pubDate></item><item><title>#10 cline/cline (+123 stars)</title><link>https://github.com/cline/cline</link><description>
+</description><guid isPermaLink="false">https://github.com/dani-garcia/vaultwarden#2026-04-25</guid><pubDate>Sat, 25 Apr 2026 03:47:38 +0000</pubDate></item><item><title>#8 Anil-matcha/Open-Generative-AI (+842 stars)</title><link>https://github.com/Anil-matcha/Open-Generative-AI</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;cline/cline&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.&lt;/p&gt;
-&lt;p&gt;⭐ 60,866 | +123 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Anil-matcha/Open-Generative-AI&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.&lt;/p&gt;
+&lt;p&gt;⭐ 7,769 | +842 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/cline/cline#2026-04-24</guid><pubDate>Fri, 24 Apr 2026 04:13:19 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/Anil-matcha/Open-Generative-AI#2026-04-25</guid><pubDate>Sat, 25 Apr 2026 03:47:38 +0000</pubDate></item><item><title>#9 google/osv-scanner (+141 stars)</title><link>https://github.com/google/osv-scanner</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;google/osv-scanner&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vulnerability scanner written in Go which uses the data provided byhttps://osv.dev&lt;/p&gt;
+&lt;p&gt;⭐ 9,558 | +141 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/google/osv-scanner#2026-04-25</guid><pubDate>Sat, 25 Apr 2026 03:47:38 +0000</pubDate></item><item><title>#10 PostHog/posthog (+85 stars)</title><link>https://github.com/PostHog/posthog</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;PostHog/posthog&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.&lt;/p&gt;
+&lt;p&gt;⭐ 33,161 | +85 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/PostHog/posthog#2026-04-25</guid><pubDate>Sat, 25 Apr 2026 03:47:38 +0000</pubDate></item></channel></rss>
