@@ -1,0 +1,111 @@
+{
+  "date": "2026-04-27",
+  "updated_at": "2026-04-27 04:25:11",
+  "count": 13,
+  "rankings": [
+    {
+      "name": "Z4nzu/hackingtool",
+      "rank": 1,
+      "stars": "65,797",
+      "stars_today": "1,720",
+      "language": "Python",
+      "description": "ALL IN ONE Hacking Tool For Hackers"
+    },
+    {
+      "name": "abhigyanpatwari/GitNexus",
+      "rank": 2,
+      "stars": "30,360",
+      "stars_today": "700",
+      "language": "TypeScript",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "rank": 3,
+      "stars": "496,942",
+      "stars_today": "1,075",
+      "language": "Markdown",
+      "description": "Master programming by recreating your favorite technologies from scratch."
+    },
+    {
+      "name": "openclaw/openclaw",
+      "rank": 4,
+      "stars": "364,798",
+      "stars_today": "627",
+      "language": "TypeScript",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞"
+    },
+    {
+      "name": "mattpocock/skills",
+      "rank": 5,
+      "stars": "24,679",
+      "stars_today": "2,519",
+      "language": "Shell",
+      "description": "Agent Skills for real engineers. Straight from my .claude directory."
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "rank": 6,
+      "stars": "14,124",
+      "stars_today": "1,701",
+      "language": "Python",
+      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw"
+    },
+    {
+      "name": "PostHog/posthog",
+      "rank": 7,
+      "stars": "33,921",
+      "stars_today": "337",
+      "language": "Python",
+      "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack."
+    },
+    {
+      "name": "home-assistant/core",
+      "rank": 8,
+      "stars": "86,615",
+      "stars_today": "73",
+      "language": "Python",
+      "description": "🏡 Open source home automation that puts local control and privacy first."
+    },
+    {
+      "name": "ComposioHQ/awesome-codex-skills",
+      "rank": 9,
+      "stars": "2,132",
+      "stars_today": "517",
+      "language": "Python",
+      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API."
+    },
+    {
+      "name": "trycua/cua",
+      "rank": 10,
+      "stars": "14,486",
+      "stars_today": "182",
+      "language": "HTML",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows)."
+    },
+    {
+      "name": "gastownhall/beads",
+      "rank": 11,
+      "stars": "21,768",
+      "stars_today": "152",
+      "language": "Go",
+      "description": "Beads - A memory upgrade for your coding agent"
+    },
+    {
+      "name": "curl/curl",
+      "rank": 12,
+      "stars": "41,592",
+      "stars_today": "30",
+      "language": "C",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features"
+    },
+    {
+      "name": "microsoft/typescript-go",
+      "rank": 13,
+      "stars": "25,184",
+      "stars_today": "23",
+      "language": "Go",
+      "description": "Staging repo for development of native port of TypeScript"
+    }
+  ]
+}
