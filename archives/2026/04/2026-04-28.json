@@ -1,0 +1,111 @@
+{
+  "date": "2026-04-28",
+  "updated_at": "2026-04-28 04:29:19",
+  "count": 13,
+  "rankings": [
+    {
+      "name": "abhigyanpatwari/GitNexus",
+      "rank": 1,
+      "stars": "31,784",
+      "stars_today": "1,102",
+      "language": "TypeScript",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration"
+    },
+    {
+      "name": "Z4nzu/hackingtool",
+      "rank": 2,
+      "stars": "67,327",
+      "stars_today": "1,830",
+      "language": "Python",
+      "description": "ALL IN ONE Hacking Tool For Hackers"
+    },
+    {
+      "name": "donnemartin/system-design-primer",
+      "rank": 3,
+      "stars": "345,300",
+      "stars_today": "372",
+      "language": "Python",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+    },
+    {
+      "name": "mattpocock/skills",
+      "rank": 4,
+      "stars": "31,382",
+      "stars_today": "5,645",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "name": "ComposioHQ/awesome-codex-skills",
+      "rank": 5,
+      "stars": "2,968",
+      "stars_today": "638",
+      "language": "Python",
+      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API."
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "rank": 6,
+      "stars": "16,404",
+      "stars_today": "2,949",
+      "language": "Python",
+      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw"
+    },
+    {
+      "name": "gastownhall/beads",
+      "rank": 7,
+      "stars": "22,289",
+      "stars_today": "498",
+      "language": "Go",
+      "description": "Beads - A memory upgrade for your coding agent"
+    },
+    {
+      "name": "penpot/penpot",
+      "rank": 8,
+      "stars": "46,728",
+      "stars_today": "166",
+      "language": "Clojure",
+      "description": "Penpot: The open-source design tool for design and code collaboration"
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "rank": 9,
+      "stars": "25,853",
+      "stars_today": "154",
+      "language": "Python",
+      "description": "CLI tool for configuring and monitoring Claude Code"
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "rank": 10,
+      "stars": "43,326",
+      "stars_today": "757",
+      "language": "Python",
+      "description": "Open-Source Frontier Voice AI"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "rank": 11,
+      "stars": "53,965",
+      "stars_today": "248",
+      "language": "Python",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+    },
+    {
+      "name": "deepseek-ai/DeepSeek-V3",
+      "rank": 12,
+      "stars": "103,162",
+      "stars_today": "81",
+      "language": "Python",
+      "description": ""
+    },
+    {
+      "name": "CJackHwang/ds2api",
+      "rank": 13,
+      "stars": "1,913",
+      "stars_today": "138",
+      "language": "Go",
+      "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats."
+    }
+  ]
+}
