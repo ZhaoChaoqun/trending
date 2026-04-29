@@ -1,0 +1,111 @@
+{
+  "date": "2026-04-29",
+  "updated_at": "2026-04-29 04:24:25",
+  "count": 13,
+  "rankings": [
+    {
+      "name": "abhigyanpatwari/GitNexus",
+      "rank": 1,
+      "stars": "32,761",
+      "stars_today": "1,607",
+      "language": "TypeScript",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "rank": 2,
+      "stars": "428,376",
+      "stars_today": "644",
+      "language": "Python",
+      "description": "A collective list of free APIs"
+    },
+    {
+      "name": "donnemartin/system-design-primer",
+      "rank": 3,
+      "stars": "345,948",
+      "stars_today": "744",
+      "language": "Python",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+    },
+    {
+      "name": "mattpocock/skills",
+      "rank": 4,
+      "stars": "38,610",
+      "stars_today": "7,321",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "name": "ComposioHQ/awesome-codex-skills",
+      "rank": 5,
+      "stars": "4,182",
+      "stars_today": "953",
+      "language": "Python",
+      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API."
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "rank": 6,
+      "stars": "45,024",
+      "stars_today": "1,483",
+      "language": "Python",
+      "description": "Open-Source Frontier Voice AI"
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "rank": 7,
+      "stars": "26,231",
+      "stars_today": "346",
+      "language": "Python",
+      "description": "CLI tool for configuring and monitoring Claude Code"
+    },
+    {
+      "name": "HunxByts/GhostTrack",
+      "rank": 8,
+      "stars": "10,793",
+      "stars_today": "967",
+      "language": "Python",
+      "description": "Useful tool to track location or mobile number"
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "rank": 9,
+      "stars": "17,689",
+      "stars_today": "1,741",
+      "language": "Python",
+      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "rank": 10,
+      "stars": "386,739",
+      "stars_today": "147",
+      "language": "Python",
+      "description": "📚 Freely available programming books"
+    },
+    {
+      "name": "iamgio/quarkdown",
+      "rank": 11,
+      "stars": "12,196",
+      "stars_today": "699",
+      "language": "Kotlin",
+      "description": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases."
+    },
+    {
+      "name": "CJackHwang/ds2api",
+      "rank": 12,
+      "stars": "2,431",
+      "stars_today": "417",
+      "language": "Go",
+      "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats."
+    },
+    {
+      "name": "fspecii/ace-step-ui",
+      "rank": 13,
+      "stars": "1,830",
+      "stars_today": "162",
+      "language": "JavaScript",
+      "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!"
+    }
+  ]
+}
