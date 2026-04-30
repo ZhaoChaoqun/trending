@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Wed, 29 Apr 2026 04:24:25 +0000</pubDate><lastBuildDate>Wed, 29 Apr 2026 04:24:25 +0000</lastBuildDate><item><title>#1 abhigyanpatwari/GitNexus (+1,607 stars)</title><link>https://github.com/abhigyanpatwari/GitNexus</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Thu, 30 Apr 2026 04:26:54 +0000</pubDate><lastBuildDate>Thu, 30 Apr 2026 04:26:54 +0000</lastBuildDate><item><title>#1 warpdotdev/warp (+12,822 stars)</title><link>https://github.com/warpdotdev/warp</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;warpdotdev/warp&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Warp is an agentic development environment, born out of the terminal.&lt;/p&gt;
+&lt;p&gt;⭐ 45,212 | +12,822 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/warpdotdev/warp#2026-04-30</guid><pubDate>Thu, 30 Apr 2026 04:26:54 +0000</pubDate></item><item><title>#2 abhigyanpatwari/GitNexus (+774 stars)</title><link>https://github.com/abhigyanpatwari/GitNexus</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;abhigyanpatwari/GitNexus&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration&lt;/p&gt;
-&lt;p&gt;⭐ 32,761 | +1,607 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 33,447 | +774 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/abhigyanpatwari/GitNexus#2026-04-29</guid><pubDate>Wed, 29 Apr 2026 04:24:25 +0000</pubDate></item><item><title>#2 public-apis/public-apis (+644 stars)</title><link>https://github.com/public-apis/public-apis</link><description>
+</description><guid isPermaLink="false">https://github.com/abhigyanpatwari/GitNexus#2026-04-30</guid><pubDate>Thu, 30 Apr 2026 04:26:54 +0000</pubDate></item><item><title>#3 obra/superpowers (+1,653 stars)</title><link>https://github.com/obra/superpowers</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;public-apis/public-apis&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A collective list of free APIs&lt;/p&gt;
-&lt;p&gt;⭐ 428,376 | +644 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
+&lt;p&gt;⭐ 173,443 | +1,653 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/public-apis/public-apis#2026-04-29</guid><pubDate>Wed, 29 Apr 2026 04:24:25 +0000</pubDate></item><item><title>#3 donnemartin/system-design-primer (+744 stars)</title><link>https://github.com/donnemartin/system-design-primer</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;donnemartin/system-design-primer&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.&lt;/p&gt;
-&lt;p&gt;⭐ 345,948 | +744 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/donnemartin/system-design-primer#2026-04-29</guid><pubDate>Wed, 29 Apr 2026 04:24:25 +0000</pubDate></item><item><title>#4 mattpocock/skills (+7,321 stars)</title><link>https://github.com/mattpocock/skills</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;mattpocock/skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Skills for Real Engineers. Straight from my .claude directory.&lt;/p&gt;
-&lt;p&gt;⭐ 38,610 | +7,321 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-04-29</guid><pubDate>Wed, 29 Apr 2026 04:24:25 +0000</pubDate></item><item><title>#5 ComposioHQ/awesome-codex-skills (+953 stars)</title><link>https://github.com/ComposioHQ/awesome-codex-skills</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ComposioHQ/awesome-codex-skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A curated list of practical Codex skills for automating workflows across the Codex CLI and API.&lt;/p&gt;
-&lt;p&gt;⭐ 4,182 | +953 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/ComposioHQ/awesome-codex-skills#2026-04-29</guid><pubDate>Wed, 29 Apr 2026 04:24:25 +0000</pubDate></item><item><title>#6 microsoft/VibeVoice (+1,483 stars)</title><link>https://github.com/microsoft/VibeVoice</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;microsoft/VibeVoice&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Open-Source Frontier Voice AI&lt;/p&gt;
-&lt;p&gt;⭐ 45,024 | +1,483 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/microsoft/VibeVoice#2026-04-29</guid><pubDate>Wed, 29 Apr 2026 04:24:25 +0000</pubDate></item><item><title>#7 davila7/claude-code-templates (+346 stars)</title><link>https://github.com/davila7/claude-code-templates</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;davila7/claude-code-templates&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;CLI tool for configuring and monitoring Claude Code&lt;/p&gt;
-&lt;p&gt;⭐ 26,231 | +346 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/davila7/claude-code-templates#2026-04-29</guid><pubDate>Wed, 29 Apr 2026 04:24:25 +0000</pubDate></item><item><title>#8 HunxByts/GhostTrack (+967 stars)</title><link>https://github.com/HunxByts/GhostTrack</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;HunxByts/GhostTrack&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Useful tool to track location or mobile number&lt;/p&gt;
-&lt;p&gt;⭐ 10,793 | +967 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/HunxByts/GhostTrack#2026-04-29</guid><pubDate>Wed, 29 Apr 2026 04:24:25 +0000</pubDate></item><item><title>#9 Alishahryar1/free-claude-code (+1,741 stars)</title><link>https://github.com/Alishahryar1/free-claude-code</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Alishahryar1/free-claude-code&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Use claude-code for free in the terminal, VSCode extension or via discord like openclaw&lt;/p&gt;
-&lt;p&gt;⭐ 17,689 | +1,741 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/Alishahryar1/free-claude-code#2026-04-29</guid><pubDate>Wed, 29 Apr 2026 04:24:25 +0000</pubDate></item><item><title>#10 EbookFoundation/free-programming-books (+147 stars)</title><link>https://github.com/EbookFoundation/free-programming-books</link><description>
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-04-30</guid><pubDate>Thu, 30 Apr 2026 04:26:54 +0000</pubDate></item><item><title>#4 EbookFoundation/free-programming-books (+604 stars)</title><link>https://github.com/EbookFoundation/free-programming-books</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;EbookFoundation/free-programming-books&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;📚 Freely available programming books&lt;/p&gt;
-&lt;p&gt;⭐ 386,739 | +147 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 387,266 | +604 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/EbookFoundation/free-programming-books#2026-04-30</guid><pubDate>Thu, 30 Apr 2026 04:26:54 +0000</pubDate></item><item><title>#5 gorhill/uBlock (+391 stars)</title><link>https://github.com/gorhill/uBlock</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;gorhill/uBlock&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.&lt;/p&gt;
+&lt;p&gt;⭐ 64,082 | +391 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/gorhill/uBlock#2026-04-30</guid><pubDate>Thu, 30 Apr 2026 04:26:54 +0000</pubDate></item><item><title>#6 mattpocock/skills (+7,280 stars)</title><link>https://github.com/mattpocock/skills</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;mattpocock/skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Skills for Real Engineers. Straight from my .claude directory.&lt;/p&gt;
+&lt;p&gt;⭐ 45,639 | +7,280 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/EbookFoundation/free-programming-books#2026-04-29</guid><pubDate>Wed, 29 Apr 2026 04:24:25 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-04-30</guid><pubDate>Thu, 30 Apr 2026 04:26:54 +0000</pubDate></item><item><title>#7 HunxByts/GhostTrack (+1,033 stars)</title><link>https://github.com/HunxByts/GhostTrack</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;HunxByts/GhostTrack&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Useful tool to track location or mobile number&lt;/p&gt;
+&lt;p&gt;⭐ 11,700 | +1,033 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/HunxByts/GhostTrack#2026-04-30</guid><pubDate>Thu, 30 Apr 2026 04:26:54 +0000</pubDate></item><item><title>#8 ComposioHQ/awesome-codex-skills (+1,177 stars)</title><link>https://github.com/ComposioHQ/awesome-codex-skills</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;ComposioHQ/awesome-codex-skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A curated list of practical Codex skills for automating workflows across the Codex CLI and API.&lt;/p&gt;
+&lt;p&gt;⭐ 4,909 | +1,177 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/ComposioHQ/awesome-codex-skills#2026-04-30</guid><pubDate>Thu, 30 Apr 2026 04:26:54 +0000</pubDate></item><item><title>#9 microsoft/VibeVoice (+1,690 stars)</title><link>https://github.com/microsoft/VibeVoice</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;microsoft/VibeVoice&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open-Source Frontier Voice AI&lt;/p&gt;
+&lt;p&gt;⭐ 45,781 | +1,690 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/microsoft/VibeVoice#2026-04-30</guid><pubDate>Thu, 30 Apr 2026 04:26:54 +0000</pubDate></item><item><title>#10 ZhuLinsen/daily_stock_analysis (+294 stars)</title><link>https://github.com/ZhuLinsen/daily_stock_analysis</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;ZhuLinsen/daily_stock_analysis&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.&lt;/p&gt;
+&lt;p&gt;⭐ 32,994 | +294 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/ZhuLinsen/daily_stock_analysis#2026-04-30</guid><pubDate>Thu, 30 Apr 2026 04:26:54 +0000</pubDate></item></channel></rss>
