@@ -1,0 +1,111 @@
+{
+  "date": "2026-05-01",
+  "updated_at": "2026-05-01 04:43:14",
+  "count": 13,
+  "rankings": [
+    {
+      "name": "warpdotdev/warp",
+      "rank": 1,
+      "stars": "49,651",
+      "stars_today": "8,399",
+      "language": "Rust",
+      "description": "Warp is an agentic development environment, born out of the terminal."
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "rank": 2,
+      "stars": "58,040",
+      "stars_today": "2,023",
+      "language": "Python",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 3,
+      "stars": "174,741",
+      "stars_today": "1,632",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "soxoj/maigret",
+      "rank": 4,
+      "stars": "20,915",
+      "stars_today": "730",
+      "language": "Python",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites"
+    },
+    {
+      "name": "ghostty-org/ghostty",
+      "rank": 5,
+      "stars": "52,950",
+      "stars_today": "341",
+      "language": "Zig",
+      "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration."
+    },
+    {
+      "name": "mattpocock/skills",
+      "rank": 6,
+      "stars": "49,966",
+      "stars_today": "6,187",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "name": "public-apis/public-apis",
+      "rank": 7,
+      "stars": "429,640",
+      "stars_today": "322",
+      "language": "Python",
+      "description": "A collective list of free APIs"
+    },
+    {
+      "name": "HunxByts/GhostTrack",
+      "rank": 8,
+      "stars": "12,231",
+      "stars_today": "841",
+      "language": "Python",
+      "description": "Useful tool to track location or mobile number"
+    },
+    {
+      "name": "lukilabs/craft-agents-oss",
+      "rank": 9,
+      "stars": "5,602",
+      "stars_today": "319",
+      "language": "TypeScript",
+      "description": ""
+    },
+    {
+      "name": "1jehuang/jcode",
+      "rank": 10,
+      "stars": "1,946",
+      "stars_today": "675",
+      "language": "Rust",
+      "description": "Coding Agent Harness"
+    },
+    {
+      "name": "iamgio/quarkdown",
+      "rank": 11,
+      "stars": "13,166",
+      "stars_today": "177",
+      "language": "Kotlin",
+      "description": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases."
+    },
+    {
+      "name": "ForrestKnight/open-source-cs",
+      "rank": 12,
+      "stars": "22,411",
+      "stars_today": "140",
+      "language": null,
+      "description": "Video discussing this curriculum:"
+    },
+    {
+      "name": "browserbase/skills",
+      "rank": 13,
+      "stars": "888",
+      "stars_today": "69",
+      "language": "JavaScript",
+      "description": "Claude Agent SDK with a web browsing tool"
+    }
+  ]
+}
