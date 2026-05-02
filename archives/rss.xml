@@ -1,72 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 01 May 2026 04:43:14 +0000</pubDate><lastBuildDate>Fri, 01 May 2026 04:43:14 +0000</lastBuildDate><item><title>#1 warpdotdev/warp (+8,399 stars)</title><link>https://github.com/warpdotdev/warp</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;warpdotdev/warp&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Warp is an agentic development environment, born out of the terminal.&lt;/p&gt;
-&lt;p&gt;⭐ 49,651 | +8,399 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/warpdotdev/warp#2026-05-01</guid><pubDate>Fri, 01 May 2026 04:43:14 +0000</pubDate></item><item><title>#2 TauricResearch/TradingAgents (+2,023 stars)</title><link>https://github.com/TauricResearch/TradingAgents</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sat, 02 May 2026 04:14:11 +0000</pubDate><lastBuildDate>Sat, 02 May 2026 04:14:11 +0000</lastBuildDate><item><title>#1 TauricResearch/TradingAgents (+2,112 stars)</title><link>https://github.com/TauricResearch/TradingAgents</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;TauricResearch/TradingAgents&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;TradingAgents: Multi-Agents LLM Financial Trading Framework&lt;/p&gt;
-&lt;p&gt;⭐ 58,040 | +2,023 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 60,118 | +2,112 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/TauricResearch/TradingAgents#2026-05-01</guid><pubDate>Fri, 01 May 2026 04:43:14 +0000</pubDate></item><item><title>#3 obra/superpowers (+1,632 stars)</title><link>https://github.com/obra/superpowers</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 174,741 | +1,632 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-05-01</guid><pubDate>Fri, 01 May 2026 04:43:14 +0000</pubDate></item><item><title>#4 soxoj/maigret (+730 stars)</title><link>https://github.com/soxoj/maigret</link><description>
+</description><guid isPermaLink="false">https://github.com/TauricResearch/TradingAgents#2026-05-02</guid><pubDate>Sat, 02 May 2026 04:14:11 +0000</pubDate></item><item><title>#2 soxoj/maigret (+535 stars)</title><link>https://github.com/soxoj/maigret</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;soxoj/maigret&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites&lt;/p&gt;
-&lt;p&gt;⭐ 20,915 | +730 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 21,812 | +535 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/soxoj/maigret#2026-05-01</guid><pubDate>Fri, 01 May 2026 04:43:14 +0000</pubDate></item><item><title>#5 ghostty-org/ghostty (+341 stars)</title><link>https://github.com/ghostty-org/ghostty</link><description>
+</description><guid isPermaLink="false">https://github.com/soxoj/maigret#2026-05-02</guid><pubDate>Sat, 02 May 2026 04:14:11 +0000</pubDate></item><item><title>#3 warpdotdev/warp (+3,401 stars)</title><link>https://github.com/warpdotdev/warp</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ghostty-org/ghostty&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.&lt;/p&gt;
-&lt;p&gt;⭐ 52,950 | +341 today | 🔧 Zig&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;warpdotdev/warp&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Warp is an agentic development environment, born out of the terminal.&lt;/p&gt;
+&lt;p&gt;⭐ 51,696 | +3,401 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/ghostty-org/ghostty#2026-05-01</guid><pubDate>Fri, 01 May 2026 04:43:14 +0000</pubDate></item><item><title>#6 mattpocock/skills (+6,187 stars)</title><link>https://github.com/mattpocock/skills</link><description>
+</description><guid isPermaLink="false">https://github.com/warpdotdev/warp#2026-05-02</guid><pubDate>Sat, 02 May 2026 04:14:11 +0000</pubDate></item><item><title>#4 mattpocock/skills (+3,645 stars)</title><link>https://github.com/mattpocock/skills</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;mattpocock/skills&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Skills for Real Engineers. Straight from my .claude directory.&lt;/p&gt;
-&lt;p&gt;⭐ 49,966 | +6,187 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 52,911 | +3,645 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-05-01</guid><pubDate>Fri, 01 May 2026 04:43:14 +0000</pubDate></item><item><title>#7 public-apis/public-apis (+322 stars)</title><link>https://github.com/public-apis/public-apis</link><description>
+</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-05-02</guid><pubDate>Sat, 02 May 2026 04:14:11 +0000</pubDate></item><item><title>#5 obra/superpowers (+1,096 stars)</title><link>https://github.com/obra/superpowers</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;public-apis/public-apis&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A collective list of free APIs&lt;/p&gt;
-&lt;p&gt;⭐ 429,640 | +322 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
+&lt;p&gt;⭐ 175,764 | +1,096 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/public-apis/public-apis#2026-05-01</guid><pubDate>Fri, 01 May 2026 04:43:14 +0000</pubDate></item><item><title>#8 HunxByts/GhostTrack (+841 stars)</title><link>https://github.com/HunxByts/GhostTrack</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;HunxByts/GhostTrack&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Useful tool to track location or mobile number&lt;/p&gt;
-&lt;p&gt;⭐ 12,231 | +841 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/HunxByts/GhostTrack#2026-05-01</guid><pubDate>Fri, 01 May 2026 04:43:14 +0000</pubDate></item><item><title>#9 lukilabs/craft-agents-oss (+319 stars)</title><link>https://github.com/lukilabs/craft-agents-oss</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;lukilabs/craft-agents-oss&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;⭐ 5,602 | +319 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/lukilabs/craft-agents-oss#2026-05-01</guid><pubDate>Fri, 01 May 2026 04:43:14 +0000</pubDate></item><item><title>#10 1jehuang/jcode (+675 stars)</title><link>https://github.com/1jehuang/jcode</link><description>
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-05-02</guid><pubDate>Sat, 02 May 2026 04:14:11 +0000</pubDate></item><item><title>#6 1jehuang/jcode (+403 stars)</title><link>https://github.com/1jehuang/jcode</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;1jehuang/jcode&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Coding Agent Harness&lt;/p&gt;
-&lt;p&gt;⭐ 1,946 | +675 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;⭐ 2,427 | +403 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/1jehuang/jcode#2026-05-01</guid><pubDate>Fri, 01 May 2026 04:43:14 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/1jehuang/jcode#2026-05-02</guid><pubDate>Sat, 02 May 2026 04:14:11 +0000</pubDate></item><item><title>#7 browserbase/skills (+334 stars)</title><link>https://github.com/browserbase/skills</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;browserbase/skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Claude Agent SDK with a web browsing tool&lt;/p&gt;
+&lt;p&gt;⭐ 1,228 | +334 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/browserbase/skills#2026-05-02</guid><pubDate>Sat, 02 May 2026 04:14:11 +0000</pubDate></item><item><title>#8 simstudioai/sim (+56 stars)</title><link>https://github.com/simstudioai/sim</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;simstudioai/sim&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.&lt;/p&gt;
+&lt;p&gt;⭐ 28,196 | +56 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/simstudioai/sim#2026-05-02</guid><pubDate>Sat, 02 May 2026 04:14:11 +0000</pubDate></item><item><title>#9 Flowseal/zapret-discord-youtube (+145 stars)</title><link>https://github.com/Flowseal/zapret-discord-youtube</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Flowseal/zapret-discord-youtube&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;⭐ 26,990 | +145 today | 🔧 Batchfile&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Flowseal/zapret-discord-youtube#2026-05-02</guid><pubDate>Sat, 02 May 2026 04:14:11 +0000</pubDate></item></channel></rss>
