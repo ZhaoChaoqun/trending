@@ -1,0 +1,71 @@
+{
+  "date": "2026-05-03",
+  "updated_at": "2026-05-03 04:35:32",
+  "count": 8,
+  "rankings": [
+    {
+      "name": "TauricResearch/TradingAgents",
+      "rank": 1,
+      "stars": "63,152",
+      "stars_today": "2,225",
+      "language": "Python",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "rank": 2,
+      "stars": "37,002",
+      "stars_today": "1,299",
+      "language": "TypeScript",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration"
+    },
+    {
+      "name": "soxoj/maigret",
+      "rank": 3,
+      "stars": "22,920",
+      "stars_today": "1,064",
+      "language": "Python",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites"
+    },
+    {
+      "name": "jwasham/coding-interview-university",
+      "rank": 4,
+      "stars": "344,650",
+      "stars_today": "694",
+      "language": null,
+      "description": "A complete computer science study plan to become a software engineer."
+    },
+    {
+      "name": "ShareX/ShareX",
+      "rank": 5,
+      "stars": "36,885",
+      "stars_today": "152",
+      "language": "C#",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations."
+    },
+    {
+      "name": "browserbase/skills",
+      "rank": 6,
+      "stars": "1,560",
+      "stars_today": "346",
+      "language": "JavaScript",
+      "description": "Claude Agent SDK with a web browsing tool"
+    },
+    {
+      "name": "Flowseal/zapret-discord-youtube",
+      "rank": 7,
+      "stars": "27,131",
+      "stars_today": "181",
+      "language": "Batchfile",
+      "description": ""
+    },
+    {
+      "name": "1jehuang/jcode",
+      "rank": 8,
+      "stars": "2,932",
+      "stars_today": "482",
+      "language": "Rust",
+      "description": "Coding Agent Harness"
+    }
+  ]
+}
