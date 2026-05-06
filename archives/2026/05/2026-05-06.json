@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-06",
+  "updated_at": "2026-05-06 04:29:10",
+  "count": 15,
+  "rankings": [
+    {
+      "name": "ruvnet/ruflo",
+      "rank": 1,
+      "stars": "44,015",
+      "stars_today": "2,432",
+      "language": "TypeScript",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration"
+    },
+    {
+      "name": "virattt/dexter",
+      "rank": 2,
+      "stars": "23,916",
+      "stars_today": "659",
+      "language": "TypeScript",
+      "description": "An autonomous agent for deep financial research"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "rank": 3,
+      "stars": "93,822",
+      "stars_today": "1,218",
+      "language": "Shell",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "name": "jwasham/coding-interview-university",
+      "rank": 4,
+      "stars": "345,934",
+      "stars_today": "366",
+      "language": null,
+      "description": "A complete computer science study plan to become a software engineer."
+    },
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "rank": 5,
+      "stars": "114,527",
+      "stars_today": "2,409",
+      "language": null,
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+    },
+    {
+      "name": "Hmbown/DeepSeek-TUI",
+      "rank": 6,
+      "stars": "8,897",
+      "stars_today": "2,434",
+      "language": "Rust",
+      "description": "Coding agent for DeepSeek models that runs in your terminal"
+    },
+    {
+      "name": "docusealco/docuseal",
+      "rank": 7,
+      "stars": "14,128",
+      "stars_today": "927",
+      "language": "Ruby",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️"
+    },
+    {
+      "name": "bwya77/vscode-dark-islands",
+      "rank": 8,
+      "stars": "7,937",
+      "stars_today": "321",
+      "language": "PowerShell",
+      "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme"
+    },
+    {
+      "name": "cocoindex-io/cocoindex",
+      "rank": 9,
+      "stars": "8,465",
+      "stars_today": "438",
+      "language": "Python",
+      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!"
+    },
+    {
+      "name": "Arindam200/awesome-ai-apps",
+      "rank": 10,
+      "stars": "11,492",
+      "stars_today": "211",
+      "language": "Python",
+      "description": "A collection of projects showcasing RAG, agents, workflows, and other AI use cases"
+    },
+    {
+      "name": "AIDC-AI/Pixelle-Video",
+      "rank": 11,
+      "stars": "12,036",
+      "stars_today": "691",
+      "language": "Python",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "rank": 12,
+      "stars": "13,198",
+      "stars_today": "276",
+      "language": "TypeScript",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms"
+    },
+    {
+      "name": "LearningCircuit/local-deep-research",
+      "rank": 13,
+      "stars": "5,258",
+      "stars_today": "197",
+      "language": "Python",
+      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted."
+    },
+    {
+      "name": "browserbase/skills",
+      "rank": 14,
+      "stars": "2,441",
+      "stars_today": "311",
+      "language": "JavaScript",
+      "description": "Claude Agent SDK with a web browsing tool"
+    },
+    {
+      "name": "PriorLabs/TabPFN",
+      "rank": 15,
+      "stars": "6,403",
+      "stars_today": "57",
+      "language": "Python",
+      "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡"
+    }
+  ]
+}

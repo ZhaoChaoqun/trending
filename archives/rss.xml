@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Tue, 05 May 2026 04:11:46 +0000</pubDate><lastBuildDate>Tue, 05 May 2026 04:11:46 +0000</lastBuildDate><item><title>#1 ruvnet/ruflo (+2,598 stars)</title><link>https://github.com/ruvnet/ruflo</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Wed, 06 May 2026 04:29:10 +0000</pubDate><lastBuildDate>Wed, 06 May 2026 04:29:10 +0000</lastBuildDate><item><title>#1 ruvnet/ruflo (+2,432 stars)</title><link>https://github.com/ruvnet/ruflo</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;ruvnet/ruflo&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration&lt;/p&gt;
-&lt;p&gt;⭐ 41,697 | +2,598 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 44,015 | +2,432 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/ruvnet/ruflo#2026-05-05</guid><pubDate>Tue, 05 May 2026 04:11:46 +0000</pubDate></item><item><title>#2 TauricResearch/TradingAgents (+2,182 stars)</title><link>https://github.com/TauricResearch/TradingAgents</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;TauricResearch/TradingAgents&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;TradingAgents: Multi-Agents LLM Financial Trading Framework&lt;/p&gt;
-&lt;p&gt;⭐ 67,821 | +2,182 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/TauricResearch/TradingAgents#2026-05-05</guid><pubDate>Tue, 05 May 2026 04:11:46 +0000</pubDate></item><item><title>#3 soxoj/maigret (+1,119 stars)</title><link>https://github.com/soxoj/maigret</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;soxoj/maigret&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites&lt;/p&gt;
-&lt;p&gt;⭐ 24,987 | +1,119 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/soxoj/maigret#2026-05-05</guid><pubDate>Tue, 05 May 2026 04:11:46 +0000</pubDate></item><item><title>#4 msitarzewski/agency-agents (+1,189 stars)</title><link>https://github.com/msitarzewski/agency-agents</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;msitarzewski/agency-agents&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.&lt;/p&gt;
-&lt;p&gt;⭐ 92,816 | +1,189 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/msitarzewski/agency-agents#2026-05-05</guid><pubDate>Tue, 05 May 2026 04:11:46 +0000</pubDate></item><item><title>#5 czlonkowski/n8n-mcp (+496 stars)</title><link>https://github.com/czlonkowski/n8n-mcp</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;czlonkowski/n8n-mcp&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you&lt;/p&gt;
-&lt;p&gt;⭐ 19,958 | +496 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/czlonkowski/n8n-mcp#2026-05-05</guid><pubDate>Tue, 05 May 2026 04:11:46 +0000</pubDate></item><item><title>#6 virattt/dexter (+409 stars)</title><link>https://github.com/virattt/dexter</link><description>
+</description><guid isPermaLink="false">https://github.com/ruvnet/ruflo#2026-05-06</guid><pubDate>Wed, 06 May 2026 04:29:10 +0000</pubDate></item><item><title>#2 virattt/dexter (+659 stars)</title><link>https://github.com/virattt/dexter</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;virattt/dexter&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;An autonomous agent for deep financial research&lt;/p&gt;
-&lt;p&gt;⭐ 23,272 | +409 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 23,916 | +659 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/virattt/dexter#2026-05-05</guid><pubDate>Tue, 05 May 2026 04:11:46 +0000</pubDate></item><item><title>#7 docusealco/docuseal (+535 stars)</title><link>https://github.com/docusealco/docuseal</link><description>
+</description><guid isPermaLink="false">https://github.com/virattt/dexter#2026-05-06</guid><pubDate>Wed, 06 May 2026 04:29:10 +0000</pubDate></item><item><title>#3 msitarzewski/agency-agents (+1,218 stars)</title><link>https://github.com/msitarzewski/agency-agents</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;docusealco/docuseal&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Open source DocuSign alternative. Create, fill, and sign digital documents ✍️&lt;/p&gt;
-&lt;p&gt;⭐ 13,371 | +535 today | 🔧 Ruby&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;msitarzewski/agency-agents&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.&lt;/p&gt;
+&lt;p&gt;⭐ 93,822 | +1,218 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/docusealco/docuseal#2026-05-05</guid><pubDate>Tue, 05 May 2026 04:11:46 +0000</pubDate></item><item><title>#8 browserbase/skills (+320 stars)</title><link>https://github.com/browserbase/skills</link><description>
+</description><guid isPermaLink="false">https://github.com/msitarzewski/agency-agents#2026-05-06</guid><pubDate>Wed, 06 May 2026 04:29:10 +0000</pubDate></item><item><title>#4 jwasham/coding-interview-university (+366 stars)</title><link>https://github.com/jwasham/coding-interview-university</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;browserbase/skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Claude Agent SDK with a web browsing tool&lt;/p&gt;
-&lt;p&gt;⭐ 2,163 | +320 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;jwasham/coding-interview-university&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A complete computer science study plan to become a software engineer.&lt;/p&gt;
+&lt;p&gt;⭐ 345,934 | +366 today | 🔧 Unknown&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/browserbase/skills#2026-05-05</guid><pubDate>Tue, 05 May 2026 04:11:46 +0000</pubDate></item><item><title>#9 Hmbown/DeepSeek-TUI (+1,274 stars)</title><link>https://github.com/Hmbown/DeepSeek-TUI</link><description>
+</description><guid isPermaLink="false">https://github.com/jwasham/coding-interview-university#2026-05-06</guid><pubDate>Wed, 06 May 2026 04:29:10 +0000</pubDate></item><item><title>#5 forrestchang/andrej-karpathy-skills (+2,409 stars)</title><link>https://github.com/forrestchang/andrej-karpathy-skills</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;forrestchang/andrej-karpathy-skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.&lt;/p&gt;
+&lt;p&gt;⭐ 114,527 | +2,409 today | 🔧 Unknown&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/forrestchang/andrej-karpathy-skills#2026-05-06</guid><pubDate>Wed, 06 May 2026 04:29:10 +0000</pubDate></item><item><title>#6 Hmbown/DeepSeek-TUI (+2,434 stars)</title><link>https://github.com/Hmbown/DeepSeek-TUI</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;Hmbown/DeepSeek-TUI&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Coding agent for DeepSeek models that runs in your terminal&lt;/p&gt;
-&lt;p&gt;⭐ 4,339 | +1,274 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+&lt;p&gt;⭐ 8,897 | +2,434 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Hmbown/DeepSeek-TUI#2026-05-05</guid><pubDate>Tue, 05 May 2026 04:11:46 +0000</pubDate></item><item><title>#10 qbittorrent/qBittorrent (+82 stars)</title><link>https://github.com/qbittorrent/qBittorrent</link><description>
+</description><guid isPermaLink="false">https://github.com/Hmbown/DeepSeek-TUI#2026-05-06</guid><pubDate>Wed, 06 May 2026 04:29:10 +0000</pubDate></item><item><title>#7 docusealco/docuseal (+927 stars)</title><link>https://github.com/docusealco/docuseal</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;qbittorrent/qBittorrent&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;qBittorrent BitTorrent client&lt;/p&gt;
-&lt;p&gt;⭐ 37,087 | +82 today | 🔧 C++&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;docusealco/docuseal&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open source DocuSign alternative. Create, fill, and sign digital documents ✍️&lt;/p&gt;
+&lt;p&gt;⭐ 14,128 | +927 today | 🔧 Ruby&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/qbittorrent/qBittorrent#2026-05-05</guid><pubDate>Tue, 05 May 2026 04:11:46 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/docusealco/docuseal#2026-05-06</guid><pubDate>Wed, 06 May 2026 04:29:10 +0000</pubDate></item><item><title>#8 bwya77/vscode-dark-islands (+321 stars)</title><link>https://github.com/bwya77/vscode-dark-islands</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;bwya77/vscode-dark-islands&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;VSCode theme based off the easemate IDE and Jetbrains islands theme&lt;/p&gt;
+&lt;p&gt;⭐ 7,937 | +321 today | 🔧 PowerShell&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/bwya77/vscode-dark-islands#2026-05-06</guid><pubDate>Wed, 06 May 2026 04:29:10 +0000</pubDate></item><item><title>#9 cocoindex-io/cocoindex (+438 stars)</title><link>https://github.com/cocoindex-io/cocoindex</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;cocoindex-io/cocoindex&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Incremental engine for long horizon agents 🌟 Star if you like it!&lt;/p&gt;
+&lt;p&gt;⭐ 8,465 | +438 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/cocoindex-io/cocoindex#2026-05-06</guid><pubDate>Wed, 06 May 2026 04:29:10 +0000</pubDate></item><item><title>#10 Arindam200/awesome-ai-apps (+211 stars)</title><link>https://github.com/Arindam200/awesome-ai-apps</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Arindam200/awesome-ai-apps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A collection of projects showcasing RAG, agents, workflows, and other AI use cases&lt;/p&gt;
+&lt;p&gt;⭐ 11,492 | +211 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Arindam200/awesome-ai-apps#2026-05-06</guid><pubDate>Wed, 06 May 2026 04:29:10 +0000</pubDate></item></channel></rss>
