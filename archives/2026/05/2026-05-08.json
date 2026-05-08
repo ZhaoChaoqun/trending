@@ -1,0 +1,103 @@
+{
+  "date": "2026-05-08",
+  "updated_at": "2026-05-08 04:11:54",
+  "count": 12,
+  "rankings": [
+    {
+      "name": "addyosmani/agent-skills",
+      "rank": 1,
+      "stars": "33,285",
+      "stars_today": "3,062",
+      "language": "Shell",
+      "description": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "name": "VectifyAI/PageIndex",
+      "rank": 2,
+      "stars": "29,699",
+      "stars_today": "943",
+      "language": "Python",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG"
+    },
+    {
+      "name": "anthropics/financial-services",
+      "rank": 3,
+      "stars": "12,263",
+      "stars_today": "1,343",
+      "language": "Python",
+      "description": ""
+    },
+    {
+      "name": "Hmbown/DeepSeek-TUI",
+      "rank": 4,
+      "stars": "19,570",
+      "stars_today": "5,799",
+      "language": "Rust",
+      "description": "Coding agent for DeepSeek models that runs in your terminal"
+    },
+    {
+      "name": "InsForge/InsForge",
+      "rank": 5,
+      "stars": "8,925",
+      "stars_today": "460",
+      "language": "TypeScript",
+      "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents."
+    },
+    {
+      "name": "LearningCircuit/local-deep-research",
+      "rank": 6,
+      "stars": "6,362",
+      "stars_today": "559",
+      "language": "Python",
+      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted."
+    },
+    {
+      "name": "docusealco/docuseal",
+      "rank": 7,
+      "stars": "15,692",
+      "stars_today": "900",
+      "language": "Ruby",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️"
+    },
+    {
+      "name": "aaif-goose/goose",
+      "rank": 8,
+      "stars": "44,569",
+      "stars_today": "390",
+      "language": "Rust",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM"
+    },
+    {
+      "name": "z-lab/dflash",
+      "rank": 9,
+      "stars": "3,556",
+      "stars_today": "671",
+      "language": "Python",
+      "description": "DFlash: Block Diffusion for Flash Speculative Decoding"
+    },
+    {
+      "name": "vercel-labs/open-agents",
+      "rank": 10,
+      "stars": "5,103",
+      "stars_today": "131",
+      "language": "TypeScript",
+      "description": "An open source template for building cloud agents."
+    },
+    {
+      "name": "decolua/9router",
+      "rank": 11,
+      "stars": "4,738",
+      "stars_today": "149",
+      "language": "JavaScript",
+      "description": "🇻🇳 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits."
+    },
+    {
+      "name": "PriorLabs/TabPFN",
+      "rank": 12,
+      "stars": "6,816",
+      "stars_today": "230",
+      "language": "Python",
+      "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡"
+    }
+  ]
+}
