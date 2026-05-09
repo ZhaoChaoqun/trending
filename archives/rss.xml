@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 08 May 2026 04:11:54 +0000</pubDate><lastBuildDate>Fri, 08 May 2026 04:11:54 +0000</lastBuildDate><item><title>#1 addyosmani/agent-skills (+3,062 stars)</title><link>https://github.com/addyosmani/agent-skills</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sat, 09 May 2026 04:17:58 +0000</pubDate><lastBuildDate>Sat, 09 May 2026 04:17:58 +0000</lastBuildDate><item><title>#1 addyosmani/agent-skills (+1,893 stars)</title><link>https://github.com/addyosmani/agent-skills</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;addyosmani/agent-skills&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Production-grade engineering skills for AI coding agents.&lt;/p&gt;
-&lt;p&gt;⭐ 33,285 | +3,062 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 35,881 | +1,893 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/addyosmani/agent-skills#2026-05-08</guid><pubDate>Fri, 08 May 2026 04:11:54 +0000</pubDate></item><item><title>#2 VectifyAI/PageIndex (+943 stars)</title><link>https://github.com/VectifyAI/PageIndex</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;VectifyAI/PageIndex&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG&lt;/p&gt;
-&lt;p&gt;⭐ 29,699 | +943 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/VectifyAI/PageIndex#2026-05-08</guid><pubDate>Fri, 08 May 2026 04:11:54 +0000</pubDate></item><item><title>#3 anthropics/financial-services (+1,343 stars)</title><link>https://github.com/anthropics/financial-services</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;anthropics/financial-services&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;⭐ 12,263 | +1,343 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/anthropics/financial-services#2026-05-08</guid><pubDate>Fri, 08 May 2026 04:11:54 +0000</pubDate></item><item><title>#4 Hmbown/DeepSeek-TUI (+5,799 stars)</title><link>https://github.com/Hmbown/DeepSeek-TUI</link><description>
+</description><guid isPermaLink="false">https://github.com/addyosmani/agent-skills#2026-05-09</guid><pubDate>Sat, 09 May 2026 04:17:58 +0000</pubDate></item><item><title>#2 Hmbown/DeepSeek-TUI (+3,731 stars)</title><link>https://github.com/Hmbown/DeepSeek-TUI</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;Hmbown/DeepSeek-TUI&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Coding agent for DeepSeek models that runs in your terminal&lt;/p&gt;
-&lt;p&gt;⭐ 19,570 | +5,799 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 22,161 | +3,731 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Hmbown/DeepSeek-TUI#2026-05-08</guid><pubDate>Fri, 08 May 2026 04:11:54 +0000</pubDate></item><item><title>#5 InsForge/InsForge (+460 stars)</title><link>https://github.com/InsForge/InsForge</link><description>
+</description><guid isPermaLink="false">https://github.com/Hmbown/DeepSeek-TUI#2026-05-09</guid><pubDate>Sat, 09 May 2026 04:17:58 +0000</pubDate></item><item><title>#3 datawhalechina/hello-agents (+667 stars)</title><link>https://github.com/datawhalechina/hello-agents</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;InsForge/InsForge&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.&lt;/p&gt;
-&lt;p&gt;⭐ 8,925 | +460 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;datawhalechina/hello-agents&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程&lt;/p&gt;
+&lt;p&gt;⭐ 44,879 | +667 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/datawhalechina/hello-agents#2026-05-09</guid><pubDate>Sat, 09 May 2026 04:17:58 +0000</pubDate></item><item><title>#4 anthropics/financial-services (+3,660 stars)</title><link>https://github.com/anthropics/financial-services</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;anthropics/financial-services&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;⭐ 15,651 | +3,660 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/InsForge/InsForge#2026-05-08</guid><pubDate>Fri, 08 May 2026 04:11:54 +0000</pubDate></item><item><title>#6 LearningCircuit/local-deep-research (+559 stars)</title><link>https://github.com/LearningCircuit/local-deep-research</link><description>
+</description><guid isPermaLink="false">https://github.com/anthropics/financial-services#2026-05-09</guid><pubDate>Sat, 09 May 2026 04:17:58 +0000</pubDate></item><item><title>#5 decolua/9router (+1,052 stars)</title><link>https://github.com/decolua/9router</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;decolua/9router&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.&lt;/p&gt;
+&lt;p&gt;⭐ 5,767 | +1,052 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/decolua/9router#2026-05-09</guid><pubDate>Sat, 09 May 2026 04:17:58 +0000</pubDate></item><item><title>#6 HKUDS/AI-Trader (+202 stars)</title><link>https://github.com/HKUDS/AI-Trader</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;HKUDS/AI-Trader&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;"AI-Trader: 100% Fully-Automated Agent-Native Trading"&lt;/p&gt;
+&lt;p&gt;⭐ 14,784 | +202 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/HKUDS/AI-Trader#2026-05-09</guid><pubDate>Sat, 09 May 2026 04:17:58 +0000</pubDate></item><item><title>#7 LearningCircuit/local-deep-research (+559 stars)</title><link>https://github.com/LearningCircuit/local-deep-research</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;LearningCircuit/local-deep-research&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local &amp; Encrypted.&lt;/p&gt;
-&lt;p&gt;⭐ 6,362 | +559 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 6,801 | +559 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/LearningCircuit/local-deep-research#2026-05-08</guid><pubDate>Fri, 08 May 2026 04:11:54 +0000</pubDate></item><item><title>#7 docusealco/docuseal (+900 stars)</title><link>https://github.com/docusealco/docuseal</link><description>
+</description><guid isPermaLink="false">https://github.com/LearningCircuit/local-deep-research#2026-05-09</guid><pubDate>Sat, 09 May 2026 04:17:58 +0000</pubDate></item><item><title>#8 lobehub/lobehub (+125 stars)</title><link>https://github.com/lobehub/lobehub</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;docusealco/docuseal&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Open source DocuSign alternative. Create, fill, and sign digital documents ✍️&lt;/p&gt;
-&lt;p&gt;⭐ 15,692 | +900 today | 🔧 Ruby&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;lobehub/lobehub&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.&lt;/p&gt;
+&lt;p&gt;⭐ 76,577 | +125 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/docusealco/docuseal#2026-05-08</guid><pubDate>Fri, 08 May 2026 04:11:54 +0000</pubDate></item><item><title>#8 aaif-goose/goose (+390 stars)</title><link>https://github.com/aaif-goose/goose</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;aaif-goose/goose&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM&lt;/p&gt;
-&lt;p&gt;⭐ 44,569 | +390 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/aaif-goose/goose#2026-05-08</guid><pubDate>Fri, 08 May 2026 04:11:54 +0000</pubDate></item><item><title>#9 z-lab/dflash (+671 stars)</title><link>https://github.com/z-lab/dflash</link><description>
+</description><guid isPermaLink="false">https://github.com/lobehub/lobehub#2026-05-09</guid><pubDate>Sat, 09 May 2026 04:17:58 +0000</pubDate></item><item><title>#9 z-lab/dflash (+379 stars)</title><link>https://github.com/z-lab/dflash</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;z-lab/dflash&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;DFlash: Block Diffusion for Flash Speculative Decoding&lt;/p&gt;
-&lt;p&gt;⭐ 3,556 | +671 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 3,894 | +379 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/z-lab/dflash#2026-05-08</guid><pubDate>Fri, 08 May 2026 04:11:54 +0000</pubDate></item><item><title>#10 vercel-labs/open-agents (+131 stars)</title><link>https://github.com/vercel-labs/open-agents</link><description>
+</description><guid isPermaLink="false">https://github.com/z-lab/dflash#2026-05-09</guid><pubDate>Sat, 09 May 2026 04:17:58 +0000</pubDate></item><item><title>#10 CloakHQ/CloakBrowser (+526 stars)</title><link>https://github.com/CloakHQ/CloakBrowser</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;vercel-labs/open-agents&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An open source template for building cloud agents.&lt;/p&gt;
-&lt;p&gt;⭐ 5,103 | +131 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CloakHQ/CloakBrowser&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.&lt;/p&gt;
+&lt;p&gt;⭐ 3,260 | +526 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/vercel-labs/open-agents#2026-05-08</guid><pubDate>Fri, 08 May 2026 04:11:54 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/CloakHQ/CloakBrowser#2026-05-09</guid><pubDate>Sat, 09 May 2026 04:17:58 +0000</pubDate></item></channel></rss>
