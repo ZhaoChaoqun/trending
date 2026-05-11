@@ -1,0 +1,103 @@
+{
+  "date": "2026-05-11",
+  "updated_at": "2026-05-11 04:53:37",
+  "count": 12,
+  "rankings": [
+    {
+      "name": "bytedance/UI-TARS-desktop",
+      "rank": 1,
+      "stars": "32,358",
+      "stars_today": "669",
+      "language": "TypeScript",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "rank": 2,
+      "stars": "38,737",
+      "stars_today": "1,065",
+      "language": "Shell",
+      "description": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "name": "affaan-m/everything-claude-code",
+      "rank": 3,
+      "stars": "178,532",
+      "stars_today": "1,081",
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "name": "datawhalechina/hello-agents",
+      "rank": 4,
+      "stars": "46,845",
+      "stars_today": "748",
+      "language": "Python",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
+    },
+    {
+      "name": "anthropics/financial-services",
+      "rank": 5,
+      "stars": "19,204",
+      "stars_today": "1,449",
+      "language": "Python",
+      "description": ""
+    },
+    {
+      "name": "datawhalechina/easy-vibe",
+      "rank": 6,
+      "stars": "9,335",
+      "stars_today": "635",
+      "language": "JavaScript",
+      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step."
+    },
+    {
+      "name": "playcanvas/supersplat",
+      "rank": 7,
+      "stars": "6,913",
+      "stars_today": "579",
+      "language": "TypeScript",
+      "description": "3D Gaussian Splat Editor"
+    },
+    {
+      "name": "decolua/9router",
+      "rank": 8,
+      "stars": "7,494",
+      "stars_today": "803",
+      "language": "JavaScript",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits."
+    },
+    {
+      "name": "CloakHQ/CloakBrowser",
+      "rank": 9,
+      "stars": "5,007",
+      "stars_today": "496",
+      "language": "Python",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed."
+    },
+    {
+      "name": "HKUDS/AI-Trader",
+      "rank": 10,
+      "stars": "15,747",
+      "stars_today": "163",
+      "language": "Python",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\""
+    },
+    {
+      "name": "jundot/omlx",
+      "rank": 11,
+      "stars": "13,389",
+      "stars_today": "185",
+      "language": "Python",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar"
+    },
+    {
+      "name": "lsdefine/GenericAgent",
+      "rank": 12,
+      "stars": "10,635",
+      "stars_today": "174",
+      "language": "Python",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption"
+    }
+  ]
+}

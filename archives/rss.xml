@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sun, 10 May 2026 04:38:44 +0000</pubDate><lastBuildDate>Sun, 10 May 2026 04:38:44 +0000</lastBuildDate><item><title>#1 bytedance/UI-TARS-desktop (+552 stars)</title><link>https://github.com/bytedance/UI-TARS-desktop</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Mon, 11 May 2026 04:53:37 +0000</pubDate><lastBuildDate>Mon, 11 May 2026 04:53:37 +0000</lastBuildDate><item><title>#1 bytedance/UI-TARS-desktop (+669 stars)</title><link>https://github.com/bytedance/UI-TARS-desktop</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;bytedance/UI-TARS-desktop&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra&lt;/p&gt;
-&lt;p&gt;⭐ 31,534 | +552 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 32,358 | +669 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/bytedance/UI-TARS-desktop#2026-05-10</guid><pubDate>Sun, 10 May 2026 04:38:44 +0000</pubDate></item><item><title>#2 datawhalechina/hello-agents (+1,197 stars)</title><link>https://github.com/datawhalechina/hello-agents</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;datawhalechina/hello-agents&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程&lt;/p&gt;
-&lt;p&gt;⭐ 45,809 | +1,197 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/datawhalechina/hello-agents#2026-05-10</guid><pubDate>Sun, 10 May 2026 04:38:44 +0000</pubDate></item><item><title>#3 addyosmani/agent-skills (+3,009 stars)</title><link>https://github.com/addyosmani/agent-skills</link><description>
+</description><guid isPermaLink="false">https://github.com/bytedance/UI-TARS-desktop#2026-05-11</guid><pubDate>Mon, 11 May 2026 04:53:37 +0000</pubDate></item><item><title>#2 addyosmani/agent-skills (+1,065 stars)</title><link>https://github.com/addyosmani/agent-skills</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;addyosmani/agent-skills&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Production-grade engineering skills for AI coding agents.&lt;/p&gt;
-&lt;p&gt;⭐ 37,551 | +3,009 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 38,737 | +1,065 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/addyosmani/agent-skills#2026-05-10</guid><pubDate>Sun, 10 May 2026 04:38:44 +0000</pubDate></item><item><title>#4 anthropics/financial-services (+3,281 stars)</title><link>https://github.com/anthropics/financial-services</link><description>
+</description><guid isPermaLink="false">https://github.com/addyosmani/agent-skills#2026-05-11</guid><pubDate>Mon, 11 May 2026 04:53:37 +0000</pubDate></item><item><title>#3 affaan-m/everything-claude-code (+1,081 stars)</title><link>https://github.com/affaan-m/everything-claude-code</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;affaan-m/everything-claude-code&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.&lt;/p&gt;
+&lt;p&gt;⭐ 178,532 | +1,081 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/affaan-m/everything-claude-code#2026-05-11</guid><pubDate>Mon, 11 May 2026 04:53:37 +0000</pubDate></item><item><title>#4 datawhalechina/hello-agents (+748 stars)</title><link>https://github.com/datawhalechina/hello-agents</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;datawhalechina/hello-agents&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程&lt;/p&gt;
+&lt;p&gt;⭐ 46,845 | +748 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/datawhalechina/hello-agents#2026-05-11</guid><pubDate>Mon, 11 May 2026 04:53:37 +0000</pubDate></item><item><title>#5 anthropics/financial-services (+1,449 stars)</title><link>https://github.com/anthropics/financial-services</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;anthropics/financial-services&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;⭐ 17,628 | +3,281 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 19,204 | +1,449 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/anthropics/financial-services#2026-05-10</guid><pubDate>Sun, 10 May 2026 04:38:44 +0000</pubDate></item><item><title>#5 rohitg00/agentmemory (+533 stars)</title><link>https://github.com/rohitg00/agentmemory</link><description>
+</description><guid isPermaLink="false">https://github.com/anthropics/financial-services#2026-05-11</guid><pubDate>Mon, 11 May 2026 04:53:37 +0000</pubDate></item><item><title>#6 datawhalechina/easy-vibe (+635 stars)</title><link>https://github.com/datawhalechina/easy-vibe</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;rohitg00/agentmemory&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;#1 Persistent memory for AI coding agents based on real-world benchmarks&lt;/p&gt;
-&lt;p&gt;⭐ 3,568 | +533 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;datawhalechina/easy-vibe&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.&lt;/p&gt;
+&lt;p&gt;⭐ 9,335 | +635 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/rohitg00/agentmemory#2026-05-10</guid><pubDate>Sun, 10 May 2026 04:38:44 +0000</pubDate></item><item><title>#6 masterking32/MasterDnsVPN (+597 stars)</title><link>https://github.com/masterking32/MasterDnsVPN</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;masterking32/MasterDnsVPN&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.&lt;/p&gt;
-&lt;p&gt;⭐ 2,613 | +597 today | 🔧 Go&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/masterking32/MasterDnsVPN#2026-05-10</guid><pubDate>Sun, 10 May 2026 04:38:44 +0000</pubDate></item><item><title>#7 playcanvas/supersplat (+514 stars)</title><link>https://github.com/playcanvas/supersplat</link><description>
+</description><guid isPermaLink="false">https://github.com/datawhalechina/easy-vibe#2026-05-11</guid><pubDate>Mon, 11 May 2026 04:53:37 +0000</pubDate></item><item><title>#7 playcanvas/supersplat (+579 stars)</title><link>https://github.com/playcanvas/supersplat</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;playcanvas/supersplat&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;3D Gaussian Splat Editor&lt;/p&gt;
-&lt;p&gt;⭐ 6,382 | +514 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 6,913 | +579 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/playcanvas/supersplat#2026-05-10</guid><pubDate>Sun, 10 May 2026 04:38:44 +0000</pubDate></item><item><title>#8 decolua/9router (+1,031 stars)</title><link>https://github.com/decolua/9router</link><description>
+</description><guid isPermaLink="false">https://github.com/playcanvas/supersplat#2026-05-11</guid><pubDate>Mon, 11 May 2026 04:53:37 +0000</pubDate></item><item><title>#8 decolua/9router (+803 stars)</title><link>https://github.com/decolua/9router</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;decolua/9router&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.&lt;/p&gt;
-&lt;p&gt;⭐ 6,651 | +1,031 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 7,494 | +803 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/decolua/9router#2026-05-10</guid><pubDate>Sun, 10 May 2026 04:38:44 +0000</pubDate></item><item><title>#9 datawhalechina/easy-vibe (+294 stars)</title><link>https://github.com/datawhalechina/easy-vibe</link><description>
+</description><guid isPermaLink="false">https://github.com/decolua/9router#2026-05-11</guid><pubDate>Mon, 11 May 2026 04:53:37 +0000</pubDate></item><item><title>#9 CloakHQ/CloakBrowser (+496 stars)</title><link>https://github.com/CloakHQ/CloakBrowser</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;datawhalechina/easy-vibe&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.&lt;/p&gt;
-&lt;p&gt;⭐ 8,628 | +294 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CloakHQ/CloakBrowser&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.&lt;/p&gt;
+&lt;p&gt;⭐ 5,007 | +496 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/datawhalechina/easy-vibe#2026-05-10</guid><pubDate>Sun, 10 May 2026 04:38:44 +0000</pubDate></item><item><title>#10 rowboatlabs/rowboat (+144 stars)</title><link>https://github.com/rowboatlabs/rowboat</link><description>
+</description><guid isPermaLink="false">https://github.com/CloakHQ/CloakBrowser#2026-05-11</guid><pubDate>Mon, 11 May 2026 04:53:37 +0000</pubDate></item><item><title>#10 HKUDS/AI-Trader (+163 stars)</title><link>https://github.com/HKUDS/AI-Trader</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;rowboatlabs/rowboat&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Open-source AI coworker, with memory&lt;/p&gt;
-&lt;p&gt;⭐ 13,848 | +144 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HKUDS/AI-Trader&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;"AI-Trader: 100% Fully-Automated Agent-Native Trading"&lt;/p&gt;
+&lt;p&gt;⭐ 15,747 | +163 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/rowboatlabs/rowboat#2026-05-10</guid><pubDate>Sun, 10 May 2026 04:38:44 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/HKUDS/AI-Trader#2026-05-11</guid><pubDate>Mon, 11 May 2026 04:53:37 +0000</pubDate></item></channel></rss>
