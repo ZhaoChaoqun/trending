@@ -1,0 +1,111 @@
+{
+  "date": "2026-05-12",
+  "updated_at": "2026-05-12 04:30:39",
+  "count": 13,
+  "rankings": [
+    {
+      "name": "bytedance/UI-TARS-desktop",
+      "rank": 1,
+      "stars": "33,158",
+      "stars_today": "956",
+      "language": "TypeScript",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra"
+    },
+    {
+      "name": "rasbt/LLMs-from-scratch",
+      "rank": 2,
+      "stars": "93,140",
+      "stars_today": "337",
+      "language": "Jupyter Notebook",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "rank": 3,
+      "stars": "145,257",
+      "stars_today": "2,065",
+      "language": "Python",
+      "description": "The agent that grows with you"
+    },
+    {
+      "name": "CloakHQ/CloakBrowser",
+      "rank": 4,
+      "stars": "6,484",
+      "stars_today": "1,320",
+      "language": "Python",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed."
+    },
+    {
+      "name": "yikart/AiToEarn",
+      "rank": 5,
+      "stars": "11,044",
+      "stars_today": "427",
+      "language": "TypeScript",
+      "description": "Let's use AI to Earn!"
+    },
+    {
+      "name": "playcanvas/supersplat",
+      "rank": 6,
+      "stars": "7,438",
+      "stars_today": "531",
+      "language": "TypeScript",
+      "description": "3D Gaussian Splat Editor"
+    },
+    {
+      "name": "datawhalechina/easy-vibe",
+      "rank": 7,
+      "stars": "10,069",
+      "stars_today": "812",
+      "language": "JavaScript",
+      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step."
+    },
+    {
+      "name": "decolua/9router",
+      "rank": 8,
+      "stars": "8,527",
+      "stars_today": "941",
+      "language": "JavaScript",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits."
+    },
+    {
+      "name": "Lordog/dive-into-llms",
+      "rank": 9,
+      "stars": "37,412",
+      "stars_today": "422",
+      "language": "Jupyter Notebook",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程"
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "rank": 10,
+      "stars": "1,639",
+      "stars_today": "366",
+      "language": "Rust",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful."
+    },
+    {
+      "name": "millionco/react-doctor",
+      "rank": 11,
+      "stars": "8,183",
+      "stars_today": "212",
+      "language": "TypeScript",
+      "description": "Your agent writes bad React. This catches it"
+    },
+    {
+      "name": "AUTOMATIC1111/stable-diffusion-webui",
+      "rank": 12,
+      "stars": "162,929",
+      "stars_today": "39",
+      "language": "Python",
+      "description": "Stable Diffusion web UI"
+    },
+    {
+      "name": "rohitg00/agentmemory",
+      "rank": 13,
+      "stars": "4,921",
+      "stars_today": "430",
+      "language": "TypeScript",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks"
+    }
+  ]
+}

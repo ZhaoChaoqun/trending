@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Mon, 11 May 2026 04:53:37 +0000</pubDate><lastBuildDate>Mon, 11 May 2026 04:53:37 +0000</lastBuildDate><item><title>#1 bytedance/UI-TARS-desktop (+669 stars)</title><link>https://github.com/bytedance/UI-TARS-desktop</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Tue, 12 May 2026 04:30:39 +0000</pubDate><lastBuildDate>Tue, 12 May 2026 04:30:39 +0000</lastBuildDate><item><title>#1 bytedance/UI-TARS-desktop (+956 stars)</title><link>https://github.com/bytedance/UI-TARS-desktop</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;bytedance/UI-TARS-desktop&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra&lt;/p&gt;
-&lt;p&gt;⭐ 32,358 | +669 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 33,158 | +956 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/bytedance/UI-TARS-desktop#2026-05-11</guid><pubDate>Mon, 11 May 2026 04:53:37 +0000</pubDate></item><item><title>#2 addyosmani/agent-skills (+1,065 stars)</title><link>https://github.com/addyosmani/agent-skills</link><description>
+</description><guid isPermaLink="false">https://github.com/bytedance/UI-TARS-desktop#2026-05-12</guid><pubDate>Tue, 12 May 2026 04:30:39 +0000</pubDate></item><item><title>#2 rasbt/LLMs-from-scratch (+337 stars)</title><link>https://github.com/rasbt/LLMs-from-scratch</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;addyosmani/agent-skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Production-grade engineering skills for AI coding agents.&lt;/p&gt;
-&lt;p&gt;⭐ 38,737 | +1,065 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;rasbt/LLMs-from-scratch&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Implement a ChatGPT-like LLM in PyTorch from scratch, step by step&lt;/p&gt;
+&lt;p&gt;⭐ 93,140 | +337 today | 🔧 Jupyter Notebook&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/addyosmani/agent-skills#2026-05-11</guid><pubDate>Mon, 11 May 2026 04:53:37 +0000</pubDate></item><item><title>#3 affaan-m/everything-claude-code (+1,081 stars)</title><link>https://github.com/affaan-m/everything-claude-code</link><description>
+</description><guid isPermaLink="false">https://github.com/rasbt/LLMs-from-scratch#2026-05-12</guid><pubDate>Tue, 12 May 2026 04:30:39 +0000</pubDate></item><item><title>#3 NousResearch/hermes-agent (+2,065 stars)</title><link>https://github.com/NousResearch/hermes-agent</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;affaan-m/everything-claude-code&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.&lt;/p&gt;
-&lt;p&gt;⭐ 178,532 | +1,081 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NousResearch/hermes-agent&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The agent that grows with you&lt;/p&gt;
+&lt;p&gt;⭐ 145,257 | +2,065 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/affaan-m/everything-claude-code#2026-05-11</guid><pubDate>Mon, 11 May 2026 04:53:37 +0000</pubDate></item><item><title>#4 datawhalechina/hello-agents (+748 stars)</title><link>https://github.com/datawhalechina/hello-agents</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;datawhalechina/hello-agents&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程&lt;/p&gt;
-&lt;p&gt;⭐ 46,845 | +748 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/datawhalechina/hello-agents#2026-05-11</guid><pubDate>Mon, 11 May 2026 04:53:37 +0000</pubDate></item><item><title>#5 anthropics/financial-services (+1,449 stars)</title><link>https://github.com/anthropics/financial-services</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;anthropics/financial-services&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;⭐ 19,204 | +1,449 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/anthropics/financial-services#2026-05-11</guid><pubDate>Mon, 11 May 2026 04:53:37 +0000</pubDate></item><item><title>#6 datawhalechina/easy-vibe (+635 stars)</title><link>https://github.com/datawhalechina/easy-vibe</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;datawhalechina/easy-vibe&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.&lt;/p&gt;
-&lt;p&gt;⭐ 9,335 | +635 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/datawhalechina/easy-vibe#2026-05-11</guid><pubDate>Mon, 11 May 2026 04:53:37 +0000</pubDate></item><item><title>#7 playcanvas/supersplat (+579 stars)</title><link>https://github.com/playcanvas/supersplat</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;playcanvas/supersplat&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;3D Gaussian Splat Editor&lt;/p&gt;
-&lt;p&gt;⭐ 6,913 | +579 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/playcanvas/supersplat#2026-05-11</guid><pubDate>Mon, 11 May 2026 04:53:37 +0000</pubDate></item><item><title>#8 decolua/9router (+803 stars)</title><link>https://github.com/decolua/9router</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;decolua/9router&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.&lt;/p&gt;
-&lt;p&gt;⭐ 7,494 | +803 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/decolua/9router#2026-05-11</guid><pubDate>Mon, 11 May 2026 04:53:37 +0000</pubDate></item><item><title>#9 CloakHQ/CloakBrowser (+496 stars)</title><link>https://github.com/CloakHQ/CloakBrowser</link><description>
+</description><guid isPermaLink="false">https://github.com/NousResearch/hermes-agent#2026-05-12</guid><pubDate>Tue, 12 May 2026 04:30:39 +0000</pubDate></item><item><title>#4 CloakHQ/CloakBrowser (+1,320 stars)</title><link>https://github.com/CloakHQ/CloakBrowser</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;CloakHQ/CloakBrowser&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.&lt;/p&gt;
-&lt;p&gt;⭐ 5,007 | +496 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+&lt;p&gt;⭐ 6,484 | +1,320 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/CloakHQ/CloakBrowser#2026-05-11</guid><pubDate>Mon, 11 May 2026 04:53:37 +0000</pubDate></item><item><title>#10 HKUDS/AI-Trader (+163 stars)</title><link>https://github.com/HKUDS/AI-Trader</link><description>
+</description><guid isPermaLink="false">https://github.com/CloakHQ/CloakBrowser#2026-05-12</guid><pubDate>Tue, 12 May 2026 04:30:39 +0000</pubDate></item><item><title>#5 yikart/AiToEarn (+427 stars)</title><link>https://github.com/yikart/AiToEarn</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;HKUDS/AI-Trader&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;"AI-Trader: 100% Fully-Automated Agent-Native Trading"&lt;/p&gt;
-&lt;p&gt;⭐ 15,747 | +163 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;yikart/AiToEarn&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Let's use AI to Earn!&lt;/p&gt;
+&lt;p&gt;⭐ 11,044 | +427 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/yikart/AiToEarn#2026-05-12</guid><pubDate>Tue, 12 May 2026 04:30:39 +0000</pubDate></item><item><title>#6 playcanvas/supersplat (+531 stars)</title><link>https://github.com/playcanvas/supersplat</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;playcanvas/supersplat&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;3D Gaussian Splat Editor&lt;/p&gt;
+&lt;p&gt;⭐ 7,438 | +531 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/playcanvas/supersplat#2026-05-12</guid><pubDate>Tue, 12 May 2026 04:30:39 +0000</pubDate></item><item><title>#7 datawhalechina/easy-vibe (+812 stars)</title><link>https://github.com/datawhalechina/easy-vibe</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;datawhalechina/easy-vibe&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.&lt;/p&gt;
+&lt;p&gt;⭐ 10,069 | +812 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/datawhalechina/easy-vibe#2026-05-12</guid><pubDate>Tue, 12 May 2026 04:30:39 +0000</pubDate></item><item><title>#8 decolua/9router (+941 stars)</title><link>https://github.com/decolua/9router</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;decolua/9router&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.&lt;/p&gt;
+&lt;p&gt;⭐ 8,527 | +941 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/decolua/9router#2026-05-12</guid><pubDate>Tue, 12 May 2026 04:30:39 +0000</pubDate></item><item><title>#9 Lordog/dive-into-llms (+422 stars)</title><link>https://github.com/Lordog/dive-into-llms</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Lordog/dive-into-llms&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;《动手学大模型Dive into LLMs》系列编程实践教程&lt;/p&gt;
+&lt;p&gt;⭐ 37,412 | +422 today | 🔧 Jupyter Notebook&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Lordog/dive-into-llms#2026-05-12</guid><pubDate>Tue, 12 May 2026 04:30:39 +0000</pubDate></item><item><title>#10 tinyhumansai/openhuman (+366 stars)</title><link>https://github.com/tinyhumansai/openhuman</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;tinyhumansai/openhuman&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Your Personal AI super intelligence. Private, Simple and extremely powerful.&lt;/p&gt;
+&lt;p&gt;⭐ 1,639 | +366 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/HKUDS/AI-Trader#2026-05-11</guid><pubDate>Mon, 11 May 2026 04:53:37 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/tinyhumansai/openhuman#2026-05-12</guid><pubDate>Tue, 12 May 2026 04:30:39 +0000</pubDate></item></channel></rss>
