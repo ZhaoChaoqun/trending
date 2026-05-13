@@ -1,0 +1,95 @@
+{
+  "date": "2026-05-13",
+  "updated_at": "2026-05-13 04:37:12",
+  "count": 11,
+  "rankings": [
+    {
+      "name": "mattpocock/skills",
+      "rank": 1,
+      "stars": "76,659",
+      "stars_today": "3,867",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "name": "rasbt/LLMs-from-scratch",
+      "rank": 2,
+      "stars": "93,935",
+      "stars_today": "772",
+      "language": "Jupyter Notebook",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step"
+    },
+    {
+      "name": "datawhalechina/hello-agents",
+      "rank": 3,
+      "stars": "48,464",
+      "stars_today": "599",
+      "language": "Python",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
+    },
+    {
+      "name": "rohitg00/agentmemory",
+      "rank": 4,
+      "stars": "6,137",
+      "stars_today": "1,048",
+      "language": "TypeScript",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks"
+    },
+    {
+      "name": "CloakHQ/CloakBrowser",
+      "rank": 5,
+      "stars": "8,172",
+      "stars_today": "1,606",
+      "language": "Python",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed."
+    },
+    {
+      "name": "yikart/AiToEarn",
+      "rank": 6,
+      "stars": "12,060",
+      "stars_today": "1,282",
+      "language": "TypeScript",
+      "description": "Let's use AI to Earn!"
+    },
+    {
+      "name": "HKUDS/AI-Trader",
+      "rank": 7,
+      "stars": "16,749",
+      "stars_today": "229",
+      "language": "Python",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\""
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "rank": 8,
+      "stars": "3,035",
+      "stars_today": "1,014",
+      "language": "Rust",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful."
+    },
+    {
+      "name": "apernet/hysteria",
+      "rank": 9,
+      "stars": "20,314",
+      "stars_today": "51",
+      "language": "Go",
+      "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy."
+    },
+    {
+      "name": "anonfaded/FadCam",
+      "rank": 10,
+      "stars": "2,281",
+      "stars_today": "116",
+      "language": "Java",
+      "description": "Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control"
+    },
+    {
+      "name": "millionco/react-doctor",
+      "rank": 11,
+      "stars": "8,861",
+      "stars_today": "788",
+      "language": "TypeScript",
+      "description": "Your agent writes bad React. This catches it"
+    }
+  ]
+}
