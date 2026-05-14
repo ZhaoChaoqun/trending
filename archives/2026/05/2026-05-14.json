@@ -1,0 +1,159 @@
+{
+  "date": "2026-05-14",
+  "updated_at": "2026-05-14 04:36:04",
+  "count": 19,
+  "rankings": [
+    {
+      "name": "obra/superpowers",
+      "rank": 1,
+      "stars": "189,847",
+      "stars_today": "1,401",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "mattpocock/skills",
+      "rank": 2,
+      "stars": "79,503",
+      "stars_today": "3,392",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "name": "rasbt/LLMs-from-scratch",
+      "rank": 3,
+      "stars": "94,555",
+      "stars_today": "821",
+      "language": "Jupyter Notebook",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step"
+    },
+    {
+      "name": "github/spec-kit",
+      "rank": 4,
+      "stars": "98,569",
+      "stars_today": "1,120",
+      "language": "Python",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development"
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "rank": 5,
+      "stars": "6,040",
+      "stars_today": "1,696",
+      "language": "Rust",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful."
+    },
+    {
+      "name": "rohitg00/agentmemory",
+      "rank": 6,
+      "stars": "7,970",
+      "stars_today": "1,379",
+      "language": "TypeScript",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks"
+    },
+    {
+      "name": "yikart/AiToEarn",
+      "rank": 7,
+      "stars": "13,150",
+      "stars_today": "981",
+      "language": "TypeScript",
+      "description": "Let's use AI to Earn!"
+    },
+    {
+      "name": "danielmiessler/Personal_AI_Infrastructure",
+      "rank": 8,
+      "stars": "13,469",
+      "stars_today": "435",
+      "language": "TypeScript",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities."
+    },
+    {
+      "name": "CloakHQ/CloakBrowser",
+      "rank": 9,
+      "stars": "9,761",
+      "stars_today": "1,835",
+      "language": "Python",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed."
+    },
+    {
+      "name": "imthenachoman/How-To-Secure-A-Linux-Server",
+      "rank": 10,
+      "stars": "27,168",
+      "stars_today": "234",
+      "language": null,
+      "description": "An evolving how-to guide for securing a Linux server."
+    },
+    {
+      "name": "apernet/hysteria",
+      "rank": 11,
+      "stars": "20,658",
+      "stars_today": "485",
+      "language": "Go",
+      "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy."
+    },
+    {
+      "name": "trycua/cua",
+      "rank": 12,
+      "stars": "16,613",
+      "stars_today": "245",
+      "language": "HTML",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows)."
+    },
+    {
+      "name": "millionco/react-doctor",
+      "rank": 13,
+      "stars": "9,356",
+      "stars_today": "604",
+      "language": "TypeScript",
+      "description": "Your agent writes bad React. This catches it"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "rank": 14,
+      "stars": "21,253",
+      "stars_today": "99",
+      "language": "Python",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing."
+    },
+    {
+      "name": "supertone-inc/supertonic",
+      "rank": 15,
+      "stars": "4,516",
+      "stars_today": "859",
+      "language": "Swift",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX."
+    },
+    {
+      "name": "influxdata/telegraf",
+      "rank": 16,
+      "stars": "17,044",
+      "stars_today": "13",
+      "language": "Go",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data."
+    },
+    {
+      "name": "ArthurBrussee/brush",
+      "rank": 17,
+      "stars": "4,407",
+      "stars_today": "81",
+      "language": "Rust",
+      "description": "3D Reconstruction for all"
+    },
+    {
+      "name": "Greedeks/GTweak",
+      "rank": 18,
+      "stars": "976",
+      "stars_today": "75",
+      "language": "C#",
+      "description": "Portable Tool for an Ideal Windows Setup"
+    },
+    {
+      "name": "ton-blockchain/acton",
+      "rank": 19,
+      "stars": "233",
+      "stars_today": "18",
+      "language": "Rust",
+      "description": "Toolchain for TON smart contract development and beyond"
+    }
+  ]
+}

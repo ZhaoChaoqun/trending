@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Wed, 13 May 2026 04:37:12 +0000</pubDate><lastBuildDate>Wed, 13 May 2026 04:37:12 +0000</lastBuildDate><item><title>#1 mattpocock/skills (+3,867 stars)</title><link>https://github.com/mattpocock/skills</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Thu, 14 May 2026 04:36:04 +0000</pubDate><lastBuildDate>Thu, 14 May 2026 04:36:04 +0000</lastBuildDate><item><title>#1 obra/superpowers (+1,401 stars)</title><link>https://github.com/obra/superpowers</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
+&lt;p&gt;⭐ 189,847 | +1,401 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-05-14</guid><pubDate>Thu, 14 May 2026 04:36:04 +0000</pubDate></item><item><title>#2 mattpocock/skills (+3,392 stars)</title><link>https://github.com/mattpocock/skills</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;mattpocock/skills&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Skills for Real Engineers. Straight from my .claude directory.&lt;/p&gt;
-&lt;p&gt;⭐ 76,659 | +3,867 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 79,503 | +3,392 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-05-13</guid><pubDate>Wed, 13 May 2026 04:37:12 +0000</pubDate></item><item><title>#2 rasbt/LLMs-from-scratch (+772 stars)</title><link>https://github.com/rasbt/LLMs-from-scratch</link><description>
+</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-05-14</guid><pubDate>Thu, 14 May 2026 04:36:04 +0000</pubDate></item><item><title>#3 rasbt/LLMs-from-scratch (+821 stars)</title><link>https://github.com/rasbt/LLMs-from-scratch</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;rasbt/LLMs-from-scratch&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Implement a ChatGPT-like LLM in PyTorch from scratch, step by step&lt;/p&gt;
-&lt;p&gt;⭐ 93,935 | +772 today | 🔧 Jupyter Notebook&lt;/p&gt;
+&lt;p&gt;⭐ 94,555 | +821 today | 🔧 Jupyter Notebook&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/rasbt/LLMs-from-scratch#2026-05-13</guid><pubDate>Wed, 13 May 2026 04:37:12 +0000</pubDate></item><item><title>#3 datawhalechina/hello-agents (+599 stars)</title><link>https://github.com/datawhalechina/hello-agents</link><description>
+</description><guid isPermaLink="false">https://github.com/rasbt/LLMs-from-scratch#2026-05-14</guid><pubDate>Thu, 14 May 2026 04:36:04 +0000</pubDate></item><item><title>#4 github/spec-kit (+1,120 stars)</title><link>https://github.com/github/spec-kit</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;datawhalechina/hello-agents&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程&lt;/p&gt;
-&lt;p&gt;⭐ 48,464 | +599 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;github/spec-kit&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;💫 Toolkit to help you get started with Spec-Driven Development&lt;/p&gt;
+&lt;p&gt;⭐ 98,569 | +1,120 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/datawhalechina/hello-agents#2026-05-13</guid><pubDate>Wed, 13 May 2026 04:37:12 +0000</pubDate></item><item><title>#4 rohitg00/agentmemory (+1,048 stars)</title><link>https://github.com/rohitg00/agentmemory</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;rohitg00/agentmemory&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;#1 Persistent memory for AI coding agents based on real-world benchmarks&lt;/p&gt;
-&lt;p&gt;⭐ 6,137 | +1,048 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/rohitg00/agentmemory#2026-05-13</guid><pubDate>Wed, 13 May 2026 04:37:12 +0000</pubDate></item><item><title>#5 CloakHQ/CloakBrowser (+1,606 stars)</title><link>https://github.com/CloakHQ/CloakBrowser</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;CloakHQ/CloakBrowser&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.&lt;/p&gt;
-&lt;p&gt;⭐ 8,172 | +1,606 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/CloakHQ/CloakBrowser#2026-05-13</guid><pubDate>Wed, 13 May 2026 04:37:12 +0000</pubDate></item><item><title>#6 yikart/AiToEarn (+1,282 stars)</title><link>https://github.com/yikart/AiToEarn</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;yikart/AiToEarn&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Let's use AI to Earn!&lt;/p&gt;
-&lt;p&gt;⭐ 12,060 | +1,282 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/yikart/AiToEarn#2026-05-13</guid><pubDate>Wed, 13 May 2026 04:37:12 +0000</pubDate></item><item><title>#7 HKUDS/AI-Trader (+229 stars)</title><link>https://github.com/HKUDS/AI-Trader</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;HKUDS/AI-Trader&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;"AI-Trader: 100% Fully-Automated Agent-Native Trading"&lt;/p&gt;
-&lt;p&gt;⭐ 16,749 | +229 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/HKUDS/AI-Trader#2026-05-13</guid><pubDate>Wed, 13 May 2026 04:37:12 +0000</pubDate></item><item><title>#8 tinyhumansai/openhuman (+1,014 stars)</title><link>https://github.com/tinyhumansai/openhuman</link><description>
+</description><guid isPermaLink="false">https://github.com/github/spec-kit#2026-05-14</guid><pubDate>Thu, 14 May 2026 04:36:04 +0000</pubDate></item><item><title>#5 tinyhumansai/openhuman (+1,696 stars)</title><link>https://github.com/tinyhumansai/openhuman</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;tinyhumansai/openhuman&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Your Personal AI super intelligence. Private, Simple and extremely powerful.&lt;/p&gt;
-&lt;p&gt;⭐ 3,035 | +1,014 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+&lt;p&gt;⭐ 6,040 | +1,696 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/tinyhumansai/openhuman#2026-05-13</guid><pubDate>Wed, 13 May 2026 04:37:12 +0000</pubDate></item><item><title>#9 apernet/hysteria (+51 stars)</title><link>https://github.com/apernet/hysteria</link><description>
+</description><guid isPermaLink="false">https://github.com/tinyhumansai/openhuman#2026-05-14</guid><pubDate>Thu, 14 May 2026 04:36:04 +0000</pubDate></item><item><title>#6 rohitg00/agentmemory (+1,379 stars)</title><link>https://github.com/rohitg00/agentmemory</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;apernet/hysteria&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Hysteria is a powerful, lightning fast and censorship resistant proxy.&lt;/p&gt;
-&lt;p&gt;⭐ 20,314 | +51 today | 🔧 Go&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;rohitg00/agentmemory&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;#1 Persistent memory for AI coding agents based on real-world benchmarks&lt;/p&gt;
+&lt;p&gt;⭐ 7,970 | +1,379 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/apernet/hysteria#2026-05-13</guid><pubDate>Wed, 13 May 2026 04:37:12 +0000</pubDate></item><item><title>#10 anonfaded/FadCam (+116 stars)</title><link>https://github.com/anonfaded/FadCam</link><description>
+</description><guid isPermaLink="false">https://github.com/rohitg00/agentmemory#2026-05-14</guid><pubDate>Thu, 14 May 2026 04:36:04 +0000</pubDate></item><item><title>#7 yikart/AiToEarn (+981 stars)</title><link>https://github.com/yikart/AiToEarn</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;anonfaded/FadCam&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control&lt;/p&gt;
-&lt;p&gt;⭐ 2,281 | +116 today | 🔧 Java&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;yikart/AiToEarn&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Let's use AI to Earn!&lt;/p&gt;
+&lt;p&gt;⭐ 13,150 | +981 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/anonfaded/FadCam#2026-05-13</guid><pubDate>Wed, 13 May 2026 04:37:12 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/yikart/AiToEarn#2026-05-14</guid><pubDate>Thu, 14 May 2026 04:36:04 +0000</pubDate></item><item><title>#8 danielmiessler/Personal_AI_Infrastructure (+435 stars)</title><link>https://github.com/danielmiessler/Personal_AI_Infrastructure</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;danielmiessler/Personal_AI_Infrastructure&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Agentic AI Infrastructure for magnifying HUMAN capabilities.&lt;/p&gt;
+&lt;p&gt;⭐ 13,469 | +435 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/danielmiessler/Personal_AI_Infrastructure#2026-05-14</guid><pubDate>Thu, 14 May 2026 04:36:04 +0000</pubDate></item><item><title>#9 CloakHQ/CloakBrowser (+1,835 stars)</title><link>https://github.com/CloakHQ/CloakBrowser</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;CloakHQ/CloakBrowser&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.&lt;/p&gt;
+&lt;p&gt;⭐ 9,761 | +1,835 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/CloakHQ/CloakBrowser#2026-05-14</guid><pubDate>Thu, 14 May 2026 04:36:04 +0000</pubDate></item><item><title>#10 imthenachoman/How-To-Secure-A-Linux-Server (+234 stars)</title><link>https://github.com/imthenachoman/How-To-Secure-A-Linux-Server</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;imthenachoman/How-To-Secure-A-Linux-Server&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An evolving how-to guide for securing a Linux server.&lt;/p&gt;
+&lt;p&gt;⭐ 27,168 | +234 today | 🔧 Unknown&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/imthenachoman/How-To-Secure-A-Linux-Server#2026-05-14</guid><pubDate>Thu, 14 May 2026 04:36:04 +0000</pubDate></item></channel></rss>
