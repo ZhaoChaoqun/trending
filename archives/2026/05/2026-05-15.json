@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-15",
+  "updated_at": "2026-05-15 04:42:17",
+  "count": 15,
+  "rankings": [
+    {
+      "name": "ruvnet/RuView",
+      "rank": 1,
+      "stars": "56,310",
+      "stars_today": "1,715",
+      "language": "Rust",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 2,
+      "stars": "191,516",
+      "stars_today": "1,780",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "rank": 3,
+      "stars": "21,914",
+      "stars_today": "654",
+      "language": "Python",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing."
+    },
+    {
+      "name": "Genymobile/scrcpy",
+      "rank": 4,
+      "stars": "141,459",
+      "stars_today": "851",
+      "language": "C",
+      "description": "Display and control your Android device"
+    },
+    {
+      "name": "mattpocock/skills",
+      "rank": 5,
+      "stars": "82,871",
+      "stars_today": "2,987",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "name": "github/spec-kit",
+      "rank": 6,
+      "stars": "99,656",
+      "stars_today": "1,232",
+      "language": "Python",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development"
+    },
+    {
+      "name": "garrytan/gstack",
+      "rank": 7,
+      "stars": "96,960",
+      "stars_today": "915",
+      "language": "TypeScript",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA"
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "rank": 8,
+      "stars": "7,984",
+      "stars_today": "3,329",
+      "language": "Rust",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful."
+    },
+    {
+      "name": "rohitg00/agentmemory",
+      "rank": 9,
+      "stars": "9,128",
+      "stars_today": "1,879",
+      "language": "TypeScript",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "rank": 10,
+      "stars": "24,905",
+      "stars_today": "363",
+      "language": "Python",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets"
+    },
+    {
+      "name": "influxdata/telegraf",
+      "rank": 11,
+      "stars": "17,247",
+      "stars_today": "215",
+      "language": "Go",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data."
+    },
+    {
+      "name": "supertone-inc/supertonic",
+      "rank": 12,
+      "stars": "5,459",
+      "stars_today": "1,128",
+      "language": "Swift",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX."
+    },
+    {
+      "name": "CloakHQ/CloakBrowser",
+      "rank": 13,
+      "stars": "11,111",
+      "stars_today": "1,354",
+      "language": "Python",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed."
+    },
+    {
+      "name": "roboflow/supervision",
+      "rank": 14,
+      "stars": "38,959",
+      "stars_today": "83",
+      "language": "Python",
+      "description": "We write your reusable computer vision tools. 💜"
+    },
+    {
+      "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "rank": 15,
+      "stars": "888",
+      "stars_today": "62",
+      "language": "Python",
+      "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications."
+    }
+  ]
+}
