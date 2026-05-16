@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 15 May 2026 04:42:17 +0000</pubDate><lastBuildDate>Fri, 15 May 2026 04:42:17 +0000</lastBuildDate><item><title>#1 ruvnet/RuView (+1,715 stars)</title><link>https://github.com/ruvnet/RuView</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ruvnet/RuView&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.&lt;/p&gt;
-&lt;p&gt;⭐ 56,310 | +1,715 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/ruvnet/RuView#2026-05-15</guid><pubDate>Fri, 15 May 2026 04:42:17 +0000</pubDate></item><item><title>#2 obra/superpowers (+1,780 stars)</title><link>https://github.com/obra/superpowers</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sat, 16 May 2026 04:23:30 +0000</pubDate><lastBuildDate>Sat, 16 May 2026 04:23:30 +0000</lastBuildDate><item><title>#1 obra/superpowers (+1,648 stars)</title><link>https://github.com/obra/superpowers</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 191,516 | +1,780 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 192,998 | +1,648 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-05-15</guid><pubDate>Fri, 15 May 2026 04:42:17 +0000</pubDate></item><item><title>#3 K-Dense-AI/scientific-agent-skills (+654 stars)</title><link>https://github.com/K-Dense-AI/scientific-agent-skills</link><description>
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-05-16</guid><pubDate>Sat, 16 May 2026 04:23:30 +0000</pubDate></item><item><title>#2 K-Dense-AI/scientific-agent-skills (+646 stars)</title><link>https://github.com/K-Dense-AI/scientific-agent-skills</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;K-Dense-AI/scientific-agent-skills&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.&lt;/p&gt;
-&lt;p&gt;⭐ 21,914 | +654 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 22,564 | +646 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/K-Dense-AI/scientific-agent-skills#2026-05-15</guid><pubDate>Fri, 15 May 2026 04:42:17 +0000</pubDate></item><item><title>#4 Genymobile/scrcpy (+851 stars)</title><link>https://github.com/Genymobile/scrcpy</link><description>
+</description><guid isPermaLink="false">https://github.com/K-Dense-AI/scientific-agent-skills#2026-05-16</guid><pubDate>Sat, 16 May 2026 04:23:30 +0000</pubDate></item><item><title>#3 ruvnet/RuView (+1,859 stars)</title><link>https://github.com/ruvnet/RuView</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Genymobile/scrcpy&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Display and control your Android device&lt;/p&gt;
-&lt;p&gt;⭐ 141,459 | +851 today | 🔧 C&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ruvnet/RuView&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.&lt;/p&gt;
+&lt;p&gt;⭐ 57,610 | +1,859 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Genymobile/scrcpy#2026-05-15</guid><pubDate>Fri, 15 May 2026 04:42:17 +0000</pubDate></item><item><title>#5 mattpocock/skills (+2,987 stars)</title><link>https://github.com/mattpocock/skills</link><description>
+</description><guid isPermaLink="false">https://github.com/ruvnet/RuView#2026-05-16</guid><pubDate>Sat, 16 May 2026 04:23:30 +0000</pubDate></item><item><title>#4 anthropics/skills (+689 stars)</title><link>https://github.com/anthropics/skills</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;anthropics/skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Public repository for Agent Skills&lt;/p&gt;
+&lt;p&gt;⭐ 135,278 | +689 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/anthropics/skills#2026-05-16</guid><pubDate>Sat, 16 May 2026 04:23:30 +0000</pubDate></item><item><title>#5 mattpocock/skills (+3,132 stars)</title><link>https://github.com/mattpocock/skills</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;mattpocock/skills&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Skills for Real Engineers. Straight from my .claude directory.&lt;/p&gt;
-&lt;p&gt;⭐ 82,871 | +2,987 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 85,233 | +3,132 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-05-15</guid><pubDate>Fri, 15 May 2026 04:42:17 +0000</pubDate></item><item><title>#6 github/spec-kit (+1,232 stars)</title><link>https://github.com/github/spec-kit</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;github/spec-kit&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;💫 Toolkit to help you get started with Spec-Driven Development&lt;/p&gt;
-&lt;p&gt;⭐ 99,656 | +1,232 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/github/spec-kit#2026-05-15</guid><pubDate>Fri, 15 May 2026 04:42:17 +0000</pubDate></item><item><title>#7 garrytan/gstack (+915 stars)</title><link>https://github.com/garrytan/gstack</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;garrytan/gstack&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA&lt;/p&gt;
-&lt;p&gt;⭐ 96,960 | +915 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/garrytan/gstack#2026-05-15</guid><pubDate>Fri, 15 May 2026 04:42:17 +0000</pubDate></item><item><title>#8 tinyhumansai/openhuman (+3,329 stars)</title><link>https://github.com/tinyhumansai/openhuman</link><description>
+</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-05-16</guid><pubDate>Sat, 16 May 2026 04:23:30 +0000</pubDate></item><item><title>#6 tinyhumansai/openhuman (+1,271 stars)</title><link>https://github.com/tinyhumansai/openhuman</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;tinyhumansai/openhuman&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Your Personal AI super intelligence. Private, Simple and extremely powerful.&lt;/p&gt;
-&lt;p&gt;⭐ 7,984 | +3,329 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;⭐ 9,233 | +1,271 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/tinyhumansai/openhuman#2026-05-15</guid><pubDate>Fri, 15 May 2026 04:42:17 +0000</pubDate></item><item><title>#9 rohitg00/agentmemory (+1,879 stars)</title><link>https://github.com/rohitg00/agentmemory</link><description>
+</description><guid isPermaLink="false">https://github.com/tinyhumansai/openhuman#2026-05-16</guid><pubDate>Sat, 16 May 2026 04:23:30 +0000</pubDate></item><item><title>#7 supertone-inc/supertonic (+719 stars)</title><link>https://github.com/supertone-inc/supertonic</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;rohitg00/agentmemory&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;#1 Persistent memory for AI coding agents based on real-world benchmarks&lt;/p&gt;
-&lt;p&gt;⭐ 9,128 | +1,879 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;supertone-inc/supertonic&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.&lt;/p&gt;
+&lt;p&gt;⭐ 6,136 | +719 today | 🔧 Swift&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/rohitg00/agentmemory#2026-05-15</guid><pubDate>Fri, 15 May 2026 04:42:17 +0000</pubDate></item><item><title>#10 shiyu-coder/Kronos (+363 stars)</title><link>https://github.com/shiyu-coder/Kronos</link><description>
+</description><guid isPermaLink="false">https://github.com/supertone-inc/supertonic#2026-05-16</guid><pubDate>Sat, 16 May 2026 04:23:30 +0000</pubDate></item><item><title>#8 influxdata/telegraf (+212 stars)</title><link>https://github.com/influxdata/telegraf</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;shiyu-coder/Kronos&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Kronos: A Foundation Model for the Language of Financial Markets&lt;/p&gt;
-&lt;p&gt;⭐ 24,905 | +363 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;influxdata/telegraf&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.&lt;/p&gt;
+&lt;p&gt;⭐ 17,443 | +212 today | 🔧 Go&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/shiyu-coder/Kronos#2026-05-15</guid><pubDate>Fri, 15 May 2026 04:42:17 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/influxdata/telegraf#2026-05-16</guid><pubDate>Sat, 16 May 2026 04:23:30 +0000</pubDate></item><item><title>#9 oven-sh/bun (+448 stars)</title><link>https://github.com/oven-sh/bun</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;oven-sh/bun&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one&lt;/p&gt;
+&lt;p&gt;⭐ 90,649 | +448 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/oven-sh/bun#2026-05-16</guid><pubDate>Sat, 16 May 2026 04:23:30 +0000</pubDate></item><item><title>#10 czlonkowski/n8n-mcp (+68 stars)</title><link>https://github.com/czlonkowski/n8n-mcp</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;czlonkowski/n8n-mcp&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you&lt;/p&gt;
+&lt;p&gt;⭐ 20,931 | +68 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/czlonkowski/n8n-mcp#2026-05-16</guid><pubDate>Sat, 16 May 2026 04:23:30 +0000</pubDate></item></channel></rss>

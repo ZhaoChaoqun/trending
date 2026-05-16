@@ -1,0 +1,103 @@
+{
+  "date": "2026-05-16",
+  "updated_at": "2026-05-16 04:23:30",
+  "count": 12,
+  "rankings": [
+    {
+      "name": "obra/superpowers",
+      "rank": 1,
+      "stars": "192,998",
+      "stars_today": "1,648",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "rank": 2,
+      "stars": "22,564",
+      "stars_today": "646",
+      "language": "Python",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing."
+    },
+    {
+      "name": "ruvnet/RuView",
+      "rank": 3,
+      "stars": "57,610",
+      "stars_today": "1,859",
+      "language": "Rust",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+    },
+    {
+      "name": "anthropics/skills",
+      "rank": 4,
+      "stars": "135,278",
+      "stars_today": "689",
+      "language": "Python",
+      "description": "Public repository for Agent Skills"
+    },
+    {
+      "name": "mattpocock/skills",
+      "rank": 5,
+      "stars": "85,233",
+      "stars_today": "3,132",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "rank": 6,
+      "stars": "9,233",
+      "stars_today": "1,271",
+      "language": "Rust",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful."
+    },
+    {
+      "name": "supertone-inc/supertonic",
+      "rank": 7,
+      "stars": "6,136",
+      "stars_today": "719",
+      "language": "Swift",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX."
+    },
+    {
+      "name": "influxdata/telegraf",
+      "rank": 8,
+      "stars": "17,443",
+      "stars_today": "212",
+      "language": "Go",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data."
+    },
+    {
+      "name": "oven-sh/bun",
+      "rank": 9,
+      "stars": "90,649",
+      "stars_today": "448",
+      "language": "Rust",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one"
+    },
+    {
+      "name": "czlonkowski/n8n-mcp",
+      "rank": 10,
+      "stars": "20,931",
+      "stars_today": "68",
+      "language": "TypeScript",
+      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you"
+    },
+    {
+      "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "rank": 11,
+      "stars": "1,207",
+      "stars_today": "308",
+      "language": "Python",
+      "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications."
+    },
+    {
+      "name": "joeseesun/qiaomu-anything-to-notebooklm",
+      "rank": 12,
+      "stars": "2,793",
+      "stars_today": "438",
+      "language": "Python",
+      "description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc."
+    }
+  ]
+}
