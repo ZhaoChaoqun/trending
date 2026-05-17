@@ -1,0 +1,71 @@
+{
+  "date": "2026-05-17",
+  "updated_at": "2026-05-17 04:46:13",
+  "count": 8,
+  "rankings": [
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "rank": 1,
+      "stars": "23,295",
+      "stars_today": "673",
+      "language": "Python",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing."
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 2,
+      "stars": "194,223",
+      "stars_today": "1,305",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "ruvnet/RuView",
+      "rank": 3,
+      "stars": "58,480",
+      "stars_today": "1,010",
+      "language": "Rust",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+    },
+    {
+      "name": "oven-sh/bun",
+      "rank": 4,
+      "stars": "91,348",
+      "stars_today": "397",
+      "language": "Rust",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one"
+    },
+    {
+      "name": "Anil-matcha/Open-Generative-AI",
+      "rank": 5,
+      "stars": "14,555",
+      "stars_today": "317",
+      "language": "JavaScript",
+      "description": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed."
+    },
+    {
+      "name": "supertone-inc/supertonic",
+      "rank": 6,
+      "stars": "7,012",
+      "stars_today": "749",
+      "language": "Swift",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX."
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "rank": 7,
+      "stars": "11,019",
+      "stars_today": "1,549",
+      "language": "Rust",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful."
+    },
+    {
+      "name": "colbymchenry/codegraph",
+      "rank": 8,
+      "stars": "2,665",
+      "stars_today": "416",
+      "language": "TypeScript",
+      "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local"
+    }
+  ]
+}

@@ -1,72 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sat, 16 May 2026 04:23:30 +0000</pubDate><lastBuildDate>Sat, 16 May 2026 04:23:30 +0000</lastBuildDate><item><title>#1 obra/superpowers (+1,648 stars)</title><link>https://github.com/obra/superpowers</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 192,998 | +1,648 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-05-16</guid><pubDate>Sat, 16 May 2026 04:23:30 +0000</pubDate></item><item><title>#2 K-Dense-AI/scientific-agent-skills (+646 stars)</title><link>https://github.com/K-Dense-AI/scientific-agent-skills</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sun, 17 May 2026 04:46:13 +0000</pubDate><lastBuildDate>Sun, 17 May 2026 04:46:13 +0000</lastBuildDate><item><title>#1 K-Dense-AI/scientific-agent-skills (+673 stars)</title><link>https://github.com/K-Dense-AI/scientific-agent-skills</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;K-Dense-AI/scientific-agent-skills&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.&lt;/p&gt;
-&lt;p&gt;⭐ 22,564 | +646 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 23,295 | +673 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/K-Dense-AI/scientific-agent-skills#2026-05-16</guid><pubDate>Sat, 16 May 2026 04:23:30 +0000</pubDate></item><item><title>#3 ruvnet/RuView (+1,859 stars)</title><link>https://github.com/ruvnet/RuView</link><description>
+</description><guid isPermaLink="false">https://github.com/K-Dense-AI/scientific-agent-skills#2026-05-17</guid><pubDate>Sun, 17 May 2026 04:46:13 +0000</pubDate></item><item><title>#2 obra/superpowers (+1,305 stars)</title><link>https://github.com/obra/superpowers</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
+&lt;p&gt;⭐ 194,223 | +1,305 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-05-17</guid><pubDate>Sun, 17 May 2026 04:46:13 +0000</pubDate></item><item><title>#3 ruvnet/RuView (+1,010 stars)</title><link>https://github.com/ruvnet/RuView</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;ruvnet/RuView&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.&lt;/p&gt;
-&lt;p&gt;⭐ 57,610 | +1,859 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;⭐ 58,480 | +1,010 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/ruvnet/RuView#2026-05-16</guid><pubDate>Sat, 16 May 2026 04:23:30 +0000</pubDate></item><item><title>#4 anthropics/skills (+689 stars)</title><link>https://github.com/anthropics/skills</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;anthropics/skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Public repository for Agent Skills&lt;/p&gt;
-&lt;p&gt;⭐ 135,278 | +689 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/anthropics/skills#2026-05-16</guid><pubDate>Sat, 16 May 2026 04:23:30 +0000</pubDate></item><item><title>#5 mattpocock/skills (+3,132 stars)</title><link>https://github.com/mattpocock/skills</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;mattpocock/skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Skills for Real Engineers. Straight from my .claude directory.&lt;/p&gt;
-&lt;p&gt;⭐ 85,233 | +3,132 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-05-16</guid><pubDate>Sat, 16 May 2026 04:23:30 +0000</pubDate></item><item><title>#6 tinyhumansai/openhuman (+1,271 stars)</title><link>https://github.com/tinyhumansai/openhuman</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;tinyhumansai/openhuman&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Your Personal AI super intelligence. Private, Simple and extremely powerful.&lt;/p&gt;
-&lt;p&gt;⭐ 9,233 | +1,271 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/tinyhumansai/openhuman#2026-05-16</guid><pubDate>Sat, 16 May 2026 04:23:30 +0000</pubDate></item><item><title>#7 supertone-inc/supertonic (+719 stars)</title><link>https://github.com/supertone-inc/supertonic</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;supertone-inc/supertonic&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.&lt;/p&gt;
-&lt;p&gt;⭐ 6,136 | +719 today | 🔧 Swift&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/supertone-inc/supertonic#2026-05-16</guid><pubDate>Sat, 16 May 2026 04:23:30 +0000</pubDate></item><item><title>#8 influxdata/telegraf (+212 stars)</title><link>https://github.com/influxdata/telegraf</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;influxdata/telegraf&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.&lt;/p&gt;
-&lt;p&gt;⭐ 17,443 | +212 today | 🔧 Go&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/influxdata/telegraf#2026-05-16</guid><pubDate>Sat, 16 May 2026 04:23:30 +0000</pubDate></item><item><title>#9 oven-sh/bun (+448 stars)</title><link>https://github.com/oven-sh/bun</link><description>
+</description><guid isPermaLink="false">https://github.com/ruvnet/RuView#2026-05-17</guid><pubDate>Sun, 17 May 2026 04:46:13 +0000</pubDate></item><item><title>#4 oven-sh/bun (+397 stars)</title><link>https://github.com/oven-sh/bun</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;oven-sh/bun&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one&lt;/p&gt;
-&lt;p&gt;⭐ 90,649 | +448 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;⭐ 91,348 | +397 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/oven-sh/bun#2026-05-16</guid><pubDate>Sat, 16 May 2026 04:23:30 +0000</pubDate></item><item><title>#10 czlonkowski/n8n-mcp (+68 stars)</title><link>https://github.com/czlonkowski/n8n-mcp</link><description>
+</description><guid isPermaLink="false">https://github.com/oven-sh/bun#2026-05-17</guid><pubDate>Sun, 17 May 2026 04:46:13 +0000</pubDate></item><item><title>#5 Anil-matcha/Open-Generative-AI (+317 stars)</title><link>https://github.com/Anil-matcha/Open-Generative-AI</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;czlonkowski/n8n-mcp&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you&lt;/p&gt;
-&lt;p&gt;⭐ 20,931 | +68 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Anil-matcha/Open-Generative-AI&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.&lt;/p&gt;
+&lt;p&gt;⭐ 14,555 | +317 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Anil-matcha/Open-Generative-AI#2026-05-17</guid><pubDate>Sun, 17 May 2026 04:46:13 +0000</pubDate></item><item><title>#6 supertone-inc/supertonic (+749 stars)</title><link>https://github.com/supertone-inc/supertonic</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;supertone-inc/supertonic&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.&lt;/p&gt;
+&lt;p&gt;⭐ 7,012 | +749 today | 🔧 Swift&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/supertone-inc/supertonic#2026-05-17</guid><pubDate>Sun, 17 May 2026 04:46:13 +0000</pubDate></item><item><title>#7 tinyhumansai/openhuman (+1,549 stars)</title><link>https://github.com/tinyhumansai/openhuman</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;tinyhumansai/openhuman&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Your Personal AI super intelligence. Private, Simple and extremely powerful.&lt;/p&gt;
+&lt;p&gt;⭐ 11,019 | +1,549 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/tinyhumansai/openhuman#2026-05-17</guid><pubDate>Sun, 17 May 2026 04:46:13 +0000</pubDate></item><item><title>#8 colbymchenry/codegraph (+416 stars)</title><link>https://github.com/colbymchenry/codegraph</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;colbymchenry/codegraph&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local&lt;/p&gt;
+&lt;p&gt;⭐ 2,665 | +416 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/czlonkowski/n8n-mcp#2026-05-16</guid><pubDate>Sat, 16 May 2026 04:23:30 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/colbymchenry/codegraph#2026-05-17</guid><pubDate>Sun, 17 May 2026 04:46:13 +0000</pubDate></item></channel></rss>
