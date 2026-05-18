@@ -1,0 +1,151 @@
+{
+  "date": "2026-05-18",
+  "updated_at": "2026-05-18 05:00:58",
+  "count": 18,
+  "rankings": [
+    {
+      "name": "oven-sh/bun",
+      "rank": 1,
+      "stars": "91,779",
+      "stars_today": "910",
+      "language": "Rust",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "rank": 2,
+      "stars": "23,941",
+      "stars_today": "762",
+      "language": "Python",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing."
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "rank": 3,
+      "stars": "14,051",
+      "stars_today": "1,690",
+      "language": "Rust",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful."
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "rank": 4,
+      "stars": "35,884",
+      "stars_today": "238",
+      "language": "Python",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/"
+    },
+    {
+      "name": "calcom/cal.diy",
+      "rank": 5,
+      "stars": "43,383",
+      "stars_today": "433",
+      "language": "TypeScript",
+      "description": "Scheduling infrastructure for absolutely everyone."
+    },
+    {
+      "name": "Anil-matcha/Open-Generative-AI",
+      "rank": 6,
+      "stars": "15,309",
+      "stars_today": "703",
+      "language": "JavaScript",
+      "description": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed."
+    },
+    {
+      "name": "BigBodyCobain/Shadowbroker",
+      "rank": 7,
+      "stars": "7,236",
+      "stars_today": "333",
+      "language": "Python",
+      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now."
+    },
+    {
+      "name": "NirDiamant/agents-towards-production",
+      "rank": 8,
+      "stars": "20,032",
+      "stars_today": "172",
+      "language": "Jupyter Notebook",
+      "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment."
+    },
+    {
+      "name": "KeygraphHQ/shannon",
+      "rank": 9,
+      "stars": "42,818",
+      "stars_today": "200",
+      "language": "TypeScript",
+      "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production."
+    },
+    {
+      "name": "TryGhost/Ghost",
+      "rank": 10,
+      "stars": "53,390",
+      "stars_today": "231",
+      "language": "JavaScript",
+      "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters."
+    },
+    {
+      "name": "medusajs/medusa",
+      "rank": 11,
+      "stars": "33,589",
+      "stars_today": "211",
+      "language": "TypeScript",
+      "description": "The world's most flexible commerce platform."
+    },
+    {
+      "name": "knadh/listmonk",
+      "rank": 12,
+      "stars": "20,673",
+      "stars_today": "242",
+      "language": "Go",
+      "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app."
+    },
+    {
+      "name": "plausible/analytics",
+      "rank": 13,
+      "stars": "25,540",
+      "stars_today": "186",
+      "language": "Elixir",
+      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud."
+    },
+    {
+      "name": "colbymchenry/codegraph",
+      "rank": 14,
+      "stars": "3,575",
+      "stars_today": "857",
+      "language": "TypeScript",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local"
+    },
+    {
+      "name": "microsoft/ai-agents-for-beginners",
+      "rank": 15,
+      "stars": "62,774",
+      "stars_today": "485",
+      "language": "Jupyter Notebook",
+      "description": "12 Lessons to Get Started Building AI Agents"
+    },
+    {
+      "name": "tech-leads-club/agent-skills",
+      "rank": 16,
+      "stars": "3,650",
+      "stars_today": "225",
+      "language": "TypeScript",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence."
+    },
+    {
+      "name": "dograh-hq/dograh",
+      "rank": 17,
+      "stars": "1,812",
+      "stars_today": "223",
+      "language": "Python",
+      "description": "Open Source Voice Agent Platform"
+    },
+    {
+      "name": "Light-Heart-Labs/DreamServer",
+      "rank": 18,
+      "stars": "1,291",
+      "stars_today": "112",
+      "language": "Python",
+      "description": "Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud, no subscriptions."
+    }
+  ]
+}
