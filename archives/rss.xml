@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Mon, 18 May 2026 05:00:58 +0000</pubDate><lastBuildDate>Mon, 18 May 2026 05:00:58 +0000</lastBuildDate><item><title>#1 oven-sh/bun (+910 stars)</title><link>https://github.com/oven-sh/bun</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;oven-sh/bun&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one&lt;/p&gt;
-&lt;p&gt;⭐ 91,779 | +910 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/oven-sh/bun#2026-05-18</guid><pubDate>Mon, 18 May 2026 05:00:58 +0000</pubDate></item><item><title>#2 K-Dense-AI/scientific-agent-skills (+762 stars)</title><link>https://github.com/K-Dense-AI/scientific-agent-skills</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;K-Dense-AI/scientific-agent-skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.&lt;/p&gt;
-&lt;p&gt;⭐ 23,941 | +762 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/K-Dense-AI/scientific-agent-skills#2026-05-18</guid><pubDate>Mon, 18 May 2026 05:00:58 +0000</pubDate></item><item><title>#3 tinyhumansai/openhuman (+1,690 stars)</title><link>https://github.com/tinyhumansai/openhuman</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;tinyhumansai/openhuman&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Your Personal AI super intelligence. Private, Simple and extremely powerful.&lt;/p&gt;
-&lt;p&gt;⭐ 14,051 | +1,690 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/tinyhumansai/openhuman#2026-05-18</guid><pubDate>Mon, 18 May 2026 05:00:58 +0000</pubDate></item><item><title>#4 HKUDS/CLI-Anything (+238 stars)</title><link>https://github.com/HKUDS/CLI-Anything</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Tue, 19 May 2026 04:53:07 +0000</pubDate><lastBuildDate>Tue, 19 May 2026 04:53:07 +0000</lastBuildDate><item><title>#1 HKUDS/CLI-Anything (+1,049 stars)</title><link>https://github.com/HKUDS/CLI-Anything</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;HKUDS/CLI-Anything&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/&lt;/p&gt;
-&lt;p&gt;⭐ 35,884 | +238 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 36,878 | +1,049 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/HKUDS/CLI-Anything#2026-05-18</guid><pubDate>Mon, 18 May 2026 05:00:58 +0000</pubDate></item><item><title>#5 calcom/cal.diy (+433 stars)</title><link>https://github.com/calcom/cal.diy</link><description>
+</description><guid isPermaLink="false">https://github.com/HKUDS/CLI-Anything#2026-05-19</guid><pubDate>Tue, 19 May 2026 04:53:07 +0000</pubDate></item><item><title>#2 K-Dense-AI/scientific-agent-skills (+609 stars)</title><link>https://github.com/K-Dense-AI/scientific-agent-skills</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;calcom/cal.diy&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Scheduling infrastructure for absolutely everyone.&lt;/p&gt;
-&lt;p&gt;⭐ 43,383 | +433 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;K-Dense-AI/scientific-agent-skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.&lt;/p&gt;
+&lt;p&gt;⭐ 24,523 | +609 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/calcom/cal.diy#2026-05-18</guid><pubDate>Mon, 18 May 2026 05:00:58 +0000</pubDate></item><item><title>#6 Anil-matcha/Open-Generative-AI (+703 stars)</title><link>https://github.com/Anil-matcha/Open-Generative-AI</link><description>
+</description><guid isPermaLink="false">https://github.com/K-Dense-AI/scientific-agent-skills#2026-05-19</guid><pubDate>Tue, 19 May 2026 04:53:07 +0000</pubDate></item><item><title>#3 ruvnet/RuView (+700 stars)</title><link>https://github.com/ruvnet/RuView</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Anil-matcha/Open-Generative-AI&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.&lt;/p&gt;
-&lt;p&gt;⭐ 15,309 | +703 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ruvnet/RuView&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.&lt;/p&gt;
+&lt;p&gt;⭐ 60,058 | +700 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Anil-matcha/Open-Generative-AI#2026-05-18</guid><pubDate>Mon, 18 May 2026 05:00:58 +0000</pubDate></item><item><title>#7 BigBodyCobain/Shadowbroker (+333 stars)</title><link>https://github.com/BigBodyCobain/Shadowbroker</link><description>
+</description><guid isPermaLink="false">https://github.com/ruvnet/RuView#2026-05-19</guid><pubDate>Tue, 19 May 2026 04:53:07 +0000</pubDate></item><item><title>#4 microsoft/ai-agents-for-beginners (+1,012 stars)</title><link>https://github.com/microsoft/ai-agents-for-beginners</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;BigBodyCobain/Shadowbroker&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.&lt;/p&gt;
-&lt;p&gt;⭐ 7,236 | +333 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;microsoft/ai-agents-for-beginners&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;12 Lessons to Get Started Building AI Agents&lt;/p&gt;
+&lt;p&gt;⭐ 63,614 | +1,012 today | 🔧 Jupyter Notebook&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/BigBodyCobain/Shadowbroker#2026-05-18</guid><pubDate>Mon, 18 May 2026 05:00:58 +0000</pubDate></item><item><title>#8 NirDiamant/agents-towards-production (+172 stars)</title><link>https://github.com/NirDiamant/agents-towards-production</link><description>
+</description><guid isPermaLink="false">https://github.com/microsoft/ai-agents-for-beginners#2026-05-19</guid><pubDate>Tue, 19 May 2026 04:53:07 +0000</pubDate></item><item><title>#5 plausible/analytics (+638 stars)</title><link>https://github.com/plausible/analytics</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;NirDiamant/agents-towards-production&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.&lt;/p&gt;
-&lt;p&gt;⭐ 20,032 | +172 today | 🔧 Jupyter Notebook&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;plausible/analytics&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.&lt;/p&gt;
+&lt;p&gt;⭐ 26,043 | +638 today | 🔧 Elixir&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/NirDiamant/agents-towards-production#2026-05-18</guid><pubDate>Mon, 18 May 2026 05:00:58 +0000</pubDate></item><item><title>#9 KeygraphHQ/shannon (+200 stars)</title><link>https://github.com/KeygraphHQ/shannon</link><description>
+</description><guid isPermaLink="false">https://github.com/plausible/analytics#2026-05-19</guid><pubDate>Tue, 19 May 2026 04:53:07 +0000</pubDate></item><item><title>#6 tinyhumansai/openhuman (+3,941 stars)</title><link>https://github.com/tinyhumansai/openhuman</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;KeygraphHQ/shannon&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.&lt;/p&gt;
-&lt;p&gt;⭐ 42,818 | +200 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;tinyhumansai/openhuman&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Your Personal AI super intelligence. Private, Simple and extremely powerful.&lt;/p&gt;
+&lt;p&gt;⭐ 18,048 | +3,941 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/KeygraphHQ/shannon#2026-05-18</guid><pubDate>Mon, 18 May 2026 05:00:58 +0000</pubDate></item><item><title>#10 TryGhost/Ghost (+231 stars)</title><link>https://github.com/TryGhost/Ghost</link><description>
+</description><guid isPermaLink="false">https://github.com/tinyhumansai/openhuman#2026-05-19</guid><pubDate>Tue, 19 May 2026 04:53:07 +0000</pubDate></item><item><title>#7 Imbad0202/academic-research-skills (+1,439 stars)</title><link>https://github.com/Imbad0202/academic-research-skills</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;TryGhost/Ghost&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Independent technology for modern publishing, memberships, subscriptions and newsletters.&lt;/p&gt;
-&lt;p&gt;⭐ 53,390 | +231 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Imbad0202/academic-research-skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Academic Research Skills for Claude Code: research → write → review → revise → finalize&lt;/p&gt;
+&lt;p&gt;⭐ 12,355 | +1,439 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/TryGhost/Ghost#2026-05-18</guid><pubDate>Mon, 18 May 2026 05:00:58 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/Imbad0202/academic-research-skills#2026-05-19</guid><pubDate>Tue, 19 May 2026 04:53:07 +0000</pubDate></item><item><title>#8 supertone-inc/supertonic (+715 stars)</title><link>https://github.com/supertone-inc/supertonic</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;supertone-inc/supertonic&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.&lt;/p&gt;
+&lt;p&gt;⭐ 8,450 | +715 today | 🔧 Swift&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/supertone-inc/supertonic#2026-05-19</guid><pubDate>Tue, 19 May 2026 04:53:07 +0000</pubDate></item><item><title>#9 ggml-org/llama.cpp (+213 stars)</title><link>https://github.com/ggml-org/llama.cpp</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;ggml-org/llama.cpp&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;LLM inference in C/C++&lt;/p&gt;
+&lt;p&gt;⭐ 111,149 | +213 today | 🔧 C++&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/ggml-org/llama.cpp#2026-05-19</guid><pubDate>Tue, 19 May 2026 04:53:07 +0000</pubDate></item><item><title>#10 CloakHQ/CloakBrowser (+1,420 stars)</title><link>https://github.com/CloakHQ/CloakBrowser</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;CloakHQ/CloakBrowser&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.&lt;/p&gt;
+&lt;p&gt;⭐ 15,493 | +1,420 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/CloakHQ/CloakBrowser#2026-05-19</guid><pubDate>Tue, 19 May 2026 04:53:07 +0000</pubDate></item></channel></rss>

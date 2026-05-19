@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-19",
+  "updated_at": "2026-05-19 04:53:07",
+  "count": 15,
+  "rankings": [
+    {
+      "name": "HKUDS/CLI-Anything",
+      "rank": 1,
+      "stars": "36,878",
+      "stars_today": "1,049",
+      "language": "Python",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "rank": 2,
+      "stars": "24,523",
+      "stars_today": "609",
+      "language": "Python",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing."
+    },
+    {
+      "name": "ruvnet/RuView",
+      "rank": 3,
+      "stars": "60,058",
+      "stars_today": "700",
+      "language": "Rust",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+    },
+    {
+      "name": "microsoft/ai-agents-for-beginners",
+      "rank": 4,
+      "stars": "63,614",
+      "stars_today": "1,012",
+      "language": "Jupyter Notebook",
+      "description": "12 Lessons to Get Started Building AI Agents"
+    },
+    {
+      "name": "plausible/analytics",
+      "rank": 5,
+      "stars": "26,043",
+      "stars_today": "638",
+      "language": "Elixir",
+      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud."
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "rank": 6,
+      "stars": "18,048",
+      "stars_today": "3,941",
+      "language": "Rust",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful."
+    },
+    {
+      "name": "Imbad0202/academic-research-skills",
+      "rank": 7,
+      "stars": "12,355",
+      "stars_today": "1,439",
+      "language": "Python",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize"
+    },
+    {
+      "name": "supertone-inc/supertonic",
+      "rank": 8,
+      "stars": "8,450",
+      "stars_today": "715",
+      "language": "Swift",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX."
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "rank": 9,
+      "stars": "111,149",
+      "stars_today": "213",
+      "language": "C++",
+      "description": "LLM inference in C/C++"
+    },
+    {
+      "name": "CloakHQ/CloakBrowser",
+      "rank": 10,
+      "stars": "15,493",
+      "stars_today": "1,420",
+      "language": "Python",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed."
+    },
+    {
+      "name": "BigBodyCobain/Shadowbroker",
+      "rank": 11,
+      "stars": "7,837",
+      "stars_today": "767",
+      "language": "Python",
+      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now."
+    },
+    {
+      "name": "humanlayer/12-factor-agents",
+      "rank": 12,
+      "stars": "20,752",
+      "stars_today": "399",
+      "language": "TypeScript",
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?"
+    },
+    {
+      "name": "NVlabs/Sana",
+      "rank": 13,
+      "stars": "6,632",
+      "stars_today": "387",
+      "language": "Python",
+      "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "rank": 14,
+      "stars": "37,353",
+      "stars_today": "310",
+      "language": "Python",
+      "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets."
+    },
+    {
+      "name": "tech-leads-club/agent-skills",
+      "rank": 15,
+      "stars": "4,133",
+      "stars_today": "1,244",
+      "language": "TypeScript",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence."
+    }
+  ]
+}
