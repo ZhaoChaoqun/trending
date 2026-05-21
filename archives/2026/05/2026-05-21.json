@@ -1,0 +1,143 @@
+{
+  "date": "2026-05-21",
+  "updated_at": "2026-05-21 05:02:53",
+  "count": 17,
+  "rankings": [
+    {
+      "name": "tinyhumansai/openhuman",
+      "rank": 1,
+      "stars": "23,940",
+      "stars_today": "3,394",
+      "language": "Rust",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful."
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "rank": 2,
+      "stars": "141,381",
+      "stars_today": "2,679",
+      "language": null,
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "rank": 3,
+      "stars": "38,654",
+      "stars_today": "890",
+      "language": "Python",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/"
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 4,
+      "stars": "200,335",
+      "stars_today": "1,743",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "rank": 5,
+      "stars": "20,903",
+      "stars_today": "674",
+      "language": "Python",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "rank": 6,
+      "stars": "103,033",
+      "stars_today": "1,636",
+      "language": "Shell",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "name": "colbymchenry/codegraph",
+      "rank": 7,
+      "stars": "10,460",
+      "stars_today": "2,123",
+      "language": "TypeScript",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local"
+    },
+    {
+      "name": "Imbad0202/academic-research-skills",
+      "rank": 8,
+      "stars": "16,685",
+      "stars_today": "1,667",
+      "language": "Python",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "rank": 9,
+      "stars": "9,846",
+      "stars_today": "765",
+      "language": "Python",
+      "description": "Learn it. Build it. Ship it for others."
+    },
+    {
+      "name": "rohitg00/agentmemory",
+      "rank": 10,
+      "stars": "15,286",
+      "stars_today": "1,080",
+      "language": "TypeScript",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks"
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "rank": 11,
+      "stars": "111,925",
+      "stars_today": "309",
+      "language": "C++",
+      "description": "LLM inference in C/C++"
+    },
+    {
+      "name": "HKUDS/ViMax",
+      "rank": 12,
+      "stars": "6,189",
+      "stars_today": "674",
+      "language": "Python",
+      "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\""
+    },
+    {
+      "name": "can1357/oh-my-pi",
+      "rank": 13,
+      "stars": "5,525",
+      "stars_today": "270",
+      "language": "TypeScript",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more"
+    },
+    {
+      "name": "rmyndharis/OpenWA",
+      "rank": 14,
+      "stars": "4,966",
+      "stars_today": "741",
+      "language": "TypeScript",
+      "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway"
+    },
+    {
+      "name": "truelockmc/streambert",
+      "rank": 15,
+      "stars": "3,232",
+      "stars_today": "582",
+      "language": "JavaScript",
+      "description": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking"
+    },
+    {
+      "name": "opentoonz/opentoonz",
+      "rank": 16,
+      "stars": "6,437",
+      "stars_today": "236",
+      "language": "C++",
+      "description": "OpenToonz - An open-source full-featured 2D animation creation software"
+    },
+    {
+      "name": "zakirullin/files.md",
+      "rank": 17,
+      "stars": "2,305",
+      "stars_today": "429",
+      "language": "Go",
+      "description": "🌱 Private, quiet space for thinking. A simple app for your .md files."
+    }
+  ]
+}

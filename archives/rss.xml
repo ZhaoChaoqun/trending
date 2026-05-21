@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Wed, 20 May 2026 04:57:24 +0000</pubDate><lastBuildDate>Wed, 20 May 2026 04:57:24 +0000</lastBuildDate><item><title>#1 tinyhumansai/openhuman (+3,973 stars)</title><link>https://github.com/tinyhumansai/openhuman</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Thu, 21 May 2026 05:02:53 +0000</pubDate><lastBuildDate>Thu, 21 May 2026 05:02:53 +0000</lastBuildDate><item><title>#1 tinyhumansai/openhuman (+3,394 stars)</title><link>https://github.com/tinyhumansai/openhuman</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;tinyhumansai/openhuman&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Your Personal AI super intelligence. Private, Simple and extremely powerful.&lt;/p&gt;
-&lt;p&gt;⭐ 21,913 | +3,973 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;⭐ 23,940 | +3,394 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/tinyhumansai/openhuman#2026-05-20</guid><pubDate>Wed, 20 May 2026 04:57:24 +0000</pubDate></item><item><title>#2 HKUDS/CLI-Anything (+1,038 stars)</title><link>https://github.com/HKUDS/CLI-Anything</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;HKUDS/CLI-Anything&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/&lt;/p&gt;
-&lt;p&gt;⭐ 37,905 | +1,038 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/HKUDS/CLI-Anything#2026-05-20</guid><pubDate>Wed, 20 May 2026 04:57:24 +0000</pubDate></item><item><title>#3 obra/superpowers (+1,623 stars)</title><link>https://github.com/obra/superpowers</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 198,763 | +1,623 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-05-20</guid><pubDate>Wed, 20 May 2026 04:57:24 +0000</pubDate></item><item><title>#4 rtk-ai/rtk (+704 stars)</title><link>https://github.com/rtk-ai/rtk</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;rtk-ai/rtk&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies&lt;/p&gt;
-&lt;p&gt;⭐ 51,147 | +704 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/rtk-ai/rtk#2026-05-20</guid><pubDate>Wed, 20 May 2026 04:57:24 +0000</pubDate></item><item><title>#5 msitarzewski/agency-agents (+1,120 stars)</title><link>https://github.com/msitarzewski/agency-agents</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;msitarzewski/agency-agents&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.&lt;/p&gt;
-&lt;p&gt;⭐ 101,904 | +1,120 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/msitarzewski/agency-agents#2026-05-20</guid><pubDate>Wed, 20 May 2026 04:57:24 +0000</pubDate></item><item><title>#6 multica-ai/andrej-karpathy-skills (+1,955 stars)</title><link>https://github.com/multica-ai/andrej-karpathy-skills</link><description>
+</description><guid isPermaLink="false">https://github.com/tinyhumansai/openhuman#2026-05-21</guid><pubDate>Thu, 21 May 2026 05:02:53 +0000</pubDate></item><item><title>#2 multica-ai/andrej-karpathy-skills (+2,679 stars)</title><link>https://github.com/multica-ai/andrej-karpathy-skills</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;multica-ai/andrej-karpathy-skills&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.&lt;/p&gt;
-&lt;p&gt;⭐ 138,698 | +1,955 today | 🔧 Unknown&lt;/p&gt;
+&lt;p&gt;⭐ 141,381 | +2,679 today | 🔧 Unknown&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/multica-ai/andrej-karpathy-skills#2026-05-20</guid><pubDate>Wed, 20 May 2026 04:57:24 +0000</pubDate></item><item><title>#7 humanlayer/12-factor-agents (+736 stars)</title><link>https://github.com/humanlayer/12-factor-agents</link><description>
+</description><guid isPermaLink="false">https://github.com/multica-ai/andrej-karpathy-skills#2026-05-21</guid><pubDate>Thu, 21 May 2026 05:02:53 +0000</pubDate></item><item><title>#3 HKUDS/CLI-Anything (+890 stars)</title><link>https://github.com/HKUDS/CLI-Anything</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;humanlayer/12-factor-agents&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?&lt;/p&gt;
-&lt;p&gt;⭐ 21,270 | +736 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HKUDS/CLI-Anything&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/&lt;/p&gt;
+&lt;p&gt;⭐ 38,654 | +890 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/humanlayer/12-factor-agents#2026-05-20</guid><pubDate>Wed, 20 May 2026 04:57:24 +0000</pubDate></item><item><title>#8 Alishahryar1/free-claude-code (+563 stars)</title><link>https://github.com/Alishahryar1/free-claude-code</link><description>
+</description><guid isPermaLink="false">https://github.com/HKUDS/CLI-Anything#2026-05-21</guid><pubDate>Thu, 21 May 2026 05:02:53 +0000</pubDate></item><item><title>#4 obra/superpowers (+1,743 stars)</title><link>https://github.com/obra/superpowers</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Alishahryar1/free-claude-code&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)&lt;/p&gt;
-&lt;p&gt;⭐ 26,472 | +563 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
+&lt;p&gt;⭐ 200,335 | +1,743 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Alishahryar1/free-claude-code#2026-05-20</guid><pubDate>Wed, 20 May 2026 04:57:24 +0000</pubDate></item><item><title>#9 microsoft/ai-agents-for-beginners (+818 stars)</title><link>https://github.com/microsoft/ai-agents-for-beginners</link><description>
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-05-21</guid><pubDate>Thu, 21 May 2026 05:02:53 +0000</pubDate></item><item><title>#5 anthropics/claude-plugins-official (+674 stars)</title><link>https://github.com/anthropics/claude-plugins-official</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;microsoft/ai-agents-for-beginners&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;12 Lessons to Get Started Building AI Agents&lt;/p&gt;
-&lt;p&gt;⭐ 64,569 | +818 today | 🔧 Jupyter Notebook&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;anthropics/claude-plugins-official&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Official, Anthropic-managed directory of high quality Claude Code Plugins.&lt;/p&gt;
+&lt;p&gt;⭐ 20,903 | +674 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/microsoft/ai-agents-for-beginners#2026-05-20</guid><pubDate>Wed, 20 May 2026 04:57:24 +0000</pubDate></item><item><title>#10 Imbad0202/academic-research-skills (+3,164 stars)</title><link>https://github.com/Imbad0202/academic-research-skills</link><description>
+</description><guid isPermaLink="false">https://github.com/anthropics/claude-plugins-official#2026-05-21</guid><pubDate>Thu, 21 May 2026 05:02:53 +0000</pubDate></item><item><title>#6 msitarzewski/agency-agents (+1,636 stars)</title><link>https://github.com/msitarzewski/agency-agents</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;msitarzewski/agency-agents&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.&lt;/p&gt;
+&lt;p&gt;⭐ 103,033 | +1,636 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/msitarzewski/agency-agents#2026-05-21</guid><pubDate>Thu, 21 May 2026 05:02:53 +0000</pubDate></item><item><title>#7 colbymchenry/codegraph (+2,123 stars)</title><link>https://github.com/colbymchenry/codegraph</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;colbymchenry/codegraph&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local&lt;/p&gt;
+&lt;p&gt;⭐ 10,460 | +2,123 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/colbymchenry/codegraph#2026-05-21</guid><pubDate>Thu, 21 May 2026 05:02:53 +0000</pubDate></item><item><title>#8 Imbad0202/academic-research-skills (+1,667 stars)</title><link>https://github.com/Imbad0202/academic-research-skills</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;Imbad0202/academic-research-skills&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Academic Research Skills for Claude Code: research → write → review → revise → finalize&lt;/p&gt;
-&lt;p&gt;⭐ 14,439 | +3,164 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 16,685 | +1,667 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Imbad0202/academic-research-skills#2026-05-20</guid><pubDate>Wed, 20 May 2026 04:57:24 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/Imbad0202/academic-research-skills#2026-05-21</guid><pubDate>Thu, 21 May 2026 05:02:53 +0000</pubDate></item><item><title>#9 rohitg00/ai-engineering-from-scratch (+765 stars)</title><link>https://github.com/rohitg00/ai-engineering-from-scratch</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;rohitg00/ai-engineering-from-scratch&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Learn it. Build it. Ship it for others.&lt;/p&gt;
+&lt;p&gt;⭐ 9,846 | +765 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/rohitg00/ai-engineering-from-scratch#2026-05-21</guid><pubDate>Thu, 21 May 2026 05:02:53 +0000</pubDate></item><item><title>#10 rohitg00/agentmemory (+1,080 stars)</title><link>https://github.com/rohitg00/agentmemory</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;rohitg00/agentmemory&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;#1 Persistent memory for AI coding agents based on real-world benchmarks&lt;/p&gt;
+&lt;p&gt;⭐ 15,286 | +1,080 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/rohitg00/agentmemory#2026-05-21</guid><pubDate>Thu, 21 May 2026 05:02:53 +0000</pubDate></item></channel></rss>
