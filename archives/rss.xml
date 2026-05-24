@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sat, 23 May 2026 04:32:00 +0000</pubDate><lastBuildDate>Sat, 23 May 2026 04:32:00 +0000</lastBuildDate><item><title>#1 anthropics/claude-plugins-official (+2,549 stars)</title><link>https://github.com/anthropics/claude-plugins-official</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;anthropics/claude-plugins-official&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Official, Anthropic-managed directory of high quality Claude Code Plugins.&lt;/p&gt;
-&lt;p&gt;⭐ 25,221 | +2,549 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/anthropics/claude-plugins-official#2026-05-23</guid><pubDate>Sat, 23 May 2026 04:32:00 +0000</pubDate></item><item><title>#2 ruvnet/RuView (+978 stars)</title><link>https://github.com/ruvnet/RuView</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ruvnet/RuView&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.&lt;/p&gt;
-&lt;p&gt;⭐ 64,138 | +978 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/ruvnet/RuView#2026-05-23</guid><pubDate>Sat, 23 May 2026 04:32:00 +0000</pubDate></item><item><title>#3 trimstray/the-book-of-secret-knowledge (+969 stars)</title><link>https://github.com/trimstray/the-book-of-secret-knowledge</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;trimstray/the-book-of-secret-knowledge&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.&lt;/p&gt;
-&lt;p&gt;⭐ 223,293 | +969 today | 🔧 Unknown&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/trimstray/the-book-of-secret-knowledge#2026-05-23</guid><pubDate>Sat, 23 May 2026 04:32:00 +0000</pubDate></item><item><title>#4 colbymchenry/codegraph (+3,684 stars)</title><link>https://github.com/colbymchenry/codegraph</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;colbymchenry/codegraph&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local&lt;/p&gt;
-&lt;p&gt;⭐ 16,924 | +3,684 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/colbymchenry/codegraph#2026-05-23</guid><pubDate>Sat, 23 May 2026 04:32:00 +0000</pubDate></item><item><title>#5 rohitg00/ai-engineering-from-scratch (+988 stars)</title><link>https://github.com/rohitg00/ai-engineering-from-scratch</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;rohitg00/ai-engineering-from-scratch&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Learn it. Build it. Ship it for others.&lt;/p&gt;
-&lt;p&gt;⭐ 12,159 | +988 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/rohitg00/ai-engineering-from-scratch#2026-05-23</guid><pubDate>Sat, 23 May 2026 04:32:00 +0000</pubDate></item><item><title>#6 ChromeDevTools/chrome-devtools-mcp (+501 stars)</title><link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ChromeDevTools/chrome-devtools-mcp&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Chrome DevTools for coding agents&lt;/p&gt;
-&lt;p&gt;⭐ 41,044 | +501 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/ChromeDevTools/chrome-devtools-mcp#2026-05-23</guid><pubDate>Sat, 23 May 2026 04:32:00 +0000</pubDate></item><item><title>#7 Lum1104/Understand-Anything (+1,393 stars)</title><link>https://github.com/Lum1104/Understand-Anything</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sun, 24 May 2026 04:57:04 +0000</pubDate><lastBuildDate>Sun, 24 May 2026 04:57:04 +0000</lastBuildDate><item><title>#1 Lum1104/Understand-Anything (+2,299 stars)</title><link>https://github.com/Lum1104/Understand-Anything</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;Lum1104/Understand-Anything&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.&lt;/p&gt;
-&lt;p&gt;⭐ 18,978 | +1,393 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 22,215 | +2,299 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Lum1104/Understand-Anything#2026-05-23</guid><pubDate>Sat, 23 May 2026 04:32:00 +0000</pubDate></item><item><title>#8 Fincept-Corporation/FinceptTerminal (+367 stars)</title><link>https://github.com/Fincept-Corporation/FinceptTerminal</link><description>
+</description><guid isPermaLink="false">https://github.com/Lum1104/Understand-Anything#2026-05-24</guid><pubDate>Sun, 24 May 2026 04:57:04 +0000</pubDate></item><item><title>#2 anthropics/claude-plugins-official (+2,193 stars)</title><link>https://github.com/anthropics/claude-plugins-official</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;anthropics/claude-plugins-official&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Official, Anthropic-managed directory of high quality Claude Code Plugins.&lt;/p&gt;
+&lt;p&gt;⭐ 26,665 | +2,193 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/anthropics/claude-plugins-official#2026-05-24</guid><pubDate>Sun, 24 May 2026 04:57:04 +0000</pubDate></item><item><title>#3 colbymchenry/codegraph (+2,456 stars)</title><link>https://github.com/colbymchenry/codegraph</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;colbymchenry/codegraph&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local&lt;/p&gt;
+&lt;p&gt;⭐ 20,015 | +2,456 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/colbymchenry/codegraph#2026-05-24</guid><pubDate>Sun, 24 May 2026 04:57:04 +0000</pubDate></item><item><title>#4 Fincept-Corporation/FinceptTerminal (+545 stars)</title><link>https://github.com/Fincept-Corporation/FinceptTerminal</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;Fincept-Corporation/FinceptTerminal&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.&lt;/p&gt;
-&lt;p&gt;⭐ 22,712 | +367 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 23,199 | +545 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Fincept-Corporation/FinceptTerminal#2026-05-23</guid><pubDate>Sat, 23 May 2026 04:32:00 +0000</pubDate></item><item><title>#9 can1357/oh-my-pi (+457 stars)</title><link>https://github.com/can1357/oh-my-pi</link><description>
+</description><guid isPermaLink="false">https://github.com/Fincept-Corporation/FinceptTerminal#2026-05-24</guid><pubDate>Sun, 24 May 2026 04:57:04 +0000</pubDate></item><item><title>#5 multica-ai/andrej-karpathy-skills (+3,507 stars)</title><link>https://github.com/multica-ai/andrej-karpathy-skills</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;can1357/oh-my-pi&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more&lt;/p&gt;
-&lt;p&gt;⭐ 6,414 | +457 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;multica-ai/andrej-karpathy-skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.&lt;/p&gt;
+&lt;p&gt;⭐ 150,043 | +3,507 today | 🔧 Unknown&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/can1357/oh-my-pi#2026-05-23</guid><pubDate>Sat, 23 May 2026 04:32:00 +0000</pubDate></item><item><title>#10 yt-dlp/yt-dlp (+444 stars)</title><link>https://github.com/yt-dlp/yt-dlp</link><description>
+</description><guid isPermaLink="false">https://github.com/multica-ai/andrej-karpathy-skills#2026-05-24</guid><pubDate>Sun, 24 May 2026 04:57:04 +0000</pubDate></item><item><title>#6 trimstray/the-book-of-secret-knowledge (+628 stars)</title><link>https://github.com/trimstray/the-book-of-secret-knowledge</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;trimstray/the-book-of-secret-knowledge&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.&lt;/p&gt;
+&lt;p&gt;⭐ 223,937 | +628 today | 🔧 Unknown&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/trimstray/the-book-of-secret-knowledge#2026-05-24</guid><pubDate>Sun, 24 May 2026 04:57:04 +0000</pubDate></item><item><title>#7 yt-dlp/yt-dlp (+759 stars)</title><link>https://github.com/yt-dlp/yt-dlp</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;yt-dlp/yt-dlp&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A feature-rich command-line audio/video downloader&lt;/p&gt;
-&lt;p&gt;⭐ 164,452 | +444 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 165,053 | +759 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/yt-dlp/yt-dlp#2026-05-24</guid><pubDate>Sun, 24 May 2026 04:57:04 +0000</pubDate></item><item><title>#8 rohitg00/ai-engineering-from-scratch (+1,521 stars)</title><link>https://github.com/rohitg00/ai-engineering-from-scratch</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;rohitg00/ai-engineering-from-scratch&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Learn it. Build it. Ship it for others.&lt;/p&gt;
+&lt;p&gt;⭐ 14,019 | +1,521 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/yt-dlp/yt-dlp#2026-05-23</guid><pubDate>Sat, 23 May 2026 04:32:00 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/rohitg00/ai-engineering-from-scratch#2026-05-24</guid><pubDate>Sun, 24 May 2026 04:57:04 +0000</pubDate></item><item><title>#9 ChromeDevTools/chrome-devtools-mcp (+435 stars)</title><link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;ChromeDevTools/chrome-devtools-mcp&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Chrome DevTools for coding agents&lt;/p&gt;
+&lt;p&gt;⭐ 41,388 | +435 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/ChromeDevTools/chrome-devtools-mcp#2026-05-24</guid><pubDate>Sun, 24 May 2026 04:57:04 +0000</pubDate></item><item><title>#10 presenton/presenton (+241 stars)</title><link>https://github.com/presenton/presenton</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;presenton/presenton&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)&lt;/p&gt;
+&lt;p&gt;⭐ 6,483 | +241 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/presenton/presenton#2026-05-24</guid><pubDate>Sun, 24 May 2026 04:57:04 +0000</pubDate></item></channel></rss>
