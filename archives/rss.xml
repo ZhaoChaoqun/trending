@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Mon, 25 May 2026 05:14:14 +0000</pubDate><lastBuildDate>Mon, 25 May 2026 05:14:14 +0000</lastBuildDate><item><title>#1 Lum1104/Understand-Anything (+3,999 stars)</title><link>https://github.com/Lum1104/Understand-Anything</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Tue, 26 May 2026 04:56:00 +0000</pubDate><lastBuildDate>Tue, 26 May 2026 04:56:00 +0000</lastBuildDate><item><title>#1 Lum1104/Understand-Anything (+5,604 stars)</title><link>https://github.com/Lum1104/Understand-Anything</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;Lum1104/Understand-Anything&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.&lt;/p&gt;
-&lt;p&gt;⭐ 27,246 | +3,999 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 32,059 | +5,604 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Lum1104/Understand-Anything#2026-05-25</guid><pubDate>Mon, 25 May 2026 05:14:14 +0000</pubDate></item><item><title>#2 anthropics/claude-plugins-official (+1,173 stars)</title><link>https://github.com/anthropics/claude-plugins-official</link><description>
+</description><guid isPermaLink="false">https://github.com/Lum1104/Understand-Anything#2026-05-26</guid><pubDate>Tue, 26 May 2026 04:56:00 +0000</pubDate></item><item><title>#2 affaan-m/ECC (+2,025 stars)</title><link>https://github.com/affaan-m/ECC</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;anthropics/claude-plugins-official&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Official, Anthropic-managed directory of high quality Claude Code Plugins.&lt;/p&gt;
-&lt;p&gt;⭐ 27,378 | +1,173 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;affaan-m/ECC&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.&lt;/p&gt;
+&lt;p&gt;⭐ 192,790 | +2,025 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/anthropics/claude-plugins-official#2026-05-25</guid><pubDate>Mon, 25 May 2026 05:14:14 +0000</pubDate></item><item><title>#3 multica-ai/andrej-karpathy-skills (+2,551 stars)</title><link>https://github.com/multica-ai/andrej-karpathy-skills</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;multica-ai/andrej-karpathy-skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.&lt;/p&gt;
-&lt;p&gt;⭐ 152,724 | +2,551 today | 🔧 Unknown&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/multica-ai/andrej-karpathy-skills#2026-05-25</guid><pubDate>Mon, 25 May 2026 05:14:14 +0000</pubDate></item><item><title>#4 Alishahryar1/free-claude-code (+553 stars)</title><link>https://github.com/Alishahryar1/free-claude-code</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Alishahryar1/free-claude-code&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)&lt;/p&gt;
-&lt;p&gt;⭐ 29,263 | +553 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/Alishahryar1/free-claude-code#2026-05-25</guid><pubDate>Mon, 25 May 2026 05:14:14 +0000</pubDate></item><item><title>#5 colbymchenry/codegraph (+3,003 stars)</title><link>https://github.com/colbymchenry/codegraph</link><description>
+</description><guid isPermaLink="false">https://github.com/affaan-m/ECC#2026-05-26</guid><pubDate>Tue, 26 May 2026 04:56:00 +0000</pubDate></item><item><title>#3 colbymchenry/codegraph (+3,161 stars)</title><link>https://github.com/colbymchenry/codegraph</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;colbymchenry/codegraph&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local&lt;/p&gt;
-&lt;p&gt;⭐ 22,908 | +3,003 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 25,802 | +3,161 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/colbymchenry/codegraph#2026-05-25</guid><pubDate>Mon, 25 May 2026 05:14:14 +0000</pubDate></item><item><title>#6 multica-ai/multica (+585 stars)</title><link>https://github.com/multica-ai/multica</link><description>
+</description><guid isPermaLink="false">https://github.com/colbymchenry/codegraph#2026-05-26</guid><pubDate>Tue, 26 May 2026 04:56:00 +0000</pubDate></item><item><title>#4 multica-ai/andrej-karpathy-skills (+2,749 stars)</title><link>https://github.com/multica-ai/andrej-karpathy-skills</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;multica-ai/multica&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.&lt;/p&gt;
-&lt;p&gt;⭐ 32,661 | +585 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;multica-ai/andrej-karpathy-skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.&lt;/p&gt;
+&lt;p&gt;⭐ 155,424 | +2,749 today | 🔧 Unknown&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/multica-ai/multica#2026-05-25</guid><pubDate>Mon, 25 May 2026 05:14:14 +0000</pubDate></item><item><title>#7 codecrafters-io/build-your-own-x (+550 stars)</title><link>https://github.com/codecrafters-io/build-your-own-x</link><description>
+</description><guid isPermaLink="false">https://github.com/multica-ai/andrej-karpathy-skills#2026-05-26</guid><pubDate>Tue, 26 May 2026 04:56:00 +0000</pubDate></item><item><title>#5 garrytan/gstack (+640 stars)</title><link>https://github.com/garrytan/gstack</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;codecrafters-io/build-your-own-x&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Master programming by recreating your favorite technologies from scratch.&lt;/p&gt;
-&lt;p&gt;⭐ 504,384 | +550 today | 🔧 Markdown&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;garrytan/gstack&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA&lt;/p&gt;
+&lt;p&gt;⭐ 102,675 | +640 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/codecrafters-io/build-your-own-x#2026-05-25</guid><pubDate>Mon, 25 May 2026 05:14:14 +0000</pubDate></item><item><title>#8 rohitg00/ai-engineering-from-scratch (+1,853 stars)</title><link>https://github.com/rohitg00/ai-engineering-from-scratch</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;rohitg00/ai-engineering-from-scratch&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Learn it. Build it. Ship it for others.&lt;/p&gt;
-&lt;p&gt;⭐ 16,717 | +1,853 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/rohitg00/ai-engineering-from-scratch#2026-05-25</guid><pubDate>Mon, 25 May 2026 05:14:14 +0000</pubDate></item><item><title>#9 anthropics/knowledge-work-plugins (+550 stars)</title><link>https://github.com/anthropics/knowledge-work-plugins</link><description>
+</description><guid isPermaLink="false">https://github.com/garrytan/gstack#2026-05-26</guid><pubDate>Tue, 26 May 2026 04:56:00 +0000</pubDate></item><item><title>#6 anthropics/knowledge-work-plugins (+1,441 stars)</title><link>https://github.com/anthropics/knowledge-work-plugins</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;anthropics/knowledge-work-plugins&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork&lt;/p&gt;
-&lt;p&gt;⭐ 14,253 | +550 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 15,765 | +1,441 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/anthropics/knowledge-work-plugins#2026-05-25</guid><pubDate>Mon, 25 May 2026 05:14:14 +0000</pubDate></item><item><title>#10 earendil-works/pi (+456 stars)</title><link>https://github.com/earendil-works/pi</link><description>
+</description><guid isPermaLink="false">https://github.com/anthropics/knowledge-work-plugins#2026-05-26</guid><pubDate>Tue, 26 May 2026 04:56:00 +0000</pubDate></item><item><title>#7 rohitg00/ai-engineering-from-scratch (+3,154 stars)</title><link>https://github.com/rohitg00/ai-engineering-from-scratch</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;earendil-works/pi&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods&lt;/p&gt;
-&lt;p&gt;⭐ 54,087 | +456 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;rohitg00/ai-engineering-from-scratch&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Learn it. Build it. Ship it for others.&lt;/p&gt;
+&lt;p&gt;⭐ 19,088 | +3,154 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/earendil-works/pi#2026-05-25</guid><pubDate>Mon, 25 May 2026 05:14:14 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/rohitg00/ai-engineering-from-scratch#2026-05-26</guid><pubDate>Tue, 26 May 2026 04:56:00 +0000</pubDate></item><item><title>#8 mukul975/Anthropic-Cybersecurity-Skills (+1,004 stars)</title><link>https://github.com/mukul975/Anthropic-Cybersecurity-Skills</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;mukul975/Anthropic-Cybersecurity-Skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0&lt;/p&gt;
+&lt;p&gt;⭐ 9,417 | +1,004 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/mukul975/Anthropic-Cybersecurity-Skills#2026-05-26</guid><pubDate>Tue, 26 May 2026 04:56:00 +0000</pubDate></item><item><title>#9 manaflow-ai/cmux (+603 stars)</title><link>https://github.com/manaflow-ai/cmux</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;manaflow-ai/cmux&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents&lt;/p&gt;
+&lt;p&gt;⭐ 19,589 | +603 today | 🔧 Swift&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/manaflow-ai/cmux#2026-05-26</guid><pubDate>Tue, 26 May 2026 04:56:00 +0000</pubDate></item><item><title>#10 Fincept-Corporation/FinceptTerminal (+317 stars)</title><link>https://github.com/Fincept-Corporation/FinceptTerminal</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Fincept-Corporation/FinceptTerminal&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.&lt;/p&gt;
+&lt;p&gt;⭐ 23,970 | +317 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Fincept-Corporation/FinceptTerminal#2026-05-26</guid><pubDate>Tue, 26 May 2026 04:56:00 +0000</pubDate></item></channel></rss>
