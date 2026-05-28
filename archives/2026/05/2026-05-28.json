@@ -1,0 +1,143 @@
+{
+  "date": "2026-05-28",
+  "updated_at": "2026-05-28 05:02:38",
+  "count": 17,
+  "rankings": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "rank": 1,
+      "stars": "63,163",
+      "stars_today": "1,742",
+      "language": "Python",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
+    },
+    {
+      "name": "Lum1104/Understand-Anything",
+      "rank": 2,
+      "stars": "40,678",
+      "stars_today": "4,465",
+      "language": "TypeScript",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more."
+    },
+    {
+      "name": "affaan-m/ECC",
+      "rank": 3,
+      "stars": "196,276",
+      "stars_today": "2,062",
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "rank": 4,
+      "stars": "24,717",
+      "stars_today": "2,715",
+      "language": "Shell",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop"
+    },
+    {
+      "name": "twentyhq/twenty",
+      "rank": 5,
+      "stars": "47,428",
+      "stars_today": "519",
+      "language": "TypeScript",
+      "description": "The open alternative to Salesforce, designed for AI."
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 6,
+      "stars": "209,880",
+      "stars_today": "1,511",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "byoungd/English-level-up-tips",
+      "rank": 7,
+      "stars": "47,145",
+      "stars_today": "1,163",
+      "language": null,
+      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "rank": 8,
+      "stars": "17,403",
+      "stars_today": "695",
+      "language": "Python",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+    },
+    {
+      "name": "p-e-w/heretic",
+      "rank": 9,
+      "stars": "22,101",
+      "stars_today": "211",
+      "language": "Python",
+      "description": "Fully automatic censorship removal for language models"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "rank": 10,
+      "stars": "26,963",
+      "stars_today": "401",
+      "language": "Python",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "rank": 11,
+      "stars": "11,130",
+      "stars_today": "886",
+      "language": "Python",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0"
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "rank": 12,
+      "stars": "169,471",
+      "stars_today": "2,222",
+      "language": "HTML",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "name": "iii-hq/iii",
+      "rank": 13,
+      "stars": "16,954",
+      "stars_today": "376",
+      "language": "Rust",
+      "description": "Effortlessly compose, extend, and observe every service in real-time for the first time ever."
+    },
+    {
+      "name": "Axorax/awesome-free-apps",
+      "rank": 14,
+      "stars": "5,997",
+      "stars_today": "728",
+      "language": "JavaScript",
+      "description": "Curated list of the best free apps for PC and mobile"
+    },
+    {
+      "name": "hardikpandya/stop-slop",
+      "rank": 15,
+      "stars": "5,865",
+      "stars_today": "664",
+      "language": null,
+      "description": "A skill file for removing AI tells from prose"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "rank": 16,
+      "stars": "40,302",
+      "stars_today": "72",
+      "language": "TypeScript",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
+    },
+    {
+      "name": "Chachamaru127/claude-code-harness",
+      "rank": 17,
+      "stars": "1,938",
+      "stars_today": "87",
+      "language": "Shell",
+      "description": "Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle"
+    }
+  ]
+}
