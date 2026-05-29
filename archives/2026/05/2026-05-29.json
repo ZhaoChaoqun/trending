@@ -1,0 +1,135 @@
+{
+  "date": "2026-05-29",
+  "updated_at": "2026-05-29 05:04:44",
+  "count": 16,
+  "rankings": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "rank": 1,
+      "stars": "67,089",
+      "stars_today": "4,698",
+      "language": "Python",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
+    },
+    {
+      "name": "affaan-m/ECC",
+      "rank": 2,
+      "stars": "197,524",
+      "stars_today": "1,385",
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "rank": 3,
+      "stars": "26,833",
+      "stars_today": "2,234",
+      "language": "Shell",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop"
+    },
+    {
+      "name": "byoungd/English-level-up-tips",
+      "rank": 4,
+      "stars": "48,835",
+      "stars_today": "2,019",
+      "language": null,
+      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "rank": 5,
+      "stars": "128,031",
+      "stars_today": "1,410",
+      "language": "Python",
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 6,
+      "stars": "211,369",
+      "stars_today": "1,730",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "rank": 7,
+      "stars": "506,708",
+      "stars_today": "1,066",
+      "language": "Markdown",
+      "description": "Master programming by recreating your favorite technologies from scratch."
+    },
+    {
+      "name": "Lum1104/Understand-Anything",
+      "rank": 8,
+      "stars": "43,211",
+      "stars_today": "3,776",
+      "language": "TypeScript",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more."
+    },
+    {
+      "name": "anthropics/skills",
+      "rank": 9,
+      "stars": "143,059",
+      "stars_today": "718",
+      "language": "Python",
+      "description": "Public repository for Agent Skills"
+    },
+    {
+      "name": "twentyhq/twenty",
+      "rank": 10,
+      "stars": "47,969",
+      "stars_today": "493",
+      "language": "TypeScript",
+      "description": "The open alternative to Salesforce, designed for AI."
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "rank": 11,
+      "stars": "170,934",
+      "stars_today": "1,761",
+      "language": "HTML",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "name": "unclecode/crawl4ai",
+      "rank": 12,
+      "stars": "67,076",
+      "stars_today": "154",
+      "language": "Python",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN"
+    },
+    {
+      "name": "hardikpandya/stop-slop",
+      "rank": 13,
+      "stars": "6,535",
+      "stars_today": "761",
+      "language": null,
+      "description": "A skill file for removing AI tells from prose"
+    },
+    {
+      "name": "EveryInc/compound-engineering-plugin",
+      "rank": 14,
+      "stars": "17,846",
+      "stars_today": "184",
+      "language": "TypeScript",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more"
+    },
+    {
+      "name": "revfactory/harness",
+      "rank": 15,
+      "stars": "3,977",
+      "stars_today": "65",
+      "language": "HTML",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use."
+    },
+    {
+      "name": "OpenMOSS/MOSS-TTS",
+      "rank": 16,
+      "stars": "2,332",
+      "stars_today": "71",
+      "language": "Python",
+      "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS."
+    }
+  ]
+}

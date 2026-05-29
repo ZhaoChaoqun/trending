@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Thu, 28 May 2026 05:02:38 +0000</pubDate><lastBuildDate>Thu, 28 May 2026 05:02:38 +0000</lastBuildDate><item><title>#1 harry0703/MoneyPrinterTurbo (+1,742 stars)</title><link>https://github.com/harry0703/MoneyPrinterTurbo</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 29 May 2026 05:04:44 +0000</pubDate><lastBuildDate>Fri, 29 May 2026 05:04:44 +0000</lastBuildDate><item><title>#1 harry0703/MoneyPrinterTurbo (+4,698 stars)</title><link>https://github.com/harry0703/MoneyPrinterTurbo</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;harry0703/MoneyPrinterTurbo&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.&lt;/p&gt;
-&lt;p&gt;⭐ 63,163 | +1,742 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 67,089 | +4,698 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/harry0703/MoneyPrinterTurbo#2026-05-28</guid><pubDate>Thu, 28 May 2026 05:02:38 +0000</pubDate></item><item><title>#2 Lum1104/Understand-Anything (+4,465 stars)</title><link>https://github.com/Lum1104/Understand-Anything</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Lum1104/Understand-Anything&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.&lt;/p&gt;
-&lt;p&gt;⭐ 40,678 | +4,465 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/Lum1104/Understand-Anything#2026-05-28</guid><pubDate>Thu, 28 May 2026 05:02:38 +0000</pubDate></item><item><title>#3 affaan-m/ECC (+2,062 stars)</title><link>https://github.com/affaan-m/ECC</link><description>
+</description><guid isPermaLink="false">https://github.com/harry0703/MoneyPrinterTurbo#2026-05-29</guid><pubDate>Fri, 29 May 2026 05:04:44 +0000</pubDate></item><item><title>#2 affaan-m/ECC (+1,385 stars)</title><link>https://github.com/affaan-m/ECC</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;affaan-m/ECC&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.&lt;/p&gt;
-&lt;p&gt;⭐ 196,276 | +2,062 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 197,524 | +1,385 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/affaan-m/ECC#2026-05-28</guid><pubDate>Thu, 28 May 2026 05:02:38 +0000</pubDate></item><item><title>#4 Leonxlnx/taste-skill (+2,715 stars)</title><link>https://github.com/Leonxlnx/taste-skill</link><description>
+</description><guid isPermaLink="false">https://github.com/affaan-m/ECC#2026-05-29</guid><pubDate>Fri, 29 May 2026 05:04:44 +0000</pubDate></item><item><title>#3 Leonxlnx/taste-skill (+2,234 stars)</title><link>https://github.com/Leonxlnx/taste-skill</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;Leonxlnx/taste-skill&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop&lt;/p&gt;
-&lt;p&gt;⭐ 24,717 | +2,715 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 26,833 | +2,234 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Leonxlnx/taste-skill#2026-05-28</guid><pubDate>Thu, 28 May 2026 05:02:38 +0000</pubDate></item><item><title>#5 twentyhq/twenty (+519 stars)</title><link>https://github.com/twentyhq/twenty</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;twentyhq/twenty&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The open alternative to Salesforce, designed for AI.&lt;/p&gt;
-&lt;p&gt;⭐ 47,428 | +519 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/twentyhq/twenty#2026-05-28</guid><pubDate>Thu, 28 May 2026 05:02:38 +0000</pubDate></item><item><title>#6 obra/superpowers (+1,511 stars)</title><link>https://github.com/obra/superpowers</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 209,880 | +1,511 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-05-28</guid><pubDate>Thu, 28 May 2026 05:02:38 +0000</pubDate></item><item><title>#7 byoungd/English-level-up-tips (+1,163 stars)</title><link>https://github.com/byoungd/English-level-up-tips</link><description>
+</description><guid isPermaLink="false">https://github.com/Leonxlnx/taste-skill#2026-05-29</guid><pubDate>Fri, 29 May 2026 05:04:44 +0000</pubDate></item><item><title>#4 byoungd/English-level-up-tips (+2,019 stars)</title><link>https://github.com/byoungd/English-level-up-tips</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;byoungd/English-level-up-tips&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语&lt;/p&gt;
-&lt;p&gt;⭐ 47,145 | +1,163 today | 🔧 Unknown&lt;/p&gt;
+&lt;p&gt;⭐ 48,835 | +2,019 today | 🔧 Unknown&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/byoungd/English-level-up-tips#2026-05-28</guid><pubDate>Thu, 28 May 2026 05:02:38 +0000</pubDate></item><item><title>#8 anthropics/knowledge-work-plugins (+695 stars)</title><link>https://github.com/anthropics/knowledge-work-plugins</link><description>
+</description><guid isPermaLink="false">https://github.com/byoungd/English-level-up-tips#2026-05-29</guid><pubDate>Fri, 29 May 2026 05:04:44 +0000</pubDate></item><item><title>#5 microsoft/markitdown (+1,410 stars)</title><link>https://github.com/microsoft/markitdown</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;anthropics/knowledge-work-plugins&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork&lt;/p&gt;
-&lt;p&gt;⭐ 17,403 | +695 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;microsoft/markitdown&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Python tool for converting files and office documents to Markdown.&lt;/p&gt;
+&lt;p&gt;⭐ 128,031 | +1,410 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/microsoft/markitdown#2026-05-29</guid><pubDate>Fri, 29 May 2026 05:04:44 +0000</pubDate></item><item><title>#6 obra/superpowers (+1,730 stars)</title><link>https://github.com/obra/superpowers</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
+&lt;p&gt;⭐ 211,369 | +1,730 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-05-29</guid><pubDate>Fri, 29 May 2026 05:04:44 +0000</pubDate></item><item><title>#7 codecrafters-io/build-your-own-x (+1,066 stars)</title><link>https://github.com/codecrafters-io/build-your-own-x</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;codecrafters-io/build-your-own-x&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Master programming by recreating your favorite technologies from scratch.&lt;/p&gt;
+&lt;p&gt;⭐ 506,708 | +1,066 today | 🔧 Markdown&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/codecrafters-io/build-your-own-x#2026-05-29</guid><pubDate>Fri, 29 May 2026 05:04:44 +0000</pubDate></item><item><title>#8 Lum1104/Understand-Anything (+3,776 stars)</title><link>https://github.com/Lum1104/Understand-Anything</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Lum1104/Understand-Anything&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.&lt;/p&gt;
+&lt;p&gt;⭐ 43,211 | +3,776 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Lum1104/Understand-Anything#2026-05-29</guid><pubDate>Fri, 29 May 2026 05:04:44 +0000</pubDate></item><item><title>#9 anthropics/skills (+718 stars)</title><link>https://github.com/anthropics/skills</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;anthropics/skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Public repository for Agent Skills&lt;/p&gt;
+&lt;p&gt;⭐ 143,059 | +718 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/anthropics/skills#2026-05-29</guid><pubDate>Fri, 29 May 2026 05:04:44 +0000</pubDate></item><item><title>#10 twentyhq/twenty (+493 stars)</title><link>https://github.com/twentyhq/twenty</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;twentyhq/twenty&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The open alternative to Salesforce, designed for AI.&lt;/p&gt;
+&lt;p&gt;⭐ 47,969 | +493 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/anthropics/knowledge-work-plugins#2026-05-28</guid><pubDate>Thu, 28 May 2026 05:02:38 +0000</pubDate></item><item><title>#9 p-e-w/heretic (+211 stars)</title><link>https://github.com/p-e-w/heretic</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;p-e-w/heretic&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Fully automatic censorship removal for language models&lt;/p&gt;
-&lt;p&gt;⭐ 22,101 | +211 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/p-e-w/heretic#2026-05-28</guid><pubDate>Thu, 28 May 2026 05:02:38 +0000</pubDate></item><item><title>#10 shiyu-coder/Kronos (+401 stars)</title><link>https://github.com/shiyu-coder/Kronos</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;shiyu-coder/Kronos&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Kronos: A Foundation Model for the Language of Financial Markets&lt;/p&gt;
-&lt;p&gt;⭐ 26,963 | +401 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/shiyu-coder/Kronos#2026-05-28</guid><pubDate>Thu, 28 May 2026 05:02:38 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/twentyhq/twenty#2026-05-29</guid><pubDate>Fri, 29 May 2026 05:04:44 +0000</pubDate></item></channel></rss>
