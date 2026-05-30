@@ -1,0 +1,143 @@
+{
+  "date": "2026-05-30",
+  "updated_at": "2026-05-30 04:43:43",
+  "count": 17,
+  "rankings": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "rank": 1,
+      "stars": "70,136",
+      "stars_today": "3,567",
+      "language": "Python",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
+    },
+    {
+      "name": "microsoft/markitdown",
+      "rank": 2,
+      "stars": "130,265",
+      "stars_today": "1,873",
+      "language": "Python",
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "name": "twentyhq/twenty",
+      "rank": 3,
+      "stars": "48,469",
+      "stars_today": "578",
+      "language": "TypeScript",
+      "description": "The open alternative to Salesforce, designed for AI."
+    },
+    {
+      "name": "anthropics/claude-code",
+      "rank": 4,
+      "stars": "127,966",
+      "stars_today": "395",
+      "language": "Python",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "rank": 5,
+      "stars": "28,350",
+      "stars_today": "2,062",
+      "language": "Shell",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop"
+    },
+    {
+      "name": "byoungd/English-level-up-tips",
+      "rank": 6,
+      "stars": "49,727",
+      "stars_today": "1,566",
+      "language": null,
+      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "rank": 7,
+      "stars": "198,681",
+      "stars_today": "1,406",
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "rank": 8,
+      "stars": "507,473",
+      "stars_today": "866",
+      "language": "Markdown",
+      "description": "Master programming by recreating your favorite technologies from scratch."
+    },
+    {
+      "name": "EveryInc/compound-engineering-plugin",
+      "rank": 9,
+      "stars": "18,193",
+      "stars_today": "353",
+      "language": "TypeScript",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more"
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "rank": 10,
+      "stars": "27,023",
+      "stars_today": "318",
+      "language": "TypeScript",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere."
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "rank": 11,
+      "stars": "171,941",
+      "stars_today": "1,313",
+      "language": "HTML",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "name": "DataTalksClub/data-engineering-zoomcamp",
+      "rank": 12,
+      "stars": "41,601",
+      "stars_today": "160",
+      "language": "Jupyter Notebook",
+      "description": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼"
+    },
+    {
+      "name": "run-llama/liteparse",
+      "rank": 13,
+      "stars": "7,427",
+      "stars_today": "701",
+      "language": "Rust",
+      "description": "A fast, helpful, and open-source document parser"
+    },
+    {
+      "name": "galilai-group/stable-worldmodel",
+      "rank": 14,
+      "stars": "1,285",
+      "stars_today": "362",
+      "language": "Python",
+      "description": "A platform for reproducible world model research and evaluation"
+    },
+    {
+      "name": "hardikpandya/stop-slop",
+      "rank": 15,
+      "stars": "7,076",
+      "stars_today": "617",
+      "language": null,
+      "description": "A skill file for removing AI tells from prose"
+    },
+    {
+      "name": "cursor/plugins",
+      "rank": 16,
+      "stars": "1,324",
+      "stars_today": "134",
+      "language": "TypeScript",
+      "description": "Cursor plugin specification and official plugins"
+    },
+    {
+      "name": "Biohub/esm",
+      "rank": 17,
+      "stars": "2,580",
+      "stars_today": "52",
+      "language": "Jupyter Notebook",
+      "description": ""
+    }
+  ]
+}
