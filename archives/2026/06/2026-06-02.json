@@ -1,0 +1,143 @@
+{
+  "date": "2026-06-02",
+  "updated_at": "2026-06-02 05:21:48",
+  "count": 17,
+  "rankings": [
+    {
+      "name": "microsoft/markitdown",
+      "rank": 1,
+      "stars": "139,110",
+      "stars_today": "3,034",
+      "language": "Python",
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "name": "supermemoryai/supermemory",
+      "rank": 2,
+      "stars": "24,124",
+      "stars_today": "647",
+      "language": "TypeScript",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era."
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "rank": 3,
+      "stars": "77,132",
+      "stars_today": "3,375",
+      "language": "Python",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
+    },
+    {
+      "name": "D4Vinci/Scrapling",
+      "rank": 4,
+      "stars": "58,314",
+      "stars_today": "1,486",
+      "language": "Python",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!"
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "rank": 5,
+      "stars": "24,441",
+      "stars_today": "888",
+      "language": "Python",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "rank": 6,
+      "stars": "510,585",
+      "stars_today": "1,212",
+      "language": "Markdown",
+      "description": "Master programming by recreating your favorite technologies from scratch."
+    },
+    {
+      "name": "nesquena/hermes-webui",
+      "rank": 7,
+      "stars": "11,603",
+      "stars_today": "945",
+      "language": "Python",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "rank": 8,
+      "stars": "32,939",
+      "stars_today": "485",
+      "language": "JavaScript",
+      "description": "The design language that makes your AI harness better at design."
+    },
+    {
+      "name": "p-e-w/heretic",
+      "rank": 9,
+      "stars": "23,101",
+      "stars_today": "249",
+      "language": "Python",
+      "description": "Fully automatic censorship removal for language models"
+    },
+    {
+      "name": "EveryInc/compound-engineering-plugin",
+      "rank": 10,
+      "stars": "19,176",
+      "stars_today": "417",
+      "language": "TypeScript",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "rank": 11,
+      "stars": "81,922",
+      "stars_today": "299",
+      "language": "Python",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+    },
+    {
+      "name": "revfactory/harness",
+      "rank": 12,
+      "stars": "5,263",
+      "stars_today": "524",
+      "language": "HTML",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use."
+    },
+    {
+      "name": "godotengine/godot",
+      "rank": 13,
+      "stars": "111,722",
+      "stars_today": "77",
+      "language": "C++",
+      "description": "Godot Engine – Multi-platform 2D and 3D game engine"
+    },
+    {
+      "name": "can1357/oh-my-pi",
+      "rank": 14,
+      "stars": "9,565",
+      "stars_today": "335",
+      "language": "TypeScript",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more"
+    },
+    {
+      "name": "FareedKhan-dev/train-llm-from-scratch",
+      "rank": 15,
+      "stars": "3,831",
+      "stars_today": "861",
+      "language": "Jupyter Notebook",
+      "description": "A straightforward method for training your LLM, from downloading data to generating text."
+    },
+    {
+      "name": "stefan-jansen/machine-learning-for-trading",
+      "rank": 16,
+      "stars": "17,968",
+      "stars_today": "93",
+      "language": "Jupyter Notebook",
+      "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition."
+    },
+    {
+      "name": "dmtrKovalenko/fff",
+      "rank": 17,
+      "stars": "7,246",
+      "stars_today": "135",
+      "language": "Rust",
+      "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS"
+    }
+  ]
+}

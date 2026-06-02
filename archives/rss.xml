@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Mon, 01 Jun 2026 05:52:52 +0000</pubDate><lastBuildDate>Mon, 01 Jun 2026 05:52:52 +0000</lastBuildDate><item><title>#1 harry0703/MoneyPrinterTurbo (+1,937 stars)</title><link>https://github.com/harry0703/MoneyPrinterTurbo</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;harry0703/MoneyPrinterTurbo&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.&lt;/p&gt;
-&lt;p&gt;⭐ 75,173 | +1,937 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/harry0703/MoneyPrinterTurbo#2026-06-01</guid><pubDate>Mon, 01 Jun 2026 05:52:52 +0000</pubDate></item><item><title>#2 microsoft/markitdown (+2,798 stars)</title><link>https://github.com/microsoft/markitdown</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Tue, 02 Jun 2026 05:21:48 +0000</pubDate><lastBuildDate>Tue, 02 Jun 2026 05:21:48 +0000</lastBuildDate><item><title>#1 microsoft/markitdown (+3,034 stars)</title><link>https://github.com/microsoft/markitdown</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;microsoft/markitdown&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Python tool for converting files and office documents to Markdown.&lt;/p&gt;
-&lt;p&gt;⭐ 135,681 | +2,798 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 139,110 | +3,034 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/microsoft/markitdown#2026-06-01</guid><pubDate>Mon, 01 Jun 2026 05:52:52 +0000</pubDate></item><item><title>#3 D4Vinci/Scrapling (+606 stars)</title><link>https://github.com/D4Vinci/Scrapling</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;D4Vinci/Scrapling&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!&lt;/p&gt;
-&lt;p&gt;⭐ 56,984 | +606 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/D4Vinci/Scrapling#2026-06-01</guid><pubDate>Mon, 01 Jun 2026 05:52:52 +0000</pubDate></item><item><title>#4 OpenBMB/VoxCPM (+635 stars)</title><link>https://github.com/OpenBMB/VoxCPM</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;OpenBMB/VoxCPM&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning&lt;/p&gt;
-&lt;p&gt;⭐ 23,723 | +635 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/OpenBMB/VoxCPM#2026-06-01</guid><pubDate>Mon, 01 Jun 2026 05:52:52 +0000</pubDate></item><item><title>#5 anthropics/claude-code (+489 stars)</title><link>https://github.com/anthropics/claude-code</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;anthropics/claude-code&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.&lt;/p&gt;
-&lt;p&gt;⭐ 129,075 | +489 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/anthropics/claude-code#2026-06-01</guid><pubDate>Mon, 01 Jun 2026 05:52:52 +0000</pubDate></item><item><title>#6 codecrafters-io/build-your-own-x (+1,158 stars)</title><link>https://github.com/codecrafters-io/build-your-own-x</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;codecrafters-io/build-your-own-x&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Master programming by recreating your favorite technologies from scratch.&lt;/p&gt;
-&lt;p&gt;⭐ 509,583 | +1,158 today | 🔧 Markdown&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/codecrafters-io/build-your-own-x#2026-06-01</guid><pubDate>Mon, 01 Jun 2026 05:52:52 +0000</pubDate></item><item><title>#7 nesquena/hermes-webui (+357 stars)</title><link>https://github.com/nesquena/hermes-webui</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;nesquena/hermes-webui&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!&lt;/p&gt;
-&lt;p&gt;⭐ 10,204 | +357 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/nesquena/hermes-webui#2026-06-01</guid><pubDate>Mon, 01 Jun 2026 05:52:52 +0000</pubDate></item><item><title>#8 EveryInc/compound-engineering-plugin (+251 stars)</title><link>https://github.com/EveryInc/compound-engineering-plugin</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;EveryInc/compound-engineering-plugin&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more&lt;/p&gt;
-&lt;p&gt;⭐ 18,803 | +251 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/EveryInc/compound-engineering-plugin#2026-06-01</guid><pubDate>Mon, 01 Jun 2026 05:52:52 +0000</pubDate></item><item><title>#9 FareedKhan-dev/train-llm-from-scratch (+626 stars)</title><link>https://github.com/FareedKhan-dev/train-llm-from-scratch</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;FareedKhan-dev/train-llm-from-scratch&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A straightforward method for training your LLM, from downloading data to generating text.&lt;/p&gt;
-&lt;p&gt;⭐ 3,173 | +626 today | 🔧 Jupyter Notebook&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/FareedKhan-dev/train-llm-from-scratch#2026-06-01</guid><pubDate>Mon, 01 Jun 2026 05:52:52 +0000</pubDate></item><item><title>#10 supermemoryai/supermemory (+264 stars)</title><link>https://github.com/supermemoryai/supermemory</link><description>
+</description><guid isPermaLink="false">https://github.com/microsoft/markitdown#2026-06-02</guid><pubDate>Tue, 02 Jun 2026 05:21:48 +0000</pubDate></item><item><title>#2 supermemoryai/supermemory (+647 stars)</title><link>https://github.com/supermemoryai/supermemory</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;supermemoryai/supermemory&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.&lt;/p&gt;
-&lt;p&gt;⭐ 23,496 | +264 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 24,124 | +647 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/supermemoryai/supermemory#2026-06-02</guid><pubDate>Tue, 02 Jun 2026 05:21:48 +0000</pubDate></item><item><title>#3 harry0703/MoneyPrinterTurbo (+3,375 stars)</title><link>https://github.com/harry0703/MoneyPrinterTurbo</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;harry0703/MoneyPrinterTurbo&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.&lt;/p&gt;
+&lt;p&gt;⭐ 77,132 | +3,375 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/harry0703/MoneyPrinterTurbo#2026-06-02</guid><pubDate>Tue, 02 Jun 2026 05:21:48 +0000</pubDate></item><item><title>#4 D4Vinci/Scrapling (+1,486 stars)</title><link>https://github.com/D4Vinci/Scrapling</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;D4Vinci/Scrapling&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!&lt;/p&gt;
+&lt;p&gt;⭐ 58,314 | +1,486 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/D4Vinci/Scrapling#2026-06-02</guid><pubDate>Tue, 02 Jun 2026 05:21:48 +0000</pubDate></item><item><title>#5 OpenBMB/VoxCPM (+888 stars)</title><link>https://github.com/OpenBMB/VoxCPM</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;OpenBMB/VoxCPM&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning&lt;/p&gt;
+&lt;p&gt;⭐ 24,441 | +888 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/OpenBMB/VoxCPM#2026-06-02</guid><pubDate>Tue, 02 Jun 2026 05:21:48 +0000</pubDate></item><item><title>#6 codecrafters-io/build-your-own-x (+1,212 stars)</title><link>https://github.com/codecrafters-io/build-your-own-x</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;codecrafters-io/build-your-own-x&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Master programming by recreating your favorite technologies from scratch.&lt;/p&gt;
+&lt;p&gt;⭐ 510,585 | +1,212 today | 🔧 Markdown&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/codecrafters-io/build-your-own-x#2026-06-02</guid><pubDate>Tue, 02 Jun 2026 05:21:48 +0000</pubDate></item><item><title>#7 nesquena/hermes-webui (+945 stars)</title><link>https://github.com/nesquena/hermes-webui</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;nesquena/hermes-webui&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!&lt;/p&gt;
+&lt;p&gt;⭐ 11,603 | +945 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/supermemoryai/supermemory#2026-06-01</guid><pubDate>Mon, 01 Jun 2026 05:52:52 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/nesquena/hermes-webui#2026-06-02</guid><pubDate>Tue, 02 Jun 2026 05:21:48 +0000</pubDate></item><item><title>#8 pbakaus/impeccable (+485 stars)</title><link>https://github.com/pbakaus/impeccable</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;pbakaus/impeccable&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The design language that makes your AI harness better at design.&lt;/p&gt;
+&lt;p&gt;⭐ 32,939 | +485 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/pbakaus/impeccable#2026-06-02</guid><pubDate>Tue, 02 Jun 2026 05:21:48 +0000</pubDate></item><item><title>#9 p-e-w/heretic (+249 stars)</title><link>https://github.com/p-e-w/heretic</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;p-e-w/heretic&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fully automatic censorship removal for language models&lt;/p&gt;
+&lt;p&gt;⭐ 23,101 | +249 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/p-e-w/heretic#2026-06-02</guid><pubDate>Tue, 02 Jun 2026 05:21:48 +0000</pubDate></item><item><title>#10 EveryInc/compound-engineering-plugin (+417 stars)</title><link>https://github.com/EveryInc/compound-engineering-plugin</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;EveryInc/compound-engineering-plugin&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more&lt;/p&gt;
+&lt;p&gt;⭐ 19,176 | +417 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/EveryInc/compound-engineering-plugin#2026-06-02</guid><pubDate>Tue, 02 Jun 2026 05:21:48 +0000</pubDate></item></channel></rss>
