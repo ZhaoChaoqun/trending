@@ -1,0 +1,95 @@
+{
+  "date": "2026-06-03",
+  "updated_at": "2026-06-03 05:54:57",
+  "count": 11,
+  "rankings": [
+    {
+      "name": "microsoft/markitdown",
+      "rank": 1,
+      "stars": "141,604",
+      "stars_today": "3,618",
+      "language": "Python",
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "name": "affaan-m/ECC",
+      "rank": 2,
+      "stars": "204,388",
+      "stars_today": "1,533",
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "name": "D4Vinci/Scrapling",
+      "rank": 3,
+      "stars": "59,403",
+      "stars_today": "1,182",
+      "language": "Python",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!"
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "rank": 4,
+      "stars": "25,289",
+      "stars_today": "783",
+      "language": "Python",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning"
+    },
+    {
+      "name": "supermemoryai/supermemory",
+      "rank": 5,
+      "stars": "24,774",
+      "stars_today": "680",
+      "language": "TypeScript",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era."
+    },
+    {
+      "name": "chopratejas/headroom",
+      "rank": 6,
+      "stars": "7,193",
+      "stars_today": "1,265",
+      "language": "Python",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server."
+    },
+    {
+      "name": "nesquena/hermes-webui",
+      "rank": 7,
+      "stars": "12,703",
+      "stars_today": "1,722",
+      "language": "Python",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!"
+    },
+    {
+      "name": "stefan-jansen/machine-learning-for-trading",
+      "rank": 8,
+      "stars": "18,620",
+      "stars_today": "574",
+      "language": "Jupyter Notebook",
+      "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition."
+    },
+    {
+      "name": "reconurge/flowsint",
+      "rank": 9,
+      "stars": "4,628",
+      "stars_today": "124",
+      "language": "TypeScript",
+      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators."
+    },
+    {
+      "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "rank": 10,
+      "stars": "8,523",
+      "stars_today": "66",
+      "language": "Python",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms"
+    },
+    {
+      "name": "jamwithai/production-agentic-rag-course",
+      "rank": 11,
+      "stars": "6,472",
+      "stars_today": "30",
+      "language": "Python",
+      "description": ""
+    }
+  ]
+}
