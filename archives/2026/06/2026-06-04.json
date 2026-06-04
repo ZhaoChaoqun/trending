@@ -1,0 +1,119 @@
+{
+  "date": "2026-06-04",
+  "updated_at": "2026-06-04 05:49:43",
+  "count": 14,
+  "rankings": [
+    {
+      "name": "affaan-m/ECC",
+      "rank": 1,
+      "stars": "206,085",
+      "stars_today": "2,141",
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "rank": 2,
+      "stars": "179,570",
+      "stars_today": "1,735",
+      "language": "Python",
+      "description": "The agent that grows with you"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "rank": 3,
+      "stars": "143,205",
+      "stars_today": "1,984",
+      "language": "Python",
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "name": "D4Vinci/Scrapling",
+      "rank": 4,
+      "stars": "60,501",
+      "stars_today": "1,067",
+      "language": "Python",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!"
+    },
+    {
+      "name": "opendataloader-project/opendataloader-pdf",
+      "rank": 5,
+      "stars": "23,447",
+      "stars_today": "570",
+      "language": "Java",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source."
+    },
+    {
+      "name": "jwasham/coding-interview-university",
+      "rank": 6,
+      "stars": "349,193",
+      "stars_today": "330",
+      "language": null,
+      "description": "A complete computer science study plan to become a software engineer."
+    },
+    {
+      "name": "supermemoryai/supermemory",
+      "rank": 7,
+      "stars": "25,298",
+      "stars_today": "600",
+      "language": "TypeScript",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era."
+    },
+    {
+      "name": "chopratejas/headroom",
+      "rank": 8,
+      "stars": "10,487",
+      "stars_today": "3,530",
+      "language": "Python",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server."
+    },
+    {
+      "name": "nesquena/hermes-webui",
+      "rank": 9,
+      "stars": "13,196",
+      "stars_today": "719",
+      "language": "Python",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!"
+    },
+    {
+      "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "rank": 10,
+      "stars": "9,105",
+      "stars_today": "693",
+      "language": "Python",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "rank": 11,
+      "stars": "19,033",
+      "stars_today": "208",
+      "language": "Jupyter Notebook",
+      "description": "AirLLM 70B inference with single 4GB GPU"
+    },
+    {
+      "name": "odoo/odoo",
+      "rank": 12,
+      "stars": "52,039",
+      "stars_today": "29",
+      "language": "Python",
+      "description": "Odoo. Open Source Apps To Grow Your Business."
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "rank": 13,
+      "stars": "10,196",
+      "stars_today": "197",
+      "language": "Python",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\""
+    },
+    {
+      "name": "aquasecurity/trivy",
+      "rank": 14,
+      "stars": "35,477",
+      "stars_today": "24",
+      "language": "Go",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
+    }
+  ]
+}
