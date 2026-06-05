@@ -1,0 +1,119 @@
+{
+  "date": "2026-06-05",
+  "updated_at": "2026-06-05 05:09:20",
+  "count": 14,
+  "rankings": [
+    {
+      "name": "NousResearch/hermes-agent",
+      "rank": 1,
+      "stars": "181,331",
+      "stars_today": "1,913",
+      "language": "Python",
+      "description": "The agent that grows with you"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "rank": 2,
+      "stars": "207,497",
+      "stars_today": "1,750",
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "name": "jwasham/coding-interview-university",
+      "rank": 3,
+      "stars": "349,852",
+      "stars_today": "632",
+      "language": null,
+      "description": "A complete computer science study plan to become a software engineer."
+    },
+    {
+      "name": "chopratejas/headroom",
+      "rank": 4,
+      "stars": "12,982",
+      "stars_today": "3,142",
+      "language": "Python",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server."
+    },
+    {
+      "name": "PaddlePaddle/PaddleOCR",
+      "rank": 5,
+      "stars": "80,046",
+      "stars_today": "141",
+      "language": "Python",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages."
+    },
+    {
+      "name": "github/spec-kit",
+      "rank": 6,
+      "stars": "108,701",
+      "stars_today": "321",
+      "language": "Python",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development"
+    },
+    {
+      "name": "lfnovo/open-notebook",
+      "rank": 7,
+      "stars": "25,239",
+      "stars_today": "212",
+      "language": "TypeScript",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features"
+    },
+    {
+      "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "rank": 8,
+      "stars": "9,727",
+      "stars_today": "581",
+      "language": "Python",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms"
+    },
+    {
+      "name": "reconurge/flowsint",
+      "rank": 9,
+      "stars": "5,374",
+      "stars_today": "308",
+      "language": "TypeScript",
+      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators."
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "rank": 10,
+      "stars": "27,746",
+      "stars_today": "199",
+      "language": "Python",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+    },
+    {
+      "name": "NVIDIA/cosmos",
+      "rank": 11,
+      "stars": "9,103",
+      "stars_today": "133",
+      "language": "Jupyter Notebook",
+      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more."
+    },
+    {
+      "name": "aquasecurity/trivy",
+      "rank": 12,
+      "stars": "35,705",
+      "stars_today": "255",
+      "language": "Go",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
+    },
+    {
+      "name": "openclaw/openclaw-windows-node",
+      "rank": 13,
+      "stars": "1,392",
+      "stars_today": "411",
+      "language": "C#",
+      "description": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension"
+    },
+    {
+      "name": "github/copilot-sdk",
+      "rank": 14,
+      "stars": "9,041",
+      "stars_today": "38",
+      "language": "Java",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services"
+    }
+  ]
+}
