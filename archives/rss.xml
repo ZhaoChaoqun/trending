@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 05 Jun 2026 05:09:20 +0000</pubDate><lastBuildDate>Fri, 05 Jun 2026 05:09:20 +0000</lastBuildDate><item><title>#1 NousResearch/hermes-agent (+1,913 stars)</title><link>https://github.com/NousResearch/hermes-agent</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sat, 06 Jun 2026 04:45:22 +0000</pubDate><lastBuildDate>Sat, 06 Jun 2026 04:45:22 +0000</lastBuildDate><item><title>#1 NousResearch/hermes-agent (+1,845 stars)</title><link>https://github.com/NousResearch/hermes-agent</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;NousResearch/hermes-agent&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The agent that grows with you&lt;/p&gt;
-&lt;p&gt;⭐ 181,331 | +1,913 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 183,452 | +1,845 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/NousResearch/hermes-agent#2026-06-05</guid><pubDate>Fri, 05 Jun 2026 05:09:20 +0000</pubDate></item><item><title>#2 affaan-m/ECC (+1,750 stars)</title><link>https://github.com/affaan-m/ECC</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;affaan-m/ECC&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.&lt;/p&gt;
-&lt;p&gt;⭐ 207,497 | +1,750 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/affaan-m/ECC#2026-06-05</guid><pubDate>Fri, 05 Jun 2026 05:09:20 +0000</pubDate></item><item><title>#3 jwasham/coding-interview-university (+632 stars)</title><link>https://github.com/jwasham/coding-interview-university</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;jwasham/coding-interview-university&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A complete computer science study plan to become a software engineer.&lt;/p&gt;
-&lt;p&gt;⭐ 349,852 | +632 today | 🔧 Unknown&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/jwasham/coding-interview-university#2026-06-05</guid><pubDate>Fri, 05 Jun 2026 05:09:20 +0000</pubDate></item><item><title>#4 chopratejas/headroom (+3,142 stars)</title><link>https://github.com/chopratejas/headroom</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;chopratejas/headroom&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.&lt;/p&gt;
-&lt;p&gt;⭐ 12,982 | +3,142 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/chopratejas/headroom#2026-06-05</guid><pubDate>Fri, 05 Jun 2026 05:09:20 +0000</pubDate></item><item><title>#5 PaddlePaddle/PaddleOCR (+141 stars)</title><link>https://github.com/PaddlePaddle/PaddleOCR</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;PaddlePaddle/PaddleOCR&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.&lt;/p&gt;
-&lt;p&gt;⭐ 80,046 | +141 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/PaddlePaddle/PaddleOCR#2026-06-05</guid><pubDate>Fri, 05 Jun 2026 05:09:20 +0000</pubDate></item><item><title>#6 github/spec-kit (+321 stars)</title><link>https://github.com/github/spec-kit</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;github/spec-kit&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;💫 Toolkit to help you get started with Spec-Driven Development&lt;/p&gt;
-&lt;p&gt;⭐ 108,701 | +321 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/github/spec-kit#2026-06-05</guid><pubDate>Fri, 05 Jun 2026 05:09:20 +0000</pubDate></item><item><title>#7 lfnovo/open-notebook (+212 stars)</title><link>https://github.com/lfnovo/open-notebook</link><description>
+</description><guid isPermaLink="false">https://github.com/NousResearch/hermes-agent#2026-06-06</guid><pubDate>Sat, 06 Jun 2026 04:45:22 +0000</pubDate></item><item><title>#2 lfnovo/open-notebook (+1,152 stars)</title><link>https://github.com/lfnovo/open-notebook</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;lfnovo/open-notebook&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;An Open Source implementation of Notebook LM with more flexibility and features&lt;/p&gt;
-&lt;p&gt;⭐ 25,239 | +212 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 26,109 | +1,152 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/lfnovo/open-notebook#2026-06-05</guid><pubDate>Fri, 05 Jun 2026 05:09:20 +0000</pubDate></item><item><title>#8 Open-LLM-VTuber/Open-LLM-VTuber (+581 stars)</title><link>https://github.com/Open-LLM-VTuber/Open-LLM-VTuber</link><description>
+</description><guid isPermaLink="false">https://github.com/lfnovo/open-notebook#2026-06-06</guid><pubDate>Sat, 06 Jun 2026 04:45:22 +0000</pubDate></item><item><title>#3 affaan-m/ECC (+1,361 stars)</title><link>https://github.com/affaan-m/ECC</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Open-LLM-VTuber/Open-LLM-VTuber&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms&lt;/p&gt;
-&lt;p&gt;⭐ 9,727 | +581 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;affaan-m/ECC&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.&lt;/p&gt;
+&lt;p&gt;⭐ 208,481 | +1,361 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Open-LLM-VTuber/Open-LLM-VTuber#2026-06-05</guid><pubDate>Fri, 05 Jun 2026 05:09:20 +0000</pubDate></item><item><title>#9 reconurge/flowsint (+308 stars)</title><link>https://github.com/reconurge/flowsint</link><description>
+</description><guid isPermaLink="false">https://github.com/affaan-m/ECC#2026-06-06</guid><pubDate>Sat, 06 Jun 2026 04:45:22 +0000</pubDate></item><item><title>#4 666ghj/MiroFish (+320 stars)</title><link>https://github.com/666ghj/MiroFish</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;reconurge/flowsint&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.&lt;/p&gt;
-&lt;p&gt;⭐ 5,374 | +308 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;666ghj/MiroFish&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物&lt;/p&gt;
+&lt;p&gt;⭐ 64,781 | +320 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/reconurge/flowsint#2026-06-05</guid><pubDate>Fri, 05 Jun 2026 05:09:20 +0000</pubDate></item><item><title>#10 mvanhorn/last30days-skill (+199 stars)</title><link>https://github.com/mvanhorn/last30days-skill</link><description>
+</description><guid isPermaLink="false">https://github.com/666ghj/MiroFish#2026-06-06</guid><pubDate>Sat, 06 Jun 2026 04:45:22 +0000</pubDate></item><item><title>#5 mvanhorn/last30days-skill (+731 stars)</title><link>https://github.com/mvanhorn/last30days-skill</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;mvanhorn/last30days-skill&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary&lt;/p&gt;
-&lt;p&gt;⭐ 27,746 | +199 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 28,280 | +731 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/mvanhorn/last30days-skill#2026-06-06</guid><pubDate>Sat, 06 Jun 2026 04:45:22 +0000</pubDate></item><item><title>#6 PaddlePaddle/PaddleOCR (+747 stars)</title><link>https://github.com/PaddlePaddle/PaddleOCR</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;PaddlePaddle/PaddleOCR&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.&lt;/p&gt;
+&lt;p&gt;⭐ 80,605 | +747 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/PaddlePaddle/PaddleOCR#2026-06-06</guid><pubDate>Sat, 06 Jun 2026 04:45:22 +0000</pubDate></item><item><title>#7 jwasham/coding-interview-university (+745 stars)</title><link>https://github.com/jwasham/coding-interview-university</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;jwasham/coding-interview-university&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A complete computer science study plan to become a software engineer.&lt;/p&gt;
+&lt;p&gt;⭐ 350,457 | +745 today | 🔧 Unknown&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/jwasham/coding-interview-university#2026-06-06</guid><pubDate>Sat, 06 Jun 2026 04:45:22 +0000</pubDate></item><item><title>#8 chopratejas/headroom (+2,473 stars)</title><link>https://github.com/chopratejas/headroom</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;chopratejas/headroom&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.&lt;/p&gt;
+&lt;p&gt;⭐ 14,678 | +2,473 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/mvanhorn/last30days-skill#2026-06-05</guid><pubDate>Fri, 05 Jun 2026 05:09:20 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/chopratejas/headroom#2026-06-06</guid><pubDate>Sat, 06 Jun 2026 04:45:22 +0000</pubDate></item><item><title>#9 CopilotKit/CopilotKit (+366 stars)</title><link>https://github.com/CopilotKit/CopilotKit</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;CopilotKit/CopilotKit&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Frontend Stack for Agents &amp; Generative UI. React + Angular. Makers of the AG-UI Protocol&lt;/p&gt;
+&lt;p&gt;⭐ 32,774 | +366 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/CopilotKit/CopilotKit#2026-06-06</guid><pubDate>Sat, 06 Jun 2026 04:45:22 +0000</pubDate></item><item><title>#10 Panniantong/Agent-Reach (+148 stars)</title><link>https://github.com/Panniantong/Agent-Reach</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Panniantong/Agent-Reach&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.&lt;/p&gt;
+&lt;p&gt;⭐ 21,686 | +148 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Panniantong/Agent-Reach#2026-06-06</guid><pubDate>Sat, 06 Jun 2026 04:45:22 +0000</pubDate></item></channel></rss>
