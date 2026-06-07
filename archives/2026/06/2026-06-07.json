@@ -1,0 +1,151 @@
+{
+  "date": "2026-06-07",
+  "updated_at": "2026-06-07 05:15:12",
+  "count": 18,
+  "rankings": [
+    {
+      "name": "CopilotKit/CopilotKit",
+      "rank": 1,
+      "stars": "33,323",
+      "stars_today": "631",
+      "language": "TypeScript",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol"
+    },
+    {
+      "name": "MemPalace/mempalace",
+      "rank": 2,
+      "stars": "54,372",
+      "stars_today": "446",
+      "language": "Python",
+      "description": "The best-benchmarked open-source AI memory system. And it's free."
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "rank": 3,
+      "stars": "22,524",
+      "stars_today": "683",
+      "language": "Python",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+    },
+    {
+      "name": "lfnovo/open-notebook",
+      "rank": 4,
+      "stars": "26,713",
+      "stars_today": "794",
+      "language": "TypeScript",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features"
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 5,
+      "stars": "219,794",
+      "stars_today": "700",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "rank": 6,
+      "stars": "29,038",
+      "stars_today": "439",
+      "language": "Python",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+    },
+    {
+      "name": "santifer/career-ops",
+      "rank": 7,
+      "stars": "49,494",
+      "stars_today": "193",
+      "language": "JavaScript",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing."
+    },
+    {
+      "name": "openai/whisper",
+      "rank": 8,
+      "stars": "101,917",
+      "stars_today": "150",
+      "language": "Python",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision"
+    },
+    {
+      "name": "PaddlePaddle/PaddleOCR",
+      "rank": 9,
+      "stars": "81,036",
+      "stars_today": "433",
+      "language": "Python",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages."
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "rank": 10,
+      "stars": "48,522",
+      "stars_today": "216",
+      "language": "Python",
+      "description": "Open-Source Frontier Voice AI"
+    },
+    {
+      "name": "danielmiessler/Personal_AI_Infrastructure",
+      "rank": 11,
+      "stars": "15,038",
+      "stars_today": "70",
+      "language": "TypeScript",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities."
+    },
+    {
+      "name": "aquasecurity/trivy",
+      "rank": 12,
+      "stars": "36,026",
+      "stars_today": "159",
+      "language": "Go",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
+    },
+    {
+      "name": "golang/go",
+      "rank": 13,
+      "stars": "134,531",
+      "stars_today": "30",
+      "language": "Go",
+      "description": "The Go programming language"
+    },
+    {
+      "name": "openai/plugins",
+      "rank": 14,
+      "stars": "1,815",
+      "stars_today": "213",
+      "language": "JavaScript",
+      "description": "OpenAI Plugins"
+    },
+    {
+      "name": "sveltejs/svelte",
+      "rank": 15,
+      "stars": "87,031",
+      "stars_today": "25",
+      "language": "JavaScript",
+      "description": "web development for the rest of us"
+    },
+    {
+      "name": "nginx/nginx",
+      "rank": 16,
+      "stars": "30,710",
+      "stars_today": "20",
+      "language": "C",
+      "description": "The official NGINX Open Source repository."
+    },
+    {
+      "name": "vitejs/vite",
+      "rank": 17,
+      "stars": "81,214",
+      "stars_today": "25",
+      "language": "TypeScript",
+      "description": "Next generation frontend tooling. It's fast!"
+    },
+    {
+      "name": "microsoft/mxc",
+      "rank": 18,
+      "stars": "619",
+      "stars_today": "64",
+      "language": "Rust",
+      "description": "Policy-driven, layered isolation and containment"
+    }
+  ]
+}
