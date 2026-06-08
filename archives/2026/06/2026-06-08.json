@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-08",
+  "updated_at": "2026-06-08 05:22:09",
+  "count": 15,
+  "rankings": [
+    {
+      "name": "mvanhorn/last30days-skill",
+      "rank": 1,
+      "stars": "31,786",
+      "stars_today": "1,111",
+      "language": "Python",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "rank": 2,
+      "stars": "37,192",
+      "stars_today": "1,103",
+      "language": "Shell",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "rank": 3,
+      "stars": "186,277",
+      "stars_today": "1,112",
+      "language": "Python",
+      "description": "The agent that grows with you"
+    },
+    {
+      "name": "lfnovo/open-notebook",
+      "rank": 4,
+      "stars": "27,472",
+      "stars_today": "554",
+      "language": "TypeScript",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features"
+    },
+    {
+      "name": "aaif-goose/goose",
+      "rank": 5,
+      "stars": "47,636",
+      "stars_today": "322",
+      "language": "Rust",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM"
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "rank": 6,
+      "stars": "29,826",
+      "stars_today": "309",
+      "language": "TypeScript",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere."
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "rank": 7,
+      "stars": "115,425",
+      "stars_today": "158",
+      "language": "C++",
+      "description": "LLM inference in C/C++"
+    },
+    {
+      "name": "RyanCodrai/turbovec",
+      "rank": 8,
+      "stars": "7,480",
+      "stars_today": "1,554",
+      "language": "Python",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings"
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "rank": 9,
+      "stars": "72,638",
+      "stars_today": "350",
+      "language": "Roff",
+      "description": "所有小初高、大学PDF教材。"
+    },
+    {
+      "name": "opencv/opencv",
+      "rank": 10,
+      "stars": "88,187",
+      "stars_today": "65",
+      "language": "C++",
+      "description": "Open Source Computer Vision Library"
+    },
+    {
+      "name": "yikart/AiToEarn",
+      "rank": 11,
+      "stars": "18,973",
+      "stars_today": "183",
+      "language": "TypeScript",
+      "description": "Let's use AI to Earn!"
+    },
+    {
+      "name": "openai/plugins",
+      "rank": 12,
+      "stars": "2,105",
+      "stars_today": "262",
+      "language": "JavaScript",
+      "description": "OpenAI Plugins"
+    },
+    {
+      "name": "refactoringhq/tolaria",
+      "rank": 13,
+      "stars": "13,024",
+      "stars_today": "245",
+      "language": "TypeScript",
+      "description": "Desktop app to manage markdown knowledge bases"
+    },
+    {
+      "name": "HunxByts/GhostTrack",
+      "rank": 14,
+      "stars": "13,810",
+      "stars_today": "28",
+      "language": "Python",
+      "description": "Useful tool to track location or mobile number"
+    },
+    {
+      "name": "microsoft/pg_durable",
+      "rank": 15,
+      "stars": "1,519",
+      "stars_today": "316",
+      "language": "Rust",
+      "description": "PostgreSQL in-database durable execution"
+    }
+  ]
+}
