@@ -1,0 +1,135 @@
+{
+  "date": "2026-06-09",
+  "updated_at": "2026-06-09 04:57:28",
+  "count": 16,
+  "rankings": [
+    {
+      "name": "mvanhorn/last30days-skill",
+      "rank": 1,
+      "stars": "35,091",
+      "stars_today": "3,558",
+      "language": "Python",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "rank": 2,
+      "stars": "24,521",
+      "stars_today": "679",
+      "language": "Python",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+    },
+    {
+      "name": "aaif-goose/goose",
+      "rank": 3,
+      "stars": "48,181",
+      "stars_today": "699",
+      "language": "Rust",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM"
+    },
+    {
+      "name": "RyanCodrai/turbovec",
+      "rank": 4,
+      "stars": "9,181",
+      "stars_today": "1,729",
+      "language": "Python",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings"
+    },
+    {
+      "name": "google/skills",
+      "rank": 5,
+      "stars": "12,572",
+      "stars_today": "461",
+      "language": "Python",
+      "description": "Agent Skills for Google products and technologies"
+    },
+    {
+      "name": "refactoringhq/tolaria",
+      "rank": 6,
+      "stars": "13,726",
+      "stars_today": "651",
+      "language": "TypeScript",
+      "description": "Desktop app to manage markdown knowledge bases"
+    },
+    {
+      "name": "santifer/career-ops",
+      "rank": 7,
+      "stars": "50,730",
+      "stars_today": "308",
+      "language": "JavaScript",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing."
+    },
+    {
+      "name": "MemPalace/mempalace",
+      "rank": 8,
+      "stars": "55,029",
+      "stars_today": "170",
+      "language": "Python",
+      "description": "The best-benchmarked open-source AI memory system. And it's free."
+    },
+    {
+      "name": "roboflow/supervision",
+      "rank": 9,
+      "stars": "42,462",
+      "stars_today": "1,288",
+      "language": "Python",
+      "description": "We write your reusable computer vision tools. 💜"
+    },
+    {
+      "name": "CopilotKit/CopilotKit",
+      "rank": 10,
+      "stars": "34,237",
+      "stars_today": "378",
+      "language": "TypeScript",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol"
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "rank": 11,
+      "stars": "73,111",
+      "stars_today": "592",
+      "language": "Roff",
+      "description": "所有小初高、大学PDF教材。"
+    },
+    {
+      "name": "luongnv89/claude-howto",
+      "rank": 12,
+      "stars": "35,930",
+      "stars_today": "312",
+      "language": "Python",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value."
+    },
+    {
+      "name": "danielmiessler/Personal_AI_Infrastructure",
+      "rank": 13,
+      "stars": "15,516",
+      "stars_today": "62",
+      "language": "TypeScript",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities."
+    },
+    {
+      "name": "phuryn/pm-skills",
+      "rank": 14,
+      "stars": "12,868",
+      "stars_today": "164",
+      "language": null,
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth."
+    },
+    {
+      "name": "openai/plugins",
+      "rank": 15,
+      "stars": "2,374",
+      "stars_today": "296",
+      "language": "JavaScript",
+      "description": "OpenAI Plugins"
+    },
+    {
+      "name": "Andyyyy64/whichllm",
+      "rank": 16,
+      "stars": "3,591",
+      "stars_today": "143",
+      "language": "Python",
+      "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly."
+    }
+  ]
+}
