@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Tue, 09 Jun 2026 04:57:28 +0000</pubDate><lastBuildDate>Tue, 09 Jun 2026 04:57:28 +0000</lastBuildDate><item><title>#1 mvanhorn/last30days-skill (+3,558 stars)</title><link>https://github.com/mvanhorn/last30days-skill</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Wed, 10 Jun 2026 05:09:22 +0000</pubDate><lastBuildDate>Wed, 10 Jun 2026 05:09:22 +0000</lastBuildDate><item><title>#1 mvanhorn/last30days-skill (+3,191 stars)</title><link>https://github.com/mvanhorn/last30days-skill</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;mvanhorn/last30days-skill&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary&lt;/p&gt;
-&lt;p&gt;⭐ 35,091 | +3,558 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 37,831 | +3,191 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/mvanhorn/last30days-skill#2026-06-09</guid><pubDate>Tue, 09 Jun 2026 04:57:28 +0000</pubDate></item><item><title>#2 Panniantong/Agent-Reach (+679 stars)</title><link>https://github.com/Panniantong/Agent-Reach</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Panniantong/Agent-Reach&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.&lt;/p&gt;
-&lt;p&gt;⭐ 24,521 | +679 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/Panniantong/Agent-Reach#2026-06-09</guid><pubDate>Tue, 09 Jun 2026 04:57:28 +0000</pubDate></item><item><title>#3 aaif-goose/goose (+699 stars)</title><link>https://github.com/aaif-goose/goose</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;aaif-goose/goose&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM&lt;/p&gt;
-&lt;p&gt;⭐ 48,181 | +699 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/aaif-goose/goose#2026-06-09</guid><pubDate>Tue, 09 Jun 2026 04:57:28 +0000</pubDate></item><item><title>#4 RyanCodrai/turbovec (+1,729 stars)</title><link>https://github.com/RyanCodrai/turbovec</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;RyanCodrai/turbovec&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A vector index built on TurboQuant, written in Rust with Python bindings&lt;/p&gt;
-&lt;p&gt;⭐ 9,181 | +1,729 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/RyanCodrai/turbovec#2026-06-09</guid><pubDate>Tue, 09 Jun 2026 04:57:28 +0000</pubDate></item><item><title>#5 google/skills (+461 stars)</title><link>https://github.com/google/skills</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;google/skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Agent Skills for Google products and technologies&lt;/p&gt;
-&lt;p&gt;⭐ 12,572 | +461 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/google/skills#2026-06-09</guid><pubDate>Tue, 09 Jun 2026 04:57:28 +0000</pubDate></item><item><title>#6 refactoringhq/tolaria (+651 stars)</title><link>https://github.com/refactoringhq/tolaria</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;refactoringhq/tolaria&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Desktop app to manage markdown knowledge bases&lt;/p&gt;
-&lt;p&gt;⭐ 13,726 | +651 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/refactoringhq/tolaria#2026-06-09</guid><pubDate>Tue, 09 Jun 2026 04:57:28 +0000</pubDate></item><item><title>#7 santifer/career-ops (+308 stars)</title><link>https://github.com/santifer/career-ops</link><description>
+</description><guid isPermaLink="false">https://github.com/mvanhorn/last30days-skill#2026-06-10</guid><pubDate>Wed, 10 Jun 2026 05:09:22 +0000</pubDate></item><item><title>#2 santifer/career-ops (+1,110 stars)</title><link>https://github.com/santifer/career-ops</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;santifer/career-ops&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.&lt;/p&gt;
-&lt;p&gt;⭐ 50,730 | +308 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 51,906 | +1,110 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/santifer/career-ops#2026-06-09</guid><pubDate>Tue, 09 Jun 2026 04:57:28 +0000</pubDate></item><item><title>#8 MemPalace/mempalace (+170 stars)</title><link>https://github.com/MemPalace/mempalace</link><description>
+</description><guid isPermaLink="false">https://github.com/santifer/career-ops#2026-06-10</guid><pubDate>Wed, 10 Jun 2026 05:09:22 +0000</pubDate></item><item><title>#3 RyanCodrai/turbovec (+1,801 stars)</title><link>https://github.com/RyanCodrai/turbovec</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;MemPalace/mempalace&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The best-benchmarked open-source AI memory system. And it's free.&lt;/p&gt;
-&lt;p&gt;⭐ 55,029 | +170 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;RyanCodrai/turbovec&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A vector index built on TurboQuant, written in Rust with Python bindings&lt;/p&gt;
+&lt;p&gt;⭐ 10,373 | +1,801 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/MemPalace/mempalace#2026-06-09</guid><pubDate>Tue, 09 Jun 2026 04:57:28 +0000</pubDate></item><item><title>#9 roboflow/supervision (+1,288 stars)</title><link>https://github.com/roboflow/supervision</link><description>
+</description><guid isPermaLink="false">https://github.com/RyanCodrai/turbovec#2026-06-10</guid><pubDate>Wed, 10 Jun 2026 05:09:22 +0000</pubDate></item><item><title>#4 roboflow/supervision (+733 stars)</title><link>https://github.com/roboflow/supervision</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;roboflow/supervision&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;We write your reusable computer vision tools. 💜&lt;/p&gt;
-&lt;p&gt;⭐ 42,462 | +1,288 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 43,142 | +733 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/roboflow/supervision#2026-06-09</guid><pubDate>Tue, 09 Jun 2026 04:57:28 +0000</pubDate></item><item><title>#10 CopilotKit/CopilotKit (+378 stars)</title><link>https://github.com/CopilotKit/CopilotKit</link><description>
+</description><guid isPermaLink="false">https://github.com/roboflow/supervision#2026-06-10</guid><pubDate>Wed, 10 Jun 2026 05:09:22 +0000</pubDate></item><item><title>#5 opencv/opencv (+102 stars)</title><link>https://github.com/opencv/opencv</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;CopilotKit/CopilotKit&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol&lt;/p&gt;
-&lt;p&gt;⭐ 34,237 | +378 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;opencv/opencv&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open Source Computer Vision Library&lt;/p&gt;
+&lt;p&gt;⭐ 88,725 | +102 today | 🔧 C++&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/CopilotKit/CopilotKit#2026-06-09</guid><pubDate>Tue, 09 Jun 2026 04:57:28 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/opencv/opencv#2026-06-10</guid><pubDate>Wed, 10 Jun 2026 05:09:22 +0000</pubDate></item><item><title>#6 refactoringhq/tolaria (+829 stars)</title><link>https://github.com/refactoringhq/tolaria</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;refactoringhq/tolaria&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Desktop app to manage markdown knowledge bases&lt;/p&gt;
+&lt;p&gt;⭐ 14,455 | +829 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/refactoringhq/tolaria#2026-06-10</guid><pubDate>Wed, 10 Jun 2026 05:09:22 +0000</pubDate></item><item><title>#7 aaif-goose/goose (+489 stars)</title><link>https://github.com/aaif-goose/goose</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;aaif-goose/goose&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM&lt;/p&gt;
+&lt;p&gt;⭐ 48,568 | +489 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/aaif-goose/goose#2026-06-10</guid><pubDate>Wed, 10 Jun 2026 05:09:22 +0000</pubDate></item><item><title>#8 Andyyyy64/whichllm (+633 stars)</title><link>https://github.com/Andyyyy64/whichllm</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Andyyyy64/whichllm&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.&lt;/p&gt;
+&lt;p&gt;⭐ 4,197 | +633 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Andyyyy64/whichllm#2026-06-10</guid><pubDate>Wed, 10 Jun 2026 05:09:22 +0000</pubDate></item><item><title>#9 TapXWorld/ChinaTextbook (+519 stars)</title><link>https://github.com/TapXWorld/ChinaTextbook</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;TapXWorld/ChinaTextbook&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;所有小初高、大学PDF教材。&lt;/p&gt;
+&lt;p&gt;⭐ 73,608 | +519 today | 🔧 Roff&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/TapXWorld/ChinaTextbook#2026-06-10</guid><pubDate>Wed, 10 Jun 2026 05:09:22 +0000</pubDate></item><item><title>#10 x1xhlol/system-prompts-and-models-of-ai-tools (+79 stars)</title><link>https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;x1xhlol/system-prompts-and-models-of-ai-tools&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models&lt;/p&gt;
+&lt;p&gt;⭐ 139,255 | +79 today | 🔧 Unknown&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools#2026-06-10</guid><pubDate>Wed, 10 Jun 2026 05:09:22 +0000</pubDate></item></channel></rss>

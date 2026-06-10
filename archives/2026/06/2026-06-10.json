@@ -1,0 +1,135 @@
+{
+  "date": "2026-06-10",
+  "updated_at": "2026-06-10 05:09:22",
+  "count": 16,
+  "rankings": [
+    {
+      "name": "mvanhorn/last30days-skill",
+      "rank": 1,
+      "stars": "37,831",
+      "stars_today": "3,191",
+      "language": "Python",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+    },
+    {
+      "name": "santifer/career-ops",
+      "rank": 2,
+      "stars": "51,906",
+      "stars_today": "1,110",
+      "language": "JavaScript",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing."
+    },
+    {
+      "name": "RyanCodrai/turbovec",
+      "rank": 3,
+      "stars": "10,373",
+      "stars_today": "1,801",
+      "language": "Python",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings"
+    },
+    {
+      "name": "roboflow/supervision",
+      "rank": 4,
+      "stars": "43,142",
+      "stars_today": "733",
+      "language": "Python",
+      "description": "We write your reusable computer vision tools. 💜"
+    },
+    {
+      "name": "opencv/opencv",
+      "rank": 5,
+      "stars": "88,725",
+      "stars_today": "102",
+      "language": "C++",
+      "description": "Open Source Computer Vision Library"
+    },
+    {
+      "name": "refactoringhq/tolaria",
+      "rank": 6,
+      "stars": "14,455",
+      "stars_today": "829",
+      "language": "TypeScript",
+      "description": "Desktop app to manage markdown knowledge bases"
+    },
+    {
+      "name": "aaif-goose/goose",
+      "rank": 7,
+      "stars": "48,568",
+      "stars_today": "489",
+      "language": "Rust",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM"
+    },
+    {
+      "name": "Andyyyy64/whichllm",
+      "rank": 8,
+      "stars": "4,197",
+      "stars_today": "633",
+      "language": "Python",
+      "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly."
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "rank": 9,
+      "stars": "73,608",
+      "stars_today": "519",
+      "language": "Roff",
+      "description": "所有小初高、大学PDF教材。"
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "rank": 10,
+      "stars": "139,255",
+      "stars_today": "79",
+      "language": null,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+    },
+    {
+      "name": "yikart/AiToEarn",
+      "rank": 11,
+      "stars": "20,110",
+      "stars_today": "402",
+      "language": "TypeScript",
+      "description": "Let's use AI to Earn!"
+    },
+    {
+      "name": "phuryn/pm-skills",
+      "rank": 12,
+      "stars": "13,583",
+      "stars_today": "806",
+      "language": null,
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth."
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "rank": 13,
+      "stars": "49,959",
+      "stars_today": "443",
+      "language": "Shell",
+      "description": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "name": "openai/plugins",
+      "rank": 14,
+      "stars": "2,653",
+      "stars_today": "284",
+      "language": "JavaScript",
+      "description": "OpenAI Plugins"
+    },
+    {
+      "name": "francescopace/espectre",
+      "rank": 15,
+      "stars": "8,282",
+      "stars_today": "134",
+      "language": "Python",
+      "description": "🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration."
+    },
+    {
+      "name": "maziyarpanahi/openmed",
+      "rank": 16,
+      "stars": "1,969",
+      "stars_today": "191",
+      "language": "Python",
+      "description": "open-source healthcare ai"
+    }
+  ]
+}
