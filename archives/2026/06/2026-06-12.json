@@ -1,0 +1,159 @@
+{
+  "date": "2026-06-12",
+  "updated_at": "2026-06-12 05:25:12",
+  "count": 19,
+  "rankings": [
+    {
+      "name": "apple/container",
+      "rank": 1,
+      "stars": "33,217",
+      "stars_today": "2,430",
+      "language": "Swift",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon."
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "rank": 2,
+      "stars": "55,258",
+      "stars_today": "3,278",
+      "language": "Shell",
+      "description": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "name": "soxoj/maigret",
+      "rank": 3,
+      "stars": "32,731",
+      "stars_today": "661",
+      "language": "Python",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites"
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "rank": 4,
+      "stars": "139,952",
+      "stars_today": "368",
+      "language": null,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 5,
+      "stars": "225,106",
+      "stars_today": "1,322",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "rank": 6,
+      "stars": "111,769",
+      "stars_today": "1,599",
+      "language": "Shell",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "name": "phuryn/pm-skills",
+      "rank": 7,
+      "stars": "16,413",
+      "stars_today": "1,978",
+      "language": null,
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth."
+    },
+    {
+      "name": "refactoringhq/tolaria",
+      "rank": 8,
+      "stars": "15,484",
+      "stars_today": "604",
+      "language": "TypeScript",
+      "description": "Desktop app to manage markdown knowledge bases"
+    },
+    {
+      "name": "masterking32/MasterDnsVPN",
+      "rank": 9,
+      "stars": "5,768",
+      "stars_today": "507",
+      "language": "Go",
+      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed."
+    },
+    {
+      "name": "maziyarpanahi/openmed",
+      "rank": 10,
+      "stars": "2,871",
+      "stars_today": "426",
+      "language": "Python",
+      "description": "open-source healthcare ai"
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "rank": 11,
+      "stars": "2,846",
+      "stars_today": "319",
+      "language": "Python",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks."
+    },
+    {
+      "name": "restic/restic",
+      "rank": 12,
+      "stars": "34,232",
+      "stars_today": "61",
+      "language": "Go",
+      "description": "Fast, secure, efficient backup program"
+    },
+    {
+      "name": "chatwoot/chatwoot",
+      "rank": 13,
+      "stars": "30,441",
+      "stars_today": "67",
+      "language": "Ruby",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬"
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "rank": 14,
+      "stars": "73,993",
+      "stars_today": "88",
+      "language": "Roff",
+      "description": "所有小初高、大学PDF教材。"
+    },
+    {
+      "name": "mattermost/mattermost",
+      "rank": 15,
+      "stars": "37,397",
+      "stars_today": "53",
+      "language": "TypeScript",
+      "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.."
+    },
+    {
+      "name": "bannedbook/fanqiang",
+      "rank": 16,
+      "stars": "46,989",
+      "stars_today": "161",
+      "language": "Kotlin",
+      "description": "翻墙-科学上网"
+    },
+    {
+      "name": "kenn-io/agentsview",
+      "rank": 17,
+      "stars": "1,791",
+      "stars_today": "114",
+      "language": "Go",
+      "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!"
+    },
+    {
+      "name": "alchaincyf/zhangxuefeng-skill",
+      "rank": 18,
+      "stars": "8,038",
+      "stars_today": "89",
+      "language": null,
+      "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。"
+    },
+    {
+      "name": "hexo-ai/sia",
+      "rank": 19,
+      "stars": "1,410",
+      "stars_today": "199",
+      "language": "Python",
+      "description": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task."
+    }
+  ]
+}

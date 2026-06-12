@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Thu, 11 Jun 2026 05:20:08 +0000</pubDate><lastBuildDate>Thu, 11 Jun 2026 05:20:08 +0000</lastBuildDate><item><title>#1 addyosmani/agent-skills (+821 stars)</title><link>https://github.com/addyosmani/agent-skills</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;addyosmani/agent-skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Production-grade engineering skills for AI coding agents.&lt;/p&gt;
-&lt;p&gt;⭐ 52,423 | +821 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/addyosmani/agent-skills#2026-06-11</guid><pubDate>Thu, 11 Jun 2026 05:20:08 +0000</pubDate></item><item><title>#2 mvanhorn/last30days-skill (+2,535 stars)</title><link>https://github.com/mvanhorn/last30days-skill</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;mvanhorn/last30days-skill&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary&lt;/p&gt;
-&lt;p&gt;⭐ 39,259 | +2,535 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/mvanhorn/last30days-skill#2026-06-11</guid><pubDate>Thu, 11 Jun 2026 05:20:08 +0000</pubDate></item><item><title>#3 x1xhlol/system-prompts-and-models-of-ai-tools (+393 stars)</title><link>https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;x1xhlol/system-prompts-and-models-of-ai-tools&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models&lt;/p&gt;
-&lt;p&gt;⭐ 139,604 | +393 today | 🔧 Unknown&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools#2026-06-11</guid><pubDate>Thu, 11 Jun 2026 05:20:08 +0000</pubDate></item><item><title>#4 obra/superpowers (+1,104 stars)</title><link>https://github.com/obra/superpowers</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 223,839 | +1,104 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-06-11</guid><pubDate>Thu, 11 Jun 2026 05:20:08 +0000</pubDate></item><item><title>#5 harry0703/MoneyPrinterTurbo (+1,389 stars)</title><link>https://github.com/harry0703/MoneyPrinterTurbo</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;harry0703/MoneyPrinterTurbo&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.&lt;/p&gt;
-&lt;p&gt;⭐ 85,303 | +1,389 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/harry0703/MoneyPrinterTurbo#2026-06-11</guid><pubDate>Thu, 11 Jun 2026 05:20:08 +0000</pubDate></item><item><title>#6 apple/container (+1,611 stars)</title><link>https://github.com/apple/container</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 12 Jun 2026 05:25:12 +0000</pubDate><lastBuildDate>Fri, 12 Jun 2026 05:25:12 +0000</lastBuildDate><item><title>#1 apple/container (+2,430 stars)</title><link>https://github.com/apple/container</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;apple/container&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.&lt;/p&gt;
-&lt;p&gt;⭐ 30,180 | +1,611 today | 🔧 Swift&lt;/p&gt;
+&lt;p&gt;⭐ 33,217 | +2,430 today | 🔧 Swift&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/apple/container#2026-06-11</guid><pubDate>Thu, 11 Jun 2026 05:20:08 +0000</pubDate></item><item><title>#7 phuryn/pm-skills (+804 stars)</title><link>https://github.com/phuryn/pm-skills</link><description>
+</description><guid isPermaLink="false">https://github.com/apple/container#2026-06-12</guid><pubDate>Fri, 12 Jun 2026 05:25:12 +0000</pubDate></item><item><title>#2 addyosmani/agent-skills (+3,278 stars)</title><link>https://github.com/addyosmani/agent-skills</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;phuryn/pm-skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.&lt;/p&gt;
-&lt;p&gt;⭐ 15,297 | +804 today | 🔧 Unknown&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;addyosmani/agent-skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Production-grade engineering skills for AI coding agents.&lt;/p&gt;
+&lt;p&gt;⭐ 55,258 | +3,278 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/phuryn/pm-skills#2026-06-11</guid><pubDate>Thu, 11 Jun 2026 05:20:08 +0000</pubDate></item><item><title>#8 refactoringhq/tolaria (+612 stars)</title><link>https://github.com/refactoringhq/tolaria</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;refactoringhq/tolaria&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Desktop app to manage markdown knowledge bases&lt;/p&gt;
-&lt;p&gt;⭐ 15,049 | +612 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/refactoringhq/tolaria#2026-06-11</guid><pubDate>Thu, 11 Jun 2026 05:20:08 +0000</pubDate></item><item><title>#9 soxoj/maigret (+318 stars)</title><link>https://github.com/soxoj/maigret</link><description>
+</description><guid isPermaLink="false">https://github.com/addyosmani/agent-skills#2026-06-12</guid><pubDate>Fri, 12 Jun 2026 05:25:12 +0000</pubDate></item><item><title>#3 soxoj/maigret (+661 stars)</title><link>https://github.com/soxoj/maigret</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;soxoj/maigret&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites&lt;/p&gt;
-&lt;p&gt;⭐ 32,146 | +318 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 32,731 | +661 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/soxoj/maigret#2026-06-12</guid><pubDate>Fri, 12 Jun 2026 05:25:12 +0000</pubDate></item><item><title>#4 x1xhlol/system-prompts-and-models-of-ai-tools (+368 stars)</title><link>https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;x1xhlol/system-prompts-and-models-of-ai-tools&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models&lt;/p&gt;
+&lt;p&gt;⭐ 139,952 | +368 today | 🔧 Unknown&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools#2026-06-12</guid><pubDate>Fri, 12 Jun 2026 05:25:12 +0000</pubDate></item><item><title>#5 obra/superpowers (+1,322 stars)</title><link>https://github.com/obra/superpowers</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
+&lt;p&gt;⭐ 225,106 | +1,322 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-06-12</guid><pubDate>Fri, 12 Jun 2026 05:25:12 +0000</pubDate></item><item><title>#6 msitarzewski/agency-agents (+1,599 stars)</title><link>https://github.com/msitarzewski/agency-agents</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;msitarzewski/agency-agents&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.&lt;/p&gt;
+&lt;p&gt;⭐ 111,769 | +1,599 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/msitarzewski/agency-agents#2026-06-12</guid><pubDate>Fri, 12 Jun 2026 05:25:12 +0000</pubDate></item><item><title>#7 phuryn/pm-skills (+1,978 stars)</title><link>https://github.com/phuryn/pm-skills</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;phuryn/pm-skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.&lt;/p&gt;
+&lt;p&gt;⭐ 16,413 | +1,978 today | 🔧 Unknown&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/soxoj/maigret#2026-06-11</guid><pubDate>Thu, 11 Jun 2026 05:20:08 +0000</pubDate></item><item><title>#10 masterking32/MasterDnsVPN (+354 stars)</title><link>https://github.com/masterking32/MasterDnsVPN</link><description>
+</description><guid isPermaLink="false">https://github.com/phuryn/pm-skills#2026-06-12</guid><pubDate>Fri, 12 Jun 2026 05:25:12 +0000</pubDate></item><item><title>#8 refactoringhq/tolaria (+604 stars)</title><link>https://github.com/refactoringhq/tolaria</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;refactoringhq/tolaria&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Desktop app to manage markdown knowledge bases&lt;/p&gt;
+&lt;p&gt;⭐ 15,484 | +604 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/refactoringhq/tolaria#2026-06-12</guid><pubDate>Fri, 12 Jun 2026 05:25:12 +0000</pubDate></item><item><title>#9 masterking32/MasterDnsVPN (+507 stars)</title><link>https://github.com/masterking32/MasterDnsVPN</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;masterking32/MasterDnsVPN&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.&lt;/p&gt;
-&lt;p&gt;⭐ 5,319 | +354 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;⭐ 5,768 | +507 today | 🔧 Go&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/masterking32/MasterDnsVPN#2026-06-11</guid><pubDate>Thu, 11 Jun 2026 05:20:08 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/masterking32/MasterDnsVPN#2026-06-12</guid><pubDate>Fri, 12 Jun 2026 05:25:12 +0000</pubDate></item><item><title>#10 maziyarpanahi/openmed (+426 stars)</title><link>https://github.com/maziyarpanahi/openmed</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;maziyarpanahi/openmed&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;open-source healthcare ai&lt;/p&gt;
+&lt;p&gt;⭐ 2,871 | +426 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/maziyarpanahi/openmed#2026-06-12</guid><pubDate>Fri, 12 Jun 2026 05:25:12 +0000</pubDate></item></channel></rss>
