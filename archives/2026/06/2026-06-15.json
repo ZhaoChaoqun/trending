@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-15",
+  "updated_at": "2026-06-15 06:13:20",
+  "count": 15,
+  "rankings": [
+    {
+      "name": "iptv-org/iptv",
+      "rank": 1,
+      "stars": "121,577",
+      "stars_today": "1,528",
+      "language": "TypeScript",
+      "description": "Collection of publicly available IPTV channels from all over the world"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "rank": 2,
+      "stars": "447,398",
+      "stars_today": "146",
+      "language": "TypeScript",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+    },
+    {
+      "name": "chatwoot/chatwoot",
+      "rank": 3,
+      "stars": "31,345",
+      "stars_today": "400",
+      "language": "Ruby",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬"
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "rank": 4,
+      "stars": "5,594",
+      "stars_today": "964",
+      "language": "Python",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks."
+    },
+    {
+      "name": "GorvGoyl/Clone-Wars",
+      "rank": 5,
+      "stars": "35,639",
+      "stars_today": "269",
+      "language": null,
+      "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars."
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "rank": 6,
+      "stars": "30,009",
+      "stars_today": "244",
+      "language": "Python",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets"
+    },
+    {
+      "name": "andrewyng/aisuite",
+      "rank": 7,
+      "stars": "14,461",
+      "stars_today": "291",
+      "language": "Python",
+      "description": "Simple, unified interface to multiple Generative AI providers"
+    },
+    {
+      "name": "swc-project/swc",
+      "rank": 8,
+      "stars": "33,820",
+      "stars_today": "163",
+      "language": "Rust",
+      "description": "Rust-based platform for the Web"
+    },
+    {
+      "name": "cypress-io/cypress",
+      "rank": 9,
+      "stars": "50,023",
+      "stars_today": "39",
+      "language": "TypeScript",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser."
+    },
+    {
+      "name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "rank": 10,
+      "stars": "2,843",
+      "stars_today": "293",
+      "language": "TeX",
+      "description": "Introduction to Autonomous Robots"
+    },
+    {
+      "name": "Free-TV/IPTV",
+      "rank": 11,
+      "stars": "17,025",
+      "stars_today": "70",
+      "language": "Python",
+      "description": "M3U Playlist for free TV channels"
+    },
+    {
+      "name": "pytest-dev/pytest",
+      "rank": 12,
+      "stars": "14,087",
+      "stars_today": "14",
+      "language": "Python",
+      "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing"
+    },
+    {
+      "name": "meshery/meshery",
+      "rank": 13,
+      "stars": "10,459",
+      "stars_today": "20",
+      "language": "TypeScript",
+      "description": "Meshery, the cloud native manager"
+    },
+    {
+      "name": "music-assistant/server",
+      "rank": 14,
+      "stars": "2,245",
+      "stars_today": "197",
+      "language": "Python",
+      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike."
+    },
+    {
+      "name": "puppeteer/puppeteer",
+      "rank": 15,
+      "stars": "94,691",
+      "stars_today": "29",
+      "language": "TypeScript",
+      "description": "JavaScript API for Chrome and Firefox"
+    }
+  ]
+}
