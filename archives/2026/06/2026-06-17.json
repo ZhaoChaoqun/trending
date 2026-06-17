@@ -1,0 +1,111 @@
+{
+  "date": "2026-06-17",
+  "updated_at": "2026-06-17 05:59:22",
+  "count": 13,
+  "rankings": [
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "rank": 1,
+      "stars": "448,725",
+      "stars_today": "633",
+      "language": "TypeScript",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+    },
+    {
+      "name": "iptv-org/iptv",
+      "rank": 2,
+      "stars": "124,395",
+      "stars_today": "1,197",
+      "language": "TypeScript",
+      "description": "Collection of publicly available IPTV channels from all over the world"
+    },
+    {
+      "name": "meshery/meshery",
+      "rank": 3,
+      "stars": "10,892",
+      "stars_today": "228",
+      "language": "TypeScript",
+      "description": "Meshery, the cloud native manager"
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "rank": 4,
+      "stars": "30,240",
+      "stars_today": "408",
+      "language": "Python",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning"
+    },
+    {
+      "name": "n0-computer/iroh",
+      "rank": 5,
+      "stars": "9,363",
+      "stars_today": "334",
+      "language": "Rust",
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust."
+    },
+    {
+      "name": "teslamate-org/teslamate",
+      "rank": 6,
+      "stars": "8,440",
+      "stars_today": "215",
+      "language": "Elixir",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]"
+    },
+    {
+      "name": "puppeteer/puppeteer",
+      "rank": 7,
+      "stars": "94,946",
+      "stars_today": "56",
+      "language": "TypeScript",
+      "description": "JavaScript API for Chrome and Firefox"
+    },
+    {
+      "name": "cypress-io/cypress",
+      "rank": 8,
+      "stars": "50,258",
+      "stars_today": "13",
+      "language": "TypeScript",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser."
+    },
+    {
+      "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "rank": 9,
+      "stars": "7,413",
+      "stars_today": "146",
+      "language": "Rust",
+      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device."
+    },
+    {
+      "name": "alibaba/zvec",
+      "rank": 10,
+      "stars": "10,597",
+      "stars_today": "156",
+      "language": "C++",
+      "description": "A lightweight, lightning-fast, in-process vector database"
+    },
+    {
+      "name": "rmyndharis/OpenWA",
+      "rank": 11,
+      "stars": "9,167",
+      "stars_today": "185",
+      "language": "TypeScript",
+      "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway"
+    },
+    {
+      "name": "swc-project/swc",
+      "rank": 12,
+      "stars": "34,001",
+      "stars_today": "20",
+      "language": "Rust",
+      "description": "Rust-based platform for the Web"
+    },
+    {
+      "name": "music-assistant/server",
+      "rank": 13,
+      "stars": "2,607",
+      "stars_today": "157",
+      "language": "Python",
+      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike."
+    }
+  ]
+}

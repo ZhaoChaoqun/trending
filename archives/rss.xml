@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Tue, 16 Jun 2026 06:23:22 +0000</pubDate><lastBuildDate>Tue, 16 Jun 2026 06:23:22 +0000</lastBuildDate><item><title>#1 iptv-org/iptv (+2,657 stars)</title><link>https://github.com/iptv-org/iptv</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;iptv-org/iptv&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Collection of publicly available IPTV channels from all over the world&lt;/p&gt;
-&lt;p&gt;⭐ 123,204 | +2,657 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/iptv-org/iptv#2026-06-16</guid><pubDate>Tue, 16 Jun 2026 06:23:22 +0000</pubDate></item><item><title>#2 Panniantong/Agent-Reach (+1,100 stars)</title><link>https://github.com/Panniantong/Agent-Reach</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Panniantong/Agent-Reach&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.&lt;/p&gt;
-&lt;p&gt;⭐ 30,804 | +1,100 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/Panniantong/Agent-Reach#2026-06-16</guid><pubDate>Tue, 16 Jun 2026 06:23:22 +0000</pubDate></item><item><title>#3 freeCodeCamp/freeCodeCamp (+736 stars)</title><link>https://github.com/freeCodeCamp/freeCodeCamp</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Wed, 17 Jun 2026 05:59:22 +0000</pubDate><lastBuildDate>Wed, 17 Jun 2026 05:59:22 +0000</lastBuildDate><item><title>#1 freeCodeCamp/freeCodeCamp (+633 stars)</title><link>https://github.com/freeCodeCamp/freeCodeCamp</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;freeCodeCamp/freeCodeCamp&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.&lt;/p&gt;
-&lt;p&gt;⭐ 448,046 | +736 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 448,725 | +633 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/freeCodeCamp/freeCodeCamp#2026-06-16</guid><pubDate>Tue, 16 Jun 2026 06:23:22 +0000</pubDate></item><item><title>#4 jwasham/coding-interview-university (+364 stars)</title><link>https://github.com/jwasham/coding-interview-university</link><description>
+</description><guid isPermaLink="false">https://github.com/freeCodeCamp/freeCodeCamp#2026-06-17</guid><pubDate>Wed, 17 Jun 2026 05:59:22 +0000</pubDate></item><item><title>#2 iptv-org/iptv (+1,197 stars)</title><link>https://github.com/iptv-org/iptv</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;jwasham/coding-interview-university&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A complete computer science study plan to become a software engineer.&lt;/p&gt;
-&lt;p&gt;⭐ 352,448 | +364 today | 🔧 Unknown&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;iptv-org/iptv&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Collection of publicly available IPTV channels from all over the world&lt;/p&gt;
+&lt;p&gt;⭐ 124,395 | +1,197 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/jwasham/coding-interview-university#2026-06-16</guid><pubDate>Tue, 16 Jun 2026 06:23:22 +0000</pubDate></item><item><title>#5 meshery/meshery (+228 stars)</title><link>https://github.com/meshery/meshery</link><description>
+</description><guid isPermaLink="false">https://github.com/iptv-org/iptv#2026-06-17</guid><pubDate>Wed, 17 Jun 2026 05:59:22 +0000</pubDate></item><item><title>#3 meshery/meshery (+228 stars)</title><link>https://github.com/meshery/meshery</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;meshery/meshery&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Meshery, the cloud native manager&lt;/p&gt;
-&lt;p&gt;⭐ 10,690 | +228 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 10,892 | +228 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/meshery/meshery#2026-06-16</guid><pubDate>Tue, 16 Jun 2026 06:23:22 +0000</pubDate></item><item><title>#6 chatwoot/chatwoot (+431 stars)</title><link>https://github.com/chatwoot/chatwoot</link><description>
+</description><guid isPermaLink="false">https://github.com/meshery/meshery#2026-06-17</guid><pubDate>Wed, 17 Jun 2026 05:59:22 +0000</pubDate></item><item><title>#4 OpenBMB/VoxCPM (+408 stars)</title><link>https://github.com/OpenBMB/VoxCPM</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;chatwoot/chatwoot&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬&lt;/p&gt;
-&lt;p&gt;⭐ 31,796 | +431 today | 🔧 Ruby&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OpenBMB/VoxCPM&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning&lt;/p&gt;
+&lt;p&gt;⭐ 30,240 | +408 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/chatwoot/chatwoot#2026-06-16</guid><pubDate>Tue, 16 Jun 2026 06:23:22 +0000</pubDate></item><item><title>#7 krahets/hello-algo (+71 stars)</title><link>https://github.com/krahets/hello-algo</link><description>
+</description><guid isPermaLink="false">https://github.com/OpenBMB/VoxCPM#2026-06-17</guid><pubDate>Wed, 17 Jun 2026 05:59:22 +0000</pubDate></item><item><title>#5 n0-computer/iroh (+334 stars)</title><link>https://github.com/n0-computer/iroh</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;krahets/hello-algo&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现&lt;/p&gt;
-&lt;p&gt;⭐ 127,111 | +71 today | 🔧 Java&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;n0-computer/iroh&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;IP addresses break, dial keys instead. Modular networking stack in Rust.&lt;/p&gt;
+&lt;p&gt;⭐ 9,363 | +334 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/krahets/hello-algo#2026-06-16</guid><pubDate>Tue, 16 Jun 2026 06:23:22 +0000</pubDate></item><item><title>#8 rohitg00/ai-engineering-from-scratch (+562 stars)</title><link>https://github.com/rohitg00/ai-engineering-from-scratch</link><description>
+</description><guid isPermaLink="false">https://github.com/n0-computer/iroh#2026-06-17</guid><pubDate>Wed, 17 Jun 2026 05:59:22 +0000</pubDate></item><item><title>#6 teslamate-org/teslamate (+215 stars)</title><link>https://github.com/teslamate-org/teslamate</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;rohitg00/ai-engineering-from-scratch&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Learn it. Build it. Ship it for others.&lt;/p&gt;
-&lt;p&gt;⭐ 33,303 | +562 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;teslamate-org/teslamate&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]&lt;/p&gt;
+&lt;p&gt;⭐ 8,440 | +215 today | 🔧 Elixir&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/rohitg00/ai-engineering-from-scratch#2026-06-16</guid><pubDate>Tue, 16 Jun 2026 06:23:22 +0000</pubDate></item><item><title>#9 Free-TV/IPTV (+361 stars)</title><link>https://github.com/Free-TV/IPTV</link><description>
+</description><guid isPermaLink="false">https://github.com/teslamate-org/teslamate#2026-06-17</guid><pubDate>Wed, 17 Jun 2026 05:59:22 +0000</pubDate></item><item><title>#7 puppeteer/puppeteer (+56 stars)</title><link>https://github.com/puppeteer/puppeteer</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Free-TV/IPTV&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;M3U Playlist for free TV channels&lt;/p&gt;
-&lt;p&gt;⭐ 17,356 | +361 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;puppeteer/puppeteer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;JavaScript API for Chrome and Firefox&lt;/p&gt;
+&lt;p&gt;⭐ 94,946 | +56 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Free-TV/IPTV#2026-06-16</guid><pubDate>Tue, 16 Jun 2026 06:23:22 +0000</pubDate></item><item><title>#10 Raphire/Win11Debloat (+112 stars)</title><link>https://github.com/Raphire/Win11Debloat</link><description>
+</description><guid isPermaLink="false">https://github.com/puppeteer/puppeteer#2026-06-17</guid><pubDate>Wed, 17 Jun 2026 05:59:22 +0000</pubDate></item><item><title>#8 cypress-io/cypress (+13 stars)</title><link>https://github.com/cypress-io/cypress</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Raphire/Win11Debloat&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.&lt;/p&gt;
-&lt;p&gt;⭐ 48,135 | +112 today | 🔧 PowerShell&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;cypress-io/cypress&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fast, easy and reliable testing for anything that runs in a browser.&lt;/p&gt;
+&lt;p&gt;⭐ 50,258 | +13 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Raphire/Win11Debloat#2026-06-16</guid><pubDate>Tue, 16 Jun 2026 06:23:22 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/cypress-io/cypress#2026-06-17</guid><pubDate>Wed, 17 Jun 2026 05:59:22 +0000</pubDate></item><item><title>#9 Universal-Debloater-Alliance/universal-android-debloater-next-generation (+146 stars)</title><link>https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Universal-Debloater-Alliance/universal-android-debloater-next-generation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.&lt;/p&gt;
+&lt;p&gt;⭐ 7,413 | +146 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation#2026-06-17</guid><pubDate>Wed, 17 Jun 2026 05:59:22 +0000</pubDate></item><item><title>#10 alibaba/zvec (+156 stars)</title><link>https://github.com/alibaba/zvec</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;alibaba/zvec&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A lightweight, lightning-fast, in-process vector database&lt;/p&gt;
+&lt;p&gt;⭐ 10,597 | +156 today | 🔧 C++&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/alibaba/zvec#2026-06-17</guid><pubDate>Wed, 17 Jun 2026 05:59:22 +0000</pubDate></item></channel></rss>
