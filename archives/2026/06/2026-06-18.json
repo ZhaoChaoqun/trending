@@ -1,0 +1,167 @@
+{
+  "date": "2026-06-18",
+  "updated_at": "2026-06-18 05:27:05",
+  "count": 20,
+  "rankings": [
+    {
+      "name": "Panniantong/Agent-Reach",
+      "rank": 1,
+      "stars": "33,499",
+      "stars_today": "1,161",
+      "language": "Python",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 2,
+      "stars": "231,359",
+      "stars_today": "1,129",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "google-research/timesfm",
+      "rank": 3,
+      "stars": "22,037",
+      "stars_today": "606",
+      "language": "Python",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
+    },
+    {
+      "name": "mattpocock/skills",
+      "rank": 4,
+      "stars": "133,994",
+      "stars_today": "1,523",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "rank": 5,
+      "stars": "449,213",
+      "stars_today": "757",
+      "language": "TypeScript",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+    },
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "rank": 6,
+      "stars": "5,763",
+      "stars_today": "371",
+      "language": "C",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies."
+    },
+    {
+      "name": "n0-computer/iroh",
+      "rank": 7,
+      "stars": "9,727",
+      "stars_today": "421",
+      "language": "Rust",
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust."
+    },
+    {
+      "name": "penpot/penpot",
+      "rank": 8,
+      "stars": "50,173",
+      "stars_today": "70",
+      "language": "Clojure",
+      "description": "Penpot: The open-source design tool for design and code collaboration"
+    },
+    {
+      "name": "krahets/hello-algo",
+      "rank": 9,
+      "stars": "127,544",
+      "stars_today": "96",
+      "language": "Java",
+      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现"
+    },
+    {
+      "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "rank": 10,
+      "stars": "7,694",
+      "stars_today": "457",
+      "language": "Rust",
+      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device."
+    },
+    {
+      "name": "bytedance/UI-TARS-desktop",
+      "rank": 11,
+      "stars": "36,741",
+      "stars_today": "150",
+      "language": "TypeScript",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra"
+    },
+    {
+      "name": "chatwoot/chatwoot",
+      "rank": 12,
+      "stars": "32,434",
+      "stars_today": "264",
+      "language": "Ruby",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬"
+    },
+    {
+      "name": "makeplane/plane",
+      "rank": 13,
+      "stars": "51,413",
+      "stars_today": "89",
+      "language": "TypeScript",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage."
+    },
+    {
+      "name": "meshery/meshery",
+      "rank": 14,
+      "stars": "11,059",
+      "stars_today": "196",
+      "language": "TypeScript",
+      "description": "Meshery, the cloud native manager"
+    },
+    {
+      "name": "RocketChat/Rocket.Chat",
+      "rank": 15,
+      "stars": "45,621",
+      "stars_today": "22",
+      "language": "TypeScript",
+      "description": "The Secure CommsOS™ for mission-critical operations"
+    },
+    {
+      "name": "continuedev/continue",
+      "rank": 16,
+      "stars": "33,967",
+      "stars_today": "49",
+      "language": "TypeScript",
+      "description": "open-source coding agent"
+    },
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "rank": 17,
+      "stars": "23,863",
+      "stars_today": "98",
+      "language": "Rust",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "rank": 18,
+      "stars": "5,515",
+      "stars_today": "98",
+      "language": "Python",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio."
+    },
+    {
+      "name": "yairm210/Unciv",
+      "rank": 19,
+      "stars": "10,706",
+      "stars_today": "24",
+      "language": "Kotlin",
+      "description": "Open-source Android/Desktop remake of Civ V"
+    },
+    {
+      "name": "alexzhang13/rlm",
+      "rank": 20,
+      "stars": "4,967",
+      "stars_today": "43",
+      "language": "Python",
+      "description": "General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes."
+    }
+  ]
+}
