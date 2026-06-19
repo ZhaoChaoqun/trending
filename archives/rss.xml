@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Thu, 18 Jun 2026 05:27:05 +0000</pubDate><lastBuildDate>Thu, 18 Jun 2026 05:27:05 +0000</lastBuildDate><item><title>#1 Panniantong/Agent-Reach (+1,161 stars)</title><link>https://github.com/Panniantong/Agent-Reach</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Panniantong/Agent-Reach&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.&lt;/p&gt;
-&lt;p&gt;⭐ 33,499 | +1,161 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/Panniantong/Agent-Reach#2026-06-18</guid><pubDate>Thu, 18 Jun 2026 05:27:05 +0000</pubDate></item><item><title>#2 obra/superpowers (+1,129 stars)</title><link>https://github.com/obra/superpowers</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 231,359 | +1,129 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-06-18</guid><pubDate>Thu, 18 Jun 2026 05:27:05 +0000</pubDate></item><item><title>#3 google-research/timesfm (+606 stars)</title><link>https://github.com/google-research/timesfm</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 19 Jun 2026 06:07:28 +0000</pubDate><lastBuildDate>Fri, 19 Jun 2026 06:07:28 +0000</lastBuildDate><item><title>#1 google-research/timesfm (+844 stars)</title><link>https://github.com/google-research/timesfm</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;google-research/timesfm&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.&lt;/p&gt;
-&lt;p&gt;⭐ 22,037 | +606 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 23,441 | +844 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/google-research/timesfm#2026-06-18</guid><pubDate>Thu, 18 Jun 2026 05:27:05 +0000</pubDate></item><item><title>#4 mattpocock/skills (+1,523 stars)</title><link>https://github.com/mattpocock/skills</link><description>
+</description><guid isPermaLink="false">https://github.com/google-research/timesfm#2026-06-19</guid><pubDate>Fri, 19 Jun 2026 06:07:28 +0000</pubDate></item><item><title>#2 obra/superpowers (+1,429 stars)</title><link>https://github.com/obra/superpowers</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;mattpocock/skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Skills for Real Engineers. Straight from my .claude directory.&lt;/p&gt;
-&lt;p&gt;⭐ 133,994 | +1,523 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
+&lt;p&gt;⭐ 232,599 | +1,429 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-06-18</guid><pubDate>Thu, 18 Jun 2026 05:27:05 +0000</pubDate></item><item><title>#5 freeCodeCamp/freeCodeCamp (+757 stars)</title><link>https://github.com/freeCodeCamp/freeCodeCamp</link><description>
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-06-19</guid><pubDate>Fri, 19 Jun 2026 06:07:28 +0000</pubDate></item><item><title>#3 Kilo-Org/kilocode (+1,345 stars)</title><link>https://github.com/Kilo-Org/kilocode</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;freeCodeCamp/freeCodeCamp&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.&lt;/p&gt;
-&lt;p&gt;⭐ 449,213 | +757 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kilo-Org/kilocode&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.&lt;/p&gt;
+&lt;p&gt;⭐ 22,334 | +1,345 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/freeCodeCamp/freeCodeCamp#2026-06-18</guid><pubDate>Thu, 18 Jun 2026 05:27:05 +0000</pubDate></item><item><title>#6 DeusData/codebase-memory-mcp (+371 stars)</title><link>https://github.com/DeusData/codebase-memory-mcp</link><description>
+</description><guid isPermaLink="false">https://github.com/Kilo-Org/kilocode#2026-06-19</guid><pubDate>Fri, 19 Jun 2026 06:07:28 +0000</pubDate></item><item><title>#4 makeplane/plane (+613 stars)</title><link>https://github.com/makeplane/plane</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;DeusData/codebase-memory-mcp&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.&lt;/p&gt;
-&lt;p&gt;⭐ 5,763 | +371 today | 🔧 C&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;makeplane/plane&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.&lt;/p&gt;
+&lt;p&gt;⭐ 51,908 | +613 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/DeusData/codebase-memory-mcp#2026-06-18</guid><pubDate>Thu, 18 Jun 2026 05:27:05 +0000</pubDate></item><item><title>#7 n0-computer/iroh (+421 stars)</title><link>https://github.com/n0-computer/iroh</link><description>
+</description><guid isPermaLink="false">https://github.com/makeplane/plane#2026-06-19</guid><pubDate>Fri, 19 Jun 2026 06:07:28 +0000</pubDate></item><item><title>#5 n0-computer/iroh (+369 stars)</title><link>https://github.com/n0-computer/iroh</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;n0-computer/iroh&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;IP addresses break, dial keys instead. Modular networking stack in Rust.&lt;/p&gt;
-&lt;p&gt;⭐ 9,727 | +421 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;⭐ 10,062 | +369 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/n0-computer/iroh#2026-06-18</guid><pubDate>Thu, 18 Jun 2026 05:27:05 +0000</pubDate></item><item><title>#8 penpot/penpot (+70 stars)</title><link>https://github.com/penpot/penpot</link><description>
+</description><guid isPermaLink="false">https://github.com/n0-computer/iroh#2026-06-19</guid><pubDate>Fri, 19 Jun 2026 06:07:28 +0000</pubDate></item><item><title>#6 freeCodeCamp/freeCodeCamp (+417 stars)</title><link>https://github.com/freeCodeCamp/freeCodeCamp</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;penpot/penpot&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Penpot: The open-source design tool for design and code collaboration&lt;/p&gt;
-&lt;p&gt;⭐ 50,173 | +70 today | 🔧 Clojure&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;freeCodeCamp/freeCodeCamp&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.&lt;/p&gt;
+&lt;p&gt;⭐ 449,625 | +417 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/penpot/penpot#2026-06-18</guid><pubDate>Thu, 18 Jun 2026 05:27:05 +0000</pubDate></item><item><title>#9 krahets/hello-algo (+96 stars)</title><link>https://github.com/krahets/hello-algo</link><description>
+</description><guid isPermaLink="false">https://github.com/freeCodeCamp/freeCodeCamp#2026-06-19</guid><pubDate>Fri, 19 Jun 2026 06:07:28 +0000</pubDate></item><item><title>#7 DeusData/codebase-memory-mcp (+2,322 stars)</title><link>https://github.com/DeusData/codebase-memory-mcp</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;krahets/hello-algo&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现&lt;/p&gt;
-&lt;p&gt;⭐ 127,544 | +96 today | 🔧 Java&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DeusData/codebase-memory-mcp&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.&lt;/p&gt;
+&lt;p&gt;⭐ 7,265 | +2,322 today | 🔧 C&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/krahets/hello-algo#2026-06-18</guid><pubDate>Thu, 18 Jun 2026 05:27:05 +0000</pubDate></item><item><title>#10 Universal-Debloater-Alliance/universal-android-debloater-next-generation (+457 stars)</title><link>https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation</link><description>
+</description><guid isPermaLink="false">https://github.com/DeusData/codebase-memory-mcp#2026-06-19</guid><pubDate>Fri, 19 Jun 2026 06:07:28 +0000</pubDate></item><item><title>#8 alibaba/zvec (+259 stars)</title><link>https://github.com/alibaba/zvec</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;alibaba/zvec&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A lightweight, lightning-fast, in-process vector database&lt;/p&gt;
+&lt;p&gt;⭐ 11,318 | +259 today | 🔧 C++&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/alibaba/zvec#2026-06-19</guid><pubDate>Fri, 19 Jun 2026 06:07:28 +0000</pubDate></item><item><title>#9 withastro/flue (+162 stars)</title><link>https://github.com/withastro/flue</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;withastro/flue&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The sandbox agent framework.&lt;/p&gt;
+&lt;p&gt;⭐ 5,564 | +162 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/withastro/flue#2026-06-19</guid><pubDate>Fri, 19 Jun 2026 06:07:28 +0000</pubDate></item><item><title>#10 Universal-Debloater-Alliance/universal-android-debloater-next-generation (+244 stars)</title><link>https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;Universal-Debloater-Alliance/universal-android-debloater-next-generation&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.&lt;/p&gt;
-&lt;p&gt;⭐ 7,694 | +457 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 7,964 | +244 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation#2026-06-18</guid><pubDate>Thu, 18 Jun 2026 05:27:05 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation#2026-06-19</guid><pubDate>Fri, 19 Jun 2026 06:07:28 +0000</pubDate></item></channel></rss>

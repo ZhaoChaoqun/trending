@@ -1,0 +1,135 @@
+{
+  "date": "2026-06-19",
+  "updated_at": "2026-06-19 06:07:28",
+  "count": 16,
+  "rankings": [
+    {
+      "name": "google-research/timesfm",
+      "rank": 1,
+      "stars": "23,441",
+      "stars_today": "844",
+      "language": "Python",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 2,
+      "stars": "232,599",
+      "stars_today": "1,429",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "Kilo-Org/kilocode",
+      "rank": 3,
+      "stars": "22,334",
+      "stars_today": "1,345",
+      "language": "TypeScript",
+      "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent."
+    },
+    {
+      "name": "makeplane/plane",
+      "rank": 4,
+      "stars": "51,908",
+      "stars_today": "613",
+      "language": "TypeScript",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage."
+    },
+    {
+      "name": "n0-computer/iroh",
+      "rank": 5,
+      "stars": "10,062",
+      "stars_today": "369",
+      "language": "Rust",
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust."
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "rank": 6,
+      "stars": "449,625",
+      "stars_today": "417",
+      "language": "TypeScript",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+    },
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "rank": 7,
+      "stars": "7,265",
+      "stars_today": "2,322",
+      "language": "C",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies."
+    },
+    {
+      "name": "alibaba/zvec",
+      "rank": 8,
+      "stars": "11,318",
+      "stars_today": "259",
+      "language": "C++",
+      "description": "A lightweight, lightning-fast, in-process vector database"
+    },
+    {
+      "name": "withastro/flue",
+      "rank": 9,
+      "stars": "5,564",
+      "stars_today": "162",
+      "language": "TypeScript",
+      "description": "The sandbox agent framework."
+    },
+    {
+      "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "rank": 10,
+      "stars": "7,964",
+      "stars_today": "244",
+      "language": "Rust",
+      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device."
+    },
+    {
+      "name": "owainlewis/awesome-artificial-intelligence",
+      "rank": 11,
+      "stars": "14,471",
+      "stars_today": "40",
+      "language": null,
+      "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers."
+    },
+    {
+      "name": "LibreTranslate/LibreTranslate",
+      "rank": 12,
+      "stars": "15,029",
+      "stars_today": "51",
+      "language": "Python",
+      "description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup."
+    },
+    {
+      "name": "zai-org/GLM-5",
+      "rank": 13,
+      "stars": "4,235",
+      "stars_today": "202",
+      "language": null,
+      "description": "GLM-5: From Vibe Coding to Agentic Engineering"
+    },
+    {
+      "name": "Kong/insomnia",
+      "rank": 14,
+      "stars": "38,742",
+      "stars_today": "18",
+      "language": "TypeScript",
+      "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage."
+    },
+    {
+      "name": "dotnet/aspnetcore",
+      "rank": 15,
+      "stars": "38,108",
+      "stars_today": "14",
+      "language": "C#",
+      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux."
+    },
+    {
+      "name": "Lightricks/LTX-2",
+      "rank": 16,
+      "stars": "7,527",
+      "stars_today": "51",
+      "language": "Python",
+      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model."
+    }
+  ]
+}
