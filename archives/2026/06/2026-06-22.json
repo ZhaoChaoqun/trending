@@ -1,0 +1,135 @@
+{
+  "date": "2026-06-22",
+  "updated_at": "2026-06-22 06:20:21",
+  "count": 16,
+  "rankings": [
+    {
+      "name": "chopratejas/headroom",
+      "rank": 1,
+      "stars": "45,176",
+      "stars_today": "2,624",
+      "language": "Python",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server."
+    },
+    {
+      "name": "tursodatabase/turso",
+      "rank": 2,
+      "stars": "20,943",
+      "stars_today": "548",
+      "language": "Rust",
+      "description": "Turso is an in-process SQL database, compatible with SQLite."
+    },
+    {
+      "name": "penpot/penpot",
+      "rank": 3,
+      "stars": "52,439",
+      "stars_today": "1,135",
+      "language": "Clojure",
+      "description": "Penpot: The open-source design tool for design and code collaboration"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "rank": 4,
+      "stars": "44,934",
+      "stars_today": "568",
+      "language": "Python",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
+    },
+    {
+      "name": "bytedance/deer-flow",
+      "rank": 5,
+      "stars": "72,779",
+      "stars_today": "442",
+      "language": "Python",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours."
+    },
+    {
+      "name": "mattpocock/skills",
+      "rank": 6,
+      "stars": "140,267",
+      "stars_today": "1,443",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "name": "palmier-io/palmier-pro",
+      "rank": 7,
+      "stars": "5,819",
+      "stars_today": "1,834",
+      "language": "Swift",
+      "description": "macOS video editor built for AI"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "rank": 8,
+      "stars": "9,516",
+      "stars_today": "987",
+      "language": "Python",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio."
+    },
+    {
+      "name": "koala73/worldmonitor",
+      "rank": 9,
+      "stars": "58,282",
+      "stars_today": "163",
+      "language": "TypeScript",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface"
+    },
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "rank": 10,
+      "stars": "10,663",
+      "stars_today": "1,032",
+      "language": "C",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies."
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "rank": 11,
+      "stars": "17,916",
+      "stars_today": "361",
+      "language": "Python",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0"
+    },
+    {
+      "name": "smicallef/spiderfoot",
+      "rank": 12,
+      "stars": "18,866",
+      "stars_today": "294",
+      "language": "Python",
+      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface."
+    },
+    {
+      "name": "topoteretes/cognee",
+      "rank": 13,
+      "stars": "18,780",
+      "stars_today": "347",
+      "language": "Python",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine."
+    },
+    {
+      "name": "byoungd/English-level-up-tips",
+      "rank": 14,
+      "stars": "54,140",
+      "stars_today": "125",
+      "language": null,
+      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语"
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "rank": 15,
+      "stars": "44,649",
+      "stars_today": "282",
+      "language": "JavaScript",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly."
+    },
+    {
+      "name": "mikumifa/biliTickerBuy",
+      "rank": 16,
+      "stars": "3,756",
+      "stars_today": "67",
+      "language": "Python",
+      "description": "b站会员购购票辅助工具"
+    }
+  ]
+}

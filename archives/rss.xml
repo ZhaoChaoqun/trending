@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sun, 21 Jun 2026 05:51:49 +0000</pubDate><lastBuildDate>Sun, 21 Jun 2026 05:51:49 +0000</lastBuildDate><item><title>#1 penpot/penpot (+420 stars)</title><link>https://github.com/penpot/penpot</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;penpot/penpot&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Penpot: The open-source design tool for design and code collaboration&lt;/p&gt;
-&lt;p&gt;⭐ 51,627 | +420 today | 🔧 Clojure&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/penpot/penpot#2026-06-21</guid><pubDate>Sun, 21 Jun 2026 05:51:49 +0000</pubDate></item><item><title>#2 tursodatabase/turso (+801 stars)</title><link>https://github.com/tursodatabase/turso</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;tursodatabase/turso&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Turso is an in-process SQL database, compatible with SQLite.&lt;/p&gt;
-&lt;p&gt;⭐ 20,417 | +801 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/tursodatabase/turso#2026-06-21</guid><pubDate>Sun, 21 Jun 2026 05:51:49 +0000</pubDate></item><item><title>#3 chopratejas/headroom (+3,795 stars)</title><link>https://github.com/chopratejas/headroom</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Mon, 22 Jun 2026 06:20:21 +0000</pubDate><lastBuildDate>Mon, 22 Jun 2026 06:20:21 +0000</lastBuildDate><item><title>#1 chopratejas/headroom (+2,624 stars)</title><link>https://github.com/chopratejas/headroom</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;chopratejas/headroom&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.&lt;/p&gt;
-&lt;p&gt;⭐ 42,255 | +3,795 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 45,176 | +2,624 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/chopratejas/headroom#2026-06-21</guid><pubDate>Sun, 21 Jun 2026 05:51:49 +0000</pubDate></item><item><title>#4 Kilo-Org/kilocode (+513 stars)</title><link>https://github.com/Kilo-Org/kilocode</link><description>
+</description><guid isPermaLink="false">https://github.com/chopratejas/headroom#2026-06-22</guid><pubDate>Mon, 22 Jun 2026 06:20:21 +0000</pubDate></item><item><title>#2 tursodatabase/turso (+548 stars)</title><link>https://github.com/tursodatabase/turso</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Kilo-Org/kilocode&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.&lt;/p&gt;
-&lt;p&gt;⭐ 23,430 | +513 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;tursodatabase/turso&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Turso is an in-process SQL database, compatible with SQLite.&lt;/p&gt;
+&lt;p&gt;⭐ 20,943 | +548 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Kilo-Org/kilocode#2026-06-21</guid><pubDate>Sun, 21 Jun 2026 05:51:49 +0000</pubDate></item><item><title>#5 mattpocock/skills (+1,395 stars)</title><link>https://github.com/mattpocock/skills</link><description>
+</description><guid isPermaLink="false">https://github.com/tursodatabase/turso#2026-06-22</guid><pubDate>Mon, 22 Jun 2026 06:20:21 +0000</pubDate></item><item><title>#3 penpot/penpot (+1,135 stars)</title><link>https://github.com/penpot/penpot</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;penpot/penpot&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Penpot: The open-source design tool for design and code collaboration&lt;/p&gt;
+&lt;p&gt;⭐ 52,439 | +1,135 today | 🔧 Clojure&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/penpot/penpot#2026-06-22</guid><pubDate>Mon, 22 Jun 2026 06:20:21 +0000</pubDate></item><item><title>#4 ZhuLinsen/daily_stock_analysis (+568 stars)</title><link>https://github.com/ZhuLinsen/daily_stock_analysis</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;ZhuLinsen/daily_stock_analysis&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.&lt;/p&gt;
+&lt;p&gt;⭐ 44,934 | +568 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/ZhuLinsen/daily_stock_analysis#2026-06-22</guid><pubDate>Mon, 22 Jun 2026 06:20:21 +0000</pubDate></item><item><title>#5 bytedance/deer-flow (+442 stars)</title><link>https://github.com/bytedance/deer-flow</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;bytedance/deer-flow&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.&lt;/p&gt;
+&lt;p&gt;⭐ 72,779 | +442 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/bytedance/deer-flow#2026-06-22</guid><pubDate>Mon, 22 Jun 2026 06:20:21 +0000</pubDate></item><item><title>#6 mattpocock/skills (+1,443 stars)</title><link>https://github.com/mattpocock/skills</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;mattpocock/skills&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Skills for Real Engineers. Straight from my .claude directory.&lt;/p&gt;
-&lt;p&gt;⭐ 138,474 | +1,395 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 140,267 | +1,443 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-06-21</guid><pubDate>Sun, 21 Jun 2026 05:51:49 +0000</pubDate></item><item><title>#6 calesthio/OpenMontage (+677 stars)</title><link>https://github.com/calesthio/OpenMontage</link><description>
+</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-06-22</guid><pubDate>Mon, 22 Jun 2026 06:20:21 +0000</pubDate></item><item><title>#7 palmier-io/palmier-pro (+1,834 stars)</title><link>https://github.com/palmier-io/palmier-pro</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;palmier-io/palmier-pro&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;macOS video editor built for AI&lt;/p&gt;
+&lt;p&gt;⭐ 5,819 | +1,834 today | 🔧 Swift&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/palmier-io/palmier-pro#2026-06-22</guid><pubDate>Mon, 22 Jun 2026 06:20:21 +0000</pubDate></item><item><title>#8 calesthio/OpenMontage (+987 stars)</title><link>https://github.com/calesthio/OpenMontage</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;calesthio/OpenMontage&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.&lt;/p&gt;
-&lt;p&gt;⭐ 7,229 | +677 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 9,516 | +987 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/calesthio/OpenMontage#2026-06-21</guid><pubDate>Sun, 21 Jun 2026 05:51:49 +0000</pubDate></item><item><title>#7 DeusData/codebase-memory-mcp (+1,271 stars)</title><link>https://github.com/DeusData/codebase-memory-mcp</link><description>
+</description><guid isPermaLink="false">https://github.com/calesthio/OpenMontage#2026-06-22</guid><pubDate>Mon, 22 Jun 2026 06:20:21 +0000</pubDate></item><item><title>#9 koala73/worldmonitor (+163 stars)</title><link>https://github.com/koala73/worldmonitor</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;koala73/worldmonitor&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface&lt;/p&gt;
+&lt;p&gt;⭐ 58,282 | +163 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/koala73/worldmonitor#2026-06-22</guid><pubDate>Mon, 22 Jun 2026 06:20:21 +0000</pubDate></item><item><title>#10 DeusData/codebase-memory-mcp (+1,032 stars)</title><link>https://github.com/DeusData/codebase-memory-mcp</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;DeusData/codebase-memory-mcp&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.&lt;/p&gt;
-&lt;p&gt;⭐ 9,540 | +1,271 today | 🔧 C&lt;/p&gt;
+&lt;p&gt;⭐ 10,663 | +1,032 today | 🔧 C&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/DeusData/codebase-memory-mcp#2026-06-21</guid><pubDate>Sun, 21 Jun 2026 05:51:49 +0000</pubDate></item><item><title>#8 google-research/timesfm (+433 stars)</title><link>https://github.com/google-research/timesfm</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;google-research/timesfm&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.&lt;/p&gt;
-&lt;p&gt;⭐ 24,620 | +433 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/google-research/timesfm#2026-06-21</guid><pubDate>Sun, 21 Jun 2026 05:51:49 +0000</pubDate></item><item><title>#9 twentyhq/twenty (+140 stars)</title><link>https://github.com/twentyhq/twenty</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;twentyhq/twenty&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The open alternative to Salesforce, designed for AI.&lt;/p&gt;
-&lt;p&gt;⭐ 50,916 | +140 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/twentyhq/twenty#2026-06-21</guid><pubDate>Sun, 21 Jun 2026 05:51:49 +0000</pubDate></item><item><title>#10 Kong/insomnia (+329 stars)</title><link>https://github.com/Kong/insomnia</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Kong/insomnia&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.&lt;/p&gt;
-&lt;p&gt;⭐ 39,390 | +329 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/Kong/insomnia#2026-06-21</guid><pubDate>Sun, 21 Jun 2026 05:51:49 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/DeusData/codebase-memory-mcp#2026-06-22</guid><pubDate>Mon, 22 Jun 2026 06:20:21 +0000</pubDate></item></channel></rss>
