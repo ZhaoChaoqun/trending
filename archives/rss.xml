@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Mon, 22 Jun 2026 06:20:21 +0000</pubDate><lastBuildDate>Mon, 22 Jun 2026 06:20:21 +0000</lastBuildDate><item><title>#1 chopratejas/headroom (+2,624 stars)</title><link>https://github.com/chopratejas/headroom</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Tue, 23 Jun 2026 04:53:31 +0000</pubDate><lastBuildDate>Tue, 23 Jun 2026 04:53:31 +0000</lastBuildDate><item><title>#1 jamiepine/voicebox (+529 stars)</title><link>https://github.com/jamiepine/voicebox</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;chopratejas/headroom&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.&lt;/p&gt;
-&lt;p&gt;⭐ 45,176 | +2,624 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;jamiepine/voicebox&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The open-source AI voice studio. Clone, dictate, create.&lt;/p&gt;
+&lt;p&gt;⭐ 32,459 | +529 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/chopratejas/headroom#2026-06-22</guid><pubDate>Mon, 22 Jun 2026 06:20:21 +0000</pubDate></item><item><title>#2 tursodatabase/turso (+548 stars)</title><link>https://github.com/tursodatabase/turso</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;tursodatabase/turso&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Turso is an in-process SQL database, compatible with SQLite.&lt;/p&gt;
-&lt;p&gt;⭐ 20,943 | +548 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/tursodatabase/turso#2026-06-22</guid><pubDate>Mon, 22 Jun 2026 06:20:21 +0000</pubDate></item><item><title>#3 penpot/penpot (+1,135 stars)</title><link>https://github.com/penpot/penpot</link><description>
+</description><guid isPermaLink="false">https://github.com/jamiepine/voicebox#2026-06-23</guid><pubDate>Tue, 23 Jun 2026 04:53:31 +0000</pubDate></item><item><title>#2 penpot/penpot (+728 stars)</title><link>https://github.com/penpot/penpot</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;penpot/penpot&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Penpot: The open-source design tool for design and code collaboration&lt;/p&gt;
-&lt;p&gt;⭐ 52,439 | +1,135 today | 🔧 Clojure&lt;/p&gt;
+&lt;p&gt;⭐ 52,968 | +728 today | 🔧 Clojure&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/penpot/penpot#2026-06-22</guid><pubDate>Mon, 22 Jun 2026 06:20:21 +0000</pubDate></item><item><title>#4 ZhuLinsen/daily_stock_analysis (+568 stars)</title><link>https://github.com/ZhuLinsen/daily_stock_analysis</link><description>
+</description><guid isPermaLink="false">https://github.com/penpot/penpot#2026-06-23</guid><pubDate>Tue, 23 Jun 2026 04:53:31 +0000</pubDate></item><item><title>#3 Stirling-Tools/Stirling-PDF (+547 stars)</title><link>https://github.com/Stirling-Tools/Stirling-PDF</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ZhuLinsen/daily_stock_analysis&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.&lt;/p&gt;
-&lt;p&gt;⭐ 44,934 | +568 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Stirling-Tools/Stirling-PDF&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere&lt;/p&gt;
+&lt;p&gt;⭐ 83,162 | +547 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/ZhuLinsen/daily_stock_analysis#2026-06-22</guid><pubDate>Mon, 22 Jun 2026 06:20:21 +0000</pubDate></item><item><title>#5 bytedance/deer-flow (+442 stars)</title><link>https://github.com/bytedance/deer-flow</link><description>
+</description><guid isPermaLink="false">https://github.com/Stirling-Tools/Stirling-PDF#2026-06-23</guid><pubDate>Tue, 23 Jun 2026 04:53:31 +0000</pubDate></item><item><title>#4 garrytan/gstack (+573 stars)</title><link>https://github.com/garrytan/gstack</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;garrytan/gstack&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA&lt;/p&gt;
+&lt;p&gt;⭐ 113,330 | +573 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/garrytan/gstack#2026-06-23</guid><pubDate>Tue, 23 Jun 2026 04:53:31 +0000</pubDate></item><item><title>#5 tursodatabase/turso (+540 stars)</title><link>https://github.com/tursodatabase/turso</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;tursodatabase/turso&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Turso is an in-process SQL database, compatible with SQLite.&lt;/p&gt;
+&lt;p&gt;⭐ 21,580 | +540 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/tursodatabase/turso#2026-06-23</guid><pubDate>Tue, 23 Jun 2026 04:53:31 +0000</pubDate></item><item><title>#6 bytedance/deer-flow (+738 stars)</title><link>https://github.com/bytedance/deer-flow</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;bytedance/deer-flow&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.&lt;/p&gt;
-&lt;p&gt;⭐ 72,779 | +442 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 73,404 | +738 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/bytedance/deer-flow#2026-06-22</guid><pubDate>Mon, 22 Jun 2026 06:20:21 +0000</pubDate></item><item><title>#6 mattpocock/skills (+1,443 stars)</title><link>https://github.com/mattpocock/skills</link><description>
+</description><guid isPermaLink="false">https://github.com/bytedance/deer-flow#2026-06-23</guid><pubDate>Tue, 23 Jun 2026 04:53:31 +0000</pubDate></item><item><title>#7 ZhuLinsen/daily_stock_analysis (+1,557 stars)</title><link>https://github.com/ZhuLinsen/daily_stock_analysis</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;ZhuLinsen/daily_stock_analysis&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.&lt;/p&gt;
+&lt;p&gt;⭐ 46,080 | +1,557 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/ZhuLinsen/daily_stock_analysis#2026-06-23</guid><pubDate>Tue, 23 Jun 2026 04:53:31 +0000</pubDate></item><item><title>#8 firecrawl/firecrawl (+615 stars)</title><link>https://github.com/firecrawl/firecrawl</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;firecrawl/firecrawl&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The API to search, scrape, and interact with the web at scale. 🔥&lt;/p&gt;
+&lt;p&gt;⭐ 137,525 | +615 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/firecrawl/firecrawl#2026-06-23</guid><pubDate>Tue, 23 Jun 2026 04:53:31 +0000</pubDate></item><item><title>#9 mattpocock/skills (+2,051 stars)</title><link>https://github.com/mattpocock/skills</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;mattpocock/skills&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Skills for Real Engineers. Straight from my .claude directory.&lt;/p&gt;
-&lt;p&gt;⭐ 140,267 | +1,443 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 142,062 | +2,051 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-06-22</guid><pubDate>Mon, 22 Jun 2026 06:20:21 +0000</pubDate></item><item><title>#7 palmier-io/palmier-pro (+1,834 stars)</title><link>https://github.com/palmier-io/palmier-pro</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;palmier-io/palmier-pro&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;macOS video editor built for AI&lt;/p&gt;
-&lt;p&gt;⭐ 5,819 | +1,834 today | 🔧 Swift&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/palmier-io/palmier-pro#2026-06-22</guid><pubDate>Mon, 22 Jun 2026 06:20:21 +0000</pubDate></item><item><title>#8 calesthio/OpenMontage (+987 stars)</title><link>https://github.com/calesthio/OpenMontage</link><description>
+</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-06-23</guid><pubDate>Tue, 23 Jun 2026 04:53:31 +0000</pubDate></item><item><title>#10 calesthio/OpenMontage (+2,938 stars)</title><link>https://github.com/calesthio/OpenMontage</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;calesthio/OpenMontage&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.&lt;/p&gt;
-&lt;p&gt;⭐ 9,516 | +987 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 12,752 | +2,938 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/calesthio/OpenMontage#2026-06-22</guid><pubDate>Mon, 22 Jun 2026 06:20:21 +0000</pubDate></item><item><title>#9 koala73/worldmonitor (+163 stars)</title><link>https://github.com/koala73/worldmonitor</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;koala73/worldmonitor&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface&lt;/p&gt;
-&lt;p&gt;⭐ 58,282 | +163 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/koala73/worldmonitor#2026-06-22</guid><pubDate>Mon, 22 Jun 2026 06:20:21 +0000</pubDate></item><item><title>#10 DeusData/codebase-memory-mcp (+1,032 stars)</title><link>https://github.com/DeusData/codebase-memory-mcp</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;DeusData/codebase-memory-mcp&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.&lt;/p&gt;
-&lt;p&gt;⭐ 10,663 | +1,032 today | 🔧 C&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/DeusData/codebase-memory-mcp#2026-06-22</guid><pubDate>Mon, 22 Jun 2026 06:20:21 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/calesthio/OpenMontage#2026-06-23</guid><pubDate>Tue, 23 Jun 2026 04:53:31 +0000</pubDate></item></channel></rss>
