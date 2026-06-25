@@ -1,0 +1,111 @@
+{
+  "date": "2026-06-25",
+  "updated_at": "2026-06-25 04:56:21",
+  "count": 13,
+  "rankings": [
+    {
+      "name": "calesthio/OpenMontage",
+      "rank": 1,
+      "stars": "20,074",
+      "stars_today": "3,719",
+      "language": "Python",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio."
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "rank": 2,
+      "stars": "48,819",
+      "stars_today": "1,468",
+      "language": "Python",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
+    },
+    {
+      "name": "apple/container",
+      "rank": 3,
+      "stars": "42,475",
+      "stars_today": "1,838",
+      "language": "Swift",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon."
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "rank": 4,
+      "stars": "202,249",
+      "stars_today": "1,178",
+      "language": "Python",
+      "description": "The agent that grows with you"
+    },
+    {
+      "name": "JCodesMore/ai-website-cloner-template",
+      "rank": 5,
+      "stars": "19,530",
+      "stars_today": "692",
+      "language": "TypeScript",
+      "description": "Clone any website with one command using AI coding agents"
+    },
+    {
+      "name": "revfactory/harness",
+      "rank": 6,
+      "stars": "7,817",
+      "stars_today": "277",
+      "language": "HTML",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use."
+    },
+    {
+      "name": "flutter/flutter",
+      "rank": 7,
+      "stars": "177,441",
+      "stars_today": "73",
+      "language": "Dart",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond"
+    },
+    {
+      "name": "stablyai/orca",
+      "rank": 8,
+      "stars": "6,945",
+      "stars_today": "331",
+      "language": "TypeScript",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile."
+    },
+    {
+      "name": "google-labs-code/design.md",
+      "rank": 9,
+      "stars": "17,555",
+      "stars_today": "619",
+      "language": "TypeScript",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system."
+    },
+    {
+      "name": "interviewstreet/hiring-agent",
+      "rank": 10,
+      "stars": "2,366",
+      "stars_today": "203",
+      "language": "Python",
+      "description": "AI agent to evaluate and score resumes."
+    },
+    {
+      "name": "Flowseal/zapret-discord-youtube",
+      "rank": 11,
+      "stars": "30,043",
+      "stars_today": "61",
+      "language": "Batchfile",
+      "description": ""
+    },
+    {
+      "name": "kunchenguid/no-mistakes",
+      "rank": 12,
+      "stars": "2,374",
+      "stars_today": "110",
+      "language": "Go",
+      "description": "git push no-mistakes"
+    },
+    {
+      "name": "andreknieriem/headunit-revived",
+      "rank": 13,
+      "stars": "1,458",
+      "stars_today": "41",
+      "language": "Kotlin",
+      "description": "Headunit App for displaying Android Auto"
+    }
+  ]
+}

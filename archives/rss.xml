@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Wed, 24 Jun 2026 04:56:57 +0000</pubDate><lastBuildDate>Wed, 24 Jun 2026 04:56:57 +0000</lastBuildDate><item><title>#1 ZhuLinsen/daily_stock_analysis (+1,119 stars)</title><link>https://github.com/ZhuLinsen/daily_stock_analysis</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ZhuLinsen/daily_stock_analysis&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.&lt;/p&gt;
-&lt;p&gt;⭐ 47,410 | +1,119 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/ZhuLinsen/daily_stock_analysis#2026-06-24</guid><pubDate>Wed, 24 Jun 2026 04:56:57 +0000</pubDate></item><item><title>#2 garrytan/gstack (+1,011 stars)</title><link>https://github.com/garrytan/gstack</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;garrytan/gstack&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA&lt;/p&gt;
-&lt;p&gt;⭐ 114,290 | +1,011 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/garrytan/gstack#2026-06-24</guid><pubDate>Wed, 24 Jun 2026 04:56:57 +0000</pubDate></item><item><title>#3 bytedance/deer-flow (+739 stars)</title><link>https://github.com/bytedance/deer-flow</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;bytedance/deer-flow&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.&lt;/p&gt;
-&lt;p&gt;⭐ 74,062 | +739 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/bytedance/deer-flow#2026-06-24</guid><pubDate>Wed, 24 Jun 2026 04:56:57 +0000</pubDate></item><item><title>#4 jamiepine/voicebox (+1,045 stars)</title><link>https://github.com/jamiepine/voicebox</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;jamiepine/voicebox&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The open-source AI voice studio. Clone, dictate, create.&lt;/p&gt;
-&lt;p&gt;⭐ 33,332 | +1,045 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/jamiepine/voicebox#2026-06-24</guid><pubDate>Wed, 24 Jun 2026 04:56:57 +0000</pubDate></item><item><title>#5 NousResearch/hermes-agent (+936 stars)</title><link>https://github.com/NousResearch/hermes-agent</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;NousResearch/hermes-agent&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The agent that grows with you&lt;/p&gt;
-&lt;p&gt;⭐ 201,162 | +936 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/NousResearch/hermes-agent#2026-06-24</guid><pubDate>Wed, 24 Jun 2026 04:56:57 +0000</pubDate></item><item><title>#6 affaan-m/ECC (+593 stars)</title><link>https://github.com/affaan-m/ECC</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;affaan-m/ECC&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.&lt;/p&gt;
-&lt;p&gt;⭐ 220,677 | +593 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/affaan-m/ECC#2026-06-24</guid><pubDate>Wed, 24 Jun 2026 04:56:57 +0000</pubDate></item><item><title>#7 calesthio/OpenMontage (+3,592 stars)</title><link>https://github.com/calesthio/OpenMontage</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Thu, 25 Jun 2026 04:56:21 +0000</pubDate><lastBuildDate>Thu, 25 Jun 2026 04:56:21 +0000</lastBuildDate><item><title>#1 calesthio/OpenMontage (+3,719 stars)</title><link>https://github.com/calesthio/OpenMontage</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;calesthio/OpenMontage&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.&lt;/p&gt;
-&lt;p&gt;⭐ 16,387 | +3,592 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 20,074 | +3,719 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/calesthio/OpenMontage#2026-06-24</guid><pubDate>Wed, 24 Jun 2026 04:56:57 +0000</pubDate></item><item><title>#8 mukul975/Anthropic-Cybersecurity-Skills (+1,041 stars)</title><link>https://github.com/mukul975/Anthropic-Cybersecurity-Skills</link><description>
+</description><guid isPermaLink="false">https://github.com/calesthio/OpenMontage#2026-06-25</guid><pubDate>Thu, 25 Jun 2026 04:56:21 +0000</pubDate></item><item><title>#2 ZhuLinsen/daily_stock_analysis (+1,468 stars)</title><link>https://github.com/ZhuLinsen/daily_stock_analysis</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;mukul975/Anthropic-Cybersecurity-Skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0&lt;/p&gt;
-&lt;p&gt;⭐ 19,932 | +1,041 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ZhuLinsen/daily_stock_analysis&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.&lt;/p&gt;
+&lt;p&gt;⭐ 48,819 | +1,468 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/mukul975/Anthropic-Cybersecurity-Skills#2026-06-24</guid><pubDate>Wed, 24 Jun 2026 04:56:57 +0000</pubDate></item><item><title>#9 koala73/worldmonitor (+294 stars)</title><link>https://github.com/koala73/worldmonitor</link><description>
+</description><guid isPermaLink="false">https://github.com/ZhuLinsen/daily_stock_analysis#2026-06-25</guid><pubDate>Thu, 25 Jun 2026 04:56:21 +0000</pubDate></item><item><title>#3 apple/container (+1,838 stars)</title><link>https://github.com/apple/container</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;koala73/worldmonitor&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface&lt;/p&gt;
-&lt;p&gt;⭐ 59,226 | +294 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;apple/container&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.&lt;/p&gt;
+&lt;p&gt;⭐ 42,475 | +1,838 today | 🔧 Swift&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/koala73/worldmonitor#2026-06-24</guid><pubDate>Wed, 24 Jun 2026 04:56:57 +0000</pubDate></item><item><title>#10 palmier-io/palmier-pro (+1,630 stars)</title><link>https://github.com/palmier-io/palmier-pro</link><description>
+</description><guid isPermaLink="false">https://github.com/apple/container#2026-06-25</guid><pubDate>Thu, 25 Jun 2026 04:56:21 +0000</pubDate></item><item><title>#4 NousResearch/hermes-agent (+1,178 stars)</title><link>https://github.com/NousResearch/hermes-agent</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;palmier-io/palmier-pro&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;macOS video editor built for AI&lt;/p&gt;
-&lt;p&gt;⭐ 8,538 | +1,630 today | 🔧 Swift&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NousResearch/hermes-agent&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The agent that grows with you&lt;/p&gt;
+&lt;p&gt;⭐ 202,249 | +1,178 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/NousResearch/hermes-agent#2026-06-25</guid><pubDate>Thu, 25 Jun 2026 04:56:21 +0000</pubDate></item><item><title>#5 JCodesMore/ai-website-cloner-template (+692 stars)</title><link>https://github.com/JCodesMore/ai-website-cloner-template</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;JCodesMore/ai-website-cloner-template&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Clone any website with one command using AI coding agents&lt;/p&gt;
+&lt;p&gt;⭐ 19,530 | +692 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/palmier-io/palmier-pro#2026-06-24</guid><pubDate>Wed, 24 Jun 2026 04:56:57 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/JCodesMore/ai-website-cloner-template#2026-06-25</guid><pubDate>Thu, 25 Jun 2026 04:56:21 +0000</pubDate></item><item><title>#6 revfactory/harness (+277 stars)</title><link>https://github.com/revfactory/harness</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;revfactory/harness&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.&lt;/p&gt;
+&lt;p&gt;⭐ 7,817 | +277 today | 🔧 HTML&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/revfactory/harness#2026-06-25</guid><pubDate>Thu, 25 Jun 2026 04:56:21 +0000</pubDate></item><item><title>#7 flutter/flutter (+73 stars)</title><link>https://github.com/flutter/flutter</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;flutter/flutter&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Flutter makes it easy and fast to build beautiful apps for mobile and beyond&lt;/p&gt;
+&lt;p&gt;⭐ 177,441 | +73 today | 🔧 Dart&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/flutter/flutter#2026-06-25</guid><pubDate>Thu, 25 Jun 2026 04:56:21 +0000</pubDate></item><item><title>#8 stablyai/orca (+331 stars)</title><link>https://github.com/stablyai/orca</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;stablyai/orca&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.&lt;/p&gt;
+&lt;p&gt;⭐ 6,945 | +331 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/stablyai/orca#2026-06-25</guid><pubDate>Thu, 25 Jun 2026 04:56:21 +0000</pubDate></item><item><title>#9 google-labs-code/design.md (+619 stars)</title><link>https://github.com/google-labs-code/design.md</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;google-labs-code/design.md&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.&lt;/p&gt;
+&lt;p&gt;⭐ 17,555 | +619 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/google-labs-code/design.md#2026-06-25</guid><pubDate>Thu, 25 Jun 2026 04:56:21 +0000</pubDate></item><item><title>#10 interviewstreet/hiring-agent (+203 stars)</title><link>https://github.com/interviewstreet/hiring-agent</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;interviewstreet/hiring-agent&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AI agent to evaluate and score resumes.&lt;/p&gt;
+&lt;p&gt;⭐ 2,366 | +203 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/interviewstreet/hiring-agent#2026-06-25</guid><pubDate>Thu, 25 Jun 2026 04:56:21 +0000</pubDate></item></channel></rss>
