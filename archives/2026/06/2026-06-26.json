@@ -1,0 +1,135 @@
+{
+  "date": "2026-06-26",
+  "updated_at": "2026-06-26 05:02:44",
+  "count": 16,
+  "rankings": [
+    {
+      "name": "calesthio/OpenMontage",
+      "rank": 1,
+      "stars": "22,420",
+      "stars_today": "3,434",
+      "language": "Python",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio."
+    },
+    {
+      "name": "apple/container",
+      "rank": 2,
+      "stars": "43,315",
+      "stars_today": "1,351",
+      "language": "Swift",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon."
+    },
+    {
+      "name": "JCodesMore/ai-website-cloner-template",
+      "rank": 3,
+      "stars": "20,669",
+      "stars_today": "1,024",
+      "language": "TypeScript",
+      "description": "Clone any website with one command using AI coding agents"
+    },
+    {
+      "name": "garrytan/gstack",
+      "rank": 4,
+      "stars": "115,962",
+      "stars_today": "767",
+      "language": "TypeScript",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "rank": 5,
+      "stars": "21,374",
+      "stars_today": "571",
+      "language": "Python",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0"
+    },
+    {
+      "name": "opendatalab/MinerU",
+      "rank": 6,
+      "stars": "69,762",
+      "stars_today": "644",
+      "language": "Python",
+      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows."
+    },
+    {
+      "name": "NanmiCoder/MediaCrawler",
+      "rank": 7,
+      "stars": "52,922",
+      "stars_today": "398",
+      "language": "Python",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫"
+    },
+    {
+      "name": "google-labs-code/design.md",
+      "rank": 8,
+      "stars": "19,678",
+      "stars_today": "1,475",
+      "language": "TypeScript",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system."
+    },
+    {
+      "name": "IceWhaleTech/CasaOS",
+      "rank": 9,
+      "stars": "34,918",
+      "stars_today": "223",
+      "language": "Go",
+      "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system."
+    },
+    {
+      "name": "shanraisshan/claude-code-best-practice",
+      "rank": 10,
+      "stars": "60,755",
+      "stars_today": "287",
+      "language": "HTML",
+      "description": "from vibe coding to agentic engineering - practice makes claude perfect"
+    },
+    {
+      "name": "xbtlin/ai-berkshire",
+      "rank": 11,
+      "stars": "2,227",
+      "stars_today": "309",
+      "language": "Python",
+      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis."
+    },
+    {
+      "name": "mauriceboe/TREK",
+      "rank": 12,
+      "stars": "6,880",
+      "stars_today": "241",
+      "language": "TypeScript",
+      "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more."
+    },
+    {
+      "name": "alibaba/page-agent",
+      "rank": 13,
+      "stars": "19,953",
+      "stars_today": "163",
+      "language": "TypeScript",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language."
+    },
+    {
+      "name": "Free-TV/IPTV",
+      "rank": 14,
+      "stars": "18,280",
+      "stars_today": "139",
+      "language": "Python",
+      "description": "M3U Playlist for free TV channels"
+    },
+    {
+      "name": "every-app/open-seo",
+      "rank": 15,
+      "stars": "2,641",
+      "stars_today": "57",
+      "language": "TypeScript",
+      "description": "Open source alternative to Semrush and Ahrefs"
+    },
+    {
+      "name": "aws/agent-toolkit-for-aws",
+      "rank": 16,
+      "stars": "1,181",
+      "stars_today": "47",
+      "language": "Python",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS"
+    }
+  ]
+}
