@@ -1,0 +1,111 @@
+{
+  "date": "2026-06-29",
+  "updated_at": "2026-06-29 05:21:57",
+  "count": 13,
+  "rankings": [
+    {
+      "name": "ripienaar/free-for-dev",
+      "rank": 1,
+      "stars": "125,660",
+      "stars_today": "495",
+      "language": "HTML",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+    },
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "rank": 2,
+      "stars": "20,148",
+      "stars_today": "2,190",
+      "language": "C",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies."
+    },
+    {
+      "name": "simplex-chat/simplex-chat",
+      "rank": 3,
+      "stars": "15,374",
+      "stars_today": "1,180",
+      "language": "Haskell",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!"
+    },
+    {
+      "name": "commaai/openpilot",
+      "rank": 4,
+      "stars": "62,514",
+      "stars_today": "266",
+      "language": "Python",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars."
+    },
+    {
+      "name": "xbtlin/ai-berkshire",
+      "rank": 5,
+      "stars": "5,692",
+      "stars_today": "1,445",
+      "language": "Python",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis."
+    },
+    {
+      "name": "opendatalab/MinerU",
+      "rank": 6,
+      "stars": "71,837",
+      "stars_today": "380",
+      "language": "Python",
+      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows."
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "rank": 7,
+      "stars": "14,503",
+      "stars_today": "492",
+      "language": "Python",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\""
+    },
+    {
+      "name": "ByteByteGoHq/system-design-101",
+      "rank": 8,
+      "stars": "84,668",
+      "stars_today": "250",
+      "language": null,
+      "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews."
+    },
+    {
+      "name": "usestrix/strix",
+      "rank": 9,
+      "stars": "26,894",
+      "stars_today": "122",
+      "language": "Python",
+      "description": "Open-source AI hackers to find and fix your app’s vulnerabilities."
+    },
+    {
+      "name": "Robbyant/lingbot-map",
+      "rank": 10,
+      "stars": "8,335",
+      "stars_today": "372",
+      "language": "Python",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data"
+    },
+    {
+      "name": "cupy/cupy",
+      "rank": 11,
+      "stars": "11,586",
+      "stars_today": "174",
+      "language": "Python",
+      "description": "NumPy & SciPy for GPU"
+    },
+    {
+      "name": "altic-dev/FluidVoice",
+      "rank": 12,
+      "stars": "3,866",
+      "stars_today": "365",
+      "language": "Swift",
+      "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))"
+    },
+    {
+      "name": "browser-use/video-use",
+      "rank": 13,
+      "stars": "11,279",
+      "stars_today": "196",
+      "language": "Python",
+      "description": "Edit videos with coding agents"
+    }
+  ]
+}

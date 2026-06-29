@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sun, 28 Jun 2026 05:10:36 +0000</pubDate><lastBuildDate>Sun, 28 Jun 2026 05:10:36 +0000</lastBuildDate><item><title>#1 commaai/openpilot (+322 stars)</title><link>https://github.com/commaai/openpilot</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;commaai/openpilot&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.&lt;/p&gt;
-&lt;p&gt;⭐ 62,114 | +322 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/commaai/openpilot#2026-06-28</guid><pubDate>Sun, 28 Jun 2026 05:10:36 +0000</pubDate></item><item><title>#2 IceWhaleTech/CasaOS (+502 stars)</title><link>https://github.com/IceWhaleTech/CasaOS</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;IceWhaleTech/CasaOS&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.&lt;/p&gt;
-&lt;p&gt;⭐ 35,850 | +502 today | 🔧 Go&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/IceWhaleTech/CasaOS#2026-06-28</guid><pubDate>Sun, 28 Jun 2026 05:10:36 +0000</pubDate></item><item><title>#3 ripienaar/free-for-dev (+459 stars)</title><link>https://github.com/ripienaar/free-for-dev</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Mon, 29 Jun 2026 05:21:57 +0000</pubDate><lastBuildDate>Mon, 29 Jun 2026 05:21:57 +0000</lastBuildDate><item><title>#1 ripienaar/free-for-dev (+495 stars)</title><link>https://github.com/ripienaar/free-for-dev</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;ripienaar/free-for-dev&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev&lt;/p&gt;
-&lt;p&gt;⭐ 124,236 | +459 today | 🔧 HTML&lt;/p&gt;
+&lt;p&gt;⭐ 125,660 | +495 today | 🔧 HTML&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/ripienaar/free-for-dev#2026-06-28</guid><pubDate>Sun, 28 Jun 2026 05:10:36 +0000</pubDate></item><item><title>#4 google-labs-code/design.md (+1,541 stars)</title><link>https://github.com/google-labs-code/design.md</link><description>
+</description><guid isPermaLink="false">https://github.com/ripienaar/free-for-dev#2026-06-29</guid><pubDate>Mon, 29 Jun 2026 05:21:57 +0000</pubDate></item><item><title>#2 DeusData/codebase-memory-mcp (+2,190 stars)</title><link>https://github.com/DeusData/codebase-memory-mcp</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;google-labs-code/design.md&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.&lt;/p&gt;
-&lt;p&gt;⭐ 22,453 | +1,541 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DeusData/codebase-memory-mcp&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.&lt;/p&gt;
+&lt;p&gt;⭐ 20,148 | +2,190 today | 🔧 C&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/google-labs-code/design.md#2026-06-28</guid><pubDate>Sun, 28 Jun 2026 05:10:36 +0000</pubDate></item><item><title>#5 hugohe3/ppt-master (+589 stars)</title><link>https://github.com/hugohe3/ppt-master</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;hugohe3/ppt-master&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AI generates a real, editable PowerPoint from any document — native shapes &amp; animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He&lt;/p&gt;
-&lt;p&gt;⭐ 33,236 | +589 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/hugohe3/ppt-master#2026-06-28</guid><pubDate>Sun, 28 Jun 2026 05:10:36 +0000</pubDate></item><item><title>#6 JCodesMore/ai-website-cloner-template (+750 stars)</title><link>https://github.com/JCodesMore/ai-website-cloner-template</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;JCodesMore/ai-website-cloner-template&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Clone any website with one command using AI coding agents&lt;/p&gt;
-&lt;p&gt;⭐ 22,247 | +750 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/JCodesMore/ai-website-cloner-template#2026-06-28</guid><pubDate>Sun, 28 Jun 2026 05:10:36 +0000</pubDate></item><item><title>#7 garrytan/gstack (+674 stars)</title><link>https://github.com/garrytan/gstack</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;garrytan/gstack&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA&lt;/p&gt;
-&lt;p&gt;⭐ 117,361 | +674 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/garrytan/gstack#2026-06-28</guid><pubDate>Sun, 28 Jun 2026 05:10:36 +0000</pubDate></item><item><title>#8 NanmiCoder/MediaCrawler (+394 stars)</title><link>https://github.com/NanmiCoder/MediaCrawler</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;NanmiCoder/MediaCrawler&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫&lt;/p&gt;
-&lt;p&gt;⭐ 53,836 | +394 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/NanmiCoder/MediaCrawler#2026-06-28</guid><pubDate>Sun, 28 Jun 2026 05:10:36 +0000</pubDate></item><item><title>#9 topoteretes/cognee (+780 stars)</title><link>https://github.com/topoteretes/cognee</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;topoteretes/cognee&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.&lt;/p&gt;
-&lt;p&gt;⭐ 24,121 | +780 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/topoteretes/cognee#2026-06-28</guid><pubDate>Sun, 28 Jun 2026 05:10:36 +0000</pubDate></item><item><title>#10 simplex-chat/simplex-chat (+1,469 stars)</title><link>https://github.com/simplex-chat/simplex-chat</link><description>
+</description><guid isPermaLink="false">https://github.com/DeusData/codebase-memory-mcp#2026-06-29</guid><pubDate>Mon, 29 Jun 2026 05:21:57 +0000</pubDate></item><item><title>#3 simplex-chat/simplex-chat (+1,180 stars)</title><link>https://github.com/simplex-chat/simplex-chat</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;simplex-chat/simplex-chat&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!&lt;/p&gt;
-&lt;p&gt;⭐ 13,992 | +1,469 today | 🔧 Haskell&lt;/p&gt;
+&lt;p&gt;⭐ 15,374 | +1,180 today | 🔧 Haskell&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/simplex-chat/simplex-chat#2026-06-28</guid><pubDate>Sun, 28 Jun 2026 05:10:36 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/simplex-chat/simplex-chat#2026-06-29</guid><pubDate>Mon, 29 Jun 2026 05:21:57 +0000</pubDate></item><item><title>#4 commaai/openpilot (+266 stars)</title><link>https://github.com/commaai/openpilot</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;commaai/openpilot&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.&lt;/p&gt;
+&lt;p&gt;⭐ 62,514 | +266 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/commaai/openpilot#2026-06-29</guid><pubDate>Mon, 29 Jun 2026 05:21:57 +0000</pubDate></item><item><title>#5 xbtlin/ai-berkshire (+1,445 stars)</title><link>https://github.com/xbtlin/ai-berkshire</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;xbtlin/ai-berkshire&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.&lt;/p&gt;
+&lt;p&gt;⭐ 5,692 | +1,445 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/xbtlin/ai-berkshire#2026-06-29</guid><pubDate>Mon, 29 Jun 2026 05:21:57 +0000</pubDate></item><item><title>#6 opendatalab/MinerU (+380 stars)</title><link>https://github.com/opendatalab/MinerU</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;opendatalab/MinerU&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.&lt;/p&gt;
+&lt;p&gt;⭐ 71,837 | +380 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/opendatalab/MinerU#2026-06-29</guid><pubDate>Mon, 29 Jun 2026 05:21:57 +0000</pubDate></item><item><title>#7 HKUDS/Vibe-Trading (+492 stars)</title><link>https://github.com/HKUDS/Vibe-Trading</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;HKUDS/Vibe-Trading&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;"Vibe-Trading: Your Personal Trading Agent"&lt;/p&gt;
+&lt;p&gt;⭐ 14,503 | +492 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/HKUDS/Vibe-Trading#2026-06-29</guid><pubDate>Mon, 29 Jun 2026 05:21:57 +0000</pubDate></item><item><title>#8 ByteByteGoHq/system-design-101 (+250 stars)</title><link>https://github.com/ByteByteGoHq/system-design-101</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;ByteByteGoHq/system-design-101&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.&lt;/p&gt;
+&lt;p&gt;⭐ 84,668 | +250 today | 🔧 Unknown&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/ByteByteGoHq/system-design-101#2026-06-29</guid><pubDate>Mon, 29 Jun 2026 05:21:57 +0000</pubDate></item><item><title>#9 usestrix/strix (+122 stars)</title><link>https://github.com/usestrix/strix</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;usestrix/strix&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open-source AI hackers to find and fix your app’s vulnerabilities.&lt;/p&gt;
+&lt;p&gt;⭐ 26,894 | +122 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/usestrix/strix#2026-06-29</guid><pubDate>Mon, 29 Jun 2026 05:21:57 +0000</pubDate></item><item><title>#10 Robbyant/lingbot-map (+372 stars)</title><link>https://github.com/Robbyant/lingbot-map</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Robbyant/lingbot-map&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A feed-forward 3D foundation model for reconstructing scenes from streaming data&lt;/p&gt;
+&lt;p&gt;⭐ 8,335 | +372 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Robbyant/lingbot-map#2026-06-29</guid><pubDate>Mon, 29 Jun 2026 05:21:57 +0000</pubDate></item></channel></rss>
