@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Mon, 29 Jun 2026 05:21:57 +0000</pubDate><lastBuildDate>Mon, 29 Jun 2026 05:21:57 +0000</lastBuildDate><item><title>#1 ripienaar/free-for-dev (+495 stars)</title><link>https://github.com/ripienaar/free-for-dev</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Tue, 30 Jun 2026 04:56:47 +0000</pubDate><lastBuildDate>Tue, 30 Jun 2026 04:56:47 +0000</lastBuildDate><item><title>#1 msitarzewski/agency-agents (+1,425 stars)</title><link>https://github.com/msitarzewski/agency-agents</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ripienaar/free-for-dev&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev&lt;/p&gt;
-&lt;p&gt;⭐ 125,660 | +495 today | 🔧 HTML&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;msitarzewski/agency-agents&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.&lt;/p&gt;
+&lt;p&gt;⭐ 119,243 | +1,425 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/ripienaar/free-for-dev#2026-06-29</guid><pubDate>Mon, 29 Jun 2026 05:21:57 +0000</pubDate></item><item><title>#2 DeusData/codebase-memory-mcp (+2,190 stars)</title><link>https://github.com/DeusData/codebase-memory-mcp</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;DeusData/codebase-memory-mcp&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.&lt;/p&gt;
-&lt;p&gt;⭐ 20,148 | +2,190 today | 🔧 C&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/DeusData/codebase-memory-mcp#2026-06-29</guid><pubDate>Mon, 29 Jun 2026 05:21:57 +0000</pubDate></item><item><title>#3 simplex-chat/simplex-chat (+1,180 stars)</title><link>https://github.com/simplex-chat/simplex-chat</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;simplex-chat/simplex-chat&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!&lt;/p&gt;
-&lt;p&gt;⭐ 15,374 | +1,180 today | 🔧 Haskell&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/simplex-chat/simplex-chat#2026-06-29</guid><pubDate>Mon, 29 Jun 2026 05:21:57 +0000</pubDate></item><item><title>#4 commaai/openpilot (+266 stars)</title><link>https://github.com/commaai/openpilot</link><description>
+</description><guid isPermaLink="false">https://github.com/msitarzewski/agency-agents#2026-06-30</guid><pubDate>Tue, 30 Jun 2026 04:56:47 +0000</pubDate></item><item><title>#2 commaai/openpilot (+458 stars)</title><link>https://github.com/commaai/openpilot</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;commaai/openpilot&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.&lt;/p&gt;
-&lt;p&gt;⭐ 62,514 | +266 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 62,817 | +458 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/commaai/openpilot#2026-06-30</guid><pubDate>Tue, 30 Jun 2026 04:56:47 +0000</pubDate></item><item><title>#3 ripienaar/free-for-dev (+1,935 stars)</title><link>https://github.com/ripienaar/free-for-dev</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;ripienaar/free-for-dev&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev&lt;/p&gt;
+&lt;p&gt;⭐ 126,853 | +1,935 today | 🔧 HTML&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/ripienaar/free-for-dev#2026-06-30</guid><pubDate>Tue, 30 Jun 2026 04:56:47 +0000</pubDate></item><item><title>#4 simplex-chat/simplex-chat (+1,607 stars)</title><link>https://github.com/simplex-chat/simplex-chat</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;simplex-chat/simplex-chat&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!&lt;/p&gt;
+&lt;p&gt;⭐ 16,810 | +1,607 today | 🔧 Haskell&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/commaai/openpilot#2026-06-29</guid><pubDate>Mon, 29 Jun 2026 05:21:57 +0000</pubDate></item><item><title>#5 xbtlin/ai-berkshire (+1,445 stars)</title><link>https://github.com/xbtlin/ai-berkshire</link><description>
+</description><guid isPermaLink="false">https://github.com/simplex-chat/simplex-chat#2026-06-30</guid><pubDate>Tue, 30 Jun 2026 04:56:47 +0000</pubDate></item><item><title>#5 cupy/cupy (+352 stars)</title><link>https://github.com/cupy/cupy</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;cupy/cupy&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;NumPy &amp; SciPy for GPU&lt;/p&gt;
+&lt;p&gt;⭐ 11,885 | +352 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/cupy/cupy#2026-06-30</guid><pubDate>Tue, 30 Jun 2026 04:56:47 +0000</pubDate></item><item><title>#6 altic-dev/FluidVoice (+830 stars)</title><link>https://github.com/altic-dev/FluidVoice</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;altic-dev/FluidVoice&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))&lt;/p&gt;
+&lt;p&gt;⭐ 4,493 | +830 today | 🔧 Swift&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/altic-dev/FluidVoice#2026-06-30</guid><pubDate>Tue, 30 Jun 2026 04:56:47 +0000</pubDate></item><item><title>#7 soxoj/maigret (+224 stars)</title><link>https://github.com/soxoj/maigret</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;soxoj/maigret&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites&lt;/p&gt;
+&lt;p&gt;⭐ 34,495 | +224 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/soxoj/maigret#2026-06-30</guid><pubDate>Tue, 30 Jun 2026 04:56:47 +0000</pubDate></item><item><title>#8 xbtlin/ai-berkshire (+1,386 stars)</title><link>https://github.com/xbtlin/ai-berkshire</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;xbtlin/ai-berkshire&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.&lt;/p&gt;
-&lt;p&gt;⭐ 5,692 | +1,445 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 6,862 | +1,386 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/xbtlin/ai-berkshire#2026-06-29</guid><pubDate>Mon, 29 Jun 2026 05:21:57 +0000</pubDate></item><item><title>#6 opendatalab/MinerU (+380 stars)</title><link>https://github.com/opendatalab/MinerU</link><description>
+</description><guid isPermaLink="false">https://github.com/xbtlin/ai-berkshire#2026-06-30</guid><pubDate>Tue, 30 Jun 2026 04:56:47 +0000</pubDate></item><item><title>#9 browser-use/video-use (+967 stars)</title><link>https://github.com/browser-use/video-use</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;opendatalab/MinerU&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.&lt;/p&gt;
-&lt;p&gt;⭐ 71,837 | +380 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;browser-use/video-use&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Edit videos with coding agents&lt;/p&gt;
+&lt;p&gt;⭐ 12,058 | +967 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/opendatalab/MinerU#2026-06-29</guid><pubDate>Mon, 29 Jun 2026 05:21:57 +0000</pubDate></item><item><title>#7 HKUDS/Vibe-Trading (+492 stars)</title><link>https://github.com/HKUDS/Vibe-Trading</link><description>
+</description><guid isPermaLink="false">https://github.com/browser-use/video-use#2026-06-30</guid><pubDate>Tue, 30 Jun 2026 04:56:47 +0000</pubDate></item><item><title>#10 HKUDS/Vibe-Trading (+839 stars)</title><link>https://github.com/HKUDS/Vibe-Trading</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;HKUDS/Vibe-Trading&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;"Vibe-Trading: Your Personal Trading Agent"&lt;/p&gt;
-&lt;p&gt;⭐ 14,503 | +492 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 15,238 | +839 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/HKUDS/Vibe-Trading#2026-06-29</guid><pubDate>Mon, 29 Jun 2026 05:21:57 +0000</pubDate></item><item><title>#8 ByteByteGoHq/system-design-101 (+250 stars)</title><link>https://github.com/ByteByteGoHq/system-design-101</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ByteByteGoHq/system-design-101&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.&lt;/p&gt;
-&lt;p&gt;⭐ 84,668 | +250 today | 🔧 Unknown&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/ByteByteGoHq/system-design-101#2026-06-29</guid><pubDate>Mon, 29 Jun 2026 05:21:57 +0000</pubDate></item><item><title>#9 usestrix/strix (+122 stars)</title><link>https://github.com/usestrix/strix</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;usestrix/strix&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Open-source AI hackers to find and fix your app’s vulnerabilities.&lt;/p&gt;
-&lt;p&gt;⭐ 26,894 | +122 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/usestrix/strix#2026-06-29</guid><pubDate>Mon, 29 Jun 2026 05:21:57 +0000</pubDate></item><item><title>#10 Robbyant/lingbot-map (+372 stars)</title><link>https://github.com/Robbyant/lingbot-map</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Robbyant/lingbot-map&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A feed-forward 3D foundation model for reconstructing scenes from streaming data&lt;/p&gt;
-&lt;p&gt;⭐ 8,335 | +372 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/Robbyant/lingbot-map#2026-06-29</guid><pubDate>Mon, 29 Jun 2026 05:21:57 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/HKUDS/Vibe-Trading#2026-06-30</guid><pubDate>Tue, 30 Jun 2026 04:56:47 +0000</pubDate></item></channel></rss>

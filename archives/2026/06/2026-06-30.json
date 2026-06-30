@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-30",
+  "updated_at": "2026-06-30 04:56:47",
+  "count": 15,
+  "rankings": [
+    {
+      "name": "msitarzewski/agency-agents",
+      "rank": 1,
+      "stars": "119,243",
+      "stars_today": "1,425",
+      "language": "Shell",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "name": "commaai/openpilot",
+      "rank": 2,
+      "stars": "62,817",
+      "stars_today": "458",
+      "language": "Python",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars."
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "rank": 3,
+      "stars": "126,853",
+      "stars_today": "1,935",
+      "language": "HTML",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+    },
+    {
+      "name": "simplex-chat/simplex-chat",
+      "rank": 4,
+      "stars": "16,810",
+      "stars_today": "1,607",
+      "language": "Haskell",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!"
+    },
+    {
+      "name": "cupy/cupy",
+      "rank": 5,
+      "stars": "11,885",
+      "stars_today": "352",
+      "language": "Python",
+      "description": "NumPy & SciPy for GPU"
+    },
+    {
+      "name": "altic-dev/FluidVoice",
+      "rank": 6,
+      "stars": "4,493",
+      "stars_today": "830",
+      "language": "Swift",
+      "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))"
+    },
+    {
+      "name": "soxoj/maigret",
+      "rank": 7,
+      "stars": "34,495",
+      "stars_today": "224",
+      "language": "Python",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites"
+    },
+    {
+      "name": "xbtlin/ai-berkshire",
+      "rank": 8,
+      "stars": "6,862",
+      "stars_today": "1,386",
+      "language": "Python",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis."
+    },
+    {
+      "name": "browser-use/video-use",
+      "rank": 9,
+      "stars": "12,058",
+      "stars_today": "967",
+      "language": "Python",
+      "description": "Edit videos with coding agents"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "rank": 10,
+      "stars": "15,238",
+      "stars_today": "839",
+      "language": "Python",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\""
+    },
+    {
+      "name": "logto-io/logto",
+      "rank": 11,
+      "stars": "12,778",
+      "stars_today": "158",
+      "language": "TypeScript",
+      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC."
+    },
+    {
+      "name": "0xNyk/council-of-high-intelligence",
+      "rank": 12,
+      "stars": "2,029",
+      "stars_today": "331",
+      "language": "Shell",
+      "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council"
+    },
+    {
+      "name": "refactoringhq/tolaria",
+      "rank": 13,
+      "stars": "17,616",
+      "stars_today": "280",
+      "language": "TypeScript",
+      "description": "Desktop app to manage markdown knowledge bases"
+    },
+    {
+      "name": "veracrypt/VeraCrypt",
+      "rank": 14,
+      "stars": "10,537",
+      "stars_today": "186",
+      "language": "C",
+      "description": "Disk encryption with strong security based on TrueCrypt"
+    },
+    {
+      "name": "Unclecheng-li/VulnClaw",
+      "rank": 15,
+      "stars": "1,239",
+      "stars_today": "129",
+      "language": "Python",
+      "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。"
+    }
+  ]
+}
