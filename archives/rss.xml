@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Tue, 30 Jun 2026 04:56:47 +0000</pubDate><lastBuildDate>Tue, 30 Jun 2026 04:56:47 +0000</lastBuildDate><item><title>#1 msitarzewski/agency-agents (+1,425 stars)</title><link>https://github.com/msitarzewski/agency-agents</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Wed, 01 Jul 2026 05:14:33 +0000</pubDate><lastBuildDate>Wed, 01 Jul 2026 05:14:33 +0000</lastBuildDate><item><title>#1 usestrix/strix (+515 stars)</title><link>https://github.com/usestrix/strix</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;usestrix/strix&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.&lt;/p&gt;
+&lt;p&gt;⭐ 28,315 | +515 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/usestrix/strix#2026-07-01</guid><pubDate>Wed, 01 Jul 2026 05:14:33 +0000</pubDate></item><item><title>#2 msitarzewski/agency-agents (+1,791 stars)</title><link>https://github.com/msitarzewski/agency-agents</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;msitarzewski/agency-agents&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.&lt;/p&gt;
-&lt;p&gt;⭐ 119,243 | +1,425 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 121,275 | +1,791 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/msitarzewski/agency-agents#2026-06-30</guid><pubDate>Tue, 30 Jun 2026 04:56:47 +0000</pubDate></item><item><title>#2 commaai/openpilot (+458 stars)</title><link>https://github.com/commaai/openpilot</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;commaai/openpilot&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.&lt;/p&gt;
-&lt;p&gt;⭐ 62,817 | +458 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/commaai/openpilot#2026-06-30</guid><pubDate>Tue, 30 Jun 2026 04:56:47 +0000</pubDate></item><item><title>#3 ripienaar/free-for-dev (+1,935 stars)</title><link>https://github.com/ripienaar/free-for-dev</link><description>
+</description><guid isPermaLink="false">https://github.com/msitarzewski/agency-agents#2026-07-01</guid><pubDate>Wed, 01 Jul 2026 05:14:33 +0000</pubDate></item><item><title>#3 ripienaar/free-for-dev (+742 stars)</title><link>https://github.com/ripienaar/free-for-dev</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;ripienaar/free-for-dev&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev&lt;/p&gt;
-&lt;p&gt;⭐ 126,853 | +1,935 today | 🔧 HTML&lt;/p&gt;
+&lt;p&gt;⭐ 127,402 | +742 today | 🔧 HTML&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/ripienaar/free-for-dev#2026-06-30</guid><pubDate>Tue, 30 Jun 2026 04:56:47 +0000</pubDate></item><item><title>#4 simplex-chat/simplex-chat (+1,607 stars)</title><link>https://github.com/simplex-chat/simplex-chat</link><description>
+</description><guid isPermaLink="false">https://github.com/ripienaar/free-for-dev#2026-07-01</guid><pubDate>Wed, 01 Jul 2026 05:14:33 +0000</pubDate></item><item><title>#4 obra/superpowers (+890 stars)</title><link>https://github.com/obra/superpowers</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;simplex-chat/simplex-chat&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!&lt;/p&gt;
-&lt;p&gt;⭐ 16,810 | +1,607 today | 🔧 Haskell&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
+&lt;p&gt;⭐ 242,729 | +890 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-07-01</guid><pubDate>Wed, 01 Jul 2026 05:14:33 +0000</pubDate></item><item><title>#5 hasaneyldrm/exercises-dataset (+1,343 stars)</title><link>https://github.com/hasaneyldrm/exercises-dataset</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;hasaneyldrm/exercises-dataset&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.&lt;/p&gt;
+&lt;p&gt;⭐ 7,146 | +1,343 today | 🔧 HTML&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/simplex-chat/simplex-chat#2026-06-30</guid><pubDate>Tue, 30 Jun 2026 04:56:47 +0000</pubDate></item><item><title>#5 cupy/cupy (+352 stars)</title><link>https://github.com/cupy/cupy</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;cupy/cupy&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;NumPy &amp; SciPy for GPU&lt;/p&gt;
-&lt;p&gt;⭐ 11,885 | +352 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/cupy/cupy#2026-06-30</guid><pubDate>Tue, 30 Jun 2026 04:56:47 +0000</pubDate></item><item><title>#6 altic-dev/FluidVoice (+830 stars)</title><link>https://github.com/altic-dev/FluidVoice</link><description>
+</description><guid isPermaLink="false">https://github.com/hasaneyldrm/exercises-dataset#2026-07-01</guid><pubDate>Wed, 01 Jul 2026 05:14:33 +0000</pubDate></item><item><title>#6 altic-dev/FluidVoice (+588 stars)</title><link>https://github.com/altic-dev/FluidVoice</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;altic-dev/FluidVoice&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))&lt;/p&gt;
-&lt;p&gt;⭐ 4,493 | +830 today | 🔧 Swift&lt;/p&gt;
+&lt;p&gt;Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.&lt;/p&gt;
+&lt;p&gt;⭐ 5,048 | +588 today | 🔧 Swift&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/altic-dev/FluidVoice#2026-06-30</guid><pubDate>Tue, 30 Jun 2026 04:56:47 +0000</pubDate></item><item><title>#7 soxoj/maigret (+224 stars)</title><link>https://github.com/soxoj/maigret</link><description>
+</description><guid isPermaLink="false">https://github.com/altic-dev/FluidVoice#2026-07-01</guid><pubDate>Wed, 01 Jul 2026 05:14:33 +0000</pubDate></item><item><title>#7 diegosouzapw/OmniRoute (+387 stars)</title><link>https://github.com/diegosouzapw/OmniRoute</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;soxoj/maigret&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites&lt;/p&gt;
-&lt;p&gt;⭐ 34,495 | +224 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;diegosouzapw/OmniRoute&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.&lt;/p&gt;
+&lt;p&gt;⭐ 8,740 | +387 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/soxoj/maigret#2026-06-30</guid><pubDate>Tue, 30 Jun 2026 04:56:47 +0000</pubDate></item><item><title>#8 xbtlin/ai-berkshire (+1,386 stars)</title><link>https://github.com/xbtlin/ai-berkshire</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;xbtlin/ai-berkshire&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.&lt;/p&gt;
-&lt;p&gt;⭐ 6,862 | +1,386 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/xbtlin/ai-berkshire#2026-06-30</guid><pubDate>Tue, 30 Jun 2026 04:56:47 +0000</pubDate></item><item><title>#9 browser-use/video-use (+967 stars)</title><link>https://github.com/browser-use/video-use</link><description>
+</description><guid isPermaLink="false">https://github.com/diegosouzapw/OmniRoute#2026-07-01</guid><pubDate>Wed, 01 Jul 2026 05:14:33 +0000</pubDate></item><item><title>#8 browser-use/video-use (+721 stars)</title><link>https://github.com/browser-use/video-use</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;browser-use/video-use&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Edit videos with coding agents&lt;/p&gt;
-&lt;p&gt;⭐ 12,058 | +967 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 12,754 | +721 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/browser-use/video-use#2026-06-30</guid><pubDate>Tue, 30 Jun 2026 04:56:47 +0000</pubDate></item><item><title>#10 HKUDS/Vibe-Trading (+839 stars)</title><link>https://github.com/HKUDS/Vibe-Trading</link><description>
+</description><guid isPermaLink="false">https://github.com/browser-use/video-use#2026-07-01</guid><pubDate>Wed, 01 Jul 2026 05:14:33 +0000</pubDate></item><item><title>#9 xbtlin/ai-berkshire (+969 stars)</title><link>https://github.com/xbtlin/ai-berkshire</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;HKUDS/Vibe-Trading&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;"Vibe-Trading: Your Personal Trading Agent"&lt;/p&gt;
-&lt;p&gt;⭐ 15,238 | +839 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;xbtlin/ai-berkshire&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.&lt;/p&gt;
+&lt;p&gt;⭐ 7,681 | +969 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/HKUDS/Vibe-Trading#2026-06-30</guid><pubDate>Tue, 30 Jun 2026 04:56:47 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/xbtlin/ai-berkshire#2026-07-01</guid><pubDate>Wed, 01 Jul 2026 05:14:33 +0000</pubDate></item><item><title>#10 roboflow/supervision (+309 stars)</title><link>https://github.com/roboflow/supervision</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;roboflow/supervision&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We write your reusable computer vision tools. 💜&lt;/p&gt;
+&lt;p&gt;⭐ 45,985 | +309 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/roboflow/supervision#2026-07-01</guid><pubDate>Wed, 01 Jul 2026 05:14:33 +0000</pubDate></item></channel></rss>

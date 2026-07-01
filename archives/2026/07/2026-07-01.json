@@ -1,0 +1,159 @@
+{
+  "date": "2026-07-01",
+  "updated_at": "2026-07-01 05:14:33",
+  "count": 19,
+  "rankings": [
+    {
+      "name": "usestrix/strix",
+      "rank": 1,
+      "stars": "28,315",
+      "stars_today": "515",
+      "language": "Python",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities."
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "rank": 2,
+      "stars": "121,275",
+      "stars_today": "1,791",
+      "language": "Shell",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "rank": 3,
+      "stars": "127,402",
+      "stars_today": "742",
+      "language": "HTML",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 4,
+      "stars": "242,729",
+      "stars_today": "890",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "rank": 5,
+      "stars": "7,146",
+      "stars_today": "1,343",
+      "language": "HTML",
+      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video."
+    },
+    {
+      "name": "altic-dev/FluidVoice",
+      "rank": 6,
+      "stars": "5,048",
+      "stars_today": "588",
+      "language": "Swift",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon."
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "rank": 7,
+      "stars": "8,740",
+      "stars_today": "387",
+      "language": "TypeScript",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA."
+    },
+    {
+      "name": "browser-use/video-use",
+      "rank": 8,
+      "stars": "12,754",
+      "stars_today": "721",
+      "language": "Python",
+      "description": "Edit videos with coding agents"
+    },
+    {
+      "name": "xbtlin/ai-berkshire",
+      "rank": 9,
+      "stars": "7,681",
+      "stars_today": "969",
+      "language": "Python",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis."
+    },
+    {
+      "name": "roboflow/supervision",
+      "rank": 10,
+      "stars": "45,985",
+      "stars_today": "309",
+      "language": "Python",
+      "description": "We write your reusable computer vision tools. 💜"
+    },
+    {
+      "name": "simplex-chat/simplex-chat",
+      "rank": 11,
+      "stars": "17,410",
+      "stars_today": "1,235",
+      "language": "Haskell",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!"
+    },
+    {
+      "name": "microsoft/AI-For-Beginners",
+      "rank": 12,
+      "stars": "49,583",
+      "stars_today": "252",
+      "language": "Jupyter Notebook",
+      "description": "12 Weeks, 24 Lessons, AI for All!"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "rank": 13,
+      "stars": "15,918",
+      "stars_today": "721",
+      "language": "Python",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\""
+    },
+    {
+      "name": "google/agents-cli",
+      "rank": 14,
+      "stars": "4,338",
+      "stars_today": "445",
+      "language": "Python",
+      "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud."
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "rank": 15,
+      "stars": "9,117",
+      "stars_today": "486",
+      "language": "Rust",
+      "description": "agent multiplexer that lives in your terminal."
+    },
+    {
+      "name": "CoreBunch/Instatic",
+      "rank": 16,
+      "stars": "1,616",
+      "stars_today": "351",
+      "language": "TypeScript",
+      "description": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute"
+    },
+    {
+      "name": "facebook/astryx",
+      "rank": 17,
+      "stars": "1,909",
+      "stars_today": "364",
+      "language": "TypeScript",
+      "description": "An open source design system that's fully customizable and agent ready"
+    },
+    {
+      "name": "Robbyant/lingbot-map",
+      "rank": 18,
+      "stars": "8,943",
+      "stars_today": "189",
+      "language": "Python",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data"
+    },
+    {
+      "name": "Mebus/cupp",
+      "rank": 19,
+      "stars": "6,134",
+      "stars_today": "32",
+      "language": "Python",
+      "description": "Common User Passwords Profiler (CUPP)"
+    }
+  ]
+}
