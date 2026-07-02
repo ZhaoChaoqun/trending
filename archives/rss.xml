@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Wed, 01 Jul 2026 05:14:33 +0000</pubDate><lastBuildDate>Wed, 01 Jul 2026 05:14:33 +0000</lastBuildDate><item><title>#1 usestrix/strix (+515 stars)</title><link>https://github.com/usestrix/strix</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;usestrix/strix&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.&lt;/p&gt;
-&lt;p&gt;⭐ 28,315 | +515 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/usestrix/strix#2026-07-01</guid><pubDate>Wed, 01 Jul 2026 05:14:33 +0000</pubDate></item><item><title>#2 msitarzewski/agency-agents (+1,791 stars)</title><link>https://github.com/msitarzewski/agency-agents</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Thu, 02 Jul 2026 04:52:21 +0000</pubDate><lastBuildDate>Thu, 02 Jul 2026 04:52:21 +0000</lastBuildDate><item><title>#1 msitarzewski/agency-agents (+2,114 stars)</title><link>https://github.com/msitarzewski/agency-agents</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;msitarzewski/agency-agents&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.&lt;/p&gt;
-&lt;p&gt;⭐ 121,275 | +1,791 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 123,956 | +2,114 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/msitarzewski/agency-agents#2026-07-01</guid><pubDate>Wed, 01 Jul 2026 05:14:33 +0000</pubDate></item><item><title>#3 ripienaar/free-for-dev (+742 stars)</title><link>https://github.com/ripienaar/free-for-dev</link><description>
+</description><guid isPermaLink="false">https://github.com/msitarzewski/agency-agents#2026-07-02</guid><pubDate>Thu, 02 Jul 2026 04:52:21 +0000</pubDate></item><item><title>#2 usestrix/strix (+1,211 stars)</title><link>https://github.com/usestrix/strix</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ripienaar/free-for-dev&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev&lt;/p&gt;
-&lt;p&gt;⭐ 127,402 | +742 today | 🔧 HTML&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;usestrix/strix&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.&lt;/p&gt;
+&lt;p&gt;⭐ 30,040 | +1,211 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/ripienaar/free-for-dev#2026-07-01</guid><pubDate>Wed, 01 Jul 2026 05:14:33 +0000</pubDate></item><item><title>#4 obra/superpowers (+890 stars)</title><link>https://github.com/obra/superpowers</link><description>
+</description><guid isPermaLink="false">https://github.com/usestrix/strix#2026-07-02</guid><pubDate>Thu, 02 Jul 2026 04:52:21 +0000</pubDate></item><item><title>#3 microsoft/AI-For-Beginners (+1,096 stars)</title><link>https://github.com/microsoft/AI-For-Beginners</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 242,729 | +890 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;microsoft/AI-For-Beginners&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;12 Weeks, 24 Lessons, AI for All!&lt;/p&gt;
+&lt;p&gt;⭐ 50,676 | +1,096 today | 🔧 Jupyter Notebook&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-07-01</guid><pubDate>Wed, 01 Jul 2026 05:14:33 +0000</pubDate></item><item><title>#5 hasaneyldrm/exercises-dataset (+1,343 stars)</title><link>https://github.com/hasaneyldrm/exercises-dataset</link><description>
+</description><guid isPermaLink="false">https://github.com/microsoft/AI-For-Beginners#2026-07-02</guid><pubDate>Thu, 02 Jul 2026 04:52:21 +0000</pubDate></item><item><title>#4 HKUDS/Vibe-Trading (+694 stars)</title><link>https://github.com/HKUDS/Vibe-Trading</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;HKUDS/Vibe-Trading&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;"Vibe-Trading: Your Personal Trading Agent"&lt;/p&gt;
+&lt;p&gt;⭐ 16,742 | +694 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/HKUDS/Vibe-Trading#2026-07-02</guid><pubDate>Thu, 02 Jul 2026 04:52:21 +0000</pubDate></item><item><title>#5 hasaneyldrm/exercises-dataset (+2,470 stars)</title><link>https://github.com/hasaneyldrm/exercises-dataset</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;hasaneyldrm/exercises-dataset&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.&lt;/p&gt;
-&lt;p&gt;⭐ 7,146 | +1,343 today | 🔧 HTML&lt;/p&gt;
+&lt;p&gt;⭐ 8,582 | +2,470 today | 🔧 HTML&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/hasaneyldrm/exercises-dataset#2026-07-01</guid><pubDate>Wed, 01 Jul 2026 05:14:33 +0000</pubDate></item><item><title>#6 altic-dev/FluidVoice (+588 stars)</title><link>https://github.com/altic-dev/FluidVoice</link><description>
+</description><guid isPermaLink="false">https://github.com/hasaneyldrm/exercises-dataset#2026-07-02</guid><pubDate>Thu, 02 Jul 2026 04:52:21 +0000</pubDate></item><item><title>#6 facebook/astryx (+708 stars)</title><link>https://github.com/facebook/astryx</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;altic-dev/FluidVoice&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.&lt;/p&gt;
-&lt;p&gt;⭐ 5,048 | +588 today | 🔧 Swift&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;facebook/astryx&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An open source design system that's fully customizable and agent ready&lt;/p&gt;
+&lt;p&gt;⭐ 2,822 | +708 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/altic-dev/FluidVoice#2026-07-01</guid><pubDate>Wed, 01 Jul 2026 05:14:33 +0000</pubDate></item><item><title>#7 diegosouzapw/OmniRoute (+387 stars)</title><link>https://github.com/diegosouzapw/OmniRoute</link><description>
+</description><guid isPermaLink="false">https://github.com/facebook/astryx#2026-07-02</guid><pubDate>Thu, 02 Jul 2026 04:52:21 +0000</pubDate></item><item><title>#7 diegosouzapw/OmniRoute (+1,010 stars)</title><link>https://github.com/diegosouzapw/OmniRoute</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;diegosouzapw/OmniRoute&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.&lt;/p&gt;
-&lt;p&gt;⭐ 8,740 | +387 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 9,702 | +1,010 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/diegosouzapw/OmniRoute#2026-07-01</guid><pubDate>Wed, 01 Jul 2026 05:14:33 +0000</pubDate></item><item><title>#8 browser-use/video-use (+721 stars)</title><link>https://github.com/browser-use/video-use</link><description>
+</description><guid isPermaLink="false">https://github.com/diegosouzapw/OmniRoute#2026-07-02</guid><pubDate>Thu, 02 Jul 2026 04:52:21 +0000</pubDate></item><item><title>#8 allenai/olmocr (+334 stars)</title><link>https://github.com/allenai/olmocr</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;browser-use/video-use&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Edit videos with coding agents&lt;/p&gt;
-&lt;p&gt;⭐ 12,754 | +721 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;allenai/olmocr&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Toolkit for linearizing PDFs for LLM datasets/training&lt;/p&gt;
+&lt;p&gt;⭐ 18,358 | +334 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/browser-use/video-use#2026-07-01</guid><pubDate>Wed, 01 Jul 2026 05:14:33 +0000</pubDate></item><item><title>#9 xbtlin/ai-berkshire (+969 stars)</title><link>https://github.com/xbtlin/ai-berkshire</link><description>
+</description><guid isPermaLink="false">https://github.com/allenai/olmocr#2026-07-02</guid><pubDate>Thu, 02 Jul 2026 04:52:21 +0000</pubDate></item><item><title>#9 ogulcancelik/herdr (+609 stars)</title><link>https://github.com/ogulcancelik/herdr</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;xbtlin/ai-berkshire&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.&lt;/p&gt;
-&lt;p&gt;⭐ 7,681 | +969 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ogulcancelik/herdr&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;agent multiplexer that lives in your terminal.&lt;/p&gt;
+&lt;p&gt;⭐ 9,725 | +609 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/xbtlin/ai-berkshire#2026-07-01</guid><pubDate>Wed, 01 Jul 2026 05:14:33 +0000</pubDate></item><item><title>#10 roboflow/supervision (+309 stars)</title><link>https://github.com/roboflow/supervision</link><description>
+</description><guid isPermaLink="false">https://github.com/ogulcancelik/herdr#2026-07-02</guid><pubDate>Thu, 02 Jul 2026 04:52:21 +0000</pubDate></item><item><title>#10 altic-dev/FluidVoice (+572 stars)</title><link>https://github.com/altic-dev/FluidVoice</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;roboflow/supervision&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;We write your reusable computer vision tools. 💜&lt;/p&gt;
-&lt;p&gt;⭐ 45,985 | +309 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;altic-dev/FluidVoice&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.&lt;/p&gt;
+&lt;p&gt;⭐ 5,587 | +572 today | 🔧 Swift&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/roboflow/supervision#2026-07-01</guid><pubDate>Wed, 01 Jul 2026 05:14:33 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/altic-dev/FluidVoice#2026-07-02</guid><pubDate>Thu, 02 Jul 2026 04:52:21 +0000</pubDate></item></channel></rss>

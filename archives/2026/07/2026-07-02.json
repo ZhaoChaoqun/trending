@@ -1,0 +1,167 @@
+{
+  "date": "2026-07-02",
+  "updated_at": "2026-07-02 04:52:21",
+  "count": 20,
+  "rankings": [
+    {
+      "name": "msitarzewski/agency-agents",
+      "rank": 1,
+      "stars": "123,956",
+      "stars_today": "2,114",
+      "language": "Shell",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "name": "usestrix/strix",
+      "rank": 2,
+      "stars": "30,040",
+      "stars_today": "1,211",
+      "language": "Python",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities."
+    },
+    {
+      "name": "microsoft/AI-For-Beginners",
+      "rank": 3,
+      "stars": "50,676",
+      "stars_today": "1,096",
+      "language": "Jupyter Notebook",
+      "description": "12 Weeks, 24 Lessons, AI for All!"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "rank": 4,
+      "stars": "16,742",
+      "stars_today": "694",
+      "language": "Python",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\""
+    },
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "rank": 5,
+      "stars": "8,582",
+      "stars_today": "2,470",
+      "language": "HTML",
+      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video."
+    },
+    {
+      "name": "facebook/astryx",
+      "rank": 6,
+      "stars": "2,822",
+      "stars_today": "708",
+      "language": "TypeScript",
+      "description": "An open source design system that's fully customizable and agent ready"
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "rank": 7,
+      "stars": "9,702",
+      "stars_today": "1,010",
+      "language": "TypeScript",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA."
+    },
+    {
+      "name": "allenai/olmocr",
+      "rank": 8,
+      "stars": "18,358",
+      "stars_today": "334",
+      "language": "Python",
+      "description": "Toolkit for linearizing PDFs for LLM datasets/training"
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "rank": 9,
+      "stars": "9,725",
+      "stars_today": "609",
+      "language": "Rust",
+      "description": "agent multiplexer that lives in your terminal."
+    },
+    {
+      "name": "altic-dev/FluidVoice",
+      "rank": 10,
+      "stars": "5,587",
+      "stars_today": "572",
+      "language": "Swift",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon."
+    },
+    {
+      "name": "browser-use/video-use",
+      "rank": 11,
+      "stars": "13,325",
+      "stars_today": "693",
+      "language": "Python",
+      "description": "Edit videos with coding agents"
+    },
+    {
+      "name": "logto-io/logto",
+      "rank": 12,
+      "stars": "13,342",
+      "stars_today": "113",
+      "language": "TypeScript",
+      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC."
+    },
+    {
+      "name": "Mebus/cupp",
+      "rank": 13,
+      "stars": "6,265",
+      "stars_today": "184",
+      "language": "Python",
+      "description": "Common User Passwords Profiler (CUPP)"
+    },
+    {
+      "name": "refactoringhq/tolaria",
+      "rank": 14,
+      "stars": "18,073",
+      "stars_today": "150",
+      "language": "TypeScript",
+      "description": "Desktop app to manage markdown knowledge bases"
+    },
+    {
+      "name": "CoreBunch/Instatic",
+      "rank": 15,
+      "stars": "2,070",
+      "stars_today": "508",
+      "language": "TypeScript",
+      "description": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute"
+    },
+    {
+      "name": "TencentCloud/CubeSandbox",
+      "rank": 16,
+      "stars": "6,870",
+      "stars_today": "79",
+      "language": "Rust",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents."
+    },
+    {
+      "name": "yikart/AiToEarn",
+      "rank": 17,
+      "stars": "22,670",
+      "stars_today": "116",
+      "language": "TypeScript",
+      "description": "Let's use AI to Earn!"
+    },
+    {
+      "name": "Unclecheng-li/VulnClaw",
+      "rank": 18,
+      "stars": "1,630",
+      "stars_today": "132",
+      "language": "Python",
+      "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。"
+    },
+    {
+      "name": "0xNyk/council-of-high-intelligence",
+      "rank": 19,
+      "stars": "2,726",
+      "stars_today": "161",
+      "language": "Shell",
+      "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council"
+    },
+    {
+      "name": "togatoga/karukan",
+      "rank": 20,
+      "stars": "603",
+      "stars_today": "42",
+      "language": "Rust",
+      "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine"
+    }
+  ]
+}
