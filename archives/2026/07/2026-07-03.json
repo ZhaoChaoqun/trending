@@ -1,0 +1,143 @@
+{
+  "date": "2026-07-03",
+  "updated_at": "2026-07-03 04:34:49",
+  "count": 17,
+  "rankings": [
+    {
+      "name": "usestrix/strix",
+      "rank": 1,
+      "stars": "32,612",
+      "stars_today": "2,137",
+      "language": "Python",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities."
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "rank": 2,
+      "stars": "81,384",
+      "stars_today": "926",
+      "language": "JavaScript",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "rank": 3,
+      "stars": "125,727",
+      "stars_today": "3,032",
+      "language": "Shell",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "name": "santifer/career-ops",
+      "rank": 4,
+      "stars": "58,007",
+      "stars_today": "372",
+      "language": "JavaScript",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing."
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 5,
+      "stars": "244,654",
+      "stars_today": "897",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "rank": 6,
+      "stars": "9,390",
+      "stars_today": "938",
+      "language": "HTML",
+      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video."
+    },
+    {
+      "name": "browser-use/video-use",
+      "rank": 7,
+      "stars": "13,921",
+      "stars_today": "554",
+      "language": "Python",
+      "description": "Edit videos with coding agents"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "rank": 8,
+      "stars": "225,289",
+      "stars_today": "486",
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "rank": 9,
+      "stars": "17,447",
+      "stars_today": "939",
+      "language": "Python",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\""
+    },
+    {
+      "name": "openai/codex-plugin-cc",
+      "rank": 10,
+      "stars": "22,746",
+      "stars_today": "352",
+      "language": "JavaScript",
+      "description": "Use Codex from Claude Code to review code or delegate tasks."
+    },
+    {
+      "name": "langflow-ai/langflow",
+      "rank": 11,
+      "stars": "150,853",
+      "stars_today": "117",
+      "language": "Python",
+      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows."
+    },
+    {
+      "name": "pytorch/pytorch",
+      "rank": 12,
+      "stars": "101,273",
+      "stars_today": "65",
+      "language": "Python",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "rank": 13,
+      "stars": "45,158",
+      "stars_today": "104",
+      "language": "TypeScript",
+      "description": "Chrome DevTools for coding agents"
+    },
+    {
+      "name": "agentskills/agentskills",
+      "rank": 14,
+      "stars": "21,687",
+      "stars_today": "86",
+      "language": "Python",
+      "description": "Specification and documentation for Agent Skills"
+    },
+    {
+      "name": "harvard-edge/cs249r_book",
+      "rank": 15,
+      "stars": "25,703",
+      "stars_today": "68",
+      "language": "Python",
+      "description": "Machine Learning Systems"
+    },
+    {
+      "name": "ryanmcdermott/clean-code-javascript",
+      "rank": 16,
+      "stars": "94,608",
+      "stars_today": "27",
+      "language": "JavaScript",
+      "description": "Clean Code concepts adapted for JavaScript"
+    },
+    {
+      "name": "actions/checkout",
+      "rank": 17,
+      "stars": "8,187",
+      "stars_today": "26",
+      "language": "TypeScript",
+      "description": "Action for checking out a repo"
+    }
+  ]
+}
