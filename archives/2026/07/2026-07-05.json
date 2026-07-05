@@ -1,0 +1,151 @@
+{
+  "date": "2026-07-05",
+  "updated_at": "2026-07-05 04:48:50",
+  "count": 18,
+  "rankings": [
+    {
+      "name": "openai/codex-plugin-cc",
+      "rank": 1,
+      "stars": "24,700",
+      "stars_today": "718",
+      "language": "JavaScript",
+      "description": "Use Codex from Claude Code to review code or delegate tasks."
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "rank": 2,
+      "stars": "84,114",
+      "stars_today": "1,089",
+      "language": "JavaScript",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman"
+    },
+    {
+      "name": "alibaba/page-agent",
+      "rank": 3,
+      "stars": "23,239",
+      "stars_today": "742",
+      "language": "TypeScript",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language."
+    },
+    {
+      "name": "usestrix/strix",
+      "rank": 4,
+      "stars": "36,242",
+      "stars_today": "1,904",
+      "language": "Python",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities."
+    },
+    {
+      "name": "mattpocock/skills",
+      "rank": 5,
+      "stars": "156,717",
+      "stars_today": "973",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "rank": 6,
+      "stars": "45,825",
+      "stars_today": "304",
+      "language": "TypeScript",
+      "description": "Chrome DevTools for coding agents"
+    },
+    {
+      "name": "Zackriya-Solutions/meetily",
+      "rank": 7,
+      "stars": "15,447",
+      "stars_today": "718",
+      "language": "Rust",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows."
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "rank": 8,
+      "stars": "49,062",
+      "stars_today": "471",
+      "language": "JavaScript",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly."
+    },
+    {
+      "name": "harvard-edge/cs249r_book",
+      "rank": 9,
+      "stars": "26,619",
+      "stars_today": "443",
+      "language": "Python",
+      "description": "Machine Learning Systems"
+    },
+    {
+      "name": "rommapp/romm",
+      "rank": 10,
+      "stars": "10,263",
+      "stars_today": "398",
+      "language": "Python",
+      "description": "A beautiful, powerful, self-hosted rom manager and player."
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "rank": 11,
+      "stars": "11,540",
+      "stars_today": "707",
+      "language": "Rust",
+      "description": "agent multiplexer that lives in your terminal."
+    },
+    {
+      "name": "agentskills/agentskills",
+      "rank": 12,
+      "stars": "22,387",
+      "stars_today": "351",
+      "language": "Python",
+      "description": "Specification and documentation for Agent Skills"
+    },
+    {
+      "name": "immich-app/immich",
+      "rank": 13,
+      "stars": "105,701",
+      "stars_today": "201",
+      "language": "TypeScript",
+      "description": "High performance self-hosted photo and video management solution."
+    },
+    {
+      "name": "alirezarezvani/claude-skills",
+      "rank": 14,
+      "stars": "20,206",
+      "stars_today": "136",
+      "language": "Python",
+      "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills."
+    },
+    {
+      "name": "CoplayDev/unity-mcp",
+      "rank": 15,
+      "stars": "11,660",
+      "stars_today": "69",
+      "language": "C#",
+      "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity."
+    },
+    {
+      "name": "dotnet/skills",
+      "rank": 16,
+      "stars": "3,846",
+      "stars_today": "59",
+      "language": "C#",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#"
+    },
+    {
+      "name": "chthollyphile/folia-major",
+      "rank": 17,
+      "stars": "1,014",
+      "stars_today": "175",
+      "language": "TypeScript",
+      "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器"
+    },
+    {
+      "name": "crynta/terax-ai",
+      "rank": 18,
+      "stars": "8,101",
+      "stars_today": "62",
+      "language": "TypeScript",
+      "description": "Lightweight (7MB) Terminal-first AI-native dev workspace"
+    }
+  ]
+}
