@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sun, 05 Jul 2026 04:48:50 +0000</pubDate><lastBuildDate>Sun, 05 Jul 2026 04:48:50 +0000</lastBuildDate><item><title>#1 openai/codex-plugin-cc (+718 stars)</title><link>https://github.com/openai/codex-plugin-cc</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Mon, 06 Jul 2026 05:02:19 +0000</pubDate><lastBuildDate>Mon, 06 Jul 2026 05:02:19 +0000</lastBuildDate><item><title>#1 openai/codex-plugin-cc (+1,532 stars)</title><link>https://github.com/openai/codex-plugin-cc</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;openai/codex-plugin-cc&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Use Codex from Claude Code to review code or delegate tasks.&lt;/p&gt;
-&lt;p&gt;⭐ 24,700 | +718 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 25,683 | +1,532 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/openai/codex-plugin-cc#2026-07-05</guid><pubDate>Sun, 05 Jul 2026 04:48:50 +0000</pubDate></item><item><title>#2 JuliusBrussee/caveman (+1,089 stars)</title><link>https://github.com/JuliusBrussee/caveman</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;JuliusBrussee/caveman&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman&lt;/p&gt;
-&lt;p&gt;⭐ 84,114 | +1,089 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/JuliusBrussee/caveman#2026-07-05</guid><pubDate>Sun, 05 Jul 2026 04:48:50 +0000</pubDate></item><item><title>#3 alibaba/page-agent (+742 stars)</title><link>https://github.com/alibaba/page-agent</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;alibaba/page-agent&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;JavaScript in-page GUI agent. Control web interfaces with natural language.&lt;/p&gt;
-&lt;p&gt;⭐ 23,239 | +742 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/alibaba/page-agent#2026-07-05</guid><pubDate>Sun, 05 Jul 2026 04:48:50 +0000</pubDate></item><item><title>#4 usestrix/strix (+1,904 stars)</title><link>https://github.com/usestrix/strix</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;usestrix/strix&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.&lt;/p&gt;
-&lt;p&gt;⭐ 36,242 | +1,904 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/usestrix/strix#2026-07-05</guid><pubDate>Sun, 05 Jul 2026 04:48:50 +0000</pubDate></item><item><title>#5 mattpocock/skills (+973 stars)</title><link>https://github.com/mattpocock/skills</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;mattpocock/skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Skills for Real Engineers. Straight from my .claude directory.&lt;/p&gt;
-&lt;p&gt;⭐ 156,717 | +973 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-07-05</guid><pubDate>Sun, 05 Jul 2026 04:48:50 +0000</pubDate></item><item><title>#6 ChromeDevTools/chrome-devtools-mcp (+304 stars)</title><link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ChromeDevTools/chrome-devtools-mcp&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Chrome DevTools for coding agents&lt;/p&gt;
-&lt;p&gt;⭐ 45,825 | +304 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/ChromeDevTools/chrome-devtools-mcp#2026-07-05</guid><pubDate>Sun, 05 Jul 2026 04:48:50 +0000</pubDate></item><item><title>#7 Zackriya-Solutions/meetily (+718 stars)</title><link>https://github.com/Zackriya-Solutions/meetily</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Zackriya-Solutions/meetily&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.&lt;/p&gt;
-&lt;p&gt;⭐ 15,447 | +718 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/Zackriya-Solutions/meetily#2026-07-05</guid><pubDate>Sun, 05 Jul 2026 04:48:50 +0000</pubDate></item><item><title>#8 asgeirtj/system_prompts_leaks (+471 stars)</title><link>https://github.com/asgeirtj/system_prompts_leaks</link><description>
+</description><guid isPermaLink="false">https://github.com/openai/codex-plugin-cc#2026-07-06</guid><pubDate>Mon, 06 Jul 2026 05:02:19 +0000</pubDate></item><item><title>#2 asgeirtj/system_prompts_leaks (+981 stars)</title><link>https://github.com/asgeirtj/system_prompts_leaks</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;asgeirtj/system_prompts_leaks&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.&lt;/p&gt;
-&lt;p&gt;⭐ 49,062 | +471 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 50,249 | +981 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/asgeirtj/system_prompts_leaks#2026-07-05</guid><pubDate>Sun, 05 Jul 2026 04:48:50 +0000</pubDate></item><item><title>#9 harvard-edge/cs249r_book (+443 stars)</title><link>https://github.com/harvard-edge/cs249r_book</link><description>
+</description><guid isPermaLink="false">https://github.com/asgeirtj/system_prompts_leaks#2026-07-06</guid><pubDate>Mon, 06 Jul 2026 05:02:19 +0000</pubDate></item><item><title>#3 Leonxlnx/taste-skill (+863 stars)</title><link>https://github.com/Leonxlnx/taste-skill</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;harvard-edge/cs249r_book&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Machine Learning Systems&lt;/p&gt;
-&lt;p&gt;⭐ 26,619 | +443 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Leonxlnx/taste-skill&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop&lt;/p&gt;
+&lt;p&gt;⭐ 57,807 | +863 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Leonxlnx/taste-skill#2026-07-06</guid><pubDate>Mon, 06 Jul 2026 05:02:19 +0000</pubDate></item><item><title>#4 alibaba/page-agent (+805 stars)</title><link>https://github.com/alibaba/page-agent</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;alibaba/page-agent&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;JavaScript in-page GUI agent. Control web interfaces with natural language.&lt;/p&gt;
+&lt;p&gt;⭐ 24,100 | +805 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/alibaba/page-agent#2026-07-06</guid><pubDate>Mon, 06 Jul 2026 05:02:19 +0000</pubDate></item><item><title>#5 usestrix/strix (+1,114 stars)</title><link>https://github.com/usestrix/strix</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;usestrix/strix&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.&lt;/p&gt;
+&lt;p&gt;⭐ 37,345 | +1,114 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/usestrix/strix#2026-07-06</guid><pubDate>Mon, 06 Jul 2026 05:02:19 +0000</pubDate></item><item><title>#6 JuliusBrussee/caveman (+1,052 stars)</title><link>https://github.com/JuliusBrussee/caveman</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;JuliusBrussee/caveman&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman&lt;/p&gt;
+&lt;p&gt;⭐ 85,067 | +1,052 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/JuliusBrussee/caveman#2026-07-06</guid><pubDate>Mon, 06 Jul 2026 05:02:19 +0000</pubDate></item><item><title>#7 Zackriya-Solutions/meetily (+1,409 stars)</title><link>https://github.com/Zackriya-Solutions/meetily</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Zackriya-Solutions/meetily&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.&lt;/p&gt;
+&lt;p&gt;⭐ 17,490 | +1,409 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/harvard-edge/cs249r_book#2026-07-05</guid><pubDate>Sun, 05 Jul 2026 04:48:50 +0000</pubDate></item><item><title>#10 rommapp/romm (+398 stars)</title><link>https://github.com/rommapp/romm</link><description>
+</description><guid isPermaLink="false">https://github.com/Zackriya-Solutions/meetily#2026-07-06</guid><pubDate>Mon, 06 Jul 2026 05:02:19 +0000</pubDate></item><item><title>#8 alirezarezvani/claude-skills (+392 stars)</title><link>https://github.com/alirezarezvani/claude-skills</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;alirezarezvani/claude-skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;337 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.&lt;/p&gt;
+&lt;p&gt;⭐ 20,712 | +392 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/alirezarezvani/claude-skills#2026-07-06</guid><pubDate>Mon, 06 Jul 2026 05:02:19 +0000</pubDate></item><item><title>#9 rommapp/romm (+410 stars)</title><link>https://github.com/rommapp/romm</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;rommapp/romm&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A beautiful, powerful, self-hosted rom manager and player.&lt;/p&gt;
-&lt;p&gt;⭐ 10,263 | +398 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 10,628 | +410 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/rommapp/romm#2026-07-05</guid><pubDate>Sun, 05 Jul 2026 04:48:50 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/rommapp/romm#2026-07-06</guid><pubDate>Mon, 06 Jul 2026 05:02:19 +0000</pubDate></item><item><title>#10 ogulcancelik/herdr (+651 stars)</title><link>https://github.com/ogulcancelik/herdr</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;ogulcancelik/herdr&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;agent multiplexer that lives in your terminal.&lt;/p&gt;
+&lt;p&gt;⭐ 12,224 | +651 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/ogulcancelik/herdr#2026-07-06</guid><pubDate>Mon, 06 Jul 2026 05:02:19 +0000</pubDate></item></channel></rss>
