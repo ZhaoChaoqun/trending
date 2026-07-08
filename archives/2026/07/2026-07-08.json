@@ -1,0 +1,111 @@
+{
+  "date": "2026-07-08",
+  "updated_at": "2026-07-08 04:08:06",
+  "count": 13,
+  "rankings": [
+    {
+      "name": "Zackriya-Solutions/meetily",
+      "rank": 1,
+      "stars": "20,939",
+      "stars_today": "1,777",
+      "language": "Rust",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows."
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "rank": 2,
+      "stars": "72,332",
+      "stars_today": "1,317",
+      "language": "JavaScript",
+      "description": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "name": "ruvnet/RuView",
+      "rank": 3,
+      "stars": "78,597",
+      "stars_today": "1,129",
+      "language": "Rust",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "rank": 4,
+      "stars": "53,200",
+      "stars_today": "1,691",
+      "language": "JavaScript",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly."
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "rank": 5,
+      "stars": "11,592",
+      "stars_today": "2,514",
+      "language": "TypeScript",
+      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews."
+    },
+    {
+      "name": "TencentCloud/CubeSandbox",
+      "rank": 6,
+      "stars": "8,540",
+      "stars_today": "664",
+      "language": "Rust",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents."
+    },
+    {
+      "name": "steipete/CodexBar",
+      "rank": 7,
+      "stars": "17,079",
+      "stars_today": "376",
+      "language": "Swift",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login."
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "rank": 8,
+      "stars": "10,299",
+      "stars_today": "893",
+      "language": "C#",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required."
+    },
+    {
+      "name": "bradautomates/claude-video",
+      "rank": 9,
+      "stars": "5,323",
+      "stars_today": "965",
+      "language": "Python",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude."
+    },
+    {
+      "name": "kyutai-labs/pocket-tts",
+      "rank": 10,
+      "stars": "6,291",
+      "stars_today": "531",
+      "language": "Python",
+      "description": "A TTS that fits in your CPU (and pocket)"
+    },
+    {
+      "name": "hesreallyhim/awesome-claude-code",
+      "rank": 11,
+      "stars": "49,242",
+      "stars_today": "144",
+      "language": "Python",
+      "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins"
+    },
+    {
+      "name": "AhmadIbrahiim/Website-downloader",
+      "rank": 12,
+      "stars": "4,154",
+      "stars_today": "140",
+      "language": "HTML",
+      "description": "💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js"
+    },
+    {
+      "name": "dotnet/skills",
+      "rank": 13,
+      "stars": "4,343",
+      "stars_today": "64",
+      "language": "C#",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#"
+    }
+  ]
+}
