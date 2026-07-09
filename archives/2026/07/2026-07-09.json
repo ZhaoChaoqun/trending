@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-09",
+  "updated_at": "2026-07-09 04:46:32",
+  "count": 15,
+  "rankings": [
+    {
+      "name": "addyosmani/agent-skills",
+      "rank": 1,
+      "stars": "74,551",
+      "stars_today": "1,297",
+      "language": "JavaScript",
+      "description": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "name": "ruvnet/RuView",
+      "rank": 2,
+      "stars": "79,257",
+      "stars_today": "799",
+      "language": "Rust",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "rank": 3,
+      "stars": "50,893",
+      "stars_today": "352",
+      "language": "Python",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "rank": 4,
+      "stars": "54,400",
+      "stars_today": "1,218",
+      "language": "JavaScript",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly."
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 5,
+      "stars": "250,052",
+      "stars_today": "1,116",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "rank": 6,
+      "stars": "7,774",
+      "stars_today": "318",
+      "language": "TypeScript",
+      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies."
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "rank": 7,
+      "stars": "12,239",
+      "stars_today": "1,717",
+      "language": "C#",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required."
+    },
+    {
+      "name": "alibaba/zvec",
+      "rank": 8,
+      "stars": "14,488",
+      "stars_today": "395",
+      "language": "C++",
+      "description": "A lightweight, lightning-fast, in-process vector database"
+    },
+    {
+      "name": "Diolinux/PhotoGIMP",
+      "rank": 9,
+      "stars": "15,122",
+      "stars_today": "1,125",
+      "language": "CSS",
+      "description": "A Patch for GIMP 3+ for Photoshop Users"
+    },
+    {
+      "name": "bradautomates/claude-video",
+      "rank": 10,
+      "stars": "6,176",
+      "stars_today": "951",
+      "language": "Python",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude."
+    },
+    {
+      "name": "TencentCloud/CubeSandbox",
+      "rank": 11,
+      "stars": "9,028",
+      "stars_today": "564",
+      "language": "Rust",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents."
+    },
+    {
+      "name": "prisma/prisma",
+      "rank": 12,
+      "stars": "46,630",
+      "stars_today": "46",
+      "language": "TypeScript",
+      "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB"
+    },
+    {
+      "name": "argoproj/argo-cd",
+      "rank": 13,
+      "stars": "23,462",
+      "stars_today": "29",
+      "language": "Go",
+      "description": "Declarative Continuous Deployment for Kubernetes"
+    },
+    {
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "rank": 14,
+      "stars": "6,413",
+      "stars_today": "28",
+      "language": "TypeScript",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities"
+    },
+    {
+      "name": "huxingyi/autoremesher",
+      "rank": 15,
+      "stars": "2,069",
+      "stars_today": "296",
+      "language": "C++",
+      "description": "Automatic quad remeshing tool"
+    }
+  ]
+}

@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Wed, 08 Jul 2026 04:08:06 +0000</pubDate><lastBuildDate>Wed, 08 Jul 2026 04:08:06 +0000</lastBuildDate><item><title>#1 Zackriya-Solutions/meetily (+1,777 stars)</title><link>https://github.com/Zackriya-Solutions/meetily</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Zackriya-Solutions/meetily&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.&lt;/p&gt;
-&lt;p&gt;⭐ 20,939 | +1,777 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/Zackriya-Solutions/meetily#2026-07-08</guid><pubDate>Wed, 08 Jul 2026 04:08:06 +0000</pubDate></item><item><title>#2 addyosmani/agent-skills (+1,317 stars)</title><link>https://github.com/addyosmani/agent-skills</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Thu, 09 Jul 2026 04:46:32 +0000</pubDate><lastBuildDate>Thu, 09 Jul 2026 04:46:32 +0000</lastBuildDate><item><title>#1 addyosmani/agent-skills (+1,297 stars)</title><link>https://github.com/addyosmani/agent-skills</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;addyosmani/agent-skills&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Production-grade engineering skills for AI coding agents.&lt;/p&gt;
-&lt;p&gt;⭐ 72,332 | +1,317 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 74,551 | +1,297 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/addyosmani/agent-skills#2026-07-08</guid><pubDate>Wed, 08 Jul 2026 04:08:06 +0000</pubDate></item><item><title>#3 ruvnet/RuView (+1,129 stars)</title><link>https://github.com/ruvnet/RuView</link><description>
+</description><guid isPermaLink="false">https://github.com/addyosmani/agent-skills#2026-07-09</guid><pubDate>Thu, 09 Jul 2026 04:46:32 +0000</pubDate></item><item><title>#2 ruvnet/RuView (+799 stars)</title><link>https://github.com/ruvnet/RuView</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;ruvnet/RuView&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.&lt;/p&gt;
-&lt;p&gt;⭐ 78,597 | +1,129 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;⭐ 79,257 | +799 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/ruvnet/RuView#2026-07-08</guid><pubDate>Wed, 08 Jul 2026 04:08:06 +0000</pubDate></item><item><title>#4 asgeirtj/system_prompts_leaks (+1,691 stars)</title><link>https://github.com/asgeirtj/system_prompts_leaks</link><description>
+</description><guid isPermaLink="false">https://github.com/ruvnet/RuView#2026-07-09</guid><pubDate>Thu, 09 Jul 2026 04:46:32 +0000</pubDate></item><item><title>#3 mvanhorn/last30days-skill (+352 stars)</title><link>https://github.com/mvanhorn/last30days-skill</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;mvanhorn/last30days-skill&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary&lt;/p&gt;
+&lt;p&gt;⭐ 50,893 | +352 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/mvanhorn/last30days-skill#2026-07-09</guid><pubDate>Thu, 09 Jul 2026 04:46:32 +0000</pubDate></item><item><title>#4 asgeirtj/system_prompts_leaks (+1,218 stars)</title><link>https://github.com/asgeirtj/system_prompts_leaks</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;asgeirtj/system_prompts_leaks&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.&lt;/p&gt;
-&lt;p&gt;⭐ 53,200 | +1,691 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 54,400 | +1,218 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/asgeirtj/system_prompts_leaks#2026-07-08</guid><pubDate>Wed, 08 Jul 2026 04:08:06 +0000</pubDate></item><item><title>#5 MadsLorentzen/ai-job-search (+2,514 stars)</title><link>https://github.com/MadsLorentzen/ai-job-search</link><description>
+</description><guid isPermaLink="false">https://github.com/asgeirtj/system_prompts_leaks#2026-07-09</guid><pubDate>Thu, 09 Jul 2026 04:46:32 +0000</pubDate></item><item><title>#5 obra/superpowers (+1,116 stars)</title><link>https://github.com/obra/superpowers</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;MadsLorentzen/ai-job-search&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.&lt;/p&gt;
-&lt;p&gt;⭐ 11,592 | +2,514 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
+&lt;p&gt;⭐ 250,052 | +1,116 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-07-09</guid><pubDate>Thu, 09 Jul 2026 04:46:32 +0000</pubDate></item><item><title>#6 TencentCloud/TencentDB-Agent-Memory (+318 stars)</title><link>https://github.com/TencentCloud/TencentDB-Agent-Memory</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;TencentCloud/TencentDB-Agent-Memory&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.&lt;/p&gt;
+&lt;p&gt;⭐ 7,774 | +318 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/MadsLorentzen/ai-job-search#2026-07-08</guid><pubDate>Wed, 08 Jul 2026 04:08:06 +0000</pubDate></item><item><title>#6 TencentCloud/CubeSandbox (+664 stars)</title><link>https://github.com/TencentCloud/CubeSandbox</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;TencentCloud/CubeSandbox&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.&lt;/p&gt;
-&lt;p&gt;⭐ 8,540 | +664 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/TencentCloud/CubeSandbox#2026-07-08</guid><pubDate>Wed, 08 Jul 2026 04:08:06 +0000</pubDate></item><item><title>#7 steipete/CodexBar (+376 stars)</title><link>https://github.com/steipete/CodexBar</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;steipete/CodexBar&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Show usage stats for OpenAI Codex and Claude Code, without having to login.&lt;/p&gt;
-&lt;p&gt;⭐ 17,079 | +376 today | 🔧 Swift&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/steipete/CodexBar#2026-07-08</guid><pubDate>Wed, 08 Jul 2026 04:08:06 +0000</pubDate></item><item><title>#8 iOfficeAI/OfficeCLI (+893 stars)</title><link>https://github.com/iOfficeAI/OfficeCLI</link><description>
+</description><guid isPermaLink="false">https://github.com/TencentCloud/TencentDB-Agent-Memory#2026-07-09</guid><pubDate>Thu, 09 Jul 2026 04:46:32 +0000</pubDate></item><item><title>#7 iOfficeAI/OfficeCLI (+1,717 stars)</title><link>https://github.com/iOfficeAI/OfficeCLI</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;iOfficeAI/OfficeCLI&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.&lt;/p&gt;
-&lt;p&gt;⭐ 10,299 | +893 today | 🔧 C#&lt;/p&gt;
+&lt;p&gt;⭐ 12,239 | +1,717 today | 🔧 C#&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/iOfficeAI/OfficeCLI#2026-07-08</guid><pubDate>Wed, 08 Jul 2026 04:08:06 +0000</pubDate></item><item><title>#9 bradautomates/claude-video (+965 stars)</title><link>https://github.com/bradautomates/claude-video</link><description>
+</description><guid isPermaLink="false">https://github.com/iOfficeAI/OfficeCLI#2026-07-09</guid><pubDate>Thu, 09 Jul 2026 04:46:32 +0000</pubDate></item><item><title>#8 alibaba/zvec (+395 stars)</title><link>https://github.com/alibaba/zvec</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;alibaba/zvec&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A lightweight, lightning-fast, in-process vector database&lt;/p&gt;
+&lt;p&gt;⭐ 14,488 | +395 today | 🔧 C++&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/alibaba/zvec#2026-07-09</guid><pubDate>Thu, 09 Jul 2026 04:46:32 +0000</pubDate></item><item><title>#9 Diolinux/PhotoGIMP (+1,125 stars)</title><link>https://github.com/Diolinux/PhotoGIMP</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Diolinux/PhotoGIMP&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A Patch for GIMP 3+ for Photoshop Users&lt;/p&gt;
+&lt;p&gt;⭐ 15,122 | +1,125 today | 🔧 CSS&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Diolinux/PhotoGIMP#2026-07-09</guid><pubDate>Thu, 09 Jul 2026 04:46:32 +0000</pubDate></item><item><title>#10 bradautomates/claude-video (+951 stars)</title><link>https://github.com/bradautomates/claude-video</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;bradautomates/claude-video&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.&lt;/p&gt;
-&lt;p&gt;⭐ 5,323 | +965 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 6,176 | +951 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/bradautomates/claude-video#2026-07-08</guid><pubDate>Wed, 08 Jul 2026 04:08:06 +0000</pubDate></item><item><title>#10 kyutai-labs/pocket-tts (+531 stars)</title><link>https://github.com/kyutai-labs/pocket-tts</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;kyutai-labs/pocket-tts&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A TTS that fits in your CPU (and pocket)&lt;/p&gt;
-&lt;p&gt;⭐ 6,291 | +531 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/kyutai-labs/pocket-tts#2026-07-08</guid><pubDate>Wed, 08 Jul 2026 04:08:06 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/bradautomates/claude-video#2026-07-09</guid><pubDate>Thu, 09 Jul 2026 04:46:32 +0000</pubDate></item></channel></rss>
