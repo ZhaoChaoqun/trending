@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-10",
+  "updated_at": "2026-07-10 04:42:34",
+  "count": 15,
+  "rankings": [
+    {
+      "name": "addyosmani/agent-skills",
+      "rank": 1,
+      "stars": "76,081",
+      "stars_today": "2,554",
+      "language": "JavaScript",
+      "description": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "name": "VoltAgent/awesome-design-md",
+      "rank": 2,
+      "stars": "99,973",
+      "stars_today": "1,391",
+      "language": null,
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI."
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "rank": 3,
+      "stars": "55,278",
+      "stars_today": "1,125",
+      "language": "JavaScript",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly."
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "rank": 4,
+      "stars": "19,511",
+      "stars_today": "3,716",
+      "language": "TypeScript",
+      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews."
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "rank": 5,
+      "stars": "13,687",
+      "stars_today": "1,929",
+      "language": "C#",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required."
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "rank": 6,
+      "stars": "47,243",
+      "stars_today": "194",
+      "language": "Jupyter Notebook",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude."
+    },
+    {
+      "name": "vxcontrol/pentagi",
+      "rank": 7,
+      "stars": "19,536",
+      "stars_today": "535",
+      "language": "Go",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks"
+    },
+    {
+      "name": "unclecode/crawl4ai",
+      "rank": 8,
+      "stars": "71,938",
+      "stars_today": "215",
+      "language": "Python",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN"
+    },
+    {
+      "name": "imthenachoman/How-To-Secure-A-Linux-Server",
+      "rank": 9,
+      "stars": "29,169",
+      "stars_today": "243",
+      "language": null,
+      "description": "An evolving how-to guide for securing a Linux server."
+    },
+    {
+      "name": "bradautomates/claude-video",
+      "rank": 10,
+      "stars": "6,807",
+      "stars_today": "718",
+      "language": "Python",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude."
+    },
+    {
+      "name": "prisma/prisma",
+      "rank": 11,
+      "stars": "46,947",
+      "stars_today": "376",
+      "language": "TypeScript",
+      "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB"
+    },
+    {
+      "name": "SmartlyDressedGames/U3-SDK",
+      "rank": 12,
+      "stars": "2,118",
+      "stars_today": "524",
+      "language": "C#",
+      "description": "Source code for Unturned, a free open-world zombie survival sandbox game."
+    },
+    {
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "rank": 13,
+      "stars": "6,606",
+      "stars_today": "185",
+      "language": "TypeScript",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities"
+    },
+    {
+      "name": "huxingyi/autoremesher",
+      "rank": 14,
+      "stars": "2,409",
+      "stars_today": "403",
+      "language": "C++",
+      "description": "Automatic quad remeshing tool"
+    },
+    {
+      "name": "kyutai-labs/pocket-tts",
+      "rank": 15,
+      "stars": "7,052",
+      "stars_today": "235",
+      "language": "Python",
+      "description": "A TTS that fits in your CPU (and pocket)"
+    }
+  ]
+}
