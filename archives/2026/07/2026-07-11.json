@@ -1,0 +1,159 @@
+{
+  "date": "2026-07-11",
+  "updated_at": "2026-07-11 03:59:03",
+  "count": 19,
+  "rankings": [
+    {
+      "name": "addyosmani/agent-skills",
+      "rank": 1,
+      "stars": "76,906",
+      "stars_today": "1,116",
+      "language": "JavaScript",
+      "description": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "name": "mattpocock/skills",
+      "rank": 2,
+      "stars": "164,789",
+      "stars_today": "1,712",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 3,
+      "stars": "251,875",
+      "stars_today": "1,013",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "rank": 4,
+      "stars": "7,388",
+      "stars_today": "328",
+      "language": "TypeScript",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities"
+    },
+    {
+      "name": "oven-sh/bun",
+      "rank": 5,
+      "stars": "94,301",
+      "stars_today": "209",
+      "language": "Rust",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one"
+    },
+    {
+      "name": "microsoft/TypeScript",
+      "rank": 6,
+      "stars": "109,800",
+      "stars_today": "177",
+      "language": "TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output."
+    },
+    {
+      "name": "tailscale/tailscale",
+      "rank": 7,
+      "stars": "33,702",
+      "stars_today": "143",
+      "language": "Go",
+      "description": "The easiest, most secure way to use WireGuard and 2FA."
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "rank": 8,
+      "stars": "14,527",
+      "stars_today": "1,224",
+      "language": "C#",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required."
+    },
+    {
+      "name": "hashicorp/terraform",
+      "rank": 9,
+      "stars": "49,196",
+      "stars_today": "172",
+      "language": "Go",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+    },
+    {
+      "name": "vercel/next.js",
+      "rank": 10,
+      "stars": "140,751",
+      "stars_today": "191",
+      "language": "JavaScript",
+      "description": "The React Framework"
+    },
+    {
+      "name": "abseil/abseil-cpp",
+      "rank": 11,
+      "stars": "17,539",
+      "stars_today": "89",
+      "language": "C++",
+      "description": "Abseil Common Libraries (C++)"
+    },
+    {
+      "name": "jbeder/yaml-cpp",
+      "rank": 12,
+      "stars": "6,091",
+      "stars_today": "69",
+      "language": "C++",
+      "description": "A YAML parser and emitter in C++"
+    },
+    {
+      "name": "catchorg/Catch2",
+      "rank": 13,
+      "stars": "20,624",
+      "stars_today": "76",
+      "language": "C++",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)"
+    },
+    {
+      "name": "chriskohlhoff/asio",
+      "rank": 14,
+      "stars": "6,080",
+      "stars_today": "92",
+      "language": "C++",
+      "description": "Asio C++ Library"
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "rank": 15,
+      "stars": "8,283",
+      "stars_today": "123",
+      "language": "TypeScript",
+      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies."
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "rank": 16,
+      "stars": "28,795",
+      "stars_today": "118",
+      "language": "Python",
+      "description": "CLI tool for configuring and monitoring Claude Code"
+    },
+    {
+      "name": "zeux/meshoptimizer",
+      "rank": 17,
+      "stars": "8,036",
+      "stars_today": "91",
+      "language": "C++",
+      "description": "Mesh optimization library that makes meshes smaller and faster to render"
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "rank": 18,
+      "stars": "6,789",
+      "stars_today": "117",
+      "language": "TypeScript",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
+    },
+    {
+      "name": "grpc/grpc",
+      "rank": 19,
+      "stars": "45,153",
+      "stars_today": "78",
+      "language": "C++",
+      "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
+    }
+  ]
+}
