@@ -1,0 +1,199 @@
+{
+  "date": "2026-07-12",
+  "updated_at": "2026-07-12 04:20:00",
+  "count": 24,
+  "rankings": [
+    {
+      "name": "oven-sh/bun",
+      "rank": 1,
+      "stars": "94,581",
+      "stars_today": "658",
+      "language": "Rust",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one"
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 2,
+      "stars": "252,537",
+      "stars_today": "740",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "catchorg/Catch2",
+      "rank": 3,
+      "stars": "21,107",
+      "stars_today": "113",
+      "language": "C++",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)"
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "rank": 4,
+      "stars": "29,057",
+      "stars_today": "232",
+      "language": "Python",
+      "description": "CLI tool for configuring and monitoring Claude Code"
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "rank": 5,
+      "stars": "7,115",
+      "stars_today": "340",
+      "language": "TypeScript",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
+    },
+    {
+      "name": "hashicorp/terraform",
+      "rank": 6,
+      "stars": "49,389",
+      "stars_today": "229",
+      "language": "Go",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+    },
+    {
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "rank": 7,
+      "stars": "7,806",
+      "stars_today": "909",
+      "language": "TypeScript",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities"
+    },
+    {
+      "name": "home-assistant/core",
+      "rank": 8,
+      "stars": "88,739",
+      "stars_today": "80",
+      "language": "Python",
+      "description": "🏡 Open source home automation that puts local control and privacy first."
+    },
+    {
+      "name": "vercel/next.js",
+      "rank": 9,
+      "stars": "140,977",
+      "stars_today": "334",
+      "language": "JavaScript",
+      "description": "The React Framework"
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "rank": 10,
+      "stars": "47,996",
+      "stars_today": "219",
+      "language": "Jupyter Notebook",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude."
+    },
+    {
+      "name": "abseil/abseil-cpp",
+      "rank": 11,
+      "stars": "17,833",
+      "stars_today": "118",
+      "language": "C++",
+      "description": "Abseil Common Libraries (C++)"
+    },
+    {
+      "name": "zeux/meshoptimizer",
+      "rank": 12,
+      "stars": "8,152",
+      "stars_today": "110",
+      "language": "C++",
+      "description": "Mesh optimization library that makes meshes smaller and faster to render"
+    },
+    {
+      "name": "chriskohlhoff/asio",
+      "rank": 13,
+      "stars": "6,145",
+      "stars_today": "76",
+      "language": "C++",
+      "description": "Asio C++ Library"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "rank": 14,
+      "stars": "136,457",
+      "stars_today": "39",
+      "language": "C",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows"
+    },
+    {
+      "name": "cypress-io/cypress",
+      "rank": 15,
+      "stars": "50,638",
+      "stars_today": "19",
+      "language": "TypeScript",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser."
+    },
+    {
+      "name": "DayuanJiang/next-ai-draw-io",
+      "rank": 16,
+      "stars": "33,330",
+      "stars_today": "81",
+      "language": "TypeScript",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization."
+    },
+    {
+      "name": "malisper/pgrust",
+      "rank": 17,
+      "stars": "2,135",
+      "stars_today": "774",
+      "language": "Rust",
+      "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests"
+    },
+    {
+      "name": "prisma/prisma",
+      "rank": 18,
+      "stars": "47,274",
+      "stars_today": "37",
+      "language": "TypeScript",
+      "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB"
+    },
+    {
+      "name": "ansible/ansible",
+      "rank": 19,
+      "stars": "69,609",
+      "stars_today": "24",
+      "language": "Python",
+      "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com."
+    },
+    {
+      "name": "openai/plugins",
+      "rank": 20,
+      "stars": "4,443",
+      "stars_today": "29",
+      "language": "JavaScript",
+      "description": "OpenAI Plugins"
+    },
+    {
+      "name": "dotnet/aspnetcore",
+      "rank": 21,
+      "stars": "38,313",
+      "stars_today": "4",
+      "language": "C#",
+      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux."
+    },
+    {
+      "name": "nasa/fprime",
+      "rank": 22,
+      "stars": "11,511",
+      "stars_today": "22",
+      "language": "C++",
+      "description": "F´ - A flight software and embedded systems framework"
+    },
+    {
+      "name": "nuxt/nuxt",
+      "rank": 23,
+      "stars": "60,741",
+      "stars_today": "16",
+      "language": "TypeScript",
+      "description": "the full-stack Vue framework"
+    },
+    {
+      "name": "actions/checkout",
+      "rank": 24,
+      "stars": "8,474",
+      "stars_today": "8",
+      "language": "TypeScript",
+      "description": "Action for checking out a repo"
+    }
+  ]
+}

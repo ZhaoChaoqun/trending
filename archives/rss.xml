@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sat, 11 Jul 2026 03:59:03 +0000</pubDate><lastBuildDate>Sat, 11 Jul 2026 03:59:03 +0000</lastBuildDate><item><title>#1 addyosmani/agent-skills (+1,116 stars)</title><link>https://github.com/addyosmani/agent-skills</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;addyosmani/agent-skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Production-grade engineering skills for AI coding agents.&lt;/p&gt;
-&lt;p&gt;⭐ 76,906 | +1,116 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/addyosmani/agent-skills#2026-07-11</guid><pubDate>Sat, 11 Jul 2026 03:59:03 +0000</pubDate></item><item><title>#2 mattpocock/skills (+1,712 stars)</title><link>https://github.com/mattpocock/skills</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;mattpocock/skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Skills for Real Engineers. Straight from my .claude directory.&lt;/p&gt;
-&lt;p&gt;⭐ 164,789 | +1,712 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-07-11</guid><pubDate>Sat, 11 Jul 2026 03:59:03 +0000</pubDate></item><item><title>#3 obra/superpowers (+1,013 stars)</title><link>https://github.com/obra/superpowers</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 251,875 | +1,013 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-07-11</guid><pubDate>Sat, 11 Jul 2026 03:59:03 +0000</pubDate></item><item><title>#4 wonderwhy-er/DesktopCommanderMCP (+328 stars)</title><link>https://github.com/wonderwhy-er/DesktopCommanderMCP</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;wonderwhy-er/DesktopCommanderMCP&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities&lt;/p&gt;
-&lt;p&gt;⭐ 7,388 | +328 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/wonderwhy-er/DesktopCommanderMCP#2026-07-11</guid><pubDate>Sat, 11 Jul 2026 03:59:03 +0000</pubDate></item><item><title>#5 oven-sh/bun (+209 stars)</title><link>https://github.com/oven-sh/bun</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sun, 12 Jul 2026 04:20:00 +0000</pubDate><lastBuildDate>Sun, 12 Jul 2026 04:20:00 +0000</lastBuildDate><item><title>#1 oven-sh/bun (+658 stars)</title><link>https://github.com/oven-sh/bun</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;oven-sh/bun&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one&lt;/p&gt;
-&lt;p&gt;⭐ 94,301 | +209 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 94,581 | +658 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/oven-sh/bun#2026-07-11</guid><pubDate>Sat, 11 Jul 2026 03:59:03 +0000</pubDate></item><item><title>#6 microsoft/TypeScript (+177 stars)</title><link>https://github.com/microsoft/TypeScript</link><description>
+</description><guid isPermaLink="false">https://github.com/oven-sh/bun#2026-07-12</guid><pubDate>Sun, 12 Jul 2026 04:20:00 +0000</pubDate></item><item><title>#2 obra/superpowers (+740 stars)</title><link>https://github.com/obra/superpowers</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;microsoft/TypeScript&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;TypeScript is a superset of JavaScript that compiles to clean JavaScript output.&lt;/p&gt;
-&lt;p&gt;⭐ 109,800 | +177 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
+&lt;p&gt;⭐ 252,537 | +740 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/microsoft/TypeScript#2026-07-11</guid><pubDate>Sat, 11 Jul 2026 03:59:03 +0000</pubDate></item><item><title>#7 tailscale/tailscale (+143 stars)</title><link>https://github.com/tailscale/tailscale</link><description>
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-07-12</guid><pubDate>Sun, 12 Jul 2026 04:20:00 +0000</pubDate></item><item><title>#3 catchorg/Catch2 (+113 stars)</title><link>https://github.com/catchorg/Catch2</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;tailscale/tailscale&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The easiest, most secure way to use WireGuard and 2FA.&lt;/p&gt;
-&lt;p&gt;⭐ 33,702 | +143 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;catchorg/Catch2&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)&lt;/p&gt;
+&lt;p&gt;⭐ 21,107 | +113 today | 🔧 C++&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/tailscale/tailscale#2026-07-11</guid><pubDate>Sat, 11 Jul 2026 03:59:03 +0000</pubDate></item><item><title>#8 iOfficeAI/OfficeCLI (+1,224 stars)</title><link>https://github.com/iOfficeAI/OfficeCLI</link><description>
+</description><guid isPermaLink="false">https://github.com/catchorg/Catch2#2026-07-12</guid><pubDate>Sun, 12 Jul 2026 04:20:00 +0000</pubDate></item><item><title>#4 davila7/claude-code-templates (+232 stars)</title><link>https://github.com/davila7/claude-code-templates</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;iOfficeAI/OfficeCLI&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.&lt;/p&gt;
-&lt;p&gt;⭐ 14,527 | +1,224 today | 🔧 C#&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;davila7/claude-code-templates&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CLI tool for configuring and monitoring Claude Code&lt;/p&gt;
+&lt;p&gt;⭐ 29,057 | +232 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/iOfficeAI/OfficeCLI#2026-07-11</guid><pubDate>Sat, 11 Jul 2026 03:59:03 +0000</pubDate></item><item><title>#9 hashicorp/terraform (+172 stars)</title><link>https://github.com/hashicorp/terraform</link><description>
+</description><guid isPermaLink="false">https://github.com/davila7/claude-code-templates#2026-07-12</guid><pubDate>Sun, 12 Jul 2026 04:20:00 +0000</pubDate></item><item><title>#5 google-labs-code/stitch-skills (+340 stars)</title><link>https://github.com/google-labs-code/stitch-skills</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;google-labs-code/stitch-skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.&lt;/p&gt;
+&lt;p&gt;⭐ 7,115 | +340 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/google-labs-code/stitch-skills#2026-07-12</guid><pubDate>Sun, 12 Jul 2026 04:20:00 +0000</pubDate></item><item><title>#6 hashicorp/terraform (+229 stars)</title><link>https://github.com/hashicorp/terraform</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;hashicorp/terraform&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.&lt;/p&gt;
-&lt;p&gt;⭐ 49,196 | +172 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;⭐ 49,389 | +229 today | 🔧 Go&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/hashicorp/terraform#2026-07-11</guid><pubDate>Sat, 11 Jul 2026 03:59:03 +0000</pubDate></item><item><title>#10 vercel/next.js (+191 stars)</title><link>https://github.com/vercel/next.js</link><description>
+</description><guid isPermaLink="false">https://github.com/hashicorp/terraform#2026-07-12</guid><pubDate>Sun, 12 Jul 2026 04:20:00 +0000</pubDate></item><item><title>#7 wonderwhy-er/DesktopCommanderMCP (+909 stars)</title><link>https://github.com/wonderwhy-er/DesktopCommanderMCP</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;wonderwhy-er/DesktopCommanderMCP&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities&lt;/p&gt;
+&lt;p&gt;⭐ 7,806 | +909 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/wonderwhy-er/DesktopCommanderMCP#2026-07-12</guid><pubDate>Sun, 12 Jul 2026 04:20:00 +0000</pubDate></item><item><title>#8 home-assistant/core (+80 stars)</title><link>https://github.com/home-assistant/core</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;home-assistant/core&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;🏡 Open source home automation that puts local control and privacy first.&lt;/p&gt;
+&lt;p&gt;⭐ 88,739 | +80 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/home-assistant/core#2026-07-12</guid><pubDate>Sun, 12 Jul 2026 04:20:00 +0000</pubDate></item><item><title>#9 vercel/next.js (+334 stars)</title><link>https://github.com/vercel/next.js</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;vercel/next.js&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The React Framework&lt;/p&gt;
-&lt;p&gt;⭐ 140,751 | +191 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 140,977 | +334 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/vercel/next.js#2026-07-11</guid><pubDate>Sat, 11 Jul 2026 03:59:03 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/vercel/next.js#2026-07-12</guid><pubDate>Sun, 12 Jul 2026 04:20:00 +0000</pubDate></item><item><title>#10 anthropics/claude-cookbooks (+219 stars)</title><link>https://github.com/anthropics/claude-cookbooks</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;anthropics/claude-cookbooks&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.&lt;/p&gt;
+&lt;p&gt;⭐ 47,996 | +219 today | 🔧 Jupyter Notebook&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/anthropics/claude-cookbooks#2026-07-12</guid><pubDate>Sun, 12 Jul 2026 04:20:00 +0000</pubDate></item></channel></rss>
