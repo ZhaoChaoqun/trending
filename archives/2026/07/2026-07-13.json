@@ -1,0 +1,143 @@
+{
+  "date": "2026-07-13",
+  "updated_at": "2026-07-13 04:23:35",
+  "count": 17,
+  "rankings": [
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "rank": 1,
+      "stars": "20,756",
+      "stars_today": "768",
+      "language": "Python",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\""
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "rank": 2,
+      "stars": "118,762",
+      "stars_today": "408",
+      "language": "Python",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
+    },
+    {
+      "name": "home-assistant/core",
+      "rank": 3,
+      "stars": "89,151",
+      "stars_today": "400",
+      "language": "Python",
+      "description": "🏡 Open source home automation that puts local control and privacy first."
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "rank": 4,
+      "stars": "48,532",
+      "stars_today": "459",
+      "language": "Jupyter Notebook",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude."
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "rank": 5,
+      "stars": "33,879",
+      "stars_today": "125",
+      "language": "TypeScript",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere."
+    },
+    {
+      "name": "k1tbyte/Wand-Enhancer",
+      "rank": 6,
+      "stars": "7,022",
+      "stars_today": "609",
+      "language": "C#",
+      "description": "Advanced UX and interoperability extension for Wand (WeMod) app"
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "rank": 7,
+      "stars": "61,467",
+      "stars_today": "115",
+      "language": "Python",
+      "description": "An AI Hedge Fund Team"
+    },
+    {
+      "name": "chen08209/FlClash",
+      "rank": 8,
+      "stars": "45,302",
+      "stars_today": "154",
+      "language": "Dart",
+      "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free."
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "rank": 9,
+      "stars": "29,279",
+      "stars_today": "274",
+      "language": "Python",
+      "description": "CLI tool for configuring and monitoring Claude Code"
+    },
+    {
+      "name": "Dicklesworthstone/destructive_command_guard",
+      "rank": 10,
+      "stars": "3,116",
+      "stars_today": "444",
+      "language": "Rust",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents."
+    },
+    {
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "rank": 11,
+      "stars": "8,035",
+      "stars_today": "210",
+      "language": "TypeScript",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities"
+    },
+    {
+      "name": "PrefectHQ/prefect",
+      "rank": 12,
+      "stars": "23,212",
+      "stars_today": "66",
+      "language": "Python",
+      "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python."
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "rank": 13,
+      "stars": "13,787",
+      "stars_today": "75",
+      "language": "TypeScript",
+      "description": ""
+    },
+    {
+      "name": "par274/sharpemu",
+      "rank": 14,
+      "stars": "1,344",
+      "stars_today": "314",
+      "language": "C#",
+      "description": "An experimental PlayStation 5 emulator project."
+    },
+    {
+      "name": "malisper/pgrust",
+      "rank": 15,
+      "stars": "2,562",
+      "stars_today": "518",
+      "language": "Rust",
+      "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "rank": 16,
+      "stars": "4,420",
+      "stars_today": "155",
+      "language": "CSS",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+    },
+    {
+      "name": "ColeMurray/background-agents",
+      "rank": 17,
+      "stars": "2,307",
+      "stars_today": "16",
+      "language": "TypeScript",
+      "description": "An open-source background agents coding system"
+    }
+  ]
+}
