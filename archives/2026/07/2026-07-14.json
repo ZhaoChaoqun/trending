@@ -1,0 +1,87 @@
+{
+  "date": "2026-07-14",
+  "updated_at": "2026-07-14 03:50:41",
+  "count": 10,
+  "rankings": [
+    {
+      "name": "OpenCut-app/OpenCut",
+      "rank": 1,
+      "stars": "67,049",
+      "stars_today": "1,229",
+      "language": "TypeScript",
+      "description": "The open-source CapCut alternative"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "rank": 2,
+      "stars": "21,987",
+      "stars_today": "1,153",
+      "language": "Python",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\""
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "rank": 3,
+      "stars": "119,845",
+      "stars_today": "996",
+      "language": "Python",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "rank": 4,
+      "stars": "85,002",
+      "stars_today": "1,095",
+      "language": "Python",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph."
+    },
+    {
+      "name": "github/spec-kit",
+      "rank": 5,
+      "stars": "120,739",
+      "stars_today": "543",
+      "language": "Python",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "rank": 6,
+      "stars": "5,330",
+      "stars_today": "794",
+      "language": "CSS",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+    },
+    {
+      "name": "Raphire/Win11Debloat",
+      "rank": 7,
+      "stars": "51,000",
+      "stars_today": "118",
+      "language": "PowerShell",
+      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11."
+    },
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "rank": 8,
+      "stars": "12,769",
+      "stars_today": "451",
+      "language": "HTML",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app."
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "rank": 9,
+      "stars": "38,737",
+      "stars_today": "299",
+      "language": "JavaScript",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering."
+    },
+    {
+      "name": "moeru-ai/airi",
+      "rank": 10,
+      "stars": "42,019",
+      "stars_today": "78",
+      "language": "TypeScript",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
+    }
+  ]
+}
