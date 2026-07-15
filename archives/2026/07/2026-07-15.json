@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-15",
+  "updated_at": "2026-07-15 03:51:48",
+  "count": 15,
+  "rankings": [
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "rank": 1,
+      "stars": "121,028",
+      "stars_today": "1,106",
+      "language": "Python",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
+    },
+    {
+      "name": "mattpocock/skills",
+      "rank": 2,
+      "stars": "170,643",
+      "stars_today": "1,679",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "rank": 3,
+      "stars": "69,398",
+      "stars_today": "4,276",
+      "language": "TypeScript",
+      "description": "The open-source CapCut alternative"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "rank": 4,
+      "stars": "23,006",
+      "stars_today": "1,256",
+      "language": "Python",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\""
+    },
+    {
+      "name": "Raphire/Win11Debloat",
+      "rank": 5,
+      "stars": "51,827",
+      "stars_today": "783",
+      "language": "PowerShell",
+      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11."
+    },
+    {
+      "name": "penpot/penpot",
+      "rank": 6,
+      "stars": "56,225",
+      "stars_today": "395",
+      "language": "Clojure",
+      "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration."
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "rank": 7,
+      "stars": "86,591",
+      "stars_today": "1,851",
+      "language": "Python",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph."
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "rank": 8,
+      "stars": "61,934",
+      "stars_today": "109",
+      "language": "Python",
+      "description": "An AI Hedge Fund Team"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "rank": 9,
+      "stars": "6,287",
+      "stars_today": "1,015",
+      "language": "CSS",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+    },
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "rank": 10,
+      "stars": "13,681",
+      "stars_today": "851",
+      "language": "HTML",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app."
+    },
+    {
+      "name": "Dicklesworthstone/destructive_command_guard",
+      "rank": 11,
+      "stars": "4,471",
+      "stars_today": "473",
+      "language": "Rust",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents."
+    },
+    {
+      "name": "par274/sharpemu",
+      "rank": 12,
+      "stars": "2,195",
+      "stars_today": "332",
+      "language": "C#",
+      "description": "An experimental PlayStation 5 emulator project."
+    },
+    {
+      "name": "chenyme/grok2api",
+      "rank": 13,
+      "stars": "5,900",
+      "stars_today": "186",
+      "language": "Go",
+      "description": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关"
+    },
+    {
+      "name": "HenryNdubuaku/maths-cs-ai-compendium",
+      "rank": 14,
+      "stars": "5,355",
+      "stars_today": "112",
+      "language": "TypeScript",
+      "description": "Become a cracked AI/ML Research Engineer"
+    },
+    {
+      "name": "AIEraDev/Clypra",
+      "rank": 15,
+      "stars": "2,691",
+      "stars_today": "85",
+      "language": "TypeScript",
+      "description": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities"
+    }
+  ]
+}
