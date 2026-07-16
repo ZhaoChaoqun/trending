@@ -1,0 +1,111 @@
+{
+  "date": "2026-07-16",
+  "updated_at": "2026-07-16 03:54:37",
+  "count": 13,
+  "rankings": [
+    {
+      "name": "OpenCut-app/OpenCut",
+      "rank": 1,
+      "stars": "72,214",
+      "stars_today": "1,664",
+      "language": "TypeScript",
+      "description": "The open-source CapCut alternative"
+    },
+    {
+      "name": "mattpocock/skills",
+      "rank": 2,
+      "stars": "172,581",
+      "stars_today": "2,130",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "rank": 3,
+      "stars": "23,806",
+      "stars_today": "915",
+      "language": "Python",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\""
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "rank": 4,
+      "stars": "122,048",
+      "stars_today": "1,236",
+      "language": "Python",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "rank": 5,
+      "stars": "8,938",
+      "stars_today": "1,277",
+      "language": "CSS",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+    },
+    {
+      "name": "moeru-ai/airi",
+      "rank": 6,
+      "stars": "42,585",
+      "stars_today": "110",
+      "language": "TypeScript",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
+    },
+    {
+      "name": "openinterpreter/openinterpreter",
+      "rank": 7,
+      "stars": "65,571",
+      "stars_today": "299",
+      "language": "Rust",
+      "description": "A coding agent for low-cost models"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "rank": 8,
+      "stars": "26,391",
+      "stars_today": "172",
+      "language": "Python",
+      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/."
+    },
+    {
+      "name": "HenryNdubuaku/maths-cs-ai-compendium",
+      "rank": 9,
+      "stars": "6,004",
+      "stars_today": "725",
+      "language": "TypeScript",
+      "description": "Become a cracked AI/ML Research Engineer"
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "rank": 10,
+      "stars": "39,863",
+      "stars_today": "340",
+      "language": "JavaScript",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering."
+    },
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "rank": 11,
+      "stars": "14,478",
+      "stars_today": "949",
+      "language": "HTML",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app."
+    },
+    {
+      "name": "Dicklesworthstone/destructive_command_guard",
+      "rank": 12,
+      "stars": "4,817",
+      "stars_today": "471",
+      "language": "Rust",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents."
+    },
+    {
+      "name": "YimMenu/YimMenuV2",
+      "rank": 13,
+      "stars": "1,441",
+      "stars_today": "38",
+      "language": "C++",
+      "description": "Experimental menu for GTA 5: Enhanced"
+    }
+  ]
+}
