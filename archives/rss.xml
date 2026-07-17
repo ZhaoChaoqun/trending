@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Thu, 16 Jul 2026 03:54:37 +0000</pubDate><lastBuildDate>Thu, 16 Jul 2026 03:54:37 +0000</lastBuildDate><item><title>#1 OpenCut-app/OpenCut (+1,664 stars)</title><link>https://github.com/OpenCut-app/OpenCut</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 17 Jul 2026 03:54:19 +0000</pubDate><lastBuildDate>Fri, 17 Jul 2026 03:54:19 +0000</lastBuildDate><item><title>#1 OpenCut-app/OpenCut (+3,537 stars)</title><link>https://github.com/OpenCut-app/OpenCut</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;OpenCut-app/OpenCut&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The open-source CapCut alternative&lt;/p&gt;
-&lt;p&gt;⭐ 72,214 | +1,664 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 74,164 | +3,537 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/OpenCut-app/OpenCut#2026-07-16</guid><pubDate>Thu, 16 Jul 2026 03:54:37 +0000</pubDate></item><item><title>#2 mattpocock/skills (+2,130 stars)</title><link>https://github.com/mattpocock/skills</link><description>
+</description><guid isPermaLink="false">https://github.com/OpenCut-app/OpenCut#2026-07-17</guid><pubDate>Fri, 17 Jul 2026 03:54:19 +0000</pubDate></item><item><title>#2 openinterpreter/openinterpreter (+661 stars)</title><link>https://github.com/openinterpreter/openinterpreter</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;mattpocock/skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Skills for Real Engineers. Straight from my .claude directory.&lt;/p&gt;
-&lt;p&gt;⭐ 172,581 | +2,130 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;openinterpreter/openinterpreter&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A coding agent for open models like Kimi K3&lt;/p&gt;
+&lt;p&gt;⭐ 66,040 | +661 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-07-16</guid><pubDate>Thu, 16 Jul 2026 03:54:37 +0000</pubDate></item><item><title>#3 HKUDS/Vibe-Trading (+915 stars)</title><link>https://github.com/HKUDS/Vibe-Trading</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;HKUDS/Vibe-Trading&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;"Vibe-Trading: Your Personal Trading Agent"&lt;/p&gt;
-&lt;p&gt;⭐ 23,806 | +915 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/HKUDS/Vibe-Trading#2026-07-16</guid><pubDate>Thu, 16 Jul 2026 03:54:37 +0000</pubDate></item><item><title>#4 Shubhamsaboo/awesome-llm-apps (+1,236 stars)</title><link>https://github.com/Shubhamsaboo/awesome-llm-apps</link><description>
+</description><guid isPermaLink="false">https://github.com/openinterpreter/openinterpreter#2026-07-17</guid><pubDate>Fri, 17 Jul 2026 03:54:19 +0000</pubDate></item><item><title>#3 Shubhamsaboo/awesome-llm-apps (+923 stars)</title><link>https://github.com/Shubhamsaboo/awesome-llm-apps</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;Shubhamsaboo/awesome-llm-apps&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.&lt;/p&gt;
-&lt;p&gt;⭐ 122,048 | +1,236 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 123,041 | +923 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Shubhamsaboo/awesome-llm-apps#2026-07-16</guid><pubDate>Thu, 16 Jul 2026 03:54:37 +0000</pubDate></item><item><title>#5 Nutlope/hallmark (+1,277 stars)</title><link>https://github.com/Nutlope/hallmark</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Nutlope/hallmark&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anti-AI-slop design skill for Claude Code, Cursor, and Codex.&lt;/p&gt;
-&lt;p&gt;⭐ 8,938 | +1,277 today | 🔧 CSS&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/Nutlope/hallmark#2026-07-16</guid><pubDate>Thu, 16 Jul 2026 03:54:37 +0000</pubDate></item><item><title>#6 moeru-ai/airi (+110 stars)</title><link>https://github.com/moeru-ai/airi</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;moeru-ai/airi&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.&lt;/p&gt;
-&lt;p&gt;⭐ 42,585 | +110 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/moeru-ai/airi#2026-07-16</guid><pubDate>Thu, 16 Jul 2026 03:54:37 +0000</pubDate></item><item><title>#7 openinterpreter/openinterpreter (+299 stars)</title><link>https://github.com/openinterpreter/openinterpreter</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;openinterpreter/openinterpreter&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A coding agent for low-cost models&lt;/p&gt;
-&lt;p&gt;⭐ 65,571 | +299 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/openinterpreter/openinterpreter#2026-07-16</guid><pubDate>Thu, 16 Jul 2026 03:54:37 +0000</pubDate></item><item><title>#8 HKUDS/DeepTutor (+172 stars)</title><link>https://github.com/HKUDS/DeepTutor</link><description>
+</description><guid isPermaLink="false">https://github.com/Shubhamsaboo/awesome-llm-apps#2026-07-17</guid><pubDate>Fri, 17 Jul 2026 03:54:19 +0000</pubDate></item><item><title>#4 HKUDS/DeepTutor (+656 stars)</title><link>https://github.com/HKUDS/DeepTutor</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;HKUDS/DeepTutor&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.&lt;/p&gt;
-&lt;p&gt;⭐ 26,391 | +172 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 26,963 | +656 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/HKUDS/DeepTutor#2026-07-16</guid><pubDate>Thu, 16 Jul 2026 03:54:37 +0000</pubDate></item><item><title>#9 HenryNdubuaku/maths-cs-ai-compendium (+725 stars)</title><link>https://github.com/HenryNdubuaku/maths-cs-ai-compendium</link><description>
+</description><guid isPermaLink="false">https://github.com/HKUDS/DeepTutor#2026-07-17</guid><pubDate>Fri, 17 Jul 2026 03:54:19 +0000</pubDate></item><item><title>#5 mattpocock/skills (+2,060 stars)</title><link>https://github.com/mattpocock/skills</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;HenryNdubuaku/maths-cs-ai-compendium&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Become a cracked AI/ML Research Engineer&lt;/p&gt;
-&lt;p&gt;⭐ 6,004 | +725 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;mattpocock/skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Skills for Real Engineers. Straight from my .claude directory.&lt;/p&gt;
+&lt;p&gt;⭐ 174,474 | +2,060 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/HenryNdubuaku/maths-cs-ai-compendium#2026-07-16</guid><pubDate>Thu, 16 Jul 2026 03:54:37 +0000</pubDate></item><item><title>#10 coreyhaines31/marketingskills (+340 stars)</title><link>https://github.com/coreyhaines31/marketingskills</link><description>
+</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-07-17</guid><pubDate>Fri, 17 Jul 2026 03:54:19 +0000</pubDate></item><item><title>#6 Graphify-Labs/graphify (+1,107 stars)</title><link>https://github.com/Graphify-Labs/graphify</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;coreyhaines31/marketingskills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.&lt;/p&gt;
-&lt;p&gt;⭐ 39,863 | +340 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Graphify-Labs/graphify&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.&lt;/p&gt;
+&lt;p&gt;⭐ 89,260 | +1,107 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Graphify-Labs/graphify#2026-07-17</guid><pubDate>Fri, 17 Jul 2026 03:54:19 +0000</pubDate></item><item><title>#7 codecrafters-io/build-your-own-x (+435 stars)</title><link>https://github.com/codecrafters-io/build-your-own-x</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;codecrafters-io/build-your-own-x&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Master programming by recreating your favorite technologies from scratch.&lt;/p&gt;
+&lt;p&gt;⭐ 526,450 | +435 today | 🔧 Markdown&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/codecrafters-io/build-your-own-x#2026-07-17</guid><pubDate>Fri, 17 Jul 2026 03:54:19 +0000</pubDate></item><item><title>#8 Nutlope/hallmark (+3,372 stars)</title><link>https://github.com/Nutlope/hallmark</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Nutlope/hallmark&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Anti-AI-slop design skill for Claude Code, Cursor, and Codex.&lt;/p&gt;
+&lt;p&gt;⭐ 11,107 | +3,372 today | 🔧 CSS&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/coreyhaines31/marketingskills#2026-07-16</guid><pubDate>Thu, 16 Jul 2026 03:54:37 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/Nutlope/hallmark#2026-07-17</guid><pubDate>Fri, 17 Jul 2026 03:54:19 +0000</pubDate></item><item><title>#9 hasaneyldrm/exercises-dataset (+710 stars)</title><link>https://github.com/hasaneyldrm/exercises-dataset</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;hasaneyldrm/exercises-dataset&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.&lt;/p&gt;
+&lt;p&gt;⭐ 15,129 | +710 today | 🔧 HTML&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/hasaneyldrm/exercises-dataset#2026-07-17</guid><pubDate>Fri, 17 Jul 2026 03:54:19 +0000</pubDate></item><item><title>#10 lobehub/lobehub (+71 stars)</title><link>https://github.com/lobehub/lobehub</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;lobehub/lobehub&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.&lt;/p&gt;
+&lt;p&gt;⭐ 80,239 | +71 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/lobehub/lobehub#2026-07-17</guid><pubDate>Fri, 17 Jul 2026 03:54:19 +0000</pubDate></item></channel></rss>
