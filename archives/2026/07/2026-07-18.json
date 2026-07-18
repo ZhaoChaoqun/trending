@@ -1,0 +1,119 @@
+{
+  "date": "2026-07-18",
+  "updated_at": "2026-07-18 03:47:57",
+  "count": 14,
+  "rankings": [
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "rank": 1,
+      "stars": "527,509",
+      "stars_today": "1,068",
+      "language": "Markdown",
+      "description": "Master programming by recreating your favorite technologies from scratch."
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "rank": 2,
+      "stars": "27,417",
+      "stars_today": "531",
+      "language": "Python",
+      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/."
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "rank": 3,
+      "stars": "74,956",
+      "stars_today": "1,074",
+      "language": "TypeScript",
+      "description": "The open-source CapCut alternative"
+    },
+    {
+      "name": "PostHog/posthog",
+      "rank": 4,
+      "stars": "36,241",
+      "stars_today": "438",
+      "language": "Python",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP."
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "rank": 5,
+      "stars": "12,155",
+      "stars_today": "1,485",
+      "language": "CSS",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+    },
+    {
+      "name": "openinterpreter/openinterpreter",
+      "rank": 6,
+      "stars": "66,425",
+      "stars_today": "431",
+      "language": "Rust",
+      "description": "A coding agent for open models like Kimi K3"
+    },
+    {
+      "name": "RyanCodrai/turbovec",
+      "rank": 7,
+      "stars": "13,368",
+      "stars_today": "280",
+      "language": "Python",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings"
+    },
+    {
+      "name": "HenryNdubuaku/maths-cs-ai-compendium",
+      "rank": 8,
+      "stars": "6,679",
+      "stars_today": "200",
+      "language": "TypeScript",
+      "description": "Become a cracked AI/ML Research Engineer"
+    },
+    {
+      "name": "github/copilot-sdk",
+      "rank": 9,
+      "stars": "9,813",
+      "stars_today": "233",
+      "language": "Java",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services"
+    },
+    {
+      "name": "protocolbuffers/protobuf",
+      "rank": 10,
+      "stars": "71,549",
+      "stars_today": "11",
+      "language": "C++",
+      "description": "Protocol Buffers - Google's data interchange format"
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "rank": 11,
+      "stars": "19,803",
+      "stars_today": "74",
+      "language": "Python",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows."
+    },
+    {
+      "name": "docusealco/docuseal",
+      "rank": 12,
+      "stars": "17,886",
+      "stars_today": "91",
+      "language": "Ruby",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️"
+    },
+    {
+      "name": "PrismML-Eng/Bonsai-demo",
+      "rank": 13,
+      "stars": "1,728",
+      "stars_today": "278",
+      "language": "Shell",
+      "description": "Bonsai Demo"
+    },
+    {
+      "name": "anthropics/cwc-workshops",
+      "rank": 14,
+      "stars": "1,613",
+      "stars_today": "45",
+      "language": "TypeScript",
+      "description": ""
+    }
+  ]
+}
