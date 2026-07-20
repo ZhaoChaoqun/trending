@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sun, 19 Jul 2026 04:16:06 +0000</pubDate><lastBuildDate>Sun, 19 Jul 2026 04:16:06 +0000</lastBuildDate><item><title>#1 codecrafters-io/build-your-own-x (+1,126 stars)</title><link>https://github.com/codecrafters-io/build-your-own-x</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;codecrafters-io/build-your-own-x&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Master programming by recreating your favorite technologies from scratch.&lt;/p&gt;
-&lt;p&gt;⭐ 528,368 | +1,126 today | 🔧 Markdown&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/codecrafters-io/build-your-own-x#2026-07-19</guid><pubDate>Sun, 19 Jul 2026 04:16:06 +0000</pubDate></item><item><title>#2 Robbyant/lingbot-map (+831 stars)</title><link>https://github.com/Robbyant/lingbot-map</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Robbyant/lingbot-map&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A feed-forward 3D foundation model for reconstructing scenes from streaming data&lt;/p&gt;
-&lt;p&gt;⭐ 13,049 | +831 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/Robbyant/lingbot-map#2026-07-19</guid><pubDate>Sun, 19 Jul 2026 04:16:06 +0000</pubDate></item><item><title>#3 PostHog/posthog (+338 stars)</title><link>https://github.com/PostHog/posthog</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;PostHog/posthog&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.&lt;/p&gt;
-&lt;p&gt;⭐ 36,638 | +338 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/PostHog/posthog#2026-07-19</guid><pubDate>Sun, 19 Jul 2026 04:16:06 +0000</pubDate></item><item><title>#4 tirth8205/code-review-graph (+355 stars)</title><link>https://github.com/tirth8205/code-review-graph</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Mon, 20 Jul 2026 04:32:27 +0000</pubDate><lastBuildDate>Mon, 20 Jul 2026 04:32:27 +0000</lastBuildDate><item><title>#1 tirth8205/code-review-graph (+663 stars)</title><link>https://github.com/tirth8205/code-review-graph</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;tirth8205/code-review-graph&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.&lt;/p&gt;
-&lt;p&gt;⭐ 20,249 | +355 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 21,583 | +663 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/tirth8205/code-review-graph#2026-07-20</guid><pubDate>Mon, 20 Jul 2026 04:32:27 +0000</pubDate></item><item><title>#2 jamiepine/voicebox (+610 stars)</title><link>https://github.com/jamiepine/voicebox</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;jamiepine/voicebox&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The open-source AI voice studio. Clone, dictate, create.&lt;/p&gt;
+&lt;p&gt;⭐ 43,520 | +610 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/jamiepine/voicebox#2026-07-20</guid><pubDate>Mon, 20 Jul 2026 04:32:27 +0000</pubDate></item><item><title>#3 codecrafters-io/build-your-own-x (+754 stars)</title><link>https://github.com/codecrafters-io/build-your-own-x</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;codecrafters-io/build-your-own-x&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Master programming by recreating your favorite technologies from scratch.&lt;/p&gt;
+&lt;p&gt;⭐ 529,032 | +754 today | 🔧 Markdown&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/codecrafters-io/build-your-own-x#2026-07-20</guid><pubDate>Mon, 20 Jul 2026 04:32:27 +0000</pubDate></item><item><title>#4 bojieli/ai-agent-book (+1,734 stars)</title><link>https://github.com/bojieli/ai-agent-book</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;bojieli/ai-agent-book&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码&lt;/p&gt;
+&lt;p&gt;⭐ 6,751 | +1,734 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/tirth8205/code-review-graph#2026-07-19</guid><pubDate>Sun, 19 Jul 2026 04:16:06 +0000</pubDate></item><item><title>#5 ibelick/ui-skills (+123 stars)</title><link>https://github.com/ibelick/ui-skills</link><description>
+</description><guid isPermaLink="false">https://github.com/bojieli/ai-agent-book#2026-07-20</guid><pubDate>Mon, 20 Jul 2026 04:32:27 +0000</pubDate></item><item><title>#5 kvcache-ai/ktransformers (+360 stars)</title><link>https://github.com/kvcache-ai/ktransformers</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ibelick/ui-skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Skills for Design Engineers&lt;/p&gt;
-&lt;p&gt;⭐ 5,105 | +123 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;kvcache-ai/ktransformers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations&lt;/p&gt;
+&lt;p&gt;⭐ 18,454 | +360 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/ibelick/ui-skills#2026-07-19</guid><pubDate>Sun, 19 Jul 2026 04:16:06 +0000</pubDate></item><item><title>#6 rohitg00/ai-engineering-from-scratch (+191 stars)</title><link>https://github.com/rohitg00/ai-engineering-from-scratch</link><description>
+</description><guid isPermaLink="false">https://github.com/kvcache-ai/ktransformers#2026-07-20</guid><pubDate>Mon, 20 Jul 2026 04:32:27 +0000</pubDate></item><item><title>#6 rohitg00/ai-engineering-from-scratch (+501 stars)</title><link>https://github.com/rohitg00/ai-engineering-from-scratch</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;rohitg00/ai-engineering-from-scratch&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Learn it. Build it. Ship it for others.&lt;/p&gt;
-&lt;p&gt;⭐ 39,171 | +191 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+&lt;p&gt;⭐ 39,852 | +501 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/rohitg00/ai-engineering-from-scratch#2026-07-19</guid><pubDate>Sun, 19 Jul 2026 04:16:06 +0000</pubDate></item><item><title>#7 lyogavin/airllm (+161 stars)</title><link>https://github.com/lyogavin/airllm</link><description>
+</description><guid isPermaLink="false">https://github.com/rohitg00/ai-engineering-from-scratch#2026-07-20</guid><pubDate>Mon, 20 Jul 2026 04:32:27 +0000</pubDate></item><item><title>#7 PostHog/posthog (+411 stars)</title><link>https://github.com/PostHog/posthog</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;PostHog/posthog&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.&lt;/p&gt;
+&lt;p&gt;⭐ 36,992 | +411 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/PostHog/posthog#2026-07-20</guid><pubDate>Mon, 20 Jul 2026 04:32:27 +0000</pubDate></item><item><title>#8 microsoft/terminal (+59 stars)</title><link>https://github.com/microsoft/terminal</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;microsoft/terminal&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The new Windows Terminal and the original Windows console host, all in the same place!&lt;/p&gt;
+&lt;p&gt;⭐ 104,217 | +59 today | 🔧 C++&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/microsoft/terminal#2026-07-20</guid><pubDate>Mon, 20 Jul 2026 04:32:27 +0000</pubDate></item><item><title>#9 MoonshotAI/kimi-cli (+410 stars)</title><link>https://github.com/MoonshotAI/kimi-cli</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;MoonshotAI/kimi-cli&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kimi Code CLI is your next CLI agent.&lt;/p&gt;
+&lt;p&gt;⭐ 9,954 | +410 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/MoonshotAI/kimi-cli#2026-07-20</guid><pubDate>Mon, 20 Jul 2026 04:32:27 +0000</pubDate></item><item><title>#10 lyogavin/airllm (+358 stars)</title><link>https://github.com/lyogavin/airllm</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;lyogavin/airllm&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;AirLLM 70B inference with single 4GB GPU&lt;/p&gt;
-&lt;p&gt;⭐ 23,377 | +161 today | 🔧 Jupyter Notebook&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+&lt;p&gt;⭐ 23,689 | +358 today | 🔧 Jupyter Notebook&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/lyogavin/airllm#2026-07-19</guid><pubDate>Sun, 19 Jul 2026 04:16:06 +0000</pubDate></item><item><title>#8 apache/ossie (+47 stars)</title><link>https://github.com/apache/ossie</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;apache/ossie&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data&lt;/p&gt;
-&lt;p&gt;⭐ 1,302 | +47 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/apache/ossie#2026-07-19</guid><pubDate>Sun, 19 Jul 2026 04:16:06 +0000</pubDate></item><item><title>#9 elder-plinius/G0DM0D3 (+69 stars)</title><link>https://github.com/elder-plinius/G0DM0D3</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;elder-plinius/G0DM0D3&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;LIBERATED AI CHAT&lt;/p&gt;
-&lt;p&gt;⭐ 9,551 | +69 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/elder-plinius/G0DM0D3#2026-07-19</guid><pubDate>Sun, 19 Jul 2026 04:16:06 +0000</pubDate></item><item><title>#10 KnockOutEZ/wigolo (+203 stars)</title><link>https://github.com/KnockOutEZ/wigolo</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;KnockOutEZ/wigolo&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0/query. Public beta.&lt;/p&gt;
-&lt;p&gt;⭐ 1,309 | +203 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/KnockOutEZ/wigolo#2026-07-19</guid><pubDate>Sun, 19 Jul 2026 04:16:06 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/lyogavin/airllm#2026-07-20</guid><pubDate>Mon, 20 Jul 2026 04:32:27 +0000</pubDate></item></channel></rss>

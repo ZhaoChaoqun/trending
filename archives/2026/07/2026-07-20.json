@@ -1,0 +1,159 @@
+{
+  "date": "2026-07-20",
+  "updated_at": "2026-07-20 04:32:27",
+  "count": 19,
+  "rankings": [
+    {
+      "name": "tirth8205/code-review-graph",
+      "rank": 1,
+      "stars": "21,583",
+      "stars_today": "663",
+      "language": "Python",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows."
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "rank": 2,
+      "stars": "43,520",
+      "stars_today": "610",
+      "language": "TypeScript",
+      "description": "The open-source AI voice studio. Clone, dictate, create."
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "rank": 3,
+      "stars": "529,032",
+      "stars_today": "754",
+      "language": "Markdown",
+      "description": "Master programming by recreating your favorite technologies from scratch."
+    },
+    {
+      "name": "bojieli/ai-agent-book",
+      "rank": 4,
+      "stars": "6,751",
+      "stars_today": "1,734",
+      "language": "Python",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
+    },
+    {
+      "name": "kvcache-ai/ktransformers",
+      "rank": 5,
+      "stars": "18,454",
+      "stars_today": "360",
+      "language": "Python",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "rank": 6,
+      "stars": "39,852",
+      "stars_today": "501",
+      "language": "Python",
+      "description": "Learn it. Build it. Ship it for others."
+    },
+    {
+      "name": "PostHog/posthog",
+      "rank": 7,
+      "stars": "36,992",
+      "stars_today": "411",
+      "language": "Python",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP."
+    },
+    {
+      "name": "microsoft/terminal",
+      "rank": 8,
+      "stars": "104,217",
+      "stars_today": "59",
+      "language": "C++",
+      "description": "The new Windows Terminal and the original Windows console host, all in the same place!"
+    },
+    {
+      "name": "MoonshotAI/kimi-cli",
+      "rank": 9,
+      "stars": "9,954",
+      "stars_today": "410",
+      "language": "Python",
+      "description": "Kimi Code CLI is your next CLI agent."
+    },
+    {
+      "name": "lyogavin/airllm",
+      "rank": 10,
+      "stars": "23,689",
+      "stars_today": "358",
+      "language": "Jupyter Notebook",
+      "description": "AirLLM 70B inference with single 4GB GPU"
+    },
+    {
+      "name": "PKUFlyingPig/cs-self-learning",
+      "rank": 11,
+      "stars": "74,253",
+      "stars_today": "134",
+      "language": "HTML",
+      "description": "计算机自学指南"
+    },
+    {
+      "name": "KnockOutEZ/wigolo",
+      "rank": 12,
+      "stars": "1,977",
+      "stars_today": "595",
+      "language": "TypeScript",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta."
+    },
+    {
+      "name": "AstrBotDevs/AstrBot",
+      "rank": 13,
+      "stars": "36,751",
+      "stars_today": "83",
+      "language": "Python",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨"
+    },
+    {
+      "name": "1jehuang/jcode",
+      "rank": 14,
+      "stars": "9,004",
+      "stars_today": "235",
+      "language": "Rust",
+      "description": "Coding Agent Harness"
+    },
+    {
+      "name": "trycua/cua",
+      "rank": 15,
+      "stars": "20,263",
+      "stars_today": "64",
+      "language": "HTML",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
+    },
+    {
+      "name": "Flowseal/zapret-discord-youtube",
+      "rank": 16,
+      "stars": "31,046",
+      "stars_today": "106",
+      "language": "Batchfile",
+      "description": ""
+    },
+    {
+      "name": "Canner/WrenAI",
+      "rank": 17,
+      "stars": "16,278",
+      "stars_today": "121",
+      "language": "Python",
+      "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more."
+    },
+    {
+      "name": "github/copilot-sdk",
+      "rank": 18,
+      "stars": "9,988",
+      "stars_today": "39",
+      "language": "Java",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services"
+    },
+    {
+      "name": "andrewrabert/jellium-desktop",
+      "rank": 19,
+      "stars": "1,322",
+      "stars_today": "43",
+      "language": "Rust",
+      "description": "An unofficial desktop client for Jellyfin"
+    }
+  ]
+}
