@@ -1,0 +1,167 @@
+{
+  "date": "2026-07-21",
+  "updated_at": "2026-07-21 04:09:14",
+  "count": 20,
+  "rankings": [
+    {
+      "name": "tirth8205/code-review-graph",
+      "rank": 1,
+      "stars": "23,535",
+      "stars_today": "1,833",
+      "language": "Python",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows."
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "rank": 2,
+      "stars": "22,125",
+      "stars_today": "1,107",
+      "language": "TypeScript",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors."
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "rank": 3,
+      "stars": "134,862",
+      "stars_today": "862",
+      "language": "Shell",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "rank": 4,
+      "stars": "44,332",
+      "stars_today": "821",
+      "language": "TypeScript",
+      "description": "The open-source AI voice studio. Clone, dictate, create."
+    },
+    {
+      "name": "1jehuang/jcode",
+      "rank": 5,
+      "stars": "9,765",
+      "stars_today": "568",
+      "language": "Rust",
+      "description": "The most intelligent agent harness for code"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "rank": 6,
+      "stars": "40,710",
+      "stars_today": "823",
+      "language": "Python",
+      "description": "Learn it. Build it. Ship it for others."
+    },
+    {
+      "name": "kvcache-ai/ktransformers",
+      "rank": 7,
+      "stars": "18,769",
+      "stars_today": "458",
+      "language": "Python",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations"
+    },
+    {
+      "name": "topoteretes/cognee",
+      "rank": 8,
+      "stars": "28,853",
+      "stars_today": "234",
+      "language": "Python",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine."
+    },
+    {
+      "name": "Robbyant/lingbot-map",
+      "rank": 9,
+      "stars": "14,339",
+      "stars_today": "565",
+      "language": "Python",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data"
+    },
+    {
+      "name": "every-app/open-seo",
+      "rank": 10,
+      "stars": "5,990",
+      "stars_today": "939",
+      "language": "TypeScript",
+      "description": "Open source alternative to Semrush and Ahrefs"
+    },
+    {
+      "name": "MoonshotAI/kimi-cli",
+      "rank": 11,
+      "stars": "10,293",
+      "stars_today": "410",
+      "language": "Python",
+      "description": "Kimi Code CLI is your next CLI agent."
+    },
+    {
+      "name": "AstrBotDevs/AstrBot",
+      "rank": 12,
+      "stars": "37,170",
+      "stars_today": "317",
+      "language": "Python",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨"
+    },
+    {
+      "name": "iptv-org/iptv",
+      "rank": 13,
+      "stars": "133,822",
+      "stars_today": "240",
+      "language": "TypeScript",
+      "description": "Collection of publicly available IPTV channels from all over the world"
+    },
+    {
+      "name": "oblien/openship",
+      "rank": 14,
+      "stars": "5,002",
+      "stars_today": "1,641",
+      "language": "TypeScript",
+      "description": "Self-hosted deployment platform"
+    },
+    {
+      "name": "PrefectHQ/fastmcp",
+      "rank": 15,
+      "stars": "26,590",
+      "stars_today": "96",
+      "language": "Python",
+      "description": "🚀 The fast, Pythonic way to build MCP servers and clients."
+    },
+    {
+      "name": "KnockOutEZ/wigolo",
+      "rank": 16,
+      "stars": "2,645",
+      "stars_today": "689",
+      "language": "TypeScript",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta."
+    },
+    {
+      "name": "tokio-rs/topcoat",
+      "rank": 17,
+      "stars": "1,643",
+      "stars_today": "371",
+      "language": "Rust",
+      "description": "A batteries-included framework for building web apps"
+    },
+    {
+      "name": "microsoft/Ontology-Playground",
+      "rank": 18,
+      "stars": "1,781",
+      "stars_today": "464",
+      "language": "TypeScript",
+      "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static."
+    },
+    {
+      "name": "moonshine-ai/moonshine",
+      "rank": 19,
+      "stars": "9,953",
+      "stars_today": "282",
+      "language": "C++",
+      "description": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces"
+    },
+    {
+      "name": "handy-computer/transcribe.cpp",
+      "rank": 20,
+      "stars": "1,328",
+      "stars_today": "395",
+      "language": "C++",
+      "description": "ggml speech-to-text inference for 16+ model families"
+    }
+  ]
+}
