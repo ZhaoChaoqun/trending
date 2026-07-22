@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Tue, 21 Jul 2026 04:09:14 +0000</pubDate><lastBuildDate>Tue, 21 Jul 2026 04:09:14 +0000</lastBuildDate><item><title>#1 tirth8205/code-review-graph (+1,833 stars)</title><link>https://github.com/tirth8205/code-review-graph</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Wed, 22 Jul 2026 04:10:41 +0000</pubDate><lastBuildDate>Wed, 22 Jul 2026 04:10:41 +0000</lastBuildDate><item><title>#1 koala73/worldmonitor (+1,295 stars)</title><link>https://github.com/koala73/worldmonitor</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;koala73/worldmonitor&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface&lt;/p&gt;
+&lt;p&gt;⭐ 65,995 | +1,295 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/koala73/worldmonitor#2026-07-22</guid><pubDate>Wed, 22 Jul 2026 04:10:41 +0000</pubDate></item><item><title>#2 tirth8205/code-review-graph (+1,925 stars)</title><link>https://github.com/tirth8205/code-review-graph</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;tirth8205/code-review-graph&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.&lt;/p&gt;
-&lt;p&gt;⭐ 23,535 | +1,833 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 24,740 | +1,925 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/tirth8205/code-review-graph#2026-07-21</guid><pubDate>Tue, 21 Jul 2026 04:09:14 +0000</pubDate></item><item><title>#2 diegosouzapw/OmniRoute (+1,107 stars)</title><link>https://github.com/diegosouzapw/OmniRoute</link><description>
+</description><guid isPermaLink="false">https://github.com/tirth8205/code-review-graph#2026-07-22</guid><pubDate>Wed, 22 Jul 2026 04:10:41 +0000</pubDate></item><item><title>#3 chrislgarry/Apollo-11 (+1,235 stars)</title><link>https://github.com/chrislgarry/Apollo-11</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;chrislgarry/Apollo-11&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.&lt;/p&gt;
+&lt;p&gt;⭐ 70,014 | +1,235 today | 🔧 Assembly&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/chrislgarry/Apollo-11#2026-07-22</guid><pubDate>Wed, 22 Jul 2026 04:10:41 +0000</pubDate></item><item><title>#4 diegosouzapw/OmniRoute (+2,034 stars)</title><link>https://github.com/diegosouzapw/OmniRoute</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;diegosouzapw/OmniRoute&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.&lt;/p&gt;
-&lt;p&gt;⭐ 22,125 | +1,107 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors&lt;/p&gt;
+&lt;p&gt;⭐ 23,838 | +2,034 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/diegosouzapw/OmniRoute#2026-07-21</guid><pubDate>Tue, 21 Jul 2026 04:09:14 +0000</pubDate></item><item><title>#3 msitarzewski/agency-agents (+862 stars)</title><link>https://github.com/msitarzewski/agency-agents</link><description>
+</description><guid isPermaLink="false">https://github.com/diegosouzapw/OmniRoute#2026-07-22</guid><pubDate>Wed, 22 Jul 2026 04:10:41 +0000</pubDate></item><item><title>#5 bojieli/ai-agent-book (+4,624 stars)</title><link>https://github.com/bojieli/ai-agent-book</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;msitarzewski/agency-agents&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.&lt;/p&gt;
-&lt;p&gt;⭐ 134,862 | +862 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;bojieli/ai-agent-book&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码&lt;/p&gt;
+&lt;p&gt;⭐ 15,364 | +4,624 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/msitarzewski/agency-agents#2026-07-21</guid><pubDate>Tue, 21 Jul 2026 04:09:14 +0000</pubDate></item><item><title>#4 jamiepine/voicebox (+821 stars)</title><link>https://github.com/jamiepine/voicebox</link><description>
+</description><guid isPermaLink="false">https://github.com/bojieli/ai-agent-book#2026-07-22</guid><pubDate>Wed, 22 Jul 2026 04:10:41 +0000</pubDate></item><item><title>#6 ayghri/i-have-adhd (+1,866 stars)</title><link>https://github.com/ayghri/i-have-adhd</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;jamiepine/voicebox&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The open-source AI voice studio. Clone, dictate, create.&lt;/p&gt;
-&lt;p&gt;⭐ 44,332 | +821 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ayghri/i-have-adhd&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.&lt;/p&gt;
+&lt;p&gt;⭐ 7,108 | +1,866 today | 🔧 Unknown&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/jamiepine/voicebox#2026-07-21</guid><pubDate>Tue, 21 Jul 2026 04:09:14 +0000</pubDate></item><item><title>#5 1jehuang/jcode (+568 stars)</title><link>https://github.com/1jehuang/jcode</link><description>
+</description><guid isPermaLink="false">https://github.com/ayghri/i-have-adhd#2026-07-22</guid><pubDate>Wed, 22 Jul 2026 04:10:41 +0000</pubDate></item><item><title>#7 1jehuang/jcode (+843 stars)</title><link>https://github.com/1jehuang/jcode</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;1jehuang/jcode&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The most intelligent agent harness for code&lt;/p&gt;
-&lt;p&gt;⭐ 9,765 | +568 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;⭐ 10,426 | +843 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/1jehuang/jcode#2026-07-21</guid><pubDate>Tue, 21 Jul 2026 04:09:14 +0000</pubDate></item><item><title>#6 rohitg00/ai-engineering-from-scratch (+823 stars)</title><link>https://github.com/rohitg00/ai-engineering-from-scratch</link><description>
+</description><guid isPermaLink="false">https://github.com/1jehuang/jcode#2026-07-22</guid><pubDate>Wed, 22 Jul 2026 04:10:41 +0000</pubDate></item><item><title>#8 oblien/openship (+1,562 stars)</title><link>https://github.com/oblien/openship</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;rohitg00/ai-engineering-from-scratch&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Learn it. Build it. Ship it for others.&lt;/p&gt;
-&lt;p&gt;⭐ 40,710 | +823 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;oblien/openship&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Self-hosted deployment platform&lt;/p&gt;
+&lt;p&gt;⭐ 6,387 | +1,562 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/rohitg00/ai-engineering-from-scratch#2026-07-21</guid><pubDate>Tue, 21 Jul 2026 04:09:14 +0000</pubDate></item><item><title>#7 kvcache-ai/ktransformers (+458 stars)</title><link>https://github.com/kvcache-ai/ktransformers</link><description>
+</description><guid isPermaLink="false">https://github.com/oblien/openship#2026-07-22</guid><pubDate>Wed, 22 Jul 2026 04:10:41 +0000</pubDate></item><item><title>#9 AstrBotDevs/AstrBot (+416 stars)</title><link>https://github.com/AstrBotDevs/AstrBot</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;kvcache-ai/ktransformers&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations&lt;/p&gt;
-&lt;p&gt;⭐ 18,769 | +458 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AstrBotDevs/AstrBot&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AI Agent Assistant &amp; development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨&lt;/p&gt;
+&lt;p&gt;⭐ 37,547 | +416 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/kvcache-ai/ktransformers#2026-07-21</guid><pubDate>Tue, 21 Jul 2026 04:09:14 +0000</pubDate></item><item><title>#8 topoteretes/cognee (+234 stars)</title><link>https://github.com/topoteretes/cognee</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;topoteretes/cognee&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.&lt;/p&gt;
-&lt;p&gt;⭐ 28,853 | +234 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/topoteretes/cognee#2026-07-21</guid><pubDate>Tue, 21 Jul 2026 04:09:14 +0000</pubDate></item><item><title>#9 Robbyant/lingbot-map (+565 stars)</title><link>https://github.com/Robbyant/lingbot-map</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Robbyant/lingbot-map&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A feed-forward 3D foundation model for reconstructing scenes from streaming data&lt;/p&gt;
-&lt;p&gt;⭐ 14,339 | +565 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/Robbyant/lingbot-map#2026-07-21</guid><pubDate>Tue, 21 Jul 2026 04:09:14 +0000</pubDate></item><item><title>#10 every-app/open-seo (+939 stars)</title><link>https://github.com/every-app/open-seo</link><description>
+</description><guid isPermaLink="false">https://github.com/AstrBotDevs/AstrBot#2026-07-22</guid><pubDate>Wed, 22 Jul 2026 04:10:41 +0000</pubDate></item><item><title>#10 every-app/open-seo (+849 stars)</title><link>https://github.com/every-app/open-seo</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;every-app/open-seo&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Open source alternative to Semrush and Ahrefs&lt;/p&gt;
-&lt;p&gt;⭐ 5,990 | +939 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 6,665 | +849 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/every-app/open-seo#2026-07-21</guid><pubDate>Tue, 21 Jul 2026 04:09:14 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/every-app/open-seo#2026-07-22</guid><pubDate>Wed, 22 Jul 2026 04:10:41 +0000</pubDate></item></channel></rss>

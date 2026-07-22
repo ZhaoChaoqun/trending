@@ -1,0 +1,175 @@
+{
+  "date": "2026-07-22",
+  "updated_at": "2026-07-22 04:10:41",
+  "count": 21,
+  "rankings": [
+    {
+      "name": "koala73/worldmonitor",
+      "rank": 1,
+      "stars": "65,995",
+      "stars_today": "1,295",
+      "language": "TypeScript",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface"
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "rank": 2,
+      "stars": "24,740",
+      "stars_today": "1,925",
+      "language": "Python",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows."
+    },
+    {
+      "name": "chrislgarry/Apollo-11",
+      "rank": 3,
+      "stars": "70,014",
+      "stars_today": "1,235",
+      "language": "Assembly",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules."
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "rank": 4,
+      "stars": "23,838",
+      "stars_today": "2,034",
+      "language": "TypeScript",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors"
+    },
+    {
+      "name": "bojieli/ai-agent-book",
+      "rank": 5,
+      "stars": "15,364",
+      "stars_today": "4,624",
+      "language": "Python",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
+    },
+    {
+      "name": "ayghri/i-have-adhd",
+      "rank": 6,
+      "stars": "7,108",
+      "stars_today": "1,866",
+      "language": null,
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output."
+    },
+    {
+      "name": "1jehuang/jcode",
+      "rank": 7,
+      "stars": "10,426",
+      "stars_today": "843",
+      "language": "Rust",
+      "description": "The most intelligent agent harness for code"
+    },
+    {
+      "name": "oblien/openship",
+      "rank": 8,
+      "stars": "6,387",
+      "stars_today": "1,562",
+      "language": "TypeScript",
+      "description": "Self-hosted deployment platform"
+    },
+    {
+      "name": "AstrBotDevs/AstrBot",
+      "rank": 9,
+      "stars": "37,547",
+      "stars_today": "416",
+      "language": "Python",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨"
+    },
+    {
+      "name": "every-app/open-seo",
+      "rank": 10,
+      "stars": "6,665",
+      "stars_today": "849",
+      "language": "TypeScript",
+      "description": "Open source alternative to Semrush and Ahrefs"
+    },
+    {
+      "name": "AlexsJones/llmfit",
+      "rank": 11,
+      "stars": "30,281",
+      "stars_today": "129",
+      "language": "Rust",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware."
+    },
+    {
+      "name": "DioxusLabs/dioxus",
+      "rank": 12,
+      "stars": "37,728",
+      "stars_today": "271",
+      "language": "Rust",
+      "description": "Fullstack app framework for web, desktop, and mobile."
+    },
+    {
+      "name": "schollz/croc",
+      "rank": 13,
+      "stars": "36,904",
+      "stars_today": "361",
+      "language": "Go",
+      "description": "Easily and securely send things from one computer to another 🐊 📦"
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "rank": 14,
+      "stars": "9,250",
+      "stars_today": "291",
+      "language": "JavaScript",
+      "description": "A collection of agent skills for CAD, robotics and hardware design"
+    },
+    {
+      "name": "tradesdontlie/tradingview-mcp",
+      "rank": 15,
+      "stars": "4,904",
+      "stars_today": "114",
+      "language": "JavaScript",
+      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation"
+    },
+    {
+      "name": "hyprwm/Hyprland",
+      "rank": 16,
+      "stars": "37,080",
+      "stars_today": "58",
+      "language": "C++",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks."
+    },
+    {
+      "name": "microsoft/Ontology-Playground",
+      "rank": 17,
+      "stars": "2,053",
+      "stars_today": "355",
+      "language": "TypeScript",
+      "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static."
+    },
+    {
+      "name": "dottxt-ai/outlines",
+      "rank": 18,
+      "stars": "14,891",
+      "stars_today": "65",
+      "language": "Python",
+      "description": "Structured Outputs"
+    },
+    {
+      "name": "KnockOutEZ/wigolo",
+      "rank": 19,
+      "stars": "3,219",
+      "stars_today": "642",
+      "language": "TypeScript",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta."
+    },
+    {
+      "name": "langchain-ai/open_deep_research",
+      "rank": 20,
+      "stars": "12,281",
+      "stars_today": "23",
+      "language": "Python",
+      "description": ""
+    },
+    {
+      "name": "agegr/pi-web",
+      "rank": 21,
+      "stars": "1,785",
+      "stars_today": "298",
+      "language": "TypeScript",
+      "description": "Web UI for the pi coding agent"
+    }
+  ]
+}
