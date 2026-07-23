@@ -1,0 +1,159 @@
+{
+  "date": "2026-07-23",
+  "updated_at": "2026-07-23 04:08:34",
+  "count": 19,
+  "rankings": [
+    {
+      "name": "koala73/worldmonitor",
+      "rank": 1,
+      "stars": "69,424",
+      "stars_today": "4,139",
+      "language": "TypeScript",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "rank": 2,
+      "stars": "84,018",
+      "stars_today": "741",
+      "language": "Rust",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+    },
+    {
+      "name": "schollz/croc",
+      "rank": 3,
+      "stars": "37,745",
+      "stars_today": "739",
+      "language": "Go",
+      "description": "Easily and securely send things from one computer to another 🐊 📦"
+    },
+    {
+      "name": "chrislgarry/Apollo-11",
+      "rank": 4,
+      "stars": "70,691",
+      "stars_today": "768",
+      "language": "Assembly",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules."
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "rank": 5,
+      "stars": "45,897",
+      "stars_today": "557",
+      "language": "TypeScript",
+      "description": "The open-source AI voice studio. Clone, dictate, create."
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "rank": 6,
+      "stars": "25,576",
+      "stars_today": "1,651",
+      "language": "TypeScript",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors"
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "rank": 7,
+      "stars": "25,434",
+      "stars_today": "882",
+      "language": "Python",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows."
+    },
+    {
+      "name": "ayghri/i-have-adhd",
+      "rank": 8,
+      "stars": "8,478",
+      "stars_today": "1,699",
+      "language": "Python",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output."
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "rank": 9,
+      "stars": "32,674",
+      "stars_today": "137",
+      "language": "Python",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets"
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "rank": 10,
+      "stars": "68,883",
+      "stars_today": "163",
+      "language": "Python",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
+    },
+    {
+      "name": "oblien/openship",
+      "rank": 11,
+      "stars": "7,404",
+      "stars_today": "1,302",
+      "language": "TypeScript",
+      "description": "Self-hosted deployment platform"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "rank": 12,
+      "stars": "42,381",
+      "stars_today": "652",
+      "language": "Python",
+      "description": "Learn it. Build it. Ship it for others."
+    },
+    {
+      "name": "DioxusLabs/dioxus",
+      "rank": 13,
+      "stars": "38,068",
+      "stars_today": "420",
+      "language": "Rust",
+      "description": "Fullstack app framework for web, desktop, and mobile."
+    },
+    {
+      "name": "hyprwm/Hyprland",
+      "rank": 14,
+      "stars": "37,330",
+      "stars_today": "356",
+      "language": "C++",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks."
+    },
+    {
+      "name": "dottxt-ai/outlines",
+      "rank": 15,
+      "stars": "15,155",
+      "stars_today": "364",
+      "language": "Python",
+      "description": "Structured Outputs"
+    },
+    {
+      "name": "agegr/pi-web",
+      "rank": 16,
+      "stars": "2,117",
+      "stars_today": "314",
+      "language": "TypeScript",
+      "description": "Web UI for the pi coding agent"
+    },
+    {
+      "name": "dreamhunter2333/cloudflare_temp_email",
+      "rank": 17,
+      "stars": "10,858",
+      "stars_today": "68",
+      "language": "TypeScript",
+      "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot"
+    },
+    {
+      "name": "Pumpkin-MC/Pumpkin",
+      "rank": 18,
+      "stars": "8,495",
+      "stars_today": "108",
+      "language": "Rust",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers."
+    },
+    {
+      "name": "likec4/likec4",
+      "rank": 19,
+      "stars": "4,369",
+      "stars_today": "80",
+      "language": "TypeScript",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code"
+    }
+  ]
+}
