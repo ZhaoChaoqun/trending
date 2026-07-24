@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-24",
+  "updated_at": "2026-07-24 04:00:32",
+  "count": 15,
+  "rankings": [
+    {
+      "name": "koala73/worldmonitor",
+      "rank": 1,
+      "stars": "71,909",
+      "stars_today": "3,175",
+      "language": "TypeScript",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface"
+    },
+    {
+      "name": "chrislgarry/Apollo-11",
+      "rank": 2,
+      "stars": "71,153",
+      "stars_today": "592",
+      "language": "Assembly",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules."
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "rank": 3,
+      "stars": "27,449",
+      "stars_today": "1,929",
+      "language": "TypeScript",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors"
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "rank": 4,
+      "stars": "69,540",
+      "stars_today": "636",
+      "language": "Python",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "rank": 5,
+      "stars": "85,313",
+      "stars_today": "1,708",
+      "language": "Rust",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+    },
+    {
+      "name": "block/buzz",
+      "rank": 6,
+      "stars": "7,320",
+      "stars_today": "2,162",
+      "language": "Rust",
+      "description": "A hive mind communication platform"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "rank": 7,
+      "stars": "33,155",
+      "stars_today": "401",
+      "language": "Python",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets"
+    },
+    {
+      "name": "Pumpkin-MC/Pumpkin",
+      "rank": 8,
+      "stars": "8,990",
+      "stars_today": "565",
+      "language": "Rust",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers."
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "rank": 9,
+      "stars": "10,082",
+      "stars_today": "230",
+      "language": "JavaScript",
+      "description": "A collection of agent skills for CAD, robotics and hardware design"
+    },
+    {
+      "name": "Automattic/harper",
+      "rank": 10,
+      "stars": "12,433",
+      "stars_today": "624",
+      "language": "Rust",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered"
+    },
+    {
+      "name": "jellyfin/jellyfin",
+      "rank": 11,
+      "stars": "54,775",
+      "stars_today": "66",
+      "language": "C#",
+      "description": "The Free Software Media System - Server Backend & API"
+    },
+    {
+      "name": "agegr/pi-web",
+      "rank": 12,
+      "stars": "2,432",
+      "stars_today": "315",
+      "language": "TypeScript",
+      "description": "Web UI for the pi coding agent"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "rank": 13,
+      "stars": "11,714",
+      "stars_today": "180",
+      "language": "Go",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+    },
+    {
+      "name": "likec4/likec4",
+      "rank": 14,
+      "stars": "4,757",
+      "stars_today": "472",
+      "language": "TypeScript",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code"
+    },
+    {
+      "name": "citrolabs/ego-lite",
+      "rank": 15,
+      "stars": "1,795",
+      "stars_today": "247",
+      "language": "JavaScript",
+      "description": "The best browser for both you and your AI agents work in parallel."
+    }
+  ]
+}
