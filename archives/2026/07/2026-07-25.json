@@ -1,0 +1,135 @@
+{
+  "date": "2026-07-25",
+  "updated_at": "2026-07-25 03:56:25",
+  "count": 16,
+  "rankings": [
+    {
+      "name": "koala73/worldmonitor",
+      "rank": 1,
+      "stars": "73,435",
+      "stars_today": "2,184",
+      "language": "TypeScript",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface"
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "rank": 2,
+      "stars": "70,142",
+      "stars_today": "663",
+      "language": "Python",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "rank": 3,
+      "stars": "86,011",
+      "stars_today": "1,022",
+      "language": "Rust",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+    },
+    {
+      "name": "chrislgarry/Apollo-11",
+      "rank": 4,
+      "stars": "71,428",
+      "stars_today": "409",
+      "language": "Assembly",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules."
+    },
+    {
+      "name": "mattpocock/skills",
+      "rank": 5,
+      "stars": "186,989",
+      "stars_today": "2,251",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory."
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "rank": 6,
+      "stars": "29,008",
+      "stars_today": "1,841",
+      "language": "TypeScript",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors"
+    },
+    {
+      "name": "block/buzz",
+      "rank": 7,
+      "stars": "10,206",
+      "stars_today": "3,270",
+      "language": "Rust",
+      "description": "A hive mind communication platform"
+    },
+    {
+      "name": "Pumpkin-MC/Pumpkin",
+      "rank": 8,
+      "stars": "9,382",
+      "stars_today": "473",
+      "language": "Rust",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers."
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "rank": 9,
+      "stars": "33,533",
+      "stars_today": "499",
+      "language": "Python",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets"
+    },
+    {
+      "name": "Automattic/harper",
+      "rank": 10,
+      "stars": "13,085",
+      "stars_today": "876",
+      "language": "Rust",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered"
+    },
+    {
+      "name": "citrolabs/ego-lite",
+      "rank": 11,
+      "stars": "2,714",
+      "stars_today": "880",
+      "language": "JavaScript",
+      "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config."
+    },
+    {
+      "name": "yorukot/superfile",
+      "rank": 12,
+      "stars": "19,653",
+      "stars_today": "338",
+      "language": "Go",
+      "description": "Pretty fancy and modern terminal file manager"
+    },
+    {
+      "name": "Lordog/dive-into-llms",
+      "rank": 13,
+      "stars": "45,062",
+      "stars_today": "328",
+      "language": "Jupyter Notebook",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程"
+    },
+    {
+      "name": "likec4/likec4",
+      "rank": 14,
+      "stars": "5,059",
+      "stars_today": "337",
+      "language": "TypeScript",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code"
+    },
+    {
+      "name": "CoreBunch/Instatic",
+      "rank": 15,
+      "stars": "4,339",
+      "stars_today": "201",
+      "language": "TypeScript",
+      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there."
+    },
+    {
+      "name": "OtterMind/Chat2DB",
+      "rank": 16,
+      "stars": "26,385",
+      "stars_today": "82",
+      "language": "Java",
+      "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more."
+    }
+  ]
+}

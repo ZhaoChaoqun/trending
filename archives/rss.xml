@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 24 Jul 2026 04:00:32 +0000</pubDate><lastBuildDate>Fri, 24 Jul 2026 04:00:32 +0000</lastBuildDate><item><title>#1 koala73/worldmonitor (+3,175 stars)</title><link>https://github.com/koala73/worldmonitor</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sat, 25 Jul 2026 03:56:25 +0000</pubDate><lastBuildDate>Sat, 25 Jul 2026 03:56:25 +0000</lastBuildDate><item><title>#1 koala73/worldmonitor (+2,184 stars)</title><link>https://github.com/koala73/worldmonitor</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;koala73/worldmonitor&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface&lt;/p&gt;
-&lt;p&gt;⭐ 71,909 | +3,175 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 73,435 | +2,184 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/koala73/worldmonitor#2026-07-24</guid><pubDate>Fri, 24 Jul 2026 04:00:32 +0000</pubDate></item><item><title>#2 chrislgarry/Apollo-11 (+592 stars)</title><link>https://github.com/chrislgarry/Apollo-11</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;chrislgarry/Apollo-11&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.&lt;/p&gt;
-&lt;p&gt;⭐ 71,153 | +592 today | 🔧 Assembly&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/chrislgarry/Apollo-11#2026-07-24</guid><pubDate>Fri, 24 Jul 2026 04:00:32 +0000</pubDate></item><item><title>#3 diegosouzapw/OmniRoute (+1,929 stars)</title><link>https://github.com/diegosouzapw/OmniRoute</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;diegosouzapw/OmniRoute&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors&lt;/p&gt;
-&lt;p&gt;⭐ 27,449 | +1,929 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/diegosouzapw/OmniRoute#2026-07-24</guid><pubDate>Fri, 24 Jul 2026 04:00:32 +0000</pubDate></item><item><title>#4 ComposioHQ/awesome-claude-skills (+636 stars)</title><link>https://github.com/ComposioHQ/awesome-claude-skills</link><description>
+</description><guid isPermaLink="false">https://github.com/koala73/worldmonitor#2026-07-25</guid><pubDate>Sat, 25 Jul 2026 03:56:25 +0000</pubDate></item><item><title>#2 ComposioHQ/awesome-claude-skills (+663 stars)</title><link>https://github.com/ComposioHQ/awesome-claude-skills</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;ComposioHQ/awesome-claude-skills&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows&lt;/p&gt;
-&lt;p&gt;⭐ 69,540 | +636 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 70,142 | +663 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/ComposioHQ/awesome-claude-skills#2026-07-24</guid><pubDate>Fri, 24 Jul 2026 04:00:32 +0000</pubDate></item><item><title>#5 ruvnet/RuView (+1,708 stars)</title><link>https://github.com/ruvnet/RuView</link><description>
+</description><guid isPermaLink="false">https://github.com/ComposioHQ/awesome-claude-skills#2026-07-25</guid><pubDate>Sat, 25 Jul 2026 03:56:25 +0000</pubDate></item><item><title>#3 ruvnet/RuView (+1,022 stars)</title><link>https://github.com/ruvnet/RuView</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;ruvnet/RuView&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.&lt;/p&gt;
-&lt;p&gt;⭐ 85,313 | +1,708 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;⭐ 86,011 | +1,022 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/ruvnet/RuView#2026-07-24</guid><pubDate>Fri, 24 Jul 2026 04:00:32 +0000</pubDate></item><item><title>#6 block/buzz (+2,162 stars)</title><link>https://github.com/block/buzz</link><description>
+</description><guid isPermaLink="false">https://github.com/ruvnet/RuView#2026-07-25</guid><pubDate>Sat, 25 Jul 2026 03:56:25 +0000</pubDate></item><item><title>#4 chrislgarry/Apollo-11 (+409 stars)</title><link>https://github.com/chrislgarry/Apollo-11</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;chrislgarry/Apollo-11&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.&lt;/p&gt;
+&lt;p&gt;⭐ 71,428 | +409 today | 🔧 Assembly&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/chrislgarry/Apollo-11#2026-07-25</guid><pubDate>Sat, 25 Jul 2026 03:56:25 +0000</pubDate></item><item><title>#5 mattpocock/skills (+2,251 stars)</title><link>https://github.com/mattpocock/skills</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;mattpocock/skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Skills for Real Engineers. Straight from my .agents directory.&lt;/p&gt;
+&lt;p&gt;⭐ 186,989 | +2,251 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-07-25</guid><pubDate>Sat, 25 Jul 2026 03:56:25 +0000</pubDate></item><item><title>#6 diegosouzapw/OmniRoute (+1,841 stars)</title><link>https://github.com/diegosouzapw/OmniRoute</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;diegosouzapw/OmniRoute&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors&lt;/p&gt;
+&lt;p&gt;⭐ 29,008 | +1,841 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/diegosouzapw/OmniRoute#2026-07-25</guid><pubDate>Sat, 25 Jul 2026 03:56:25 +0000</pubDate></item><item><title>#7 block/buzz (+3,270 stars)</title><link>https://github.com/block/buzz</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;block/buzz&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A hive mind communication platform&lt;/p&gt;
-&lt;p&gt;⭐ 7,320 | +2,162 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;⭐ 10,206 | +3,270 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/block/buzz#2026-07-24</guid><pubDate>Fri, 24 Jul 2026 04:00:32 +0000</pubDate></item><item><title>#7 shiyu-coder/Kronos (+401 stars)</title><link>https://github.com/shiyu-coder/Kronos</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;shiyu-coder/Kronos&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Kronos: A Foundation Model for the Language of Financial Markets&lt;/p&gt;
-&lt;p&gt;⭐ 33,155 | +401 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/shiyu-coder/Kronos#2026-07-24</guid><pubDate>Fri, 24 Jul 2026 04:00:32 +0000</pubDate></item><item><title>#8 Pumpkin-MC/Pumpkin (+565 stars)</title><link>https://github.com/Pumpkin-MC/Pumpkin</link><description>
+</description><guid isPermaLink="false">https://github.com/block/buzz#2026-07-25</guid><pubDate>Sat, 25 Jul 2026 03:56:25 +0000</pubDate></item><item><title>#8 Pumpkin-MC/Pumpkin (+473 stars)</title><link>https://github.com/Pumpkin-MC/Pumpkin</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;Pumpkin-MC/Pumpkin&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Empowering everyone to host fast and efficient Minecraft servers.&lt;/p&gt;
-&lt;p&gt;⭐ 8,990 | +565 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;⭐ 9,382 | +473 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Pumpkin-MC/Pumpkin#2026-07-24</guid><pubDate>Fri, 24 Jul 2026 04:00:32 +0000</pubDate></item><item><title>#9 earthtojake/text-to-cad (+230 stars)</title><link>https://github.com/earthtojake/text-to-cad</link><description>
+</description><guid isPermaLink="false">https://github.com/Pumpkin-MC/Pumpkin#2026-07-25</guid><pubDate>Sat, 25 Jul 2026 03:56:25 +0000</pubDate></item><item><title>#9 shiyu-coder/Kronos (+499 stars)</title><link>https://github.com/shiyu-coder/Kronos</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;earthtojake/text-to-cad&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A collection of agent skills for CAD, robotics and hardware design&lt;/p&gt;
-&lt;p&gt;⭐ 10,082 | +230 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;shiyu-coder/Kronos&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kronos: A Foundation Model for the Language of Financial Markets&lt;/p&gt;
+&lt;p&gt;⭐ 33,533 | +499 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/earthtojake/text-to-cad#2026-07-24</guid><pubDate>Fri, 24 Jul 2026 04:00:32 +0000</pubDate></item><item><title>#10 Automattic/harper (+624 stars)</title><link>https://github.com/Automattic/harper</link><description>
+</description><guid isPermaLink="false">https://github.com/shiyu-coder/Kronos#2026-07-25</guid><pubDate>Sat, 25 Jul 2026 03:56:25 +0000</pubDate></item><item><title>#10 Automattic/harper (+876 stars)</title><link>https://github.com/Automattic/harper</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;Automattic/harper&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Offline, privacy-first grammar checker. Fast, open-source, Rust-powered&lt;/p&gt;
-&lt;p&gt;⭐ 12,433 | +624 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;⭐ 13,085 | +876 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Automattic/harper#2026-07-24</guid><pubDate>Fri, 24 Jul 2026 04:00:32 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/Automattic/harper#2026-07-25</guid><pubDate>Sat, 25 Jul 2026 03:56:25 +0000</pubDate></item></channel></rss>
