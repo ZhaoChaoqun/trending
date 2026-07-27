@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sun, 26 Jul 2026 04:19:59 +0000</pubDate><lastBuildDate>Sun, 26 Jul 2026 04:19:59 +0000</lastBuildDate><item><title>#1 ComposioHQ/awesome-claude-skills (+577 stars)</title><link>https://github.com/ComposioHQ/awesome-claude-skills</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ComposioHQ/awesome-claude-skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows&lt;/p&gt;
-&lt;p&gt;⭐ 70,655 | +577 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/ComposioHQ/awesome-claude-skills#2026-07-26</guid><pubDate>Sun, 26 Jul 2026 04:19:59 +0000</pubDate></item><item><title>#2 obra/superpowers (+479 stars)</title><link>https://github.com/obra/superpowers</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 261,166 | +479 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-07-26</guid><pubDate>Sun, 26 Jul 2026 04:19:59 +0000</pubDate></item><item><title>#3 permissionlesstech/bitchat (+1,720 stars)</title><link>https://github.com/permissionlesstech/bitchat</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Mon, 27 Jul 2026 04:29:55 +0000</pubDate><lastBuildDate>Mon, 27 Jul 2026 04:29:55 +0000</lastBuildDate><item><title>#1 permissionlesstech/bitchat (+1,166 stars)</title><link>https://github.com/permissionlesstech/bitchat</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;permissionlesstech/bitchat&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;bluetooth mesh chat, IRC vibes&lt;/p&gt;
-&lt;p&gt;⭐ 28,814 | +1,720 today | 🔧 Swift&lt;/p&gt;
+&lt;p&gt;⭐ 30,688 | +1,166 today | 🔧 Swift&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/permissionlesstech/bitchat#2026-07-26</guid><pubDate>Sun, 26 Jul 2026 04:19:59 +0000</pubDate></item><item><title>#4 mattpocock/skills (+1,740 stars)</title><link>https://github.com/mattpocock/skills</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;mattpocock/skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Skills for Real Engineers. Straight from my .agents directory.&lt;/p&gt;
-&lt;p&gt;⭐ 188,467 | +1,740 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-07-26</guid><pubDate>Sun, 26 Jul 2026 04:19:59 +0000</pubDate></item><item><title>#5 block/buzz (+2,491 stars)</title><link>https://github.com/block/buzz</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;block/buzz&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A hive mind communication platform&lt;/p&gt;
-&lt;p&gt;⭐ 12,125 | +2,491 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/block/buzz#2026-07-26</guid><pubDate>Sun, 26 Jul 2026 04:19:59 +0000</pubDate></item><item><title>#6 alibaba/open-code-review (+431 stars)</title><link>https://github.com/alibaba/open-code-review</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;alibaba/open-code-review&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.&lt;/p&gt;
-&lt;p&gt;⭐ 13,076 | +431 today | 🔧 Go&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/alibaba/open-code-review#2026-07-26</guid><pubDate>Sun, 26 Jul 2026 04:19:59 +0000</pubDate></item><item><title>#7 citrolabs/ego-lite (+986 stars)</title><link>https://github.com/citrolabs/ego-lite</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;citrolabs/ego-lite&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.&lt;/p&gt;
-&lt;p&gt;⭐ 3,701 | +986 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/citrolabs/ego-lite#2026-07-26</guid><pubDate>Sun, 26 Jul 2026 04:19:59 +0000</pubDate></item><item><title>#8 anthropics/claude-cookbooks (+132 stars)</title><link>https://github.com/anthropics/claude-cookbooks</link><description>
+</description><guid isPermaLink="false">https://github.com/permissionlesstech/bitchat#2026-07-27</guid><pubDate>Mon, 27 Jul 2026 04:29:55 +0000</pubDate></item><item><title>#2 anthropics/claude-cookbooks (+379 stars)</title><link>https://github.com/anthropics/claude-cookbooks</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;anthropics/claude-cookbooks&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.&lt;/p&gt;
-&lt;p&gt;⭐ 49,938 | +132 today | 🔧 Jupyter Notebook&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 50,305 | +379 today | 🔧 Jupyter Notebook&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/anthropics/claude-cookbooks#2026-07-26</guid><pubDate>Sun, 26 Jul 2026 04:19:59 +0000</pubDate></item><item><title>#9 Automattic/harper (+503 stars)</title><link>https://github.com/Automattic/harper</link><description>
+</description><guid isPermaLink="false">https://github.com/anthropics/claude-cookbooks#2026-07-27</guid><pubDate>Mon, 27 Jul 2026 04:29:55 +0000</pubDate></item><item><title>#3 citrolabs/ego-lite (+900 stars)</title><link>https://github.com/citrolabs/ego-lite</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Automattic/harper&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Offline, privacy-first grammar checker. Fast, open-source, Rust-powered&lt;/p&gt;
-&lt;p&gt;⭐ 13,466 | +503 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;citrolabs/ego-lite&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.&lt;/p&gt;
+&lt;p&gt;⭐ 4,834 | +900 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Automattic/harper#2026-07-26</guid><pubDate>Sun, 26 Jul 2026 04:19:59 +0000</pubDate></item><item><title>#10 shiyu-coder/Kronos (+319 stars)</title><link>https://github.com/shiyu-coder/Kronos</link><description>
+</description><guid isPermaLink="false">https://github.com/citrolabs/ego-lite#2026-07-27</guid><pubDate>Mon, 27 Jul 2026 04:29:55 +0000</pubDate></item><item><title>#4 block/buzz (+1,710 stars)</title><link>https://github.com/block/buzz</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;block/buzz&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A hive mind communication platform&lt;/p&gt;
+&lt;p&gt;⭐ 13,546 | +1,710 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/block/buzz#2026-07-27</guid><pubDate>Mon, 27 Jul 2026 04:29:55 +0000</pubDate></item><item><title>#5 CoreBunch/Instatic (+888 stars)</title><link>https://github.com/CoreBunch/Instatic</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;CoreBunch/Instatic&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.&lt;/p&gt;
+&lt;p&gt;⭐ 5,789 | +888 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/CoreBunch/Instatic#2026-07-27</guid><pubDate>Mon, 27 Jul 2026 04:29:55 +0000</pubDate></item><item><title>#6 OtterMind/Chat2DB (+398 stars)</title><link>https://github.com/OtterMind/Chat2DB</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;OtterMind/Chat2DB&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.&lt;/p&gt;
+&lt;p&gt;⭐ 27,224 | +398 today | 🔧 Java&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/OtterMind/Chat2DB#2026-07-27</guid><pubDate>Mon, 27 Jul 2026 04:29:55 +0000</pubDate></item><item><title>#7 pbakaus/impeccable (+413 stars)</title><link>https://github.com/pbakaus/impeccable</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;pbakaus/impeccable&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The design language that makes your AI harness better at design.&lt;/p&gt;
+&lt;p&gt;⭐ 50,820 | +413 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/pbakaus/impeccable#2026-07-27</guid><pubDate>Mon, 27 Jul 2026 04:29:55 +0000</pubDate></item><item><title>#8 shiyu-coder/Kronos (+321 stars)</title><link>https://github.com/shiyu-coder/Kronos</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;shiyu-coder/Kronos&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Kronos: A Foundation Model for the Language of Financial Markets&lt;/p&gt;
-&lt;p&gt;⭐ 33,844 | +319 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 34,236 | +321 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/shiyu-coder/Kronos#2026-07-26</guid><pubDate>Sun, 26 Jul 2026 04:19:59 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/shiyu-coder/Kronos#2026-07-27</guid><pubDate>Mon, 27 Jul 2026 04:29:55 +0000</pubDate></item><item><title>#9 alibaba/open-code-review (+832 stars)</title><link>https://github.com/alibaba/open-code-review</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;alibaba/open-code-review&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.&lt;/p&gt;
+&lt;p&gt;⭐ 14,027 | +832 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/alibaba/open-code-review#2026-07-27</guid><pubDate>Mon, 27 Jul 2026 04:29:55 +0000</pubDate></item><item><title>#10 Pumpkin-MC/Pumpkin (+338 stars)</title><link>https://github.com/Pumpkin-MC/Pumpkin</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Pumpkin-MC/Pumpkin&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Empowering everyone to host fast and efficient Minecraft servers.&lt;/p&gt;
+&lt;p&gt;⭐ 10,063 | +338 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Pumpkin-MC/Pumpkin#2026-07-27</guid><pubDate>Mon, 27 Jul 2026 04:29:55 +0000</pubDate></item></channel></rss>

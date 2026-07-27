@@ -1,0 +1,143 @@
+{
+  "date": "2026-07-27",
+  "updated_at": "2026-07-27 04:29:55",
+  "count": 17,
+  "rankings": [
+    {
+      "name": "permissionlesstech/bitchat",
+      "rank": 1,
+      "stars": "30,688",
+      "stars_today": "1,166",
+      "language": "Swift",
+      "description": "bluetooth mesh chat, IRC vibes"
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "rank": 2,
+      "stars": "50,305",
+      "stars_today": "379",
+      "language": "Jupyter Notebook",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude."
+    },
+    {
+      "name": "citrolabs/ego-lite",
+      "rank": 3,
+      "stars": "4,834",
+      "stars_today": "900",
+      "language": "JavaScript",
+      "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config."
+    },
+    {
+      "name": "block/buzz",
+      "rank": 4,
+      "stars": "13,546",
+      "stars_today": "1,710",
+      "language": "Rust",
+      "description": "A hive mind communication platform"
+    },
+    {
+      "name": "CoreBunch/Instatic",
+      "rank": 5,
+      "stars": "5,789",
+      "stars_today": "888",
+      "language": "TypeScript",
+      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there."
+    },
+    {
+      "name": "OtterMind/Chat2DB",
+      "rank": 6,
+      "stars": "27,224",
+      "stars_today": "398",
+      "language": "Java",
+      "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more."
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "rank": 7,
+      "stars": "50,820",
+      "stars_today": "413",
+      "language": "JavaScript",
+      "description": "The design language that makes your AI harness better at design."
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "rank": 8,
+      "stars": "34,236",
+      "stars_today": "321",
+      "language": "Python",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "rank": 9,
+      "stars": "14,027",
+      "stars_today": "832",
+      "language": "Go",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+    },
+    {
+      "name": "Pumpkin-MC/Pumpkin",
+      "rank": 10,
+      "stars": "10,063",
+      "stars_today": "338",
+      "language": "Rust",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers."
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "rank": 11,
+      "stars": "15,107",
+      "stars_today": "149",
+      "language": "TypeScript",
+      "description": ""
+    },
+    {
+      "name": "yorukot/superfile",
+      "rank": 12,
+      "stars": "20,346",
+      "stars_today": "131",
+      "language": "Go",
+      "description": "Pretty fancy and modern terminal file manager"
+    },
+    {
+      "name": "nodejs/node",
+      "rank": 13,
+      "stars": "118,506",
+      "stars_today": "36",
+      "language": "JavaScript",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨"
+    },
+    {
+      "name": "andrewyng/aisuite",
+      "rank": 14,
+      "stars": "15,440",
+      "stars_today": "187",
+      "language": "Python",
+      "description": "Simple, unified interface to multiple Generative AI providers"
+    },
+    {
+      "name": "permissionlesstech/bitchat-android",
+      "rank": 15,
+      "stars": "6,785",
+      "stars_today": "260",
+      "language": "Kotlin",
+      "description": "bluetooth mesh chat, IRC vibes"
+    },
+    {
+      "name": "amnezia-vpn/amnezia-client",
+      "rank": 16,
+      "stars": "13,395",
+      "stars_today": "35",
+      "language": "C++",
+      "description": "Amnezia VPN Client (Desktop+Mobile)"
+    },
+    {
+      "name": "jenkinsci/jenkins",
+      "rank": 17,
+      "stars": "25,741",
+      "stars_today": "18",
+      "language": "Java",
+      "description": "Jenkins automation server"
+    }
+  ]
+}
