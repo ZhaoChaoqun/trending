@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-28",
+  "updated_at": "2026-07-28 03:54:01",
+  "count": 15,
+  "rankings": [
+    {
+      "name": "permissionlesstech/bitchat",
+      "rank": 1,
+      "stars": "32,448",
+      "stars_today": "2,346",
+      "language": "Swift",
+      "description": "bluetooth mesh chat, IRC vibes"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "rank": 2,
+      "stars": "44,176",
+      "stars_today": "572",
+      "language": "TypeScript",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
+    },
+    {
+      "name": "NanmiCoder/MediaCrawler",
+      "rank": 3,
+      "stars": "58,418",
+      "stars_today": "362",
+      "language": "Python",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "rank": 4,
+      "stars": "51,688",
+      "stars_today": "847",
+      "language": "JavaScript",
+      "description": "The design language that makes your AI harness better at design."
+    },
+    {
+      "name": "amnezia-vpn/amnezia-client",
+      "rank": 5,
+      "stars": "13,927",
+      "stars_today": "515",
+      "language": "C++",
+      "description": "Amnezia VPN Client (Desktop+Mobile)"
+    },
+    {
+      "name": "yorukot/superfile",
+      "rank": 6,
+      "stars": "20,990",
+      "stars_today": "600",
+      "language": "Go",
+      "description": "Pretty fancy and modern terminal file manager"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "rank": 7,
+      "stars": "34,620",
+      "stars_today": "441",
+      "language": "Python",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "rank": 8,
+      "stars": "15,012",
+      "stars_today": "979",
+      "language": "Go",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+    },
+    {
+      "name": "bradautomates/claude-video",
+      "rank": 9,
+      "stars": "11,251",
+      "stars_today": "434",
+      "language": "Python",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude."
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "rank": 10,
+      "stars": "54,268",
+      "stars_today": "240",
+      "language": "Python",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+    },
+    {
+      "name": "ocornut/imgui",
+      "rank": 11,
+      "stars": "75,238",
+      "stars_today": "51",
+      "language": "C++",
+      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies"
+    },
+    {
+      "name": "opengeos/GeoLibre",
+      "rank": 12,
+      "stars": "2,818",
+      "stars_today": "420",
+      "language": "TypeScript",
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks."
+    },
+    {
+      "name": "jenkinsci/jenkins",
+      "rank": 13,
+      "stars": "25,912",
+      "stars_today": "180",
+      "language": "Java",
+      "description": "Jenkins automation server"
+    },
+    {
+      "name": "vudovn/ag-kit",
+      "rank": 14,
+      "stars": "7,997",
+      "stars_today": "14",
+      "language": "TypeScript",
+      "description": ""
+    },
+    {
+      "name": "apache/cassandra",
+      "rank": 15,
+      "stars": "9,987",
+      "stars_today": "11",
+      "language": "Java",
+      "description": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance."
+    }
+  ]
+}
