@@ -1,0 +1,111 @@
+{
+  "date": "2026-07-29",
+  "updated_at": "2026-07-29 03:57:45",
+  "count": 13,
+  "rankings": [
+    {
+      "name": "moeru-ai/airi",
+      "rank": 1,
+      "stars": "44,885",
+      "stars_today": "797",
+      "language": "TypeScript",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported."
+    },
+    {
+      "name": "affaan-m/ECC",
+      "rank": 2,
+      "stars": "234,951",
+      "stars_today": "636",
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "name": "pascalorg/editor",
+      "rank": 3,
+      "stars": "18,876",
+      "stars_today": "341",
+      "language": "TypeScript",
+      "description": "Create and share 3D architectural projects."
+    },
+    {
+      "name": "virgiliojr94/book-to-skill",
+      "rank": 4,
+      "stars": "11,628",
+      "stars_today": "423",
+      "language": "Python",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work."
+    },
+    {
+      "name": "paperswithbacktest/awesome-systematic-trading",
+      "rank": 5,
+      "stars": "9,772",
+      "stars_today": "309",
+      "language": "Python",
+      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading."
+    },
+    {
+      "name": "yorukot/superfile",
+      "rank": 6,
+      "stars": "21,558",
+      "stars_today": "662",
+      "language": "Go",
+      "description": "Pretty fancy and modern terminal file manager"
+    },
+    {
+      "name": "bradautomates/claude-video",
+      "rank": 7,
+      "stars": "12,239",
+      "stars_today": "988",
+      "language": "Python",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude."
+    },
+    {
+      "name": "jenkinsci/jenkins",
+      "rank": 8,
+      "stars": "26,108",
+      "stars_today": "180",
+      "language": "Java",
+      "description": "Jenkins automation server"
+    },
+    {
+      "name": "andrewyng/aisuite",
+      "rank": 9,
+      "stars": "15,725",
+      "stars_today": "62",
+      "language": "Python",
+      "description": "Simple, unified interface to multiple Generative AI providers"
+    },
+    {
+      "name": "huggingface/speech-to-speech",
+      "rank": 10,
+      "stars": "7,360",
+      "stars_today": "227",
+      "language": "Python",
+      "description": "Build local voice agents with open-source models"
+    },
+    {
+      "name": "opengeos/GeoLibre",
+      "rank": 11,
+      "stars": "3,491",
+      "stars_today": "607",
+      "language": "TypeScript",
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks."
+    },
+    {
+      "name": "hello245m/free-stockdb",
+      "rank": 12,
+      "stars": "1,424",
+      "stars_today": "50",
+      "language": "HTML",
+      "description": "面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。"
+    },
+    {
+      "name": "microsoft/agent-governance-toolkit",
+      "rank": 13,
+      "stars": "5,280",
+      "stars_today": "46",
+      "language": "Python",
+      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10."
+    }
+  ]
+}
