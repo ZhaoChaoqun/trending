@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Wed, 29 Jul 2026 03:57:45 +0000</pubDate><lastBuildDate>Wed, 29 Jul 2026 03:57:45 +0000</lastBuildDate><item><title>#1 moeru-ai/airi (+797 stars)</title><link>https://github.com/moeru-ai/airi</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Thu, 30 Jul 2026 03:49:22 +0000</pubDate><lastBuildDate>Thu, 30 Jul 2026 03:49:22 +0000</lastBuildDate><item><title>#1 moeru-ai/airi (+682 stars)</title><link>https://github.com/moeru-ai/airi</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;moeru-ai/airi&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.&lt;/p&gt;
-&lt;p&gt;⭐ 44,885 | +797 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 45,482 | +682 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/moeru-ai/airi#2026-07-29</guid><pubDate>Wed, 29 Jul 2026 03:57:45 +0000</pubDate></item><item><title>#2 affaan-m/ECC (+636 stars)</title><link>https://github.com/affaan-m/ECC</link><description>
+</description><guid isPermaLink="false">https://github.com/moeru-ai/airi#2026-07-30</guid><pubDate>Thu, 30 Jul 2026 03:49:22 +0000</pubDate></item><item><title>#2 affaan-m/ECC (+857 stars)</title><link>https://github.com/affaan-m/ECC</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;affaan-m/ECC&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.&lt;/p&gt;
-&lt;p&gt;⭐ 234,951 | +636 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 235,681 | +857 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/affaan-m/ECC#2026-07-29</guid><pubDate>Wed, 29 Jul 2026 03:57:45 +0000</pubDate></item><item><title>#3 pascalorg/editor (+341 stars)</title><link>https://github.com/pascalorg/editor</link><description>
+</description><guid isPermaLink="false">https://github.com/affaan-m/ECC#2026-07-30</guid><pubDate>Thu, 30 Jul 2026 03:49:22 +0000</pubDate></item><item><title>#3 obra/superpowers (+616 stars)</title><link>https://github.com/obra/superpowers</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;pascalorg/editor&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Create and share 3D architectural projects.&lt;/p&gt;
-&lt;p&gt;⭐ 18,876 | +341 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
+&lt;p&gt;⭐ 263,395 | +616 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/pascalorg/editor#2026-07-29</guid><pubDate>Wed, 29 Jul 2026 03:57:45 +0000</pubDate></item><item><title>#4 virgiliojr94/book-to-skill (+423 stars)</title><link>https://github.com/virgiliojr94/book-to-skill</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;virgiliojr94/book-to-skill&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.&lt;/p&gt;
-&lt;p&gt;⭐ 11,628 | +423 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/virgiliojr94/book-to-skill#2026-07-29</guid><pubDate>Wed, 29 Jul 2026 03:57:45 +0000</pubDate></item><item><title>#5 paperswithbacktest/awesome-systematic-trading (+309 stars)</title><link>https://github.com/paperswithbacktest/awesome-systematic-trading</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;paperswithbacktest/awesome-systematic-trading&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.&lt;/p&gt;
-&lt;p&gt;⭐ 9,772 | +309 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/paperswithbacktest/awesome-systematic-trading#2026-07-29</guid><pubDate>Wed, 29 Jul 2026 03:57:45 +0000</pubDate></item><item><title>#6 yorukot/superfile (+662 stars)</title><link>https://github.com/yorukot/superfile</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;yorukot/superfile&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Pretty fancy and modern terminal file manager&lt;/p&gt;
-&lt;p&gt;⭐ 21,558 | +662 today | 🔧 Go&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/yorukot/superfile#2026-07-29</guid><pubDate>Wed, 29 Jul 2026 03:57:45 +0000</pubDate></item><item><title>#7 bradautomates/claude-video (+988 stars)</title><link>https://github.com/bradautomates/claude-video</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;bradautomates/claude-video&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.&lt;/p&gt;
-&lt;p&gt;⭐ 12,239 | +988 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/bradautomates/claude-video#2026-07-29</guid><pubDate>Wed, 29 Jul 2026 03:57:45 +0000</pubDate></item><item><title>#8 jenkinsci/jenkins (+180 stars)</title><link>https://github.com/jenkinsci/jenkins</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;jenkinsci/jenkins&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Jenkins automation server&lt;/p&gt;
-&lt;p&gt;⭐ 26,108 | +180 today | 🔧 Java&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/jenkinsci/jenkins#2026-07-29</guid><pubDate>Wed, 29 Jul 2026 03:57:45 +0000</pubDate></item><item><title>#9 andrewyng/aisuite (+62 stars)</title><link>https://github.com/andrewyng/aisuite</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;andrewyng/aisuite&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Simple, unified interface to multiple Generative AI providers&lt;/p&gt;
-&lt;p&gt;⭐ 15,725 | +62 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/andrewyng/aisuite#2026-07-29</guid><pubDate>Wed, 29 Jul 2026 03:57:45 +0000</pubDate></item><item><title>#10 huggingface/speech-to-speech (+227 stars)</title><link>https://github.com/huggingface/speech-to-speech</link><description>
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-07-30</guid><pubDate>Thu, 30 Jul 2026 03:49:22 +0000</pubDate></item><item><title>#4 huggingface/speech-to-speech (+827 stars)</title><link>https://github.com/huggingface/speech-to-speech</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;huggingface/speech-to-speech&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Build local voice agents with open-source models&lt;/p&gt;
-&lt;p&gt;⭐ 7,360 | +227 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+&lt;p&gt;⭐ 7,974 | +827 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/huggingface/speech-to-speech#2026-07-29</guid><pubDate>Wed, 29 Jul 2026 03:57:45 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/huggingface/speech-to-speech#2026-07-30</guid><pubDate>Thu, 30 Jul 2026 03:49:22 +0000</pubDate></item><item><title>#5 1jehuang/jcode (+640 stars)</title><link>https://github.com/1jehuang/jcode</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;1jehuang/jcode&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The most RAM efficient harness&lt;/p&gt;
+&lt;p&gt;⭐ 13,561 | +640 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/1jehuang/jcode#2026-07-30</guid><pubDate>Thu, 30 Jul 2026 03:49:22 +0000</pubDate></item><item><title>#6 deepfakes/faceswap (+166 stars)</title><link>https://github.com/deepfakes/faceswap</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;deepfakes/faceswap&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Deepfakes Software For All&lt;/p&gt;
+&lt;p&gt;⭐ 56,404 | +166 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/deepfakes/faceswap#2026-07-30</guid><pubDate>Thu, 30 Jul 2026 03:49:22 +0000</pubDate></item><item><title>#7 microsoft/VibeVoice (+336 stars)</title><link>https://github.com/microsoft/VibeVoice</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;microsoft/VibeVoice&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open-Source Frontier Voice AI&lt;/p&gt;
+&lt;p&gt;⭐ 51,391 | +336 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/microsoft/VibeVoice#2026-07-30</guid><pubDate>Thu, 30 Jul 2026 03:49:22 +0000</pubDate></item><item><title>#8 NanmiCoder/MediaCrawler (+154 stars)</title><link>https://github.com/NanmiCoder/MediaCrawler</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;NanmiCoder/MediaCrawler&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫&lt;/p&gt;
+&lt;p&gt;⭐ 59,185 | +154 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/NanmiCoder/MediaCrawler#2026-07-30</guid><pubDate>Thu, 30 Jul 2026 03:49:22 +0000</pubDate></item><item><title>#9 alibaba/open-code-review (+359 stars)</title><link>https://github.com/alibaba/open-code-review</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;alibaba/open-code-review&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.&lt;/p&gt;
+&lt;p&gt;⭐ 16,137 | +359 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/alibaba/open-code-review#2026-07-30</guid><pubDate>Thu, 30 Jul 2026 03:49:22 +0000</pubDate></item><item><title>#10 paperswithbacktest/awesome-systematic-trading (+945 stars)</title><link>https://github.com/paperswithbacktest/awesome-systematic-trading</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;paperswithbacktest/awesome-systematic-trading&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.&lt;/p&gt;
+&lt;p&gt;⭐ 10,476 | +945 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/paperswithbacktest/awesome-systematic-trading#2026-07-30</guid><pubDate>Thu, 30 Jul 2026 03:49:22 +0000</pubDate></item></channel></rss>
