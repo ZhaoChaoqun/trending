@@ -1,0 +1,103 @@
+{
+  "date": "2026-08-01",
+  "updated_at": "2026-08-01 04:15:15",
+  "count": 12,
+  "rankings": [
+    {
+      "name": "mvanhorn/last30days-skill",
+      "rank": 1,
+      "stars": "56,303",
+      "stars_today": "658",
+      "language": "Python",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+    },
+    {
+      "name": "microsoft/AI-For-Beginners",
+      "rank": 2,
+      "stars": "55,439",
+      "stars_today": "1,592",
+      "language": "Jupyter Notebook",
+      "description": "12 Weeks, 24 Lessons, AI for All!"
+    },
+    {
+      "name": "zhaoxuya520/reverse-skill",
+      "rank": 3,
+      "stars": "10,901",
+      "stars_today": "335",
+      "language": "PowerShell",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
+    },
+    {
+      "name": "different-ai/openwork",
+      "rank": 4,
+      "stars": "19,589",
+      "stars_today": "806",
+      "language": "TypeScript",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)"
+    },
+    {
+      "name": "paperswithbacktest/awesome-systematic-trading",
+      "rank": 5,
+      "stars": "11,831",
+      "stars_today": "763",
+      "language": "Python",
+      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading."
+    },
+    {
+      "name": "1jehuang/jcode",
+      "rank": 6,
+      "stars": "14,676",
+      "stars_today": "527",
+      "language": "Rust",
+      "description": "The most RAM efficient harness"
+    },
+    {
+      "name": "chatwoot/chatwoot",
+      "rank": 7,
+      "stars": "35,174",
+      "stars_today": "35",
+      "language": "Ruby",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬"
+    },
+    {
+      "name": "agavra/tuicr",
+      "rank": 8,
+      "stars": "2,179",
+      "stars_today": "335",
+      "language": "Rust",
+      "description": "a code review TUI with vim keybindings"
+    },
+    {
+      "name": "usekaneo/kaneo",
+      "rank": 9,
+      "stars": "5,174",
+      "stars_today": "194",
+      "language": "TypeScript",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you."
+    },
+    {
+      "name": "deepfakes/faceswap",
+      "rank": 10,
+      "stars": "57,035",
+      "stars_today": "93",
+      "language": "Python",
+      "description": "Deepfakes Software For All"
+    },
+    {
+      "name": "github/copilot-sdk",
+      "rank": 11,
+      "stars": "10,151",
+      "stars_today": "7",
+      "language": "Java",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services"
+    },
+    {
+      "name": "geo-tp/ESP32-Bit-Pirate",
+      "rank": 12,
+      "stars": "5,068",
+      "stars_today": "83",
+      "language": "C++",
+      "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol"
+    }
+  ]
+}
