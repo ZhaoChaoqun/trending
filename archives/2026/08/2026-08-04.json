@@ -1,0 +1,135 @@
+{
+  "date": "2026-08-04",
+  "updated_at": "2026-08-04 03:56:38",
+  "count": 16,
+  "rankings": [
+    {
+      "name": "lyogavin/airllm",
+      "rank": 1,
+      "stars": "27,357",
+      "stars_today": "1,085",
+      "language": "Jupyter Notebook",
+      "description": "AirLLM 70B inference with single 4GB GPU"
+    },
+    {
+      "name": "esengine/DeepSeek-Reasonix",
+      "rank": 2,
+      "stars": "30,109",
+      "stars_today": "883",
+      "language": "Go",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running."
+    },
+    {
+      "name": "microsoft/AI-For-Beginners",
+      "rank": 3,
+      "stars": "60,970",
+      "stars_today": "1,902",
+      "language": "Jupyter Notebook",
+      "description": "12 Weeks, 24 Lessons, AI for All!"
+    },
+    {
+      "name": "microsoft/generative-ai-for-beginners",
+      "rank": 4,
+      "stars": "115,712",
+      "stars_today": "775",
+      "language": "Jupyter Notebook",
+      "description": "21 Lessons, Get Started Building with Generative AI"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "rank": 5,
+      "stars": "65,875",
+      "stars_today": "1,057",
+      "language": "Python",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+    },
+    {
+      "name": "zhaoxuya520/reverse-skill",
+      "rank": 6,
+      "stars": "16,166",
+      "stars_today": "2,446",
+      "language": "PowerShell",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
+    },
+    {
+      "name": "firecrawl/pdf-inspector",
+      "rank": 7,
+      "stars": "8,579",
+      "stars_today": "1,699",
+      "language": "Rust",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions."
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "rank": 8,
+      "stars": "12,325",
+      "stars_today": "1,090",
+      "language": "TypeScript",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks."
+    },
+    {
+      "name": "donnemartin/system-design-primer",
+      "rank": 9,
+      "stars": "360,635",
+      "stars_today": "237",
+      "language": "Python",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+    },
+    {
+      "name": "antirez/ds4",
+      "rank": 10,
+      "stars": "20,411",
+      "stars_today": "384",
+      "language": "C",
+      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "rank": 11,
+      "stars": "35,860",
+      "stars_today": "200",
+      "language": "Python",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets"
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "rank": 12,
+      "stars": "44,107",
+      "stars_today": "278",
+      "language": "Python",
+      "description": "Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)"
+    },
+    {
+      "name": "iv-org/invidious",
+      "rank": 13,
+      "stars": "22,300",
+      "stars_today": "402",
+      "language": "Crystal",
+      "description": "Invidious is an alternative front-end to YouTube"
+    },
+    {
+      "name": "usekaneo/kaneo",
+      "rank": 14,
+      "stars": "6,932",
+      "stars_today": "665",
+      "language": "TypeScript",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you."
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "rank": 15,
+      "stars": "48,797",
+      "stars_today": "412",
+      "language": "TypeScript",
+      "description": "The open-source AI voice studio. Clone, dictate, create."
+    },
+    {
+      "name": "livekit/agents",
+      "rank": 16,
+      "stars": "12,073",
+      "stars_today": "148",
+      "language": "Python",
+      "description": "A framework for building realtime voice AI agents 🤖🎙️📹"
+    }
+  ]
+}
