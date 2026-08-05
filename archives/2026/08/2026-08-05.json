@@ -1,0 +1,151 @@
+{
+  "date": "2026-08-05",
+  "updated_at": "2026-08-05 03:52:20",
+  "count": 18,
+  "rankings": [
+    {
+      "name": "obra/superpowers",
+      "rank": 1,
+      "stars": "266,614",
+      "stars_today": "653",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "microsoft/generative-ai-for-beginners",
+      "rank": 2,
+      "stars": "116,357",
+      "stars_today": "783",
+      "language": "Jupyter Notebook",
+      "description": "21 Lessons, Get Started Building with Generative AI"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "rank": 3,
+      "stars": "28,505",
+      "stars_today": "1,711",
+      "language": "Jupyter Notebook",
+      "description": "AirLLM 70B inference with single 4GB GPU"
+    },
+    {
+      "name": "esengine/DeepSeek-Reasonix",
+      "rank": 4,
+      "stars": "30,911",
+      "stars_today": "922",
+      "language": "Go",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running."
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "rank": 5,
+      "stars": "13,943",
+      "stars_today": "1,111",
+      "language": "TypeScript",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks."
+    },
+    {
+      "name": "zhaoxuya520/reverse-skill",
+      "rank": 6,
+      "stars": "18,152",
+      "stars_today": "2,297",
+      "language": "PowerShell",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端"
+    },
+    {
+      "name": "firecrawl/pdf-inspector",
+      "rank": 7,
+      "stars": "10,252",
+      "stars_today": "2,540",
+      "language": "Rust",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions."
+    },
+    {
+      "name": "usekaneo/kaneo",
+      "rank": 8,
+      "stars": "7,338",
+      "stars_today": "559",
+      "language": "TypeScript",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you."
+    },
+    {
+      "name": "livekit/agents",
+      "rank": 9,
+      "stars": "12,481",
+      "stars_today": "432",
+      "language": "Python",
+      "description": "A framework for building realtime voice AI agents 🤖🎙️📹"
+    },
+    {
+      "name": "browser-use/video-use",
+      "rank": 10,
+      "stars": "19,424",
+      "stars_today": "320",
+      "language": "Python",
+      "description": "Edit videos with coding agents"
+    },
+    {
+      "name": "cypress-io/cypress",
+      "rank": 11,
+      "stars": "50,822",
+      "stars_today": "11",
+      "language": "TypeScript",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser."
+    },
+    {
+      "name": "denoland/deno",
+      "rank": 12,
+      "stars": "108,082",
+      "stars_today": "31",
+      "language": "Rust",
+      "description": "A modern runtime for JavaScript and TypeScript."
+    },
+    {
+      "name": "tailwindlabs/tailwindcss",
+      "rank": 13,
+      "stars": "96,532",
+      "stars_today": "52",
+      "language": "TypeScript",
+      "description": "A utility-first CSS framework for rapid UI development."
+    },
+    {
+      "name": "EveryInc/compound-engineering-plugin",
+      "rank": 14,
+      "stars": "23,911",
+      "stars_today": "40",
+      "language": "TypeScript",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more"
+    },
+    {
+      "name": "uber/ADR",
+      "rank": 15,
+      "stars": "732",
+      "stars_today": "148",
+      "language": "Python",
+      "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber."
+    },
+    {
+      "name": "webpack/webpack",
+      "rank": 16,
+      "stars": "65,950",
+      "stars_today": "10",
+      "language": "JavaScript",
+      "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
+    },
+    {
+      "name": "gabime/spdlog",
+      "rank": 17,
+      "stars": "29,393",
+      "stars_today": "10",
+      "language": "C++",
+      "description": "Fast C++ logging library."
+    },
+    {
+      "name": "angular/angular",
+      "rank": 18,
+      "stars": "100,856",
+      "stars_today": "13",
+      "language": "TypeScript",
+      "description": "Deliver web apps with confidence 🚀"
+    }
+  ]
+}
