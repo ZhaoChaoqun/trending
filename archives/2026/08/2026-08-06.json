@@ -1,0 +1,111 @@
+{
+  "date": "2026-08-06",
+  "updated_at": "2026-08-06 03:56:57",
+  "count": 13,
+  "rankings": [
+    {
+      "name": "donnemartin/system-design-primer",
+      "rank": 1,
+      "stars": "361,657",
+      "stars_today": "303",
+      "language": "Python",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+    },
+    {
+      "name": "esengine/DeepSeek-Reasonix",
+      "rank": 2,
+      "stars": "31,771",
+      "stars_today": "747",
+      "language": "Go",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running."
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 3,
+      "stars": "267,426",
+      "stars_today": "931",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "lyogavin/airllm",
+      "rank": 4,
+      "stars": "29,190",
+      "stars_today": "833",
+      "language": "Jupyter Notebook",
+      "description": "AirLLM 70B inference with single 4GB GPU"
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "rank": 5,
+      "stars": "15,231",
+      "stars_today": "1,892",
+      "language": "TypeScript",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks."
+    },
+    {
+      "name": "firecrawl/pdf-inspector",
+      "rank": 6,
+      "stars": "11,609",
+      "stars_today": "1,582",
+      "language": "Rust",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions."
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "rank": 7,
+      "stars": "82,062",
+      "stars_today": "226",
+      "language": "JavaScript",
+      "description": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "name": "tailwindlabs/tailwindcss",
+      "rank": 8,
+      "stars": "96,904",
+      "stars_today": "408",
+      "language": "TypeScript",
+      "description": "A utility-first CSS framework for rapid UI development."
+    },
+    {
+      "name": "cloudflare/computer",
+      "rank": 9,
+      "stars": "3,375",
+      "stars_today": "891",
+      "language": "TypeScript",
+      "description": "Give your agent a computer 👾"
+    },
+    {
+      "name": "huangruiteng/loopx",
+      "rank": 10,
+      "stars": "2,305",
+      "stars_today": "326",
+      "language": "Python",
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs."
+    },
+    {
+      "name": "roboflow/supervision",
+      "rank": 11,
+      "stars": "48,985",
+      "stars_today": "146",
+      "language": "Python",
+      "description": "We write your reusable computer vision tools. 💜"
+    },
+    {
+      "name": "vercel/next.js",
+      "rank": 12,
+      "stars": "141,577",
+      "stars_today": "68",
+      "language": "JavaScript",
+      "description": "The React Framework"
+    },
+    {
+      "name": "uber/ADR",
+      "rank": 13,
+      "stars": "1,090",
+      "stars_today": "354",
+      "language": "Python",
+      "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber."
+    }
+  ]
+}
