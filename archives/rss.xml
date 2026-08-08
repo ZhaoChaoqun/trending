@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 07 Aug 2026 03:42:22 +0000</pubDate><lastBuildDate>Fri, 07 Aug 2026 03:42:22 +0000</lastBuildDate><item><title>#1 addyosmani/agent-skills (+593 stars)</title><link>https://github.com/addyosmani/agent-skills</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sat, 08 Aug 2026 02:48:59 +0000</pubDate><lastBuildDate>Sat, 08 Aug 2026 02:48:59 +0000</lastBuildDate><item><title>#1 addyosmani/agent-skills (+1,131 stars)</title><link>https://github.com/addyosmani/agent-skills</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;addyosmani/agent-skills&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Production-grade engineering skills for AI coding agents.&lt;/p&gt;
-&lt;p&gt;⭐ 83,059 | +593 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 83,950 | +1,131 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/addyosmani/agent-skills#2026-08-07</guid><pubDate>Fri, 07 Aug 2026 03:42:22 +0000</pubDate></item><item><title>#2 mattpocock/skills (+1,873 stars)</title><link>https://github.com/mattpocock/skills</link><description>
+</description><guid isPermaLink="false">https://github.com/addyosmani/agent-skills#2026-08-08</guid><pubDate>Sat, 08 Aug 2026 02:48:59 +0000</pubDate></item><item><title>#2 mattpocock/skills (+2,152 stars)</title><link>https://github.com/mattpocock/skills</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;mattpocock/skills&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Skills for Real Engineers. Straight from my .agents directory.&lt;/p&gt;
-&lt;p&gt;⭐ 207,345 | +1,873 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 208,925 | +2,152 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-08-07</guid><pubDate>Fri, 07 Aug 2026 03:42:22 +0000</pubDate></item><item><title>#3 esengine/DeepSeek-Reasonix (+888 stars)</title><link>https://github.com/esengine/DeepSeek-Reasonix</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;esengine/DeepSeek-Reasonix&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.&lt;/p&gt;
-&lt;p&gt;⭐ 32,537 | +888 today | 🔧 Go&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/esengine/DeepSeek-Reasonix#2026-08-07</guid><pubDate>Fri, 07 Aug 2026 03:42:22 +0000</pubDate></item><item><title>#4 obra/superpowers (+858 stars)</title><link>https://github.com/obra/superpowers</link><description>
+</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-08-08</guid><pubDate>Sat, 08 Aug 2026 02:48:59 +0000</pubDate></item><item><title>#3 obra/superpowers (+782 stars)</title><link>https://github.com/obra/superpowers</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 268,199 | +858 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 268,788 | +782 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-08-07</guid><pubDate>Fri, 07 Aug 2026 03:42:22 +0000</pubDate></item><item><title>#5 TencentCloud/TencentDB-Agent-Memory (+1,057 stars)</title><link>https://github.com/TencentCloud/TencentDB-Agent-Memory</link><description>
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-08-08</guid><pubDate>Sat, 08 Aug 2026 02:48:59 +0000</pubDate></item><item><title>#4 Significant-Gravitas/AutoGPT (+355 stars)</title><link>https://github.com/Significant-Gravitas/AutoGPT</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;TencentCloud/TencentDB-Agent-Memory&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.&lt;/p&gt;
-&lt;p&gt;⭐ 16,595 | +1,057 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Significant-Gravitas/AutoGPT&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.&lt;/p&gt;
+&lt;p&gt;⭐ 186,345 | +355 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Significant-Gravitas/AutoGPT#2026-08-08</guid><pubDate>Sat, 08 Aug 2026 02:48:59 +0000</pubDate></item><item><title>#5 PrimeIntellect-ai/prime-agent (+2,293 stars)</title><link>https://github.com/PrimeIntellect-ai/prime-agent</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;PrimeIntellect-ai/prime-agent&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A self-improving RLM agent for coding workflows and long-running autonomous tasks.&lt;/p&gt;
+&lt;p&gt;⭐ 6,713 | +2,293 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/TencentCloud/TencentDB-Agent-Memory#2026-08-07</guid><pubDate>Fri, 07 Aug 2026 03:42:22 +0000</pubDate></item><item><title>#6 huangruiteng/loopx (+847 stars)</title><link>https://github.com/huangruiteng/loopx</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;huangruiteng/loopx&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.&lt;/p&gt;
-&lt;p&gt;⭐ 2,971 | +847 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/huangruiteng/loopx#2026-08-07</guid><pubDate>Fri, 07 Aug 2026 03:42:22 +0000</pubDate></item><item><title>#7 tirth8205/code-review-graph (+237 stars)</title><link>https://github.com/tirth8205/code-review-graph</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;tirth8205/code-review-graph&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.&lt;/p&gt;
-&lt;p&gt;⭐ 29,099 | +237 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/tirth8205/code-review-graph#2026-08-07</guid><pubDate>Fri, 07 Aug 2026 03:42:22 +0000</pubDate></item><item><title>#8 firecrawl/pdf-inspector (+1,190 stars)</title><link>https://github.com/firecrawl/pdf-inspector</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;firecrawl/pdf-inspector&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.&lt;/p&gt;
-&lt;p&gt;⭐ 12,572 | +1,190 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/firecrawl/pdf-inspector#2026-08-07</guid><pubDate>Fri, 07 Aug 2026 03:42:22 +0000</pubDate></item><item><title>#9 cloudflare/computer (+2,802 stars)</title><link>https://github.com/cloudflare/computer</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;cloudflare/computer&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Give your agent a computer 👾&lt;/p&gt;
-&lt;p&gt;⭐ 4,923 | +2,802 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/cloudflare/computer#2026-08-07</guid><pubDate>Fri, 07 Aug 2026 03:42:22 +0000</pubDate></item><item><title>#10 goauthentik/authentik (+138 stars)</title><link>https://github.com/goauthentik/authentik</link><description>
+</description><guid isPermaLink="false">https://github.com/PrimeIntellect-ai/prime-agent#2026-08-08</guid><pubDate>Sat, 08 Aug 2026 02:48:59 +0000</pubDate></item><item><title>#6 goauthentik/authentik (+530 stars)</title><link>https://github.com/goauthentik/authentik</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;goauthentik/authentik&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The authentication glue you need.&lt;/p&gt;
-&lt;p&gt;⭐ 23,186 | +138 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 23,639 | +530 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/goauthentik/authentik#2026-08-08</guid><pubDate>Sat, 08 Aug 2026 02:48:59 +0000</pubDate></item><item><title>#7 666ghj/MiroFish (+141 stars)</title><link>https://github.com/666ghj/MiroFish</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;666ghj/MiroFish&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物&lt;/p&gt;
+&lt;p&gt;⭐ 70,536 | +141 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/666ghj/MiroFish#2026-08-08</guid><pubDate>Sat, 08 Aug 2026 02:48:59 +0000</pubDate></item><item><title>#8 google/guava (+152 stars)</title><link>https://github.com/google/guava</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;google/guava&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Google core libraries for Java&lt;/p&gt;
+&lt;p&gt;⭐ 51,767 | +152 today | 🔧 Java&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/google/guava#2026-08-08</guid><pubDate>Sat, 08 Aug 2026 02:48:59 +0000</pubDate></item><item><title>#9 google/skills (+327 stars)</title><link>https://github.com/google/skills</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;google/skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Agent Skills for Google products and technologies&lt;/p&gt;
+&lt;p&gt;⭐ 16,282 | +327 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/google/skills#2026-08-08</guid><pubDate>Sat, 08 Aug 2026 02:48:59 +0000</pubDate></item><item><title>#10 cloudflare/computer (+872 stars)</title><link>https://github.com/cloudflare/computer</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;cloudflare/computer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Give your agent a computer 👾&lt;/p&gt;
+&lt;p&gt;⭐ 5,811 | +872 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/goauthentik/authentik#2026-08-07</guid><pubDate>Fri, 07 Aug 2026 03:42:22 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/cloudflare/computer#2026-08-08</guid><pubDate>Sat, 08 Aug 2026 02:48:59 +0000</pubDate></item></channel></rss>

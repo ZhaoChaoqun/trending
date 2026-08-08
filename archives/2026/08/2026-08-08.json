@@ -1,0 +1,143 @@
+{
+  "date": "2026-08-08",
+  "updated_at": "2026-08-08 02:48:59",
+  "count": 17,
+  "rankings": [
+    {
+      "name": "addyosmani/agent-skills",
+      "rank": 1,
+      "stars": "83,950",
+      "stars_today": "1,131",
+      "language": "JavaScript",
+      "description": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "name": "mattpocock/skills",
+      "rank": 2,
+      "stars": "208,925",
+      "stars_today": "2,152",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory."
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 3,
+      "stars": "268,788",
+      "stars_today": "782",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "rank": 4,
+      "stars": "186,345",
+      "stars_today": "355",
+      "language": "Python",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
+    },
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "rank": 5,
+      "stars": "6,713",
+      "stars_today": "2,293",
+      "language": "TypeScript",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks."
+    },
+    {
+      "name": "goauthentik/authentik",
+      "rank": 6,
+      "stars": "23,639",
+      "stars_today": "530",
+      "language": "Python",
+      "description": "The authentication glue you need."
+    },
+    {
+      "name": "666ghj/MiroFish",
+      "rank": 7,
+      "stars": "70,536",
+      "stars_today": "141",
+      "language": "Python",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
+    },
+    {
+      "name": "google/guava",
+      "rank": 8,
+      "stars": "51,767",
+      "stars_today": "152",
+      "language": "Java",
+      "description": "Google core libraries for Java"
+    },
+    {
+      "name": "google/skills",
+      "rank": 9,
+      "stars": "16,282",
+      "stars_today": "327",
+      "language": "Python",
+      "description": "Agent Skills for Google products and technologies"
+    },
+    {
+      "name": "cloudflare/computer",
+      "rank": 10,
+      "stars": "5,811",
+      "stars_today": "872",
+      "language": "TypeScript",
+      "description": "Give your agent a computer 👾"
+    },
+    {
+      "name": "chenyme/grok2api",
+      "rank": 11,
+      "stars": "7,148",
+      "stars_today": "55",
+      "language": "Go",
+      "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console"
+    },
+    {
+      "name": "jdx/mise",
+      "rank": 12,
+      "stars": "32,086",
+      "stars_today": "135",
+      "language": "Rust",
+      "description": "dev tools, env vars, task runner"
+    },
+    {
+      "name": "denoland/celld",
+      "rank": 13,
+      "stars": "2,231",
+      "stars_today": "516",
+      "language": "Rust",
+      "description": "self-hosted, distributed Durable Objects"
+    },
+    {
+      "name": "pranshuparmar/witr",
+      "rank": 14,
+      "stars": "19,796",
+      "stars_today": "234",
+      "language": "Go",
+      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI."
+    },
+    {
+      "name": "semantica-agi/semantica",
+      "rank": 15,
+      "stars": "2,373",
+      "stars_today": "122",
+      "language": "Python",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems"
+    },
+    {
+      "name": "unclebob/swarm-forge",
+      "rank": 16,
+      "stars": "1,849",
+      "stars_today": "81",
+      "language": "Clojure",
+      "description": "A simple tool for coordinating several AI agents."
+    },
+    {
+      "name": "K2SOsint/Legendary_OSINT",
+      "rank": 17,
+      "stars": "1,466",
+      "stars_today": "109",
+      "language": null,
+      "description": "A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more."
+    }
+  ]
+}
