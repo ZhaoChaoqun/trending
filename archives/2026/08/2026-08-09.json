@@ -1,0 +1,103 @@
+{
+  "date": "2026-08-09",
+  "updated_at": "2026-08-09 02:56:29",
+  "count": 12,
+  "rankings": [
+    {
+      "name": "addyosmani/agent-skills",
+      "rank": 1,
+      "stars": "84,623",
+      "stars_today": "779",
+      "language": "JavaScript",
+      "description": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "name": "mattpocock/skills",
+      "rank": 2,
+      "stars": "210,121",
+      "stars_today": "1,359",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory."
+    },
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "rank": 3,
+      "stars": "9,109",
+      "stars_today": "2,483",
+      "language": "TypeScript",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks."
+    },
+    {
+      "name": "google/skills",
+      "rank": 4,
+      "stars": "16,781",
+      "stars_today": "481",
+      "language": "Python",
+      "description": "Agent Skills for Google products and technologies"
+    },
+    {
+      "name": "goauthentik/authentik",
+      "rank": 5,
+      "stars": "23,998",
+      "stars_today": "467",
+      "language": "Python",
+      "description": "The authentication glue you need."
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "rank": 6,
+      "stars": "96,535",
+      "stars_today": "153",
+      "language": "Python",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "rank": 7,
+      "stars": "77,976",
+      "stars_today": "118",
+      "language": "Roff",
+      "description": "所有小初高、大学PDF教材。"
+    },
+    {
+      "name": "google/guava",
+      "rank": 8,
+      "stars": "51,862",
+      "stars_today": "93",
+      "language": "Java",
+      "description": "Google core libraries for Java"
+    },
+    {
+      "name": "LadybirdBrowser/ladybird",
+      "rank": 9,
+      "stars": "65,019",
+      "stars_today": "48",
+      "language": "C++",
+      "description": "Truly independent web browser"
+    },
+    {
+      "name": "denoland/celld",
+      "rank": 10,
+      "stars": "2,617",
+      "stars_today": "432",
+      "language": "Rust",
+      "description": "self-hosted, distributed Durable Objects"
+    },
+    {
+      "name": "bannedbook/fanqiang",
+      "rank": 11,
+      "stars": "49,929",
+      "stars_today": "101",
+      "language": "Kotlin",
+      "description": "翻墙-科学上网"
+    },
+    {
+      "name": "litu54/DevOps-Interview-Guide",
+      "rank": 12,
+      "stars": "716",
+      "stars_today": "68",
+      "language": null,
+      "description": "DevOps Interview Guide"
+    }
+  ]
+}
