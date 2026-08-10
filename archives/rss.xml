@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sun, 09 Aug 2026 02:56:29 +0000</pubDate><lastBuildDate>Sun, 09 Aug 2026 02:56:29 +0000</lastBuildDate><item><title>#1 addyosmani/agent-skills (+779 stars)</title><link>https://github.com/addyosmani/agent-skills</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Mon, 10 Aug 2026 03:06:12 +0000</pubDate><lastBuildDate>Mon, 10 Aug 2026 03:06:12 +0000</lastBuildDate><item><title>#1 msitarzewski/agency-agents (+858 stars)</title><link>https://github.com/msitarzewski/agency-agents</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;msitarzewski/agency-agents&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.&lt;/p&gt;
+&lt;p&gt;⭐ 140,900 | +858 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/msitarzewski/agency-agents#2026-08-10</guid><pubDate>Mon, 10 Aug 2026 03:06:12 +0000</pubDate></item><item><title>#2 addyosmani/agent-skills (+680 stars)</title><link>https://github.com/addyosmani/agent-skills</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;addyosmani/agent-skills&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Production-grade engineering skills for AI coding agents.&lt;/p&gt;
-&lt;p&gt;⭐ 84,623 | +779 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 85,224 | +680 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/addyosmani/agent-skills#2026-08-09</guid><pubDate>Sun, 09 Aug 2026 02:56:29 +0000</pubDate></item><item><title>#2 mattpocock/skills (+1,359 stars)</title><link>https://github.com/mattpocock/skills</link><description>
+</description><guid isPermaLink="false">https://github.com/addyosmani/agent-skills#2026-08-10</guid><pubDate>Mon, 10 Aug 2026 03:06:12 +0000</pubDate></item><item><title>#3 ZhuLinsen/daily_stock_analysis (+306 stars)</title><link>https://github.com/ZhuLinsen/daily_stock_analysis</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;mattpocock/skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Skills for Real Engineers. Straight from my .agents directory.&lt;/p&gt;
-&lt;p&gt;⭐ 210,121 | +1,359 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ZhuLinsen/daily_stock_analysis&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.&lt;/p&gt;
+&lt;p&gt;⭐ 61,312 | +306 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-08-09</guid><pubDate>Sun, 09 Aug 2026 02:56:29 +0000</pubDate></item><item><title>#3 PrimeIntellect-ai/prime-agent (+2,483 stars)</title><link>https://github.com/PrimeIntellect-ai/prime-agent</link><description>
+</description><guid isPermaLink="false">https://github.com/ZhuLinsen/daily_stock_analysis#2026-08-10</guid><pubDate>Mon, 10 Aug 2026 03:06:12 +0000</pubDate></item><item><title>#4 Comfy-Org/ComfyUI (+365 stars)</title><link>https://github.com/Comfy-Org/ComfyUI</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Comfy-Org/ComfyUI&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.&lt;/p&gt;
+&lt;p&gt;⭐ 125,630 | +365 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Comfy-Org/ComfyUI#2026-08-10</guid><pubDate>Mon, 10 Aug 2026 03:06:12 +0000</pubDate></item><item><title>#5 PrimeIntellect-ai/prime-agent (+2,356 stars)</title><link>https://github.com/PrimeIntellect-ai/prime-agent</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;PrimeIntellect-ai/prime-agent&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A self-improving RLM agent for coding workflows and long-running autonomous tasks.&lt;/p&gt;
-&lt;p&gt;⭐ 9,109 | +2,483 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 11,435 | +2,356 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/PrimeIntellect-ai/prime-agent#2026-08-09</guid><pubDate>Sun, 09 Aug 2026 02:56:29 +0000</pubDate></item><item><title>#4 google/skills (+481 stars)</title><link>https://github.com/google/skills</link><description>
+</description><guid isPermaLink="false">https://github.com/PrimeIntellect-ai/prime-agent#2026-08-10</guid><pubDate>Mon, 10 Aug 2026 03:06:12 +0000</pubDate></item><item><title>#6 pranshuparmar/witr (+210 stars)</title><link>https://github.com/pranshuparmar/witr</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;google/skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Agent Skills for Google products and technologies&lt;/p&gt;
-&lt;p&gt;⭐ 16,781 | +481 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;pranshuparmar/witr&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.&lt;/p&gt;
+&lt;p&gt;⭐ 20,771 | +210 today | 🔧 Go&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/google/skills#2026-08-09</guid><pubDate>Sun, 09 Aug 2026 02:56:29 +0000</pubDate></item><item><title>#5 goauthentik/authentik (+467 stars)</title><link>https://github.com/goauthentik/authentik</link><description>
+</description><guid isPermaLink="false">https://github.com/pranshuparmar/witr#2026-08-10</guid><pubDate>Mon, 10 Aug 2026 03:06:12 +0000</pubDate></item><item><title>#7 goauthentik/authentik (+310 stars)</title><link>https://github.com/goauthentik/authentik</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;goauthentik/authentik&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The authentication glue you need.&lt;/p&gt;
-&lt;p&gt;⭐ 23,998 | +467 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 24,323 | +310 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/goauthentik/authentik#2026-08-09</guid><pubDate>Sun, 09 Aug 2026 02:56:29 +0000</pubDate></item><item><title>#6 TauricResearch/TradingAgents (+153 stars)</title><link>https://github.com/TauricResearch/TradingAgents</link><description>
+</description><guid isPermaLink="false">https://github.com/goauthentik/authentik#2026-08-10</guid><pubDate>Mon, 10 Aug 2026 03:06:12 +0000</pubDate></item><item><title>#8 google/skills (+528 stars)</title><link>https://github.com/google/skills</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;TauricResearch/TradingAgents&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;TradingAgents: Multi-Agents LLM Financial Trading Framework&lt;/p&gt;
-&lt;p&gt;⭐ 96,535 | +153 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;google/skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Agent Skills for Google products and technologies&lt;/p&gt;
+&lt;p&gt;⭐ 17,295 | +528 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/TauricResearch/TradingAgents#2026-08-09</guid><pubDate>Sun, 09 Aug 2026 02:56:29 +0000</pubDate></item><item><title>#7 TapXWorld/ChinaTextbook (+118 stars)</title><link>https://github.com/TapXWorld/ChinaTextbook</link><description>
+</description><guid isPermaLink="false">https://github.com/google/skills#2026-08-10</guid><pubDate>Mon, 10 Aug 2026 03:06:12 +0000</pubDate></item><item><title>#9 pingdotgg/t3code (+163 stars)</title><link>https://github.com/pingdotgg/t3code</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;TapXWorld/ChinaTextbook&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;所有小初高、大学PDF教材。&lt;/p&gt;
-&lt;p&gt;⭐ 77,976 | +118 today | 🔧 Roff&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;pingdotgg/t3code&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;⭐ 17,706 | +163 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/TapXWorld/ChinaTextbook#2026-08-09</guid><pubDate>Sun, 09 Aug 2026 02:56:29 +0000</pubDate></item><item><title>#8 google/guava (+93 stars)</title><link>https://github.com/google/guava</link><description>
+</description><guid isPermaLink="false">https://github.com/pingdotgg/t3code#2026-08-10</guid><pubDate>Mon, 10 Aug 2026 03:06:12 +0000</pubDate></item><item><title>#10 vitali87/code-graph-rag (+96 stars)</title><link>https://github.com/vitali87/code-graph-rag</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;google/guava&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Google core libraries for Java&lt;/p&gt;
-&lt;p&gt;⭐ 51,862 | +93 today | 🔧 Java&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;vitali87/code-graph-rag&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs&lt;/p&gt;
+&lt;p&gt;⭐ 3,096 | +96 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/google/guava#2026-08-09</guid><pubDate>Sun, 09 Aug 2026 02:56:29 +0000</pubDate></item><item><title>#9 LadybirdBrowser/ladybird (+48 stars)</title><link>https://github.com/LadybirdBrowser/ladybird</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;LadybirdBrowser/ladybird&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Truly independent web browser&lt;/p&gt;
-&lt;p&gt;⭐ 65,019 | +48 today | 🔧 C++&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/LadybirdBrowser/ladybird#2026-08-09</guid><pubDate>Sun, 09 Aug 2026 02:56:29 +0000</pubDate></item><item><title>#10 denoland/celld (+432 stars)</title><link>https://github.com/denoland/celld</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;denoland/celld&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;self-hosted, distributed Durable Objects&lt;/p&gt;
-&lt;p&gt;⭐ 2,617 | +432 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/denoland/celld#2026-08-09</guid><pubDate>Sun, 09 Aug 2026 02:56:29 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/vitali87/code-graph-rag#2026-08-10</guid><pubDate>Mon, 10 Aug 2026 03:06:12 +0000</pubDate></item></channel></rss>

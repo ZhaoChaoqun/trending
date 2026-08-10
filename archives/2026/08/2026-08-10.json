@@ -1,0 +1,103 @@
+{
+  "date": "2026-08-10",
+  "updated_at": "2026-08-10 03:06:12",
+  "count": 12,
+  "rankings": [
+    {
+      "name": "msitarzewski/agency-agents",
+      "rank": 1,
+      "stars": "140,900",
+      "stars_today": "858",
+      "language": "Shell",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "rank": 2,
+      "stars": "85,224",
+      "stars_today": "680",
+      "language": "JavaScript",
+      "description": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "rank": 3,
+      "stars": "61,312",
+      "stars_today": "306",
+      "language": "Python",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "rank": 4,
+      "stars": "125,630",
+      "stars_today": "365",
+      "language": "Python",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface."
+    },
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "rank": 5,
+      "stars": "11,435",
+      "stars_today": "2,356",
+      "language": "TypeScript",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks."
+    },
+    {
+      "name": "pranshuparmar/witr",
+      "rank": 6,
+      "stars": "20,771",
+      "stars_today": "210",
+      "language": "Go",
+      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI."
+    },
+    {
+      "name": "goauthentik/authentik",
+      "rank": 7,
+      "stars": "24,323",
+      "stars_today": "310",
+      "language": "Python",
+      "description": "The authentication glue you need."
+    },
+    {
+      "name": "google/skills",
+      "rank": 8,
+      "stars": "17,295",
+      "stars_today": "528",
+      "language": "Python",
+      "description": "Agent Skills for Google products and technologies"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "rank": 9,
+      "stars": "17,706",
+      "stars_today": "163",
+      "language": "TypeScript",
+      "description": ""
+    },
+    {
+      "name": "vitali87/code-graph-rag",
+      "rank": 10,
+      "stars": "3,096",
+      "stars_today": "96",
+      "language": "Python",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs"
+    },
+    {
+      "name": "google-deepmind/weathernext",
+      "rank": 11,
+      "stars": "7,119",
+      "stars_today": "86",
+      "language": "Python",
+      "description": ""
+    },
+    {
+      "name": "harveyai/harvey-labs",
+      "rank": 12,
+      "stars": "860",
+      "stars_today": "47",
+      "language": "Python",
+      "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work."
+    }
+  ]
+}
