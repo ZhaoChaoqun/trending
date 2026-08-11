@@ -1,0 +1,135 @@
+{
+  "date": "2026-08-11",
+  "updated_at": "2026-08-11 02:59:02",
+  "count": 16,
+  "rankings": [
+    {
+      "name": "msitarzewski/agency-agents",
+      "rank": 1,
+      "stars": "141,904",
+      "stars_today": "1,349",
+      "language": "Shell",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "rank": 2,
+      "stars": "85,806",
+      "stars_today": "659",
+      "language": "JavaScript",
+      "description": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "rank": 3,
+      "stars": "165,171",
+      "stars_today": "835",
+      "language": "TypeScript",
+      "description": "The context API to search, scrape, and interact with the web at scale. 🔥"
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "rank": 4,
+      "stars": "126,395",
+      "stars_today": "922",
+      "language": "Python",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface."
+    },
+    {
+      "name": "NanmiCoder/MediaCrawler",
+      "rank": 5,
+      "stars": "61,178",
+      "stars_today": "259",
+      "language": "Python",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫"
+    },
+    {
+      "name": "paperclipai/paperclip",
+      "rank": 6,
+      "stars": "76,585",
+      "stars_today": "198",
+      "language": "TypeScript",
+      "description": "The open-source app everyone uses to manage agents at work"
+    },
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "rank": 7,
+      "stars": "13,198",
+      "stars_today": "2,642",
+      "language": "TypeScript",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks."
+    },
+    {
+      "name": "ruvnet/RuView",
+      "rank": 8,
+      "stars": "89,403",
+      "stars_today": "154",
+      "language": "Rust",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+    },
+    {
+      "name": "danielmiessler/LifeOS",
+      "rank": 9,
+      "stars": "17,979",
+      "stars_today": "315",
+      "language": "TypeScript",
+      "description": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work."
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "rank": 10,
+      "stars": "97,276",
+      "stars_today": "177",
+      "language": "Python",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+    },
+    {
+      "name": "google-deepmind/weathernext",
+      "rank": 11,
+      "stars": "7,376",
+      "stars_today": "325",
+      "language": "Python",
+      "description": ""
+    },
+    {
+      "name": "vitali87/code-graph-rag",
+      "rank": 12,
+      "stars": "3,569",
+      "stars_today": "682",
+      "language": "Python",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "rank": 13,
+      "stars": "18,053",
+      "stars_today": "389",
+      "language": "TypeScript",
+      "description": ""
+    },
+    {
+      "name": "semantica-agi/semantica",
+      "rank": 14,
+      "stars": "4,224",
+      "stars_today": "970",
+      "language": "Python",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems"
+    },
+    {
+      "name": "LadybirdBrowser/ladybird",
+      "rank": 15,
+      "stars": "65,284",
+      "stars_today": "56",
+      "language": "C++",
+      "description": "Truly independent web browser"
+    },
+    {
+      "name": "opa334/Dopamine",
+      "rank": 16,
+      "stars": "6,061",
+      "stars_today": "111",
+      "language": "C",
+      "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)"
+    }
+  ]
+}
