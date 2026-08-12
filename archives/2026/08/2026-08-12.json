@@ -1,0 +1,143 @@
+{
+  "date": "2026-08-12",
+  "updated_at": "2026-08-12 03:17:38",
+  "count": 17,
+  "rankings": [
+    {
+      "name": "msitarzewski/agency-agents",
+      "rank": 1,
+      "stars": "143,461",
+      "stars_today": "958",
+      "language": "Shell",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "rank": 2,
+      "stars": "86,283",
+      "stars_today": "578",
+      "language": "JavaScript",
+      "description": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "rank": 3,
+      "stars": "34,821",
+      "stars_today": "812",
+      "language": "Python",
+      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/."
+    },
+    {
+      "name": "stablyai/orca",
+      "rank": 4,
+      "stars": "42,920",
+      "stars_today": "875",
+      "language": "TypeScript",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS."
+    },
+    {
+      "name": "paperclipai/paperclip",
+      "rank": 5,
+      "stars": "77,234",
+      "stars_today": "748",
+      "language": "TypeScript",
+      "description": "The open-source app everyone uses to manage agents at work"
+    },
+    {
+      "name": "semantica-agi/semantica",
+      "rank": 6,
+      "stars": "4,990",
+      "stars_today": "893",
+      "language": "Python",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "rank": 7,
+      "stars": "62,223",
+      "stars_today": "243",
+      "language": "Python",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
+    },
+    {
+      "name": "anthropics/skills",
+      "rank": 8,
+      "stars": "168,209",
+      "stars_today": "485",
+      "language": "Python",
+      "description": "Public repository for Agent Skills"
+    },
+    {
+      "name": "3b1b/manim",
+      "rank": 9,
+      "stars": "90,247",
+      "stars_today": "197",
+      "language": "Python",
+      "description": "Animation engine for explanatory math videos"
+    },
+    {
+      "name": "huggingface/transformers",
+      "rank": 10,
+      "stars": "163,850",
+      "stars_today": "80",
+      "language": "Python",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
+    },
+    {
+      "name": "jaywcjlove/awesome-mac",
+      "rank": 11,
+      "stars": "110,538",
+      "stars_today": "298",
+      "language": "Swift",
+      "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use."
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "rank": 12,
+      "stars": "47,431",
+      "stars_today": "458",
+      "language": "Python",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio."
+    },
+    {
+      "name": "practical-tutorials/project-based-learning",
+      "rank": 13,
+      "stars": "278,525",
+      "stars_today": "401",
+      "language": "Python",
+      "description": "Curated list of project-based tutorials"
+    },
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "rank": 14,
+      "stars": "14,219",
+      "stars_today": "1,138",
+      "language": "TypeScript",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks."
+    },
+    {
+      "name": "nvm-sh/nvm",
+      "rank": 15,
+      "stars": "94,505",
+      "stars_today": "22",
+      "language": "Shell",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions"
+    },
+    {
+      "name": "vitali87/code-graph-rag",
+      "rank": 16,
+      "stars": "3,873",
+      "stars_today": "341",
+      "language": "Python",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs"
+    },
+    {
+      "name": "harveyai/harvey-labs",
+      "rank": 17,
+      "stars": "1,102",
+      "stars_today": "28",
+      "language": "Python",
+      "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work."
+    }
+  ]
+}

@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Tue, 11 Aug 2026 02:59:02 +0000</pubDate><lastBuildDate>Tue, 11 Aug 2026 02:59:02 +0000</lastBuildDate><item><title>#1 msitarzewski/agency-agents (+1,349 stars)</title><link>https://github.com/msitarzewski/agency-agents</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Wed, 12 Aug 2026 03:17:38 +0000</pubDate><lastBuildDate>Wed, 12 Aug 2026 03:17:38 +0000</lastBuildDate><item><title>#1 msitarzewski/agency-agents (+958 stars)</title><link>https://github.com/msitarzewski/agency-agents</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;msitarzewski/agency-agents&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.&lt;/p&gt;
-&lt;p&gt;⭐ 141,904 | +1,349 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 143,461 | +958 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/msitarzewski/agency-agents#2026-08-11</guid><pubDate>Tue, 11 Aug 2026 02:59:02 +0000</pubDate></item><item><title>#2 addyosmani/agent-skills (+659 stars)</title><link>https://github.com/addyosmani/agent-skills</link><description>
+</description><guid isPermaLink="false">https://github.com/msitarzewski/agency-agents#2026-08-12</guid><pubDate>Wed, 12 Aug 2026 03:17:38 +0000</pubDate></item><item><title>#2 addyosmani/agent-skills (+578 stars)</title><link>https://github.com/addyosmani/agent-skills</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;addyosmani/agent-skills&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Production-grade engineering skills for AI coding agents.&lt;/p&gt;
-&lt;p&gt;⭐ 85,806 | +659 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 86,283 | +578 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/addyosmani/agent-skills#2026-08-11</guid><pubDate>Tue, 11 Aug 2026 02:59:02 +0000</pubDate></item><item><title>#3 firecrawl/firecrawl (+835 stars)</title><link>https://github.com/firecrawl/firecrawl</link><description>
+</description><guid isPermaLink="false">https://github.com/addyosmani/agent-skills#2026-08-12</guid><pubDate>Wed, 12 Aug 2026 03:17:38 +0000</pubDate></item><item><title>#3 HKUDS/DeepTutor (+812 stars)</title><link>https://github.com/HKUDS/DeepTutor</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;firecrawl/firecrawl&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The context API to search, scrape, and interact with the web at scale. 🔥&lt;/p&gt;
-&lt;p&gt;⭐ 165,171 | +835 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HKUDS/DeepTutor&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.&lt;/p&gt;
+&lt;p&gt;⭐ 34,821 | +812 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/firecrawl/firecrawl#2026-08-11</guid><pubDate>Tue, 11 Aug 2026 02:59:02 +0000</pubDate></item><item><title>#4 Comfy-Org/ComfyUI (+922 stars)</title><link>https://github.com/Comfy-Org/ComfyUI</link><description>
+</description><guid isPermaLink="false">https://github.com/HKUDS/DeepTutor#2026-08-12</guid><pubDate>Wed, 12 Aug 2026 03:17:38 +0000</pubDate></item><item><title>#4 stablyai/orca (+875 stars)</title><link>https://github.com/stablyai/orca</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Comfy-Org/ComfyUI&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.&lt;/p&gt;
-&lt;p&gt;⭐ 126,395 | +922 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;stablyai/orca&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.&lt;/p&gt;
+&lt;p&gt;⭐ 42,920 | +875 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Comfy-Org/ComfyUI#2026-08-11</guid><pubDate>Tue, 11 Aug 2026 02:59:02 +0000</pubDate></item><item><title>#5 NanmiCoder/MediaCrawler (+259 stars)</title><link>https://github.com/NanmiCoder/MediaCrawler</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;NanmiCoder/MediaCrawler&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫&lt;/p&gt;
-&lt;p&gt;⭐ 61,178 | +259 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/NanmiCoder/MediaCrawler#2026-08-11</guid><pubDate>Tue, 11 Aug 2026 02:59:02 +0000</pubDate></item><item><title>#6 paperclipai/paperclip (+198 stars)</title><link>https://github.com/paperclipai/paperclip</link><description>
+</description><guid isPermaLink="false">https://github.com/stablyai/orca#2026-08-12</guid><pubDate>Wed, 12 Aug 2026 03:17:38 +0000</pubDate></item><item><title>#5 paperclipai/paperclip (+748 stars)</title><link>https://github.com/paperclipai/paperclip</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;paperclipai/paperclip&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The open-source app everyone uses to manage agents at work&lt;/p&gt;
-&lt;p&gt;⭐ 76,585 | +198 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 77,234 | +748 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/paperclipai/paperclip#2026-08-11</guid><pubDate>Tue, 11 Aug 2026 02:59:02 +0000</pubDate></item><item><title>#7 PrimeIntellect-ai/prime-agent (+2,642 stars)</title><link>https://github.com/PrimeIntellect-ai/prime-agent</link><description>
+</description><guid isPermaLink="false">https://github.com/paperclipai/paperclip#2026-08-12</guid><pubDate>Wed, 12 Aug 2026 03:17:38 +0000</pubDate></item><item><title>#6 semantica-agi/semantica (+893 stars)</title><link>https://github.com/semantica-agi/semantica</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;PrimeIntellect-ai/prime-agent&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A self-improving RLM agent for coding workflows and long-running autonomous tasks.&lt;/p&gt;
-&lt;p&gt;⭐ 13,198 | +2,642 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;semantica-agi/semantica&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Graph-Native Infrastructure for Context and Accountable AI Systems&lt;/p&gt;
+&lt;p&gt;⭐ 4,990 | +893 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/PrimeIntellect-ai/prime-agent#2026-08-11</guid><pubDate>Tue, 11 Aug 2026 02:59:02 +0000</pubDate></item><item><title>#8 ruvnet/RuView (+154 stars)</title><link>https://github.com/ruvnet/RuView</link><description>
+</description><guid isPermaLink="false">https://github.com/semantica-agi/semantica#2026-08-12</guid><pubDate>Wed, 12 Aug 2026 03:17:38 +0000</pubDate></item><item><title>#7 ZhuLinsen/daily_stock_analysis (+243 stars)</title><link>https://github.com/ZhuLinsen/daily_stock_analysis</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ruvnet/RuView&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.&lt;/p&gt;
-&lt;p&gt;⭐ 89,403 | +154 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ZhuLinsen/daily_stock_analysis&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.&lt;/p&gt;
+&lt;p&gt;⭐ 62,223 | +243 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/ruvnet/RuView#2026-08-11</guid><pubDate>Tue, 11 Aug 2026 02:59:02 +0000</pubDate></item><item><title>#9 danielmiessler/LifeOS (+315 stars)</title><link>https://github.com/danielmiessler/LifeOS</link><description>
+</description><guid isPermaLink="false">https://github.com/ZhuLinsen/daily_stock_analysis#2026-08-12</guid><pubDate>Wed, 12 Aug 2026 03:17:38 +0000</pubDate></item><item><title>#8 anthropics/skills (+485 stars)</title><link>https://github.com/anthropics/skills</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;danielmiessler/LifeOS&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.&lt;/p&gt;
-&lt;p&gt;⭐ 17,979 | +315 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;anthropics/skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Public repository for Agent Skills&lt;/p&gt;
+&lt;p&gt;⭐ 168,209 | +485 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/danielmiessler/LifeOS#2026-08-11</guid><pubDate>Tue, 11 Aug 2026 02:59:02 +0000</pubDate></item><item><title>#10 TauricResearch/TradingAgents (+177 stars)</title><link>https://github.com/TauricResearch/TradingAgents</link><description>
+</description><guid isPermaLink="false">https://github.com/anthropics/skills#2026-08-12</guid><pubDate>Wed, 12 Aug 2026 03:17:38 +0000</pubDate></item><item><title>#9 3b1b/manim (+197 stars)</title><link>https://github.com/3b1b/manim</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;TauricResearch/TradingAgents&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;TradingAgents: Multi-Agents LLM Financial Trading Framework&lt;/p&gt;
-&lt;p&gt;⭐ 97,276 | +177 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3b1b/manim&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Animation engine for explanatory math videos&lt;/p&gt;
+&lt;p&gt;⭐ 90,247 | +197 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/TauricResearch/TradingAgents#2026-08-11</guid><pubDate>Tue, 11 Aug 2026 02:59:02 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/3b1b/manim#2026-08-12</guid><pubDate>Wed, 12 Aug 2026 03:17:38 +0000</pubDate></item><item><title>#10 huggingface/transformers (+80 stars)</title><link>https://github.com/huggingface/transformers</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;huggingface/transformers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.&lt;/p&gt;
+&lt;p&gt;⭐ 163,850 | +80 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/huggingface/transformers#2026-08-12</guid><pubDate>Wed, 12 Aug 2026 03:17:38 +0000</pubDate></item></channel></rss>
