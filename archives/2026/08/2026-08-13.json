@@ -1,0 +1,143 @@
+{
+  "date": "2026-08-13",
+  "updated_at": "2026-08-13 03:21:50",
+  "count": 17,
+  "rankings": [
+    {
+      "name": "stablyai/orca",
+      "rank": 1,
+      "stars": "44,050",
+      "stars_today": "1,235",
+      "language": "TypeScript",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS."
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "rank": 2,
+      "stars": "144,657",
+      "stars_today": "1,873",
+      "language": "Shell",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "name": "paperclipai/paperclip",
+      "rank": 3,
+      "stars": "77,794",
+      "stars_today": "571",
+      "language": "TypeScript",
+      "description": "The open-source app everyone uses to manage agents at work"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "rank": 4,
+      "stars": "11,035",
+      "stars_today": "2,855",
+      "language": "HTML",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop."
+    },
+    {
+      "name": "semantica-agi/semantica",
+      "rank": 5,
+      "stars": "5,820",
+      "stars_today": "845",
+      "language": "Python",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "rank": 6,
+      "stars": "36,969",
+      "stars_today": "266",
+      "language": "Python",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets"
+    },
+    {
+      "name": "NanmiCoder/MediaCrawler",
+      "rank": 7,
+      "stars": "62,063",
+      "stars_today": "215",
+      "language": "Python",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫"
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "rank": 8,
+      "stars": "45,794",
+      "stars_today": "476",
+      "language": "Python",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He"
+    },
+    {
+      "name": "infiniflow/ragflow",
+      "rank": 9,
+      "stars": "87,603",
+      "stars_today": "139",
+      "language": "Go",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs"
+    },
+    {
+      "name": "localsend/localsend",
+      "rank": 10,
+      "stars": "87,893",
+      "stars_today": "213",
+      "language": "Dart",
+      "description": "An open-source cross-platform alternative to AirDrop"
+    },
+    {
+      "name": "macro-inc/macro",
+      "rank": 11,
+      "stars": "1,958",
+      "stars_today": "227",
+      "language": "Rust",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory."
+    },
+    {
+      "name": "ZuodaoTech/everyone-can-use-english",
+      "rank": 12,
+      "stars": "36,170",
+      "stars_today": "86",
+      "language": "TypeScript",
+      "description": "人人都能用英语"
+    },
+    {
+      "name": "smicallef/spiderfoot",
+      "rank": 13,
+      "stars": "20,388",
+      "stars_today": "74",
+      "language": "Python",
+      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface."
+    },
+    {
+      "name": "cactus-compute/needle",
+      "rank": 14,
+      "stars": "4,321",
+      "stars_today": "315",
+      "language": "Python",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots."
+    },
+    {
+      "name": "NVIDIA-NeMo/Switchyard",
+      "rank": 15,
+      "stars": "890",
+      "stars_today": "421",
+      "language": "Rust",
+      "description": ""
+    },
+    {
+      "name": "Lightricks/LTX-2",
+      "rank": 16,
+      "stars": "8,740",
+      "stars_today": "65",
+      "language": "Python",
+      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model."
+    },
+    {
+      "name": "embabel/embabel-agent",
+      "rank": 17,
+      "stars": "4,239",
+      "stars_today": "40",
+      "language": "Kotlin",
+      "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/"
+    }
+  ]
+}
