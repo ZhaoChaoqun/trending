@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Thu, 13 Aug 2026 03:21:50 +0000</pubDate><lastBuildDate>Thu, 13 Aug 2026 03:21:50 +0000</lastBuildDate><item><title>#1 stablyai/orca (+1,235 stars)</title><link>https://github.com/stablyai/orca</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;stablyai/orca&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.&lt;/p&gt;
-&lt;p&gt;⭐ 44,050 | +1,235 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/stablyai/orca#2026-08-13</guid><pubDate>Thu, 13 Aug 2026 03:21:50 +0000</pubDate></item><item><title>#2 msitarzewski/agency-agents (+1,873 stars)</title><link>https://github.com/msitarzewski/agency-agents</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 14 Aug 2026 03:18:45 +0000</pubDate><lastBuildDate>Fri, 14 Aug 2026 03:18:45 +0000</lastBuildDate><item><title>#1 msitarzewski/agency-agents (+778 stars)</title><link>https://github.com/msitarzewski/agency-agents</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;msitarzewski/agency-agents&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.&lt;/p&gt;
-&lt;p&gt;⭐ 144,657 | +1,873 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 145,240 | +778 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/msitarzewski/agency-agents#2026-08-13</guid><pubDate>Thu, 13 Aug 2026 03:21:50 +0000</pubDate></item><item><title>#3 paperclipai/paperclip (+571 stars)</title><link>https://github.com/paperclipai/paperclip</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;paperclipai/paperclip&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The open-source app everyone uses to manage agents at work&lt;/p&gt;
-&lt;p&gt;⭐ 77,794 | +571 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/paperclipai/paperclip#2026-08-13</guid><pubDate>Thu, 13 Aug 2026 03:21:50 +0000</pubDate></item><item><title>#4 cathrynlavery/diagram-design (+2,855 stars)</title><link>https://github.com/cathrynlavery/diagram-design</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;cathrynlavery/diagram-design&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.&lt;/p&gt;
-&lt;p&gt;⭐ 11,035 | +2,855 today | 🔧 HTML&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/cathrynlavery/diagram-design#2026-08-13</guid><pubDate>Thu, 13 Aug 2026 03:21:50 +0000</pubDate></item><item><title>#5 semantica-agi/semantica (+845 stars)</title><link>https://github.com/semantica-agi/semantica</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;semantica-agi/semantica&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Graph-Native Infrastructure for Context and Accountable AI Systems&lt;/p&gt;
-&lt;p&gt;⭐ 5,820 | +845 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/semantica-agi/semantica#2026-08-13</guid><pubDate>Thu, 13 Aug 2026 03:21:50 +0000</pubDate></item><item><title>#6 shiyu-coder/Kronos (+266 stars)</title><link>https://github.com/shiyu-coder/Kronos</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;shiyu-coder/Kronos&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Kronos: A Foundation Model for the Language of Financial Markets&lt;/p&gt;
-&lt;p&gt;⭐ 36,969 | +266 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/shiyu-coder/Kronos#2026-08-13</guid><pubDate>Thu, 13 Aug 2026 03:21:50 +0000</pubDate></item><item><title>#7 NanmiCoder/MediaCrawler (+215 stars)</title><link>https://github.com/NanmiCoder/MediaCrawler</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;NanmiCoder/MediaCrawler&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫&lt;/p&gt;
-&lt;p&gt;⭐ 62,063 | +215 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/NanmiCoder/MediaCrawler#2026-08-13</guid><pubDate>Thu, 13 Aug 2026 03:21:50 +0000</pubDate></item><item><title>#8 hugohe3/ppt-master (+476 stars)</title><link>https://github.com/hugohe3/ppt-master</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;hugohe3/ppt-master&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He&lt;/p&gt;
-&lt;p&gt;⭐ 45,794 | +476 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/hugohe3/ppt-master#2026-08-13</guid><pubDate>Thu, 13 Aug 2026 03:21:50 +0000</pubDate></item><item><title>#9 infiniflow/ragflow (+139 stars)</title><link>https://github.com/infiniflow/ragflow</link><description>
+</description><guid isPermaLink="false">https://github.com/msitarzewski/agency-agents#2026-08-14</guid><pubDate>Fri, 14 Aug 2026 03:18:45 +0000</pubDate></item><item><title>#2 infiniflow/ragflow (+465 stars)</title><link>https://github.com/infiniflow/ragflow</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;infiniflow/ragflow&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs&lt;/p&gt;
-&lt;p&gt;⭐ 87,603 | +139 today | 🔧 Go&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 88,088 | +465 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/infiniflow/ragflow#2026-08-13</guid><pubDate>Thu, 13 Aug 2026 03:21:50 +0000</pubDate></item><item><title>#10 localsend/localsend (+213 stars)</title><link>https://github.com/localsend/localsend</link><description>
+</description><guid isPermaLink="false">https://github.com/infiniflow/ragflow#2026-08-14</guid><pubDate>Fri, 14 Aug 2026 03:18:45 +0000</pubDate></item><item><title>#3 cathrynlavery/diagram-design (+4,475 stars)</title><link>https://github.com/cathrynlavery/diagram-design</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;localsend/localsend&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An open-source cross-platform alternative to AirDrop&lt;/p&gt;
-&lt;p&gt;⭐ 87,893 | +213 today | 🔧 Dart&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;cathrynlavery/diagram-design&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.&lt;/p&gt;
+&lt;p&gt;⭐ 14,984 | +4,475 today | 🔧 HTML&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/localsend/localsend#2026-08-13</guid><pubDate>Thu, 13 Aug 2026 03:21:50 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/cathrynlavery/diagram-design#2026-08-14</guid><pubDate>Fri, 14 Aug 2026 03:18:45 +0000</pubDate></item><item><title>#4 semantica-agi/semantica (+713 stars)</title><link>https://github.com/semantica-agi/semantica</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;semantica-agi/semantica&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Graph-Native Infrastructure for Context and Accountable AI Systems&lt;/p&gt;
+&lt;p&gt;⭐ 6,813 | +713 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/semantica-agi/semantica#2026-08-14</guid><pubDate>Fri, 14 Aug 2026 03:18:45 +0000</pubDate></item><item><title>#5 anthropics/skills (+312 stars)</title><link>https://github.com/anthropics/skills</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;anthropics/skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Public repository for Agent Skills&lt;/p&gt;
+&lt;p&gt;⭐ 169,104 | +312 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/anthropics/skills#2026-08-14</guid><pubDate>Fri, 14 Aug 2026 03:18:45 +0000</pubDate></item><item><title>#6 cactus-compute/needle (+769 stars)</title><link>https://github.com/cactus-compute/needle</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;cactus-compute/needle&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;14MB foundation model for tiny devices; phones, wearables, smart home, and robots.&lt;/p&gt;
+&lt;p&gt;⭐ 5,025 | +769 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/cactus-compute/needle#2026-08-14</guid><pubDate>Fri, 14 Aug 2026 03:18:45 +0000</pubDate></item><item><title>#7 unslothai/unsloth (+328 stars)</title><link>https://github.com/unslothai/unsloth</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;unslothai/unsloth&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.&lt;/p&gt;
+&lt;p&gt;⭐ 71,118 | +328 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/unslothai/unsloth#2026-08-14</guid><pubDate>Fri, 14 Aug 2026 03:18:45 +0000</pubDate></item><item><title>#8 macro-inc/macro (+1,239 stars)</title><link>https://github.com/macro-inc/macro</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;macro-inc/macro&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.&lt;/p&gt;
+&lt;p&gt;⭐ 2,659 | +1,239 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/macro-inc/macro#2026-08-14</guid><pubDate>Fri, 14 Aug 2026 03:18:45 +0000</pubDate></item><item><title>#9 smicallef/spiderfoot (+283 stars)</title><link>https://github.com/smicallef/spiderfoot</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;smicallef/spiderfoot&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.&lt;/p&gt;
+&lt;p&gt;⭐ 20,699 | +283 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/smicallef/spiderfoot#2026-08-14</guid><pubDate>Fri, 14 Aug 2026 03:18:45 +0000</pubDate></item><item><title>#10 kepano/obsidian-skills (+292 stars)</title><link>https://github.com/kepano/obsidian-skills</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;kepano/obsidian-skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.&lt;/p&gt;
+&lt;p&gt;⭐ 45,873 | +292 today | 🔧 Unknown&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/kepano/obsidian-skills#2026-08-14</guid><pubDate>Fri, 14 Aug 2026 03:18:45 +0000</pubDate></item></channel></rss>
