@@ -1,0 +1,111 @@
+{
+  "date": "2026-08-16",
+  "updated_at": "2026-08-16 02:14:51",
+  "count": 13,
+  "rankings": [
+    {
+      "name": "public-apis/public-apis",
+      "rank": 1,
+      "stars": "460,231",
+      "stars_today": "2,260",
+      "language": "Python",
+      "description": "A collective list of free APIs"
+    },
+    {
+      "name": "github/spec-kit",
+      "rank": 2,
+      "stars": "129,222",
+      "stars_today": "892",
+      "language": "Python",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development"
+    },
+    {
+      "name": "ToolJet/ToolJet",
+      "rank": 3,
+      "stars": "39,559",
+      "stars_today": "544",
+      "language": "JavaScript",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "rank": 4,
+      "stars": "18,673",
+      "stars_today": "1,607",
+      "language": "HTML",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop."
+    },
+    {
+      "name": "cactus-compute/needle",
+      "rank": 5,
+      "stars": "6,085",
+      "stars_today": "547",
+      "language": "Python",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots."
+    },
+    {
+      "name": "unslothai/unsloth",
+      "rank": 6,
+      "stars": "72,069",
+      "stars_today": "434",
+      "language": "Python",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more."
+    },
+    {
+      "name": "megadose/holehe",
+      "rank": 7,
+      "stars": "13,129",
+      "stars_today": "382",
+      "language": "Python",
+      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function."
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "rank": 8,
+      "stars": "47,375",
+      "stars_today": "118",
+      "language": "Python",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/"
+    },
+    {
+      "name": "citrolabs/ego-lite",
+      "rank": 9,
+      "stars": "10,997",
+      "stars_today": "545",
+      "language": "JavaScript",
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config."
+    },
+    {
+      "name": "cordiverse/cordis",
+      "rank": 10,
+      "stars": "4,099",
+      "stars_today": "599",
+      "language": "TypeScript",
+      "description": "Meta-Framework of Spatiotemporal Composability"
+    },
+    {
+      "name": "MakazhanAlpamys/Soup",
+      "rank": 11,
+      "stars": "1,688",
+      "stars_today": "297",
+      "language": "Python",
+      "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU."
+    },
+    {
+      "name": "altic-dev/FluidVoice",
+      "rank": 12,
+      "stars": "10,344",
+      "stars_today": "104",
+      "language": "Swift",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 -https://x.com/fluidvoiceapp"
+    },
+    {
+      "name": "cursor/plugins",
+      "rank": 13,
+      "stars": "2,955",
+      "stars_today": "149",
+      "language": "TypeScript",
+      "description": "Cursor plugin specification and official plugins"
+    }
+  ]
+}

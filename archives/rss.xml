@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sat, 15 Aug 2026 02:07:20 +0000</pubDate><lastBuildDate>Sat, 15 Aug 2026 02:07:20 +0000</lastBuildDate><item><title>#1 github/spec-kit (+1,160 stars)</title><link>https://github.com/github/spec-kit</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sun, 16 Aug 2026 02:14:51 +0000</pubDate><lastBuildDate>Sun, 16 Aug 2026 02:14:51 +0000</lastBuildDate><item><title>#1 public-apis/public-apis (+2,260 stars)</title><link>https://github.com/public-apis/public-apis</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;public-apis/public-apis&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A collective list of free APIs&lt;/p&gt;
+&lt;p&gt;⭐ 460,231 | +2,260 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/public-apis/public-apis#2026-08-16</guid><pubDate>Sun, 16 Aug 2026 02:14:51 +0000</pubDate></item><item><title>#2 github/spec-kit (+892 stars)</title><link>https://github.com/github/spec-kit</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;github/spec-kit&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;💫 Toolkit to help you get started with Spec-Driven Development&lt;/p&gt;
-&lt;p&gt;⭐ 128,540 | +1,160 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 129,222 | +892 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/github/spec-kit#2026-08-15</guid><pubDate>Sat, 15 Aug 2026 02:07:20 +0000</pubDate></item><item><title>#2 infiniflow/ragflow (+473 stars)</title><link>https://github.com/infiniflow/ragflow</link><description>
+</description><guid isPermaLink="false">https://github.com/github/spec-kit#2026-08-16</guid><pubDate>Sun, 16 Aug 2026 02:14:51 +0000</pubDate></item><item><title>#3 ToolJet/ToolJet (+544 stars)</title><link>https://github.com/ToolJet/ToolJet</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;infiniflow/ragflow&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs&lt;/p&gt;
-&lt;p&gt;⭐ 88,396 | +473 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ToolJet/ToolJet&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀&lt;/p&gt;
+&lt;p&gt;⭐ 39,559 | +544 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/infiniflow/ragflow#2026-08-15</guid><pubDate>Sat, 15 Aug 2026 02:07:20 +0000</pubDate></item><item><title>#3 unslothai/unsloth (+501 stars)</title><link>https://github.com/unslothai/unsloth</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;unslothai/unsloth&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.&lt;/p&gt;
-&lt;p&gt;⭐ 71,524 | +501 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/unslothai/unsloth#2026-08-15</guid><pubDate>Sat, 15 Aug 2026 02:07:20 +0000</pubDate></item><item><title>#4 cathrynlavery/diagram-design (+3,646 stars)</title><link>https://github.com/cathrynlavery/diagram-design</link><description>
+</description><guid isPermaLink="false">https://github.com/ToolJet/ToolJet#2026-08-16</guid><pubDate>Sun, 16 Aug 2026 02:14:51 +0000</pubDate></item><item><title>#4 cathrynlavery/diagram-design (+1,607 stars)</title><link>https://github.com/cathrynlavery/diagram-design</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;cathrynlavery/diagram-design&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.&lt;/p&gt;
-&lt;p&gt;⭐ 17,317 | +3,646 today | 🔧 HTML&lt;/p&gt;
+&lt;p&gt;⭐ 18,673 | +1,607 today | 🔧 HTML&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/cathrynlavery/diagram-design#2026-08-15</guid><pubDate>Sat, 15 Aug 2026 02:07:20 +0000</pubDate></item><item><title>#5 cactus-compute/needle (+662 stars)</title><link>https://github.com/cactus-compute/needle</link><description>
+</description><guid isPermaLink="false">https://github.com/cathrynlavery/diagram-design#2026-08-16</guid><pubDate>Sun, 16 Aug 2026 02:14:51 +0000</pubDate></item><item><title>#5 cactus-compute/needle (+547 stars)</title><link>https://github.com/cactus-compute/needle</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;cactus-compute/needle&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;14MB foundation model for tiny devices; phones, wearables, smart home, and robots.&lt;/p&gt;
-&lt;p&gt;⭐ 5,629 | +662 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 6,085 | +547 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/cactus-compute/needle#2026-08-15</guid><pubDate>Sat, 15 Aug 2026 02:07:20 +0000</pubDate></item><item><title>#6 megadose/holehe (+427 stars)</title><link>https://github.com/megadose/holehe</link><description>
+</description><guid isPermaLink="false">https://github.com/cactus-compute/needle#2026-08-16</guid><pubDate>Sun, 16 Aug 2026 02:14:51 +0000</pubDate></item><item><title>#6 unslothai/unsloth (+434 stars)</title><link>https://github.com/unslothai/unsloth</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;unslothai/unsloth&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.&lt;/p&gt;
+&lt;p&gt;⭐ 72,069 | +434 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/unslothai/unsloth#2026-08-16</guid><pubDate>Sun, 16 Aug 2026 02:14:51 +0000</pubDate></item><item><title>#7 megadose/holehe (+382 stars)</title><link>https://github.com/megadose/holehe</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;megadose/holehe&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.&lt;/p&gt;
-&lt;p&gt;⭐ 12,861 | +427 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 13,129 | +382 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/megadose/holehe#2026-08-15</guid><pubDate>Sat, 15 Aug 2026 02:07:20 +0000</pubDate></item><item><title>#7 smicallef/spiderfoot (+293 stars)</title><link>https://github.com/smicallef/spiderfoot</link><description>
+</description><guid isPermaLink="false">https://github.com/megadose/holehe#2026-08-16</guid><pubDate>Sun, 16 Aug 2026 02:14:51 +0000</pubDate></item><item><title>#8 HKUDS/CLI-Anything (+118 stars)</title><link>https://github.com/HKUDS/CLI-Anything</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;smicallef/spiderfoot&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.&lt;/p&gt;
-&lt;p&gt;⭐ 20,954 | +293 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HKUDS/CLI-Anything&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/&lt;/p&gt;
+&lt;p&gt;⭐ 47,375 | +118 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/smicallef/spiderfoot#2026-08-15</guid><pubDate>Sat, 15 Aug 2026 02:07:20 +0000</pubDate></item><item><title>#8 holaboss-ai/holaOS (+769 stars)</title><link>https://github.com/holaboss-ai/holaOS</link><description>
+</description><guid isPermaLink="false">https://github.com/HKUDS/CLI-Anything#2026-08-16</guid><pubDate>Sun, 16 Aug 2026 02:14:51 +0000</pubDate></item><item><title>#9 citrolabs/ego-lite (+545 stars)</title><link>https://github.com/citrolabs/ego-lite</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;holaboss-ai/holaOS&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.&lt;/p&gt;
-&lt;p&gt;⭐ 7,313 | +769 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;citrolabs/ego-lite&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.&lt;/p&gt;
+&lt;p&gt;⭐ 10,997 | +545 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/holaboss-ai/holaOS#2026-08-15</guid><pubDate>Sat, 15 Aug 2026 02:07:20 +0000</pubDate></item><item><title>#9 lightningpixel/modly (+579 stars)</title><link>https://github.com/lightningpixel/modly</link><description>
+</description><guid isPermaLink="false">https://github.com/citrolabs/ego-lite#2026-08-16</guid><pubDate>Sun, 16 Aug 2026 02:14:51 +0000</pubDate></item><item><title>#10 cordiverse/cordis (+599 stars)</title><link>https://github.com/cordiverse/cordis</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;lightningpixel/modly&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU&lt;/p&gt;
-&lt;p&gt;⭐ 5,956 | +579 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;cordiverse/cordis&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Meta-Framework of Spatiotemporal Composability&lt;/p&gt;
+&lt;p&gt;⭐ 4,099 | +599 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/lightningpixel/modly#2026-08-15</guid><pubDate>Sat, 15 Aug 2026 02:07:20 +0000</pubDate></item><item><title>#10 semantica-agi/semantica (+1,181 stars)</title><link>https://github.com/semantica-agi/semantica</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;semantica-agi/semantica&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Graph-Native Infrastructure for Context and Accountable AI Systems&lt;/p&gt;
-&lt;p&gt;⭐ 7,545 | +1,181 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/semantica-agi/semantica#2026-08-15</guid><pubDate>Sat, 15 Aug 2026 02:07:20 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/cordiverse/cordis#2026-08-16</guid><pubDate>Sun, 16 Aug 2026 02:14:51 +0000</pubDate></item></channel></rss>
