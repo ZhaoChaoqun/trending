@@ -1,72 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sun, 16 Aug 2026 02:14:51 +0000</pubDate><lastBuildDate>Sun, 16 Aug 2026 02:14:51 +0000</lastBuildDate><item><title>#1 public-apis/public-apis (+2,260 stars)</title><link>https://github.com/public-apis/public-apis</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;public-apis/public-apis&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A collective list of free APIs&lt;/p&gt;
-&lt;p&gt;⭐ 460,231 | +2,260 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/public-apis/public-apis#2026-08-16</guid><pubDate>Sun, 16 Aug 2026 02:14:51 +0000</pubDate></item><item><title>#2 github/spec-kit (+892 stars)</title><link>https://github.com/github/spec-kit</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;github/spec-kit&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;💫 Toolkit to help you get started with Spec-Driven Development&lt;/p&gt;
-&lt;p&gt;⭐ 129,222 | +892 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/github/spec-kit#2026-08-16</guid><pubDate>Sun, 16 Aug 2026 02:14:51 +0000</pubDate></item><item><title>#3 ToolJet/ToolJet (+544 stars)</title><link>https://github.com/ToolJet/ToolJet</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ToolJet/ToolJet&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀&lt;/p&gt;
-&lt;p&gt;⭐ 39,559 | +544 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/ToolJet/ToolJet#2026-08-16</guid><pubDate>Sun, 16 Aug 2026 02:14:51 +0000</pubDate></item><item><title>#4 cathrynlavery/diagram-design (+1,607 stars)</title><link>https://github.com/cathrynlavery/diagram-design</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;cathrynlavery/diagram-design&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.&lt;/p&gt;
-&lt;p&gt;⭐ 18,673 | +1,607 today | 🔧 HTML&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/cathrynlavery/diagram-design#2026-08-16</guid><pubDate>Sun, 16 Aug 2026 02:14:51 +0000</pubDate></item><item><title>#5 cactus-compute/needle (+547 stars)</title><link>https://github.com/cactus-compute/needle</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;cactus-compute/needle&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;14MB foundation model for tiny devices; phones, wearables, smart home, and robots.&lt;/p&gt;
-&lt;p&gt;⭐ 6,085 | +547 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/cactus-compute/needle#2026-08-16</guid><pubDate>Sun, 16 Aug 2026 02:14:51 +0000</pubDate></item><item><title>#6 unslothai/unsloth (+434 stars)</title><link>https://github.com/unslothai/unsloth</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Mon, 17 Aug 2026 02:12:46 +0000</pubDate><lastBuildDate>Mon, 17 Aug 2026 02:12:46 +0000</lastBuildDate><item><title>#1 unslothai/unsloth (+572 stars)</title><link>https://github.com/unslothai/unsloth</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;unslothai/unsloth&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.&lt;/p&gt;
-&lt;p&gt;⭐ 72,069 | +434 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 72,648 | +572 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/unslothai/unsloth#2026-08-16</guid><pubDate>Sun, 16 Aug 2026 02:14:51 +0000</pubDate></item><item><title>#7 megadose/holehe (+382 stars)</title><link>https://github.com/megadose/holehe</link><description>
+</description><guid isPermaLink="false">https://github.com/unslothai/unsloth#2026-08-17</guid><pubDate>Mon, 17 Aug 2026 02:12:46 +0000</pubDate></item><item><title>#2 public-apis/public-apis (+1,588 stars)</title><link>https://github.com/public-apis/public-apis</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;megadose/holehe&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.&lt;/p&gt;
-&lt;p&gt;⭐ 13,129 | +382 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;public-apis/public-apis&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A collective list of free APIs&lt;/p&gt;
+&lt;p&gt;⭐ 461,879 | +1,588 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/megadose/holehe#2026-08-16</guid><pubDate>Sun, 16 Aug 2026 02:14:51 +0000</pubDate></item><item><title>#8 HKUDS/CLI-Anything (+118 stars)</title><link>https://github.com/HKUDS/CLI-Anything</link><description>
+</description><guid isPermaLink="false">https://github.com/public-apis/public-apis#2026-08-17</guid><pubDate>Mon, 17 Aug 2026 02:12:46 +0000</pubDate></item><item><title>#3 basecamp/omarchy (+270 stars)</title><link>https://github.com/basecamp/omarchy</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;HKUDS/CLI-Anything&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/&lt;/p&gt;
-&lt;p&gt;⭐ 47,375 | +118 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;basecamp/omarchy&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Beautiful, Modern &amp; Opinionated Linux&lt;/p&gt;
+&lt;p&gt;⭐ 25,444 | +270 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/HKUDS/CLI-Anything#2026-08-16</guid><pubDate>Sun, 16 Aug 2026 02:14:51 +0000</pubDate></item><item><title>#9 citrolabs/ego-lite (+545 stars)</title><link>https://github.com/citrolabs/ego-lite</link><description>
+</description><guid isPermaLink="false">https://github.com/basecamp/omarchy#2026-08-17</guid><pubDate>Mon, 17 Aug 2026 02:12:46 +0000</pubDate></item><item><title>#4 OpenCut-app/OpenCut (+150 stars)</title><link>https://github.com/OpenCut-app/OpenCut</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;citrolabs/ego-lite&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.&lt;/p&gt;
-&lt;p&gt;⭐ 10,997 | +545 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OpenCut-app/OpenCut&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The open-source CapCut alternative&lt;/p&gt;
+&lt;p&gt;⭐ 83,954 | +150 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/citrolabs/ego-lite#2026-08-16</guid><pubDate>Sun, 16 Aug 2026 02:14:51 +0000</pubDate></item><item><title>#10 cordiverse/cordis (+599 stars)</title><link>https://github.com/cordiverse/cordis</link><description>
+</description><guid isPermaLink="false">https://github.com/OpenCut-app/OpenCut#2026-08-17</guid><pubDate>Mon, 17 Aug 2026 02:12:46 +0000</pubDate></item><item><title>#5 ToolJet/ToolJet (+452 stars)</title><link>https://github.com/ToolJet/ToolJet</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;ToolJet/ToolJet&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀&lt;/p&gt;
+&lt;p&gt;⭐ 40,082 | +452 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/ToolJet/ToolJet#2026-08-17</guid><pubDate>Mon, 17 Aug 2026 02:12:46 +0000</pubDate></item><item><title>#6 cactus-compute/needle (+443 stars)</title><link>https://github.com/cactus-compute/needle</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;cactus-compute/needle&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;14MB foundation model for tiny devices; phones, wearables, smart home, and robots.&lt;/p&gt;
+&lt;p&gt;⭐ 6,632 | +443 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/cactus-compute/needle#2026-08-17</guid><pubDate>Mon, 17 Aug 2026 02:12:46 +0000</pubDate></item><item><title>#7 cordiverse/cordis (+720 stars)</title><link>https://github.com/cordiverse/cordis</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;cordiverse/cordis&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Meta-Framework of Spatiotemporal Composability&lt;/p&gt;
-&lt;p&gt;⭐ 4,099 | +599 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 4,835 | +720 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/cordiverse/cordis#2026-08-16</guid><pubDate>Sun, 16 Aug 2026 02:14:51 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/cordiverse/cordis#2026-08-17</guid><pubDate>Mon, 17 Aug 2026 02:12:46 +0000</pubDate></item></channel></rss>

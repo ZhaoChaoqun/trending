@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-17",
+  "updated_at": "2026-08-17 02:12:46",
+  "count": 7,
+  "rankings": [
+    {
+      "name": "unslothai/unsloth",
+      "rank": 1,
+      "stars": "72,648",
+      "stars_today": "572",
+      "language": "Python",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more."
+    },
+    {
+      "name": "public-apis/public-apis",
+      "rank": 2,
+      "stars": "461,879",
+      "stars_today": "1,588",
+      "language": "Python",
+      "description": "A collective list of free APIs"
+    },
+    {
+      "name": "basecamp/omarchy",
+      "rank": 3,
+      "stars": "25,444",
+      "stars_today": "270",
+      "language": "Shell",
+      "description": "Beautiful, Modern & Opinionated Linux"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "rank": 4,
+      "stars": "83,954",
+      "stars_today": "150",
+      "language": "TypeScript",
+      "description": "The open-source CapCut alternative"
+    },
+    {
+      "name": "ToolJet/ToolJet",
+      "rank": 5,
+      "stars": "40,082",
+      "stars_today": "452",
+      "language": "JavaScript",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀"
+    },
+    {
+      "name": "cactus-compute/needle",
+      "rank": 6,
+      "stars": "6,632",
+      "stars_today": "443",
+      "language": "Python",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots."
+    },
+    {
+      "name": "cordiverse/cordis",
+      "rank": 7,
+      "stars": "4,835",
+      "stars_today": "720",
+      "language": "TypeScript",
+      "description": "Meta-Framework of Spatiotemporal Composability"
+    }
+  ]
+}
