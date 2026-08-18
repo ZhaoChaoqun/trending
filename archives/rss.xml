@@ -1,51 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Mon, 17 Aug 2026 02:12:46 +0000</pubDate><lastBuildDate>Mon, 17 Aug 2026 02:12:46 +0000</lastBuildDate><item><title>#1 unslothai/unsloth (+572 stars)</title><link>https://github.com/unslothai/unsloth</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Tue, 18 Aug 2026 02:08:34 +0000</pubDate><lastBuildDate>Tue, 18 Aug 2026 02:08:34 +0000</lastBuildDate><item><title>#1 harry0703/MoneyPrinterTurbo (+1,189 stars)</title><link>https://github.com/harry0703/MoneyPrinterTurbo</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;unslothai/unsloth&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.&lt;/p&gt;
-&lt;p&gt;⭐ 72,648 | +572 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;harry0703/MoneyPrinterTurbo&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.&lt;/p&gt;
+&lt;p&gt;⭐ 106,212 | +1,189 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/unslothai/unsloth#2026-08-17</guid><pubDate>Mon, 17 Aug 2026 02:12:46 +0000</pubDate></item><item><title>#2 public-apis/public-apis (+1,588 stars)</title><link>https://github.com/public-apis/public-apis</link><description>
+</description><guid isPermaLink="false">https://github.com/harry0703/MoneyPrinterTurbo#2026-08-18</guid><pubDate>Tue, 18 Aug 2026 02:08:34 +0000</pubDate></item><item><title>#2 usestrix/strix (+598 stars)</title><link>https://github.com/usestrix/strix</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;public-apis/public-apis&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A collective list of free APIs&lt;/p&gt;
-&lt;p&gt;⭐ 461,879 | +1,588 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;usestrix/strix&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.&lt;/p&gt;
+&lt;p&gt;⭐ 54,256 | +598 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/public-apis/public-apis#2026-08-17</guid><pubDate>Mon, 17 Aug 2026 02:12:46 +0000</pubDate></item><item><title>#3 basecamp/omarchy (+270 stars)</title><link>https://github.com/basecamp/omarchy</link><description>
+</description><guid isPermaLink="false">https://github.com/usestrix/strix#2026-08-18</guid><pubDate>Tue, 18 Aug 2026 02:08:34 +0000</pubDate></item><item><title>#3 nautechsystems/nautilus_trader (+120 stars)</title><link>https://github.com/nautechsystems/nautilus_trader</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;basecamp/omarchy&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Beautiful, Modern &amp; Opinionated Linux&lt;/p&gt;
-&lt;p&gt;⭐ 25,444 | +270 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;nautechsystems/nautilus_trader&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Production-grade Rust-native trading engine with deterministic event-driven architecture&lt;/p&gt;
+&lt;p&gt;⭐ 25,964 | +120 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/basecamp/omarchy#2026-08-17</guid><pubDate>Mon, 17 Aug 2026 02:12:46 +0000</pubDate></item><item><title>#4 OpenCut-app/OpenCut (+150 stars)</title><link>https://github.com/OpenCut-app/OpenCut</link><description>
+</description><guid isPermaLink="false">https://github.com/nautechsystems/nautilus_trader#2026-08-18</guid><pubDate>Tue, 18 Aug 2026 02:08:34 +0000</pubDate></item><item><title>#4 mukul975/Anthropic-Cybersecurity-Skills (+198 stars)</title><link>https://github.com/mukul975/Anthropic-Cybersecurity-Skills</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;OpenCut-app/OpenCut&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The open-source CapCut alternative&lt;/p&gt;
-&lt;p&gt;⭐ 83,954 | +150 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;mukul975/Anthropic-Cybersecurity-Skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0&lt;/p&gt;
+&lt;p&gt;⭐ 28,480 | +198 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/OpenCut-app/OpenCut#2026-08-17</guid><pubDate>Mon, 17 Aug 2026 02:12:46 +0000</pubDate></item><item><title>#5 ToolJet/ToolJet (+452 stars)</title><link>https://github.com/ToolJet/ToolJet</link><description>
+</description><guid isPermaLink="false">https://github.com/mukul975/Anthropic-Cybersecurity-Skills#2026-08-18</guid><pubDate>Tue, 18 Aug 2026 02:08:34 +0000</pubDate></item><item><title>#5 AlexsJones/llmfit (+198 stars)</title><link>https://github.com/AlexsJones/llmfit</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ToolJet/ToolJet&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀&lt;/p&gt;
-&lt;p&gt;⭐ 40,082 | +452 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AlexsJones/llmfit&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hundreds of models &amp; providers. One command to find what runs on your hardware.&lt;/p&gt;
+&lt;p&gt;⭐ 32,330 | +198 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/ToolJet/ToolJet#2026-08-17</guid><pubDate>Mon, 17 Aug 2026 02:12:46 +0000</pubDate></item><item><title>#6 cactus-compute/needle (+443 stars)</title><link>https://github.com/cactus-compute/needle</link><description>
+</description><guid isPermaLink="false">https://github.com/AlexsJones/llmfit#2026-08-18</guid><pubDate>Tue, 18 Aug 2026 02:08:34 +0000</pubDate></item><item><title>#6 santifer/career-ops (+218 stars)</title><link>https://github.com/santifer/career-ops</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;cactus-compute/needle&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;14MB foundation model for tiny devices; phones, wearables, smart home, and robots.&lt;/p&gt;
-&lt;p&gt;⭐ 6,632 | +443 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;santifer/career-ops&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)&lt;/p&gt;
+&lt;p&gt;⭐ 64,735 | +218 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/cactus-compute/needle#2026-08-17</guid><pubDate>Mon, 17 Aug 2026 02:12:46 +0000</pubDate></item><item><title>#7 cordiverse/cordis (+720 stars)</title><link>https://github.com/cordiverse/cordis</link><description>
+</description><guid isPermaLink="false">https://github.com/santifer/career-ops#2026-08-18</guid><pubDate>Tue, 18 Aug 2026 02:08:34 +0000</pubDate></item><item><title>#7 immich-app/immich (+175 stars)</title><link>https://github.com/immich-app/immich</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;immich-app/immich&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;High performance self-hosted photo and video management solution.&lt;/p&gt;
+&lt;p&gt;⭐ 111,206 | +175 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/immich-app/immich#2026-08-18</guid><pubDate>Tue, 18 Aug 2026 02:08:34 +0000</pubDate></item><item><title>#8 cordiverse/cordis (+957 stars)</title><link>https://github.com/cordiverse/cordis</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;cordiverse/cordis&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Meta-Framework of Spatiotemporal Composability&lt;/p&gt;
-&lt;p&gt;⭐ 4,835 | +720 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 5,644 | +957 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/cordiverse/cordis#2026-08-18</guid><pubDate>Tue, 18 Aug 2026 02:08:34 +0000</pubDate></item><item><title>#9 agalwood/Motrix (+344 stars)</title><link>https://github.com/agalwood/Motrix</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;agalwood/Motrix&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A full-featured download manager.&lt;/p&gt;
+&lt;p&gt;⭐ 53,128 | +344 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/agalwood/Motrix#2026-08-18</guid><pubDate>Tue, 18 Aug 2026 02:08:34 +0000</pubDate></item><item><title>#10 akitaonrails/ai-memory (+207 stars)</title><link>https://github.com/akitaonrails/ai-memory</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;akitaonrails/ai-memory&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors&lt;/p&gt;
+&lt;p&gt;⭐ 2,126 | +207 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/cordiverse/cordis#2026-08-17</guid><pubDate>Mon, 17 Aug 2026 02:12:46 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/akitaonrails/ai-memory#2026-08-18</guid><pubDate>Tue, 18 Aug 2026 02:08:34 +0000</pubDate></item></channel></rss>

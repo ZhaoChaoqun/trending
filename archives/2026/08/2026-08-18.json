@@ -1,0 +1,95 @@
+{
+  "date": "2026-08-18",
+  "updated_at": "2026-08-18 02:08:34",
+  "count": 11,
+  "rankings": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "rank": 1,
+      "stars": "106,212",
+      "stars_today": "1,189",
+      "language": "Python",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow."
+    },
+    {
+      "name": "usestrix/strix",
+      "rank": 2,
+      "stars": "54,256",
+      "stars_today": "598",
+      "language": "Python",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities."
+    },
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "rank": 3,
+      "stars": "25,964",
+      "stars_today": "120",
+      "language": "Rust",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "rank": 4,
+      "stars": "28,480",
+      "stars_today": "198",
+      "language": "Python",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0"
+    },
+    {
+      "name": "AlexsJones/llmfit",
+      "rank": 5,
+      "stars": "32,330",
+      "stars_today": "198",
+      "language": "Rust",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware."
+    },
+    {
+      "name": "santifer/career-ops",
+      "rank": 6,
+      "stars": "64,735",
+      "stars_today": "218",
+      "language": "JavaScript",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)"
+    },
+    {
+      "name": "immich-app/immich",
+      "rank": 7,
+      "stars": "111,206",
+      "stars_today": "175",
+      "language": "TypeScript",
+      "description": "High performance self-hosted photo and video management solution."
+    },
+    {
+      "name": "cordiverse/cordis",
+      "rank": 8,
+      "stars": "5,644",
+      "stars_today": "957",
+      "language": "TypeScript",
+      "description": "Meta-Framework of Spatiotemporal Composability"
+    },
+    {
+      "name": "agalwood/Motrix",
+      "rank": 9,
+      "stars": "53,128",
+      "stars_today": "344",
+      "language": "TypeScript",
+      "description": "A full-featured download manager."
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "rank": 10,
+      "stars": "2,126",
+      "stars_today": "207",
+      "language": "Rust",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
+    },
+    {
+      "name": "jundot/omlx",
+      "rank": 11,
+      "stars": "19,016",
+      "stars_today": "78",
+      "language": "Python",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar"
+    }
+  ]
+}
