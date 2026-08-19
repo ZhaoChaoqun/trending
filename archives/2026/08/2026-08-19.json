@@ -1,0 +1,103 @@
+{
+  "date": "2026-08-19",
+  "updated_at": "2026-08-19 02:11:07",
+  "count": 12,
+  "rankings": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "rank": 1,
+      "stars": "108,680",
+      "stars_today": "2,304",
+      "language": "Python",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow."
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "rank": 2,
+      "stars": "29,238",
+      "stars_today": "730",
+      "language": "Python",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "rank": 3,
+      "stars": "464,643",
+      "stars_today": "1,005",
+      "language": "Python",
+      "description": "A collective list of free APIs"
+    },
+    {
+      "name": "agalwood/Motrix",
+      "rank": 4,
+      "stars": "53,717",
+      "stars_today": "609",
+      "language": "TypeScript",
+      "description": "A full-featured download manager."
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "rank": 5,
+      "stars": "2,770",
+      "stars_today": "648",
+      "language": "Rust",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
+    },
+    {
+      "name": "volcengine/OpenViking",
+      "rank": 6,
+      "stars": "29,458",
+      "stars_today": "213",
+      "language": "Python",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills."
+    },
+    {
+      "name": "basecamp/omarchy",
+      "rank": 7,
+      "stars": "26,456",
+      "stars_today": "356",
+      "language": "Shell",
+      "description": "Beautiful, Modern & Opinionated Linux"
+    },
+    {
+      "name": "NawfalMotii79/PLFM_RADAR",
+      "rank": 8,
+      "stars": "24,336",
+      "stars_today": "192",
+      "language": "PLSQL",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system"
+    },
+    {
+      "name": "jundot/omlx",
+      "rank": 9,
+      "stars": "19,434",
+      "stars_today": "370",
+      "language": "Python",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar"
+    },
+    {
+      "name": "genlayerlabs/genlayer-project-boilerplate",
+      "rank": 10,
+      "stars": "15,976",
+      "stars_today": "535",
+      "language": "TypeScript",
+      "description": ""
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "rank": 11,
+      "stars": "84,823",
+      "stars_today": "192",
+      "language": "TypeScript",
+      "description": "The open-source CapCut alternative"
+    },
+    {
+      "name": "chaitanyagiri/munder-difflin",
+      "rank": 12,
+      "stars": "2,090",
+      "stars_today": "306",
+      "language": "TypeScript",
+      "description": "local multi-agent harness"
+    }
+  ]
+}
