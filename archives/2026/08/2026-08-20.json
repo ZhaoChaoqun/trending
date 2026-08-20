@@ -1,0 +1,111 @@
+{
+  "date": "2026-08-20",
+  "updated_at": "2026-08-20 02:09:51",
+  "count": 13,
+  "rankings": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "rank": 1,
+      "stars": "110,876",
+      "stars_today": "2,221",
+      "language": "Python",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow."
+    },
+    {
+      "name": "volcengine/OpenViking",
+      "rank": 2,
+      "stars": "30,263",
+      "stars_today": "804",
+      "language": "Python",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills."
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "rank": 3,
+      "stars": "29,875",
+      "stars_today": "766",
+      "language": "Python",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0"
+    },
+    {
+      "name": "mattpocock/skills",
+      "rank": 4,
+      "stars": "223,913",
+      "stars_today": "1,894",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory."
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 5,
+      "stars": "274,317",
+      "stars_today": "557",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "jundot/omlx",
+      "rank": 6,
+      "stars": "19,855",
+      "stars_today": "472",
+      "language": "Python",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar"
+    },
+    {
+      "name": "santifer/career-ops",
+      "rank": 7,
+      "stars": "65,835",
+      "stars_today": "198",
+      "language": "JavaScript",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)"
+    },
+    {
+      "name": "immich-app/immich",
+      "rank": 8,
+      "stars": "111,897",
+      "stars_today": "128",
+      "language": "TypeScript",
+      "description": "High performance self-hosted photo and video management solution."
+    },
+    {
+      "name": "genlayerlabs/genlayer-project-boilerplate",
+      "rank": 9,
+      "stars": "16,227",
+      "stars_today": "430",
+      "language": "TypeScript",
+      "description": ""
+    },
+    {
+      "name": "chaitanyagiri/munder-difflin",
+      "rank": 10,
+      "stars": "2,724",
+      "stars_today": "795",
+      "language": "TypeScript",
+      "description": "local multi-agent harness"
+    },
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "rank": 11,
+      "stars": "26,462",
+      "stars_today": "80",
+      "language": "Rust",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture"
+    },
+    {
+      "name": "amadeusprotocol/node",
+      "rank": 12,
+      "stars": "4,580",
+      "stars_today": "1,397",
+      "language": "Rust",
+      "description": ""
+    },
+    {
+      "name": "marceloprates/prettymaps",
+      "rank": 13,
+      "stars": "13,169",
+      "stars_today": "63",
+      "language": "Python",
+      "description": "Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely"
+    }
+  ]
+}

@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Wed, 19 Aug 2026 02:11:07 +0000</pubDate><lastBuildDate>Wed, 19 Aug 2026 02:11:07 +0000</lastBuildDate><item><title>#1 harry0703/MoneyPrinterTurbo (+2,304 stars)</title><link>https://github.com/harry0703/MoneyPrinterTurbo</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Thu, 20 Aug 2026 02:09:51 +0000</pubDate><lastBuildDate>Thu, 20 Aug 2026 02:09:51 +0000</lastBuildDate><item><title>#1 harry0703/MoneyPrinterTurbo (+2,221 stars)</title><link>https://github.com/harry0703/MoneyPrinterTurbo</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;harry0703/MoneyPrinterTurbo&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.&lt;/p&gt;
-&lt;p&gt;⭐ 108,680 | +2,304 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 110,876 | +2,221 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/harry0703/MoneyPrinterTurbo#2026-08-19</guid><pubDate>Wed, 19 Aug 2026 02:11:07 +0000</pubDate></item><item><title>#2 mukul975/Anthropic-Cybersecurity-Skills (+730 stars)</title><link>https://github.com/mukul975/Anthropic-Cybersecurity-Skills</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;mukul975/Anthropic-Cybersecurity-Skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0&lt;/p&gt;
-&lt;p&gt;⭐ 29,238 | +730 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/mukul975/Anthropic-Cybersecurity-Skills#2026-08-19</guid><pubDate>Wed, 19 Aug 2026 02:11:07 +0000</pubDate></item><item><title>#3 public-apis/public-apis (+1,005 stars)</title><link>https://github.com/public-apis/public-apis</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;public-apis/public-apis&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A collective list of free APIs&lt;/p&gt;
-&lt;p&gt;⭐ 464,643 | +1,005 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/public-apis/public-apis#2026-08-19</guid><pubDate>Wed, 19 Aug 2026 02:11:07 +0000</pubDate></item><item><title>#4 agalwood/Motrix (+609 stars)</title><link>https://github.com/agalwood/Motrix</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;agalwood/Motrix&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A full-featured download manager.&lt;/p&gt;
-&lt;p&gt;⭐ 53,717 | +609 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/agalwood/Motrix#2026-08-19</guid><pubDate>Wed, 19 Aug 2026 02:11:07 +0000</pubDate></item><item><title>#5 akitaonrails/ai-memory (+648 stars)</title><link>https://github.com/akitaonrails/ai-memory</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;akitaonrails/ai-memory&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors&lt;/p&gt;
-&lt;p&gt;⭐ 2,770 | +648 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/akitaonrails/ai-memory#2026-08-19</guid><pubDate>Wed, 19 Aug 2026 02:11:07 +0000</pubDate></item><item><title>#6 volcengine/OpenViking (+213 stars)</title><link>https://github.com/volcengine/OpenViking</link><description>
+</description><guid isPermaLink="false">https://github.com/harry0703/MoneyPrinterTurbo#2026-08-20</guid><pubDate>Thu, 20 Aug 2026 02:09:51 +0000</pubDate></item><item><title>#2 volcengine/OpenViking (+804 stars)</title><link>https://github.com/volcengine/OpenViking</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;volcengine/OpenViking&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.&lt;/p&gt;
-&lt;p&gt;⭐ 29,458 | +213 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 30,263 | +804 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/volcengine/OpenViking#2026-08-19</guid><pubDate>Wed, 19 Aug 2026 02:11:07 +0000</pubDate></item><item><title>#7 basecamp/omarchy (+356 stars)</title><link>https://github.com/basecamp/omarchy</link><description>
+</description><guid isPermaLink="false">https://github.com/volcengine/OpenViking#2026-08-20</guid><pubDate>Thu, 20 Aug 2026 02:09:51 +0000</pubDate></item><item><title>#3 mukul975/Anthropic-Cybersecurity-Skills (+766 stars)</title><link>https://github.com/mukul975/Anthropic-Cybersecurity-Skills</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;basecamp/omarchy&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Beautiful, Modern &amp; Opinionated Linux&lt;/p&gt;
-&lt;p&gt;⭐ 26,456 | +356 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;mukul975/Anthropic-Cybersecurity-Skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0&lt;/p&gt;
+&lt;p&gt;⭐ 29,875 | +766 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/basecamp/omarchy#2026-08-19</guid><pubDate>Wed, 19 Aug 2026 02:11:07 +0000</pubDate></item><item><title>#8 NawfalMotii79/PLFM_RADAR (+192 stars)</title><link>https://github.com/NawfalMotii79/PLFM_RADAR</link><description>
+</description><guid isPermaLink="false">https://github.com/mukul975/Anthropic-Cybersecurity-Skills#2026-08-20</guid><pubDate>Thu, 20 Aug 2026 02:09:51 +0000</pubDate></item><item><title>#4 mattpocock/skills (+1,894 stars)</title><link>https://github.com/mattpocock/skills</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;NawfalMotii79/PLFM_RADAR&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Open-source, low-cost 10.5 GHz PLFM phased array RADAR system&lt;/p&gt;
-&lt;p&gt;⭐ 24,336 | +192 today | 🔧 PLSQL&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;mattpocock/skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Skills for Real Engineers. Straight from my .agents directory.&lt;/p&gt;
+&lt;p&gt;⭐ 223,913 | +1,894 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/NawfalMotii79/PLFM_RADAR#2026-08-19</guid><pubDate>Wed, 19 Aug 2026 02:11:07 +0000</pubDate></item><item><title>#9 jundot/omlx (+370 stars)</title><link>https://github.com/jundot/omlx</link><description>
+</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-08-20</guid><pubDate>Thu, 20 Aug 2026 02:09:51 +0000</pubDate></item><item><title>#5 obra/superpowers (+557 stars)</title><link>https://github.com/obra/superpowers</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
+&lt;p&gt;⭐ 274,317 | +557 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-08-20</guid><pubDate>Thu, 20 Aug 2026 02:09:51 +0000</pubDate></item><item><title>#6 jundot/omlx (+472 stars)</title><link>https://github.com/jundot/omlx</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;jundot/omlx&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar&lt;/p&gt;
-&lt;p&gt;⭐ 19,434 | +370 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 19,855 | +472 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/jundot/omlx#2026-08-19</guid><pubDate>Wed, 19 Aug 2026 02:11:07 +0000</pubDate></item><item><title>#10 genlayerlabs/genlayer-project-boilerplate (+535 stars)</title><link>https://github.com/genlayerlabs/genlayer-project-boilerplate</link><description>
+</description><guid isPermaLink="false">https://github.com/jundot/omlx#2026-08-20</guid><pubDate>Thu, 20 Aug 2026 02:09:51 +0000</pubDate></item><item><title>#7 santifer/career-ops (+198 stars)</title><link>https://github.com/santifer/career-ops</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;santifer/career-ops&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)&lt;/p&gt;
+&lt;p&gt;⭐ 65,835 | +198 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/santifer/career-ops#2026-08-20</guid><pubDate>Thu, 20 Aug 2026 02:09:51 +0000</pubDate></item><item><title>#8 immich-app/immich (+128 stars)</title><link>https://github.com/immich-app/immich</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;immich-app/immich&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;High performance self-hosted photo and video management solution.&lt;/p&gt;
+&lt;p&gt;⭐ 111,897 | +128 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/immich-app/immich#2026-08-20</guid><pubDate>Thu, 20 Aug 2026 02:09:51 +0000</pubDate></item><item><title>#9 genlayerlabs/genlayer-project-boilerplate (+430 stars)</title><link>https://github.com/genlayerlabs/genlayer-project-boilerplate</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;genlayerlabs/genlayer-project-boilerplate&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;⭐ 15,976 | +535 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 16,227 | +430 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/genlayerlabs/genlayer-project-boilerplate#2026-08-19</guid><pubDate>Wed, 19 Aug 2026 02:11:07 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/genlayerlabs/genlayer-project-boilerplate#2026-08-20</guid><pubDate>Thu, 20 Aug 2026 02:09:51 +0000</pubDate></item><item><title>#10 chaitanyagiri/munder-difflin (+795 stars)</title><link>https://github.com/chaitanyagiri/munder-difflin</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;chaitanyagiri/munder-difflin&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;local multi-agent harness&lt;/p&gt;
+&lt;p&gt;⭐ 2,724 | +795 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/chaitanyagiri/munder-difflin#2026-08-20</guid><pubDate>Thu, 20 Aug 2026 02:09:51 +0000</pubDate></item></channel></rss>
