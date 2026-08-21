@@ -1,0 +1,143 @@
+{
+  "date": "2026-08-21",
+  "updated_at": "2026-08-21 02:16:36",
+  "count": 17,
+  "rankings": [
+    {
+      "name": "mattpocock/skills",
+      "rank": 1,
+      "stars": "226,707",
+      "stars_today": "2,192",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory."
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 2,
+      "stars": "274,986",
+      "stars_today": "727",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "santifer/career-ops",
+      "rank": 3,
+      "stars": "66,748",
+      "stars_today": "816",
+      "language": "JavaScript",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)"
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "rank": 4,
+      "stars": "113,035",
+      "stars_today": "2,761",
+      "language": "Python",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow."
+    },
+    {
+      "name": "volcengine/OpenViking",
+      "rank": 5,
+      "stars": "31,063",
+      "stars_today": "950",
+      "language": "Python",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills."
+    },
+    {
+      "name": "modular/modular",
+      "rank": 6,
+      "stars": "28,002",
+      "stars_today": "268",
+      "language": "Mojo",
+      "description": "The Modular Platform (includes MAX & Mojo)"
+    },
+    {
+      "name": "AprilNEA/OpenLogi",
+      "rank": 7,
+      "stars": "11,956",
+      "stars_today": "1,545",
+      "language": "Rust",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry."
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "rank": 8,
+      "stars": "99,674",
+      "stars_today": "258",
+      "language": "Go",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman"
+    },
+    {
+      "name": "makeplane/plane",
+      "rank": 9,
+      "stars": "56,533",
+      "stars_today": "98",
+      "language": "TypeScript",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage."
+    },
+    {
+      "name": "RyanCodrai/turbovec",
+      "rank": 10,
+      "stars": "15,968",
+      "stars_today": "230",
+      "language": "Rust",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings"
+    },
+    {
+      "name": "cursor/plugins",
+      "rank": 11,
+      "stars": "4,106",
+      "stars_today": "449",
+      "language": "TypeScript",
+      "description": "Cursor plugin specification and official plugins"
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "rank": 12,
+      "stars": "3,651",
+      "stars_today": "332",
+      "language": "Rust",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
+    },
+    {
+      "name": "chaitanyagiri/munder-difflin",
+      "rank": 13,
+      "stars": "3,142",
+      "stars_today": "507",
+      "language": "TypeScript",
+      "description": "local multi-agent harness"
+    },
+    {
+      "name": "PostHog/posthog",
+      "rank": 14,
+      "stars": "38,021",
+      "stars_today": "60",
+      "language": "Python",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP."
+    },
+    {
+      "name": "mahlernim/google-timeline-visualizer",
+      "rank": 15,
+      "stars": "1,634",
+      "stars_today": "657",
+      "language": "Kotlin",
+      "description": "Visualize your year in travel using your Google Location History (Timeline) data"
+    },
+    {
+      "name": "Tencent/AI-Infra-Guard",
+      "rank": 16,
+      "stars": "5,006",
+      "stars_today": "50",
+      "language": "Python",
+      "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation."
+    },
+    {
+      "name": "agent-substrate/substrate",
+      "rank": 17,
+      "stars": "1,414",
+      "stars_today": "22",
+      "language": "Go",
+      "description": "Agent Substrate: the core system"
+    }
+  ]
+}
