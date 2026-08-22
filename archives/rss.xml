@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 21 Aug 2026 02:16:36 +0000</pubDate><lastBuildDate>Fri, 21 Aug 2026 02:16:36 +0000</lastBuildDate><item><title>#1 mattpocock/skills (+2,192 stars)</title><link>https://github.com/mattpocock/skills</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sat, 22 Aug 2026 02:08:07 +0000</pubDate><lastBuildDate>Sat, 22 Aug 2026 02:08:07 +0000</lastBuildDate><item><title>#1 mattpocock/skills (+3,362 stars)</title><link>https://github.com/mattpocock/skills</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;mattpocock/skills&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Skills for Real Engineers. Straight from my .agents directory.&lt;/p&gt;
-&lt;p&gt;⭐ 226,707 | +2,192 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 229,611 | +3,362 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-08-21</guid><pubDate>Fri, 21 Aug 2026 02:16:36 +0000</pubDate></item><item><title>#2 obra/superpowers (+727 stars)</title><link>https://github.com/obra/superpowers</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 274,986 | +727 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-08-21</guid><pubDate>Fri, 21 Aug 2026 02:16:36 +0000</pubDate></item><item><title>#3 santifer/career-ops (+816 stars)</title><link>https://github.com/santifer/career-ops</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;santifer/career-ops&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)&lt;/p&gt;
-&lt;p&gt;⭐ 66,748 | +816 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/santifer/career-ops#2026-08-21</guid><pubDate>Fri, 21 Aug 2026 02:16:36 +0000</pubDate></item><item><title>#4 harry0703/MoneyPrinterTurbo (+2,761 stars)</title><link>https://github.com/harry0703/MoneyPrinterTurbo</link><description>
+</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-08-22</guid><pubDate>Sat, 22 Aug 2026 02:08:07 +0000</pubDate></item><item><title>#2 harry0703/MoneyPrinterTurbo (+1,201 stars)</title><link>https://github.com/harry0703/MoneyPrinterTurbo</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;harry0703/MoneyPrinterTurbo&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.&lt;/p&gt;
-&lt;p&gt;⭐ 113,035 | +2,761 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 113,966 | +1,201 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/harry0703/MoneyPrinterTurbo#2026-08-21</guid><pubDate>Fri, 21 Aug 2026 02:16:36 +0000</pubDate></item><item><title>#5 volcengine/OpenViking (+950 stars)</title><link>https://github.com/volcengine/OpenViking</link><description>
+</description><guid isPermaLink="false">https://github.com/harry0703/MoneyPrinterTurbo#2026-08-22</guid><pubDate>Sat, 22 Aug 2026 02:08:07 +0000</pubDate></item><item><title>#3 obra/superpowers (+790 stars)</title><link>https://github.com/obra/superpowers</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;volcengine/OpenViking&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.&lt;/p&gt;
-&lt;p&gt;⭐ 31,063 | +950 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
+&lt;p&gt;⭐ 275,673 | +790 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/volcengine/OpenViking#2026-08-21</guid><pubDate>Fri, 21 Aug 2026 02:16:36 +0000</pubDate></item><item><title>#6 modular/modular (+268 stars)</title><link>https://github.com/modular/modular</link><description>
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-08-22</guid><pubDate>Sat, 22 Aug 2026 02:08:07 +0000</pubDate></item><item><title>#4 santifer/career-ops (+921 stars)</title><link>https://github.com/santifer/career-ops</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;santifer/career-ops&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)&lt;/p&gt;
+&lt;p&gt;⭐ 67,475 | +921 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/santifer/career-ops#2026-08-22</guid><pubDate>Sat, 22 Aug 2026 02:08:07 +0000</pubDate></item><item><title>#5 modular/modular (+913 stars)</title><link>https://github.com/modular/modular</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;modular/modular&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The Modular Platform (includes MAX &amp; Mojo)&lt;/p&gt;
-&lt;p&gt;⭐ 28,002 | +268 today | 🔧 Mojo&lt;/p&gt;
+&lt;p&gt;⭐ 28,697 | +913 today | 🔧 Mojo&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/modular/modular#2026-08-22</guid><pubDate>Sat, 22 Aug 2026 02:08:07 +0000</pubDate></item><item><title>#6 mahlernim/google-timeline-visualizer (+1,053 stars)</title><link>https://github.com/mahlernim/google-timeline-visualizer</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;mahlernim/google-timeline-visualizer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Visualize your year in travel using your Google Location History (Timeline) data&lt;/p&gt;
+&lt;p&gt;⭐ 2,245 | +1,053 today | 🔧 Kotlin&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/modular/modular#2026-08-21</guid><pubDate>Fri, 21 Aug 2026 02:16:36 +0000</pubDate></item><item><title>#7 AprilNEA/OpenLogi (+1,545 stars)</title><link>https://github.com/AprilNEA/OpenLogi</link><description>
+</description><guid isPermaLink="false">https://github.com/mahlernim/google-timeline-visualizer#2026-08-22</guid><pubDate>Sat, 22 Aug 2026 02:08:07 +0000</pubDate></item><item><title>#7 AprilNEA/OpenLogi (+1,380 stars)</title><link>https://github.com/AprilNEA/OpenLogi</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;AprilNEA/OpenLogi&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.&lt;/p&gt;
-&lt;p&gt;⭐ 11,956 | +1,545 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;⭐ 12,988 | +1,380 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/AprilNEA/OpenLogi#2026-08-21</guid><pubDate>Fri, 21 Aug 2026 02:16:36 +0000</pubDate></item><item><title>#8 JuliusBrussee/caveman (+258 stars)</title><link>https://github.com/JuliusBrussee/caveman</link><description>
+</description><guid isPermaLink="false">https://github.com/AprilNEA/OpenLogi#2026-08-22</guid><pubDate>Sat, 22 Aug 2026 02:08:07 +0000</pubDate></item><item><title>#8 PostHog/posthog (+335 stars)</title><link>https://github.com/PostHog/posthog</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;JuliusBrussee/caveman&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman&lt;/p&gt;
-&lt;p&gt;⭐ 99,674 | +258 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PostHog/posthog&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.&lt;/p&gt;
+&lt;p&gt;⭐ 38,302 | +335 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/JuliusBrussee/caveman#2026-08-21</guid><pubDate>Fri, 21 Aug 2026 02:16:36 +0000</pubDate></item><item><title>#9 makeplane/plane (+98 stars)</title><link>https://github.com/makeplane/plane</link><description>
+</description><guid isPermaLink="false">https://github.com/PostHog/posthog#2026-08-22</guid><pubDate>Sat, 22 Aug 2026 02:08:07 +0000</pubDate></item><item><title>#9 microsoft/TypeScript (+65 stars)</title><link>https://github.com/microsoft/TypeScript</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;makeplane/plane&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.&lt;/p&gt;
-&lt;p&gt;⭐ 56,533 | +98 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;microsoft/TypeScript&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;TypeScript is a superset of JavaScript that compiles to clean JavaScript output.&lt;/p&gt;
+&lt;p&gt;⭐ 110,386 | +65 today | 🔧 Go&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/makeplane/plane#2026-08-21</guid><pubDate>Fri, 21 Aug 2026 02:16:36 +0000</pubDate></item><item><title>#10 RyanCodrai/turbovec (+230 stars)</title><link>https://github.com/RyanCodrai/turbovec</link><description>
+</description><guid isPermaLink="false">https://github.com/microsoft/TypeScript#2026-08-22</guid><pubDate>Sat, 22 Aug 2026 02:08:07 +0000</pubDate></item><item><title>#10 affaan-m/ECC (+357 stars)</title><link>https://github.com/affaan-m/ECC</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;RyanCodrai/turbovec&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A vector index built on TurboQuant, written in Rust with Python bindings&lt;/p&gt;
-&lt;p&gt;⭐ 15,968 | +230 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;affaan-m/ECC&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.&lt;/p&gt;
+&lt;p&gt;⭐ 241,809 | +357 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/RyanCodrai/turbovec#2026-08-21</guid><pubDate>Fri, 21 Aug 2026 02:16:36 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/affaan-m/ECC#2026-08-22</guid><pubDate>Sat, 22 Aug 2026 02:08:07 +0000</pubDate></item></channel></rss>

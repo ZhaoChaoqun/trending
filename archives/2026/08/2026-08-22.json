@@ -1,0 +1,143 @@
+{
+  "date": "2026-08-22",
+  "updated_at": "2026-08-22 02:08:07",
+  "count": 17,
+  "rankings": [
+    {
+      "name": "mattpocock/skills",
+      "rank": 1,
+      "stars": "229,611",
+      "stars_today": "3,362",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory."
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "rank": 2,
+      "stars": "113,966",
+      "stars_today": "1,201",
+      "language": "Python",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow."
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 3,
+      "stars": "275,673",
+      "stars_today": "790",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "santifer/career-ops",
+      "rank": 4,
+      "stars": "67,475",
+      "stars_today": "921",
+      "language": "JavaScript",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)"
+    },
+    {
+      "name": "modular/modular",
+      "rank": 5,
+      "stars": "28,697",
+      "stars_today": "913",
+      "language": "Mojo",
+      "description": "The Modular Platform (includes MAX & Mojo)"
+    },
+    {
+      "name": "mahlernim/google-timeline-visualizer",
+      "rank": 6,
+      "stars": "2,245",
+      "stars_today": "1,053",
+      "language": "Kotlin",
+      "description": "Visualize your year in travel using your Google Location History (Timeline) data"
+    },
+    {
+      "name": "AprilNEA/OpenLogi",
+      "rank": 7,
+      "stars": "12,988",
+      "stars_today": "1,380",
+      "language": "Rust",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry."
+    },
+    {
+      "name": "PostHog/posthog",
+      "rank": 8,
+      "stars": "38,302",
+      "stars_today": "335",
+      "language": "Python",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP."
+    },
+    {
+      "name": "microsoft/TypeScript",
+      "rank": 9,
+      "stars": "110,386",
+      "stars_today": "65",
+      "language": "Go",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output."
+    },
+    {
+      "name": "affaan-m/ECC",
+      "rank": 10,
+      "stars": "241,809",
+      "stars_today": "357",
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "rank": 11,
+      "stars": "68,661",
+      "stars_today": "140",
+      "language": "TypeScript",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
+    },
+    {
+      "name": "cursor/plugins",
+      "rank": 12,
+      "stars": "4,418",
+      "stars_today": "388",
+      "language": "TypeScript",
+      "description": "Cursor plugin specification and official plugins"
+    },
+    {
+      "name": "TryGhost/Ghost",
+      "rank": 13,
+      "stars": "54,900",
+      "stars_today": "32",
+      "language": "JavaScript",
+      "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters."
+    },
+    {
+      "name": "apache/maka",
+      "rank": 14,
+      "stars": "2,034",
+      "stars_today": "148",
+      "language": "TypeScript",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log."
+    },
+    {
+      "name": "elder-plinius/OBLITERATUS",
+      "rank": 15,
+      "stars": "7,804",
+      "stars_today": "63",
+      "language": "Python",
+      "description": "OBLITERATE THE CHAINS THAT BIND YOU"
+    },
+    {
+      "name": "protocolbuffers/protobuf",
+      "rank": 16,
+      "stars": "71,773",
+      "stars_today": "4",
+      "language": "C++",
+      "description": "Protocol Buffers - Google's data interchange format"
+    },
+    {
+      "name": "microsoft/onnxruntime",
+      "rank": 17,
+      "stars": "21,466",
+      "stars_today": "5",
+      "language": "C++",
+      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator"
+    }
+  ]
+}
