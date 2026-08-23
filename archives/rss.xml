@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sat, 22 Aug 2026 02:08:07 +0000</pubDate><lastBuildDate>Sat, 22 Aug 2026 02:08:07 +0000</lastBuildDate><item><title>#1 mattpocock/skills (+3,362 stars)</title><link>https://github.com/mattpocock/skills</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sun, 23 Aug 2026 02:17:35 +0000</pubDate><lastBuildDate>Sun, 23 Aug 2026 02:17:35 +0000</lastBuildDate><item><title>#1 openai/codex (+1,544 stars)</title><link>https://github.com/openai/codex</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;openai/codex&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Lightweight coding agent that runs in your terminal&lt;/p&gt;
+&lt;p&gt;⭐ 113,533 | +1,544 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/openai/codex#2026-08-23</guid><pubDate>Sun, 23 Aug 2026 02:17:35 +0000</pubDate></item><item><title>#2 mattpocock/skills (+2,683 stars)</title><link>https://github.com/mattpocock/skills</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;mattpocock/skills&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Skills for Real Engineers. Straight from my .agents directory.&lt;/p&gt;
-&lt;p&gt;⭐ 229,611 | +3,362 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 232,173 | +2,683 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-08-22</guid><pubDate>Sat, 22 Aug 2026 02:08:07 +0000</pubDate></item><item><title>#2 harry0703/MoneyPrinterTurbo (+1,201 stars)</title><link>https://github.com/harry0703/MoneyPrinterTurbo</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;harry0703/MoneyPrinterTurbo&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.&lt;/p&gt;
-&lt;p&gt;⭐ 113,966 | +1,201 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/harry0703/MoneyPrinterTurbo#2026-08-22</guid><pubDate>Sat, 22 Aug 2026 02:08:07 +0000</pubDate></item><item><title>#3 obra/superpowers (+790 stars)</title><link>https://github.com/obra/superpowers</link><description>
+</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-08-23</guid><pubDate>Sun, 23 Aug 2026 02:17:35 +0000</pubDate></item><item><title>#3 obra/superpowers (+592 stars)</title><link>https://github.com/obra/superpowers</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 275,673 | +790 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 276,212 | +592 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-08-22</guid><pubDate>Sat, 22 Aug 2026 02:08:07 +0000</pubDate></item><item><title>#4 santifer/career-ops (+921 stars)</title><link>https://github.com/santifer/career-ops</link><description>
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-08-23</guid><pubDate>Sun, 23 Aug 2026 02:17:35 +0000</pubDate></item><item><title>#4 multica-ai/andrej-karpathy-skills (+315 stars)</title><link>https://github.com/multica-ai/andrej-karpathy-skills</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;santifer/career-ops&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)&lt;/p&gt;
-&lt;p&gt;⭐ 67,475 | +921 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;multica-ai/andrej-karpathy-skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.&lt;/p&gt;
+&lt;p&gt;⭐ 205,335 | +315 today | 🔧 Unknown&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/santifer/career-ops#2026-08-22</guid><pubDate>Sat, 22 Aug 2026 02:08:07 +0000</pubDate></item><item><title>#5 modular/modular (+913 stars)</title><link>https://github.com/modular/modular</link><description>
+</description><guid isPermaLink="false">https://github.com/multica-ai/andrej-karpathy-skills#2026-08-23</guid><pubDate>Sun, 23 Aug 2026 02:17:35 +0000</pubDate></item><item><title>#5 ripienaar/free-for-dev (+829 stars)</title><link>https://github.com/ripienaar/free-for-dev</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;modular/modular&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The Modular Platform (includes MAX &amp; Mojo)&lt;/p&gt;
-&lt;p&gt;⭐ 28,697 | +913 today | 🔧 Mojo&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ripienaar/free-for-dev&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev&lt;/p&gt;
+&lt;p&gt;⭐ 133,938 | +829 today | 🔧 HTML&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/modular/modular#2026-08-22</guid><pubDate>Sat, 22 Aug 2026 02:08:07 +0000</pubDate></item><item><title>#6 mahlernim/google-timeline-visualizer (+1,053 stars)</title><link>https://github.com/mahlernim/google-timeline-visualizer</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;mahlernim/google-timeline-visualizer&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Visualize your year in travel using your Google Location History (Timeline) data&lt;/p&gt;
-&lt;p&gt;⭐ 2,245 | +1,053 today | 🔧 Kotlin&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/mahlernim/google-timeline-visualizer#2026-08-22</guid><pubDate>Sat, 22 Aug 2026 02:08:07 +0000</pubDate></item><item><title>#7 AprilNEA/OpenLogi (+1,380 stars)</title><link>https://github.com/AprilNEA/OpenLogi</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;AprilNEA/OpenLogi&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.&lt;/p&gt;
-&lt;p&gt;⭐ 12,988 | +1,380 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/AprilNEA/OpenLogi#2026-08-22</guid><pubDate>Sat, 22 Aug 2026 02:08:07 +0000</pubDate></item><item><title>#8 PostHog/posthog (+335 stars)</title><link>https://github.com/PostHog/posthog</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;PostHog/posthog&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.&lt;/p&gt;
-&lt;p&gt;⭐ 38,302 | +335 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/PostHog/posthog#2026-08-22</guid><pubDate>Sat, 22 Aug 2026 02:08:07 +0000</pubDate></item><item><title>#9 microsoft/TypeScript (+65 stars)</title><link>https://github.com/microsoft/TypeScript</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;microsoft/TypeScript&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;TypeScript is a superset of JavaScript that compiles to clean JavaScript output.&lt;/p&gt;
-&lt;p&gt;⭐ 110,386 | +65 today | 🔧 Go&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/microsoft/TypeScript#2026-08-22</guid><pubDate>Sat, 22 Aug 2026 02:08:07 +0000</pubDate></item><item><title>#10 affaan-m/ECC (+357 stars)</title><link>https://github.com/affaan-m/ECC</link><description>
+</description><guid isPermaLink="false">https://github.com/ripienaar/free-for-dev#2026-08-23</guid><pubDate>Sun, 23 Aug 2026 02:17:35 +0000</pubDate></item><item><title>#6 affaan-m/ECC (+411 stars)</title><link>https://github.com/affaan-m/ECC</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;affaan-m/ECC&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.&lt;/p&gt;
-&lt;p&gt;⭐ 241,809 | +357 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 242,192 | +411 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/affaan-m/ECC#2026-08-22</guid><pubDate>Sat, 22 Aug 2026 02:08:07 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/affaan-m/ECC#2026-08-23</guid><pubDate>Sun, 23 Aug 2026 02:17:35 +0000</pubDate></item><item><title>#7 Wei-Shaw/sub2api (+278 stars)</title><link>https://github.com/Wei-Shaw/sub2api</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Wei-Shaw/sub2api&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。&lt;/p&gt;
+&lt;p&gt;⭐ 38,803 | +278 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Wei-Shaw/sub2api#2026-08-23</guid><pubDate>Sun, 23 Aug 2026 02:17:35 +0000</pubDate></item><item><title>#8 makeplane/plane (+263 stars)</title><link>https://github.com/makeplane/plane</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;makeplane/plane&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.&lt;/p&gt;
+&lt;p&gt;⭐ 57,242 | +263 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/makeplane/plane#2026-08-23</guid><pubDate>Sun, 23 Aug 2026 02:17:35 +0000</pubDate></item><item><title>#9 n8n-io/n8n (+149 stars)</title><link>https://github.com/n8n-io/n8n</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;n8n-io/n8n&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.&lt;/p&gt;
+&lt;p&gt;⭐ 201,841 | +149 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/n8n-io/n8n#2026-08-23</guid><pubDate>Sun, 23 Aug 2026 02:17:35 +0000</pubDate></item><item><title>#10 anthropics/claude-code (+127 stars)</title><link>https://github.com/anthropics/claude-code</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;anthropics/claude-code&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.&lt;/p&gt;
+&lt;p&gt;⭐ 142,558 | +127 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/anthropics/claude-code#2026-08-23</guid><pubDate>Sun, 23 Aug 2026 02:17:35 +0000</pubDate></item></channel></rss>
