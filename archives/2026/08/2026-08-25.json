@@ -1,0 +1,159 @@
+{
+  "date": "2026-08-25",
+  "updated_at": "2026-08-25 02:11:31",
+  "count": 19,
+  "rankings": [
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "rank": 1,
+      "stars": "49,055",
+      "stars_today": "891",
+      "language": "Python",
+      "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)"
+    },
+    {
+      "name": "openai/codex",
+      "rank": 2,
+      "stars": "117,157",
+      "stars_today": "1,994",
+      "language": "Rust",
+      "description": "Lightweight coding agent that runs in your terminal"
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "rank": 3,
+      "stars": "206,572",
+      "stars_today": "588",
+      "language": null,
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "rank": 4,
+      "stars": "235,850",
+      "stars_today": "896",
+      "language": "Python",
+      "description": "The agent that grows with you"
+    },
+    {
+      "name": "basecamp/omarchy",
+      "rank": 5,
+      "stars": "30,215",
+      "stars_today": "1,056",
+      "language": "Shell",
+      "description": "Beautiful, Modern & Opinionated Linux"
+    },
+    {
+      "name": "VoltAgent/awesome-agent-skills",
+      "rank": 6,
+      "stars": "31,919",
+      "stars_today": "602",
+      "language": null,
+      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more."
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "rank": 7,
+      "stars": "37,295",
+      "stars_today": "515",
+      "language": "Rust",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher."
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "rank": 8,
+      "stars": "34,130",
+      "stars_today": "434",
+      "language": "Python",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it."
+    },
+    {
+      "name": "makeplane/plane",
+      "rank": 9,
+      "stars": "57,967",
+      "stars_today": "243",
+      "language": "TypeScript",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage."
+    },
+    {
+      "name": "AprilNEA/OpenLogi",
+      "rank": 10,
+      "stars": "15,915",
+      "stars_today": "1,097",
+      "language": "Rust",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry."
+    },
+    {
+      "name": "openclaw/openclaw",
+      "rank": 11,
+      "stars": "387,438",
+      "stars_today": "173",
+      "language": "TypeScript",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞"
+    },
+    {
+      "name": "AgriciDaniel/claude-obsidian",
+      "rank": 12,
+      "stars": "11,950",
+      "stars_today": "310",
+      "language": "Python",
+      "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern."
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "rank": 13,
+      "stars": "48,325",
+      "stars_today": "349",
+      "language": "Python",
+      "description": "Learn it. Build it. Ship it for others."
+    },
+    {
+      "name": "dani-garcia/vaultwarden",
+      "rank": 14,
+      "stars": "66,132",
+      "stars_today": "175",
+      "language": "Rust",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs"
+    },
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "rank": 15,
+      "stars": "15,654",
+      "stars_today": "2,449",
+      "language": "JavaScript",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中"
+    },
+    {
+      "name": "anthropics/claude-plugins-community",
+      "rank": 16,
+      "stars": "1,377",
+      "stars_today": "489",
+      "language": "Python",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission."
+    },
+    {
+      "name": "apache/maka",
+      "rank": 17,
+      "stars": "2,941",
+      "stars_today": "411",
+      "language": "TypeScript",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log."
+    },
+    {
+      "name": "PostHog/posthog",
+      "rank": 18,
+      "stars": "39,012",
+      "stars_today": "83",
+      "language": "Python",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP."
+    },
+    {
+      "name": "tashfeenahmed/freellmapi",
+      "rank": 19,
+      "stars": "19,813",
+      "stars_today": "174",
+      "language": "TypeScript",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
+    }
+  ]
+}
