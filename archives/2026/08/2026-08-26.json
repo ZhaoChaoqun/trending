@@ -1,0 +1,135 @@
+{
+  "date": "2026-08-26",
+  "updated_at": "2026-08-26 02:18:06",
+  "count": 16,
+  "rankings": [
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "rank": 1,
+      "stars": "35,376",
+      "stars_today": "1,265",
+      "language": "Python",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it."
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "rank": 2,
+      "stars": "37,803",
+      "stars_today": "542",
+      "language": "Rust",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher."
+    },
+    {
+      "name": "basecamp/omarchy",
+      "rank": 3,
+      "stars": "31,333",
+      "stars_today": "1,083",
+      "language": "Shell",
+      "description": "Beautiful, Modern & Opinionated Linux"
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "rank": 4,
+      "stars": "207,251",
+      "stars_today": "830",
+      "language": null,
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+    },
+    {
+      "name": "openai/codex",
+      "rank": 5,
+      "stars": "118,175",
+      "stars_today": "1,181",
+      "language": "Rust",
+      "description": "Lightweight coding agent that runs in your terminal"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "rank": 6,
+      "stars": "111,137",
+      "stars_today": "982",
+      "language": "JavaScript",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+    },
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "rank": 7,
+      "stars": "18,230",
+      "stars_today": "1,698",
+      "language": "JavaScript",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中"
+    },
+    {
+      "name": "apache/maka",
+      "rank": 8,
+      "stars": "3,373",
+      "stars_today": "543",
+      "language": "TypeScript",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log."
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "rank": 9,
+      "stars": "100,301",
+      "stars_today": "218",
+      "language": "Python",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+    },
+    {
+      "name": "AgriciDaniel/claude-obsidian",
+      "rank": 10,
+      "stars": "12,776",
+      "stars_today": "813",
+      "language": "Python",
+      "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern."
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "rank": 11,
+      "stars": "49,051",
+      "stars_today": "569",
+      "language": "Python",
+      "description": "Learn it. Build it. Ship it for others."
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "rank": 12,
+      "stars": "134,266",
+      "stars_today": "161",
+      "language": "Python",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source."
+    },
+    {
+      "name": "anthropics/claude-plugins-community",
+      "rank": 13,
+      "stars": "1,793",
+      "stars_today": "351",
+      "language": "Python",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission."
+    },
+    {
+      "name": "marin-community/marin",
+      "rank": 14,
+      "stars": "2,140",
+      "stars_today": "231",
+      "language": "Python",
+      "description": "Open-source framework for the research and development of foundation models."
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "rank": 15,
+      "stars": "34,110",
+      "stars_today": "55",
+      "language": "Python",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
+    },
+    {
+      "name": "asciimoo/hister",
+      "rank": 16,
+      "stars": "2,815",
+      "stars_today": "98",
+      "language": "Go",
+      "description": "Your own search engine"
+    }
+  ]
+}
