@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Wed, 26 Aug 2026 02:18:06 +0000</pubDate><lastBuildDate>Wed, 26 Aug 2026 02:18:06 +0000</lastBuildDate><item><title>#1 MadsLorentzen/ai-job-search (+1,265 stars)</title><link>https://github.com/MadsLorentzen/ai-job-search</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Thu, 27 Aug 2026 10:44:20 +0000</pubDate><lastBuildDate>Thu, 27 Aug 2026 10:44:20 +0000</lastBuildDate><item><title>#1 tt-a1i/archify (+1,035 stars)</title><link>https://github.com/tt-a1i/archify</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;MadsLorentzen/ai-job-search&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.&lt;/p&gt;
-&lt;p&gt;⭐ 35,376 | +1,265 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;tt-a1i/archify&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.&lt;/p&gt;
+&lt;p&gt;⭐ 20,632 | +1,035 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/MadsLorentzen/ai-job-search#2026-08-26</guid><pubDate>Wed, 26 Aug 2026 02:18:06 +0000</pubDate></item><item><title>#2 tinyhumansai/openhuman (+542 stars)</title><link>https://github.com/tinyhumansai/openhuman</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;tinyhumansai/openhuman&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.&lt;/p&gt;
-&lt;p&gt;⭐ 37,803 | +542 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/tinyhumansai/openhuman#2026-08-26</guid><pubDate>Wed, 26 Aug 2026 02:18:06 +0000</pubDate></item><item><title>#3 basecamp/omarchy (+1,083 stars)</title><link>https://github.com/basecamp/omarchy</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;basecamp/omarchy&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Beautiful, Modern &amp; Opinionated Linux&lt;/p&gt;
-&lt;p&gt;⭐ 31,333 | +1,083 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/basecamp/omarchy#2026-08-26</guid><pubDate>Wed, 26 Aug 2026 02:18:06 +0000</pubDate></item><item><title>#4 multica-ai/andrej-karpathy-skills (+830 stars)</title><link>https://github.com/multica-ai/andrej-karpathy-skills</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;multica-ai/andrej-karpathy-skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.&lt;/p&gt;
-&lt;p&gt;⭐ 207,251 | +830 today | 🔧 Unknown&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/multica-ai/andrej-karpathy-skills#2026-08-26</guid><pubDate>Wed, 26 Aug 2026 02:18:06 +0000</pubDate></item><item><title>#5 openai/codex (+1,181 stars)</title><link>https://github.com/openai/codex</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;openai/codex&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Lightweight coding agent that runs in your terminal&lt;/p&gt;
-&lt;p&gt;⭐ 118,175 | +1,181 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/openai/codex#2026-08-26</guid><pubDate>Wed, 26 Aug 2026 02:18:06 +0000</pubDate></item><item><title>#6 DietrichGebert/ponytail (+982 stars)</title><link>https://github.com/DietrichGebert/ponytail</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;DietrichGebert/ponytail&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.&lt;/p&gt;
-&lt;p&gt;⭐ 111,137 | +982 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/DietrichGebert/ponytail#2026-08-26</guid><pubDate>Wed, 26 Aug 2026 02:18:06 +0000</pubDate></item><item><title>#7 freestylefly/awesome-gpt-image-2 (+1,698 stars)</title><link>https://github.com/freestylefly/awesome-gpt-image-2</link><description>
+</description><guid isPermaLink="false">https://github.com/tt-a1i/archify#2026-08-27</guid><pubDate>Thu, 27 Aug 2026 10:44:20 +0000</pubDate></item><item><title>#2 freestylefly/awesome-gpt-image-2 (+4,050 stars)</title><link>https://github.com/freestylefly/awesome-gpt-image-2</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;freestylefly/awesome-gpt-image-2&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中&lt;/p&gt;
-&lt;p&gt;⭐ 18,230 | +1,698 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 22,406 | +4,050 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/freestylefly/awesome-gpt-image-2#2026-08-26</guid><pubDate>Wed, 26 Aug 2026 02:18:06 +0000</pubDate></item><item><title>#8 apache/maka (+543 stars)</title><link>https://github.com/apache/maka</link><description>
+</description><guid isPermaLink="false">https://github.com/freestylefly/awesome-gpt-image-2#2026-08-27</guid><pubDate>Thu, 27 Aug 2026 10:44:20 +0000</pubDate></item><item><title>#3 Alishahryar1/free-claude-code (+536 stars)</title><link>https://github.com/Alishahryar1/free-claude-code</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;apache/maka&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.&lt;/p&gt;
-&lt;p&gt;⭐ 3,373 | +543 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alishahryar1/free-claude-code&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)&lt;/p&gt;
+&lt;p&gt;⭐ 50,696 | +536 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/apache/maka#2026-08-26</guid><pubDate>Wed, 26 Aug 2026 02:18:06 +0000</pubDate></item><item><title>#9 TauricResearch/TradingAgents (+218 stars)</title><link>https://github.com/TauricResearch/TradingAgents</link><description>
+</description><guid isPermaLink="false">https://github.com/Alishahryar1/free-claude-code#2026-08-27</guid><pubDate>Thu, 27 Aug 2026 10:44:20 +0000</pubDate></item><item><title>#4 MadsLorentzen/ai-job-search (+1,300 stars)</title><link>https://github.com/MadsLorentzen/ai-job-search</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;TauricResearch/TradingAgents&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;TradingAgents: Multi-Agents LLM Financial Trading Framework&lt;/p&gt;
-&lt;p&gt;⭐ 100,301 | +218 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MadsLorentzen/ai-job-search&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.&lt;/p&gt;
+&lt;p&gt;⭐ 36,979 | +1,300 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/MadsLorentzen/ai-job-search#2026-08-27</guid><pubDate>Thu, 27 Aug 2026 10:44:20 +0000</pubDate></item><item><title>#5 basecamp/omarchy (+1,024 stars)</title><link>https://github.com/basecamp/omarchy</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;basecamp/omarchy&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Beautiful, Modern &amp; Opinionated Linux&lt;/p&gt;
+&lt;p&gt;⭐ 32,332 | +1,024 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/basecamp/omarchy#2026-08-27</guid><pubDate>Thu, 27 Aug 2026 10:44:20 +0000</pubDate></item><item><title>#6 tinyhumansai/openhuman (+525 stars)</title><link>https://github.com/tinyhumansai/openhuman</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;tinyhumansai/openhuman&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.&lt;/p&gt;
+&lt;p&gt;⭐ 38,425 | +525 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/tinyhumansai/openhuman#2026-08-27</guid><pubDate>Thu, 27 Aug 2026 10:44:20 +0000</pubDate></item><item><title>#7 DietrichGebert/ponytail (+1,598 stars)</title><link>https://github.com/DietrichGebert/ponytail</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;DietrichGebert/ponytail&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.&lt;/p&gt;
+&lt;p&gt;⭐ 113,333 | +1,598 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/DietrichGebert/ponytail#2026-08-27</guid><pubDate>Thu, 27 Aug 2026 10:44:20 +0000</pubDate></item><item><title>#8 anthropics/claude-plugins-official (+308 stars)</title><link>https://github.com/anthropics/claude-plugins-official</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;anthropics/claude-plugins-official&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Official, Anthropic-managed directory of high quality Claude Code Plugins.&lt;/p&gt;
+&lt;p&gt;⭐ 34,489 | +308 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/TauricResearch/TradingAgents#2026-08-26</guid><pubDate>Wed, 26 Aug 2026 02:18:06 +0000</pubDate></item><item><title>#10 AgriciDaniel/claude-obsidian (+813 stars)</title><link>https://github.com/AgriciDaniel/claude-obsidian</link><description>
+</description><guid isPermaLink="false">https://github.com/anthropics/claude-plugins-official#2026-08-27</guid><pubDate>Thu, 27 Aug 2026 10:44:20 +0000</pubDate></item><item><title>#9 AgriciDaniel/claude-obsidian (+810 stars)</title><link>https://github.com/AgriciDaniel/claude-obsidian</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;AgriciDaniel/claude-obsidian&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.&lt;/p&gt;
-&lt;p&gt;⭐ 12,776 | +813 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 13,690 | +810 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/AgriciDaniel/claude-obsidian#2026-08-26</guid><pubDate>Wed, 26 Aug 2026 02:18:06 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/AgriciDaniel/claude-obsidian#2026-08-27</guid><pubDate>Thu, 27 Aug 2026 10:44:20 +0000</pubDate></item><item><title>#10 rohitg00/ai-engineering-from-scratch (+838 stars)</title><link>https://github.com/rohitg00/ai-engineering-from-scratch</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;rohitg00/ai-engineering-from-scratch&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Learn it. Build it. Ship it for others.&lt;/p&gt;
+&lt;p&gt;⭐ 49,865 | +838 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/rohitg00/ai-engineering-from-scratch#2026-08-27</guid><pubDate>Thu, 27 Aug 2026 10:44:20 +0000</pubDate></item></channel></rss>
