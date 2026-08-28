@@ -1,0 +1,159 @@
+{
+  "date": "2026-08-28",
+  "updated_at": "2026-08-28 12:22:02",
+  "count": 19,
+  "rankings": [
+    {
+      "name": "tt-a1i/archify",
+      "rank": 1,
+      "stars": "25,475",
+      "stars_today": "4,561",
+      "language": "JavaScript",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export."
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "rank": 2,
+      "stars": "35,741",
+      "stars_today": "720",
+      "language": "Python",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard."
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "rank": 3,
+      "stars": "52,904",
+      "stars_today": "1,144",
+      "language": "Python",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio."
+    },
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "rank": 4,
+      "stars": "23,963",
+      "stars_today": "1,687",
+      "language": "JavaScript",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "rank": 5,
+      "stars": "50,453",
+      "stars_today": "703",
+      "language": "Python",
+      "description": "Learn it. Build it. Ship it for others."
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "rank": 6,
+      "stars": "114,800",
+      "stars_today": "1,396",
+      "language": "JavaScript",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "rank": 7,
+      "stars": "34,850",
+      "stars_today": "457",
+      "language": "Python",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
+    },
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "rank": 8,
+      "stars": "9,998",
+      "stars_today": "1,984",
+      "language": "JavaScript",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
+    },
+    {
+      "name": "abhigyanpatwari/GitNexus",
+      "rank": 9,
+      "stars": "46,022",
+      "stars_today": "189",
+      "language": "TypeScript",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration"
+    },
+    {
+      "name": "abi/screenshot-to-code",
+      "rank": 10,
+      "stars": "75,264",
+      "stars_today": "309",
+      "language": "Python",
+      "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)"
+    },
+    {
+      "name": "NationalSecurityAgency/ghidra",
+      "rank": 11,
+      "stars": "73,118",
+      "stars_today": "117",
+      "language": "Java",
+      "description": "Ghidra is a software reverse engineering (SRE) framework"
+    },
+    {
+      "name": "tashfeenahmed/freellmapi",
+      "rank": 12,
+      "stars": "21,312",
+      "stars_today": "405",
+      "language": "TypeScript",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only."
+    },
+    {
+      "name": "JetBrains/go-modern-guidelines",
+      "rank": 13,
+      "stars": "2,429",
+      "stars_today": "574",
+      "language": "Go",
+      "description": "Help AI coding agents write modern Go"
+    },
+    {
+      "name": "cursor/plugins",
+      "rank": 14,
+      "stars": "5,826",
+      "stars_today": "257",
+      "language": "TypeScript",
+      "description": "Cursor plugin specification and official plugins"
+    },
+    {
+      "name": "tailscale/tailcat",
+      "rank": 15,
+      "stars": "2,287",
+      "stars_today": "986",
+      "language": "Go",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane"
+    },
+    {
+      "name": "marin-community/marin",
+      "rank": 16,
+      "stars": "2,798",
+      "stars_today": "236",
+      "language": "Python",
+      "description": "Open-source framework for the research and development of foundation models."
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "rank": 17,
+      "stars": "49,861",
+      "stars_today": "61",
+      "language": "TypeScript",
+      "description": "Chrome DevTools for coding agents"
+    },
+    {
+      "name": "google/googletest",
+      "rank": 18,
+      "stars": "39,110",
+      "stars_today": "156",
+      "language": "C++",
+      "description": "GoogleTest - Google Testing and Mocking Framework"
+    },
+    {
+      "name": "livekit/agents",
+      "rank": 19,
+      "stars": "13,211",
+      "stars_today": "14",
+      "language": "Python",
+      "description": "A framework for building realtime voice AI agents 🤖🎙️📹"
+    }
+  ]
+}
