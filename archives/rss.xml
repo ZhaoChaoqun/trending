@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 28 Aug 2026 12:22:02 +0000</pubDate><lastBuildDate>Fri, 28 Aug 2026 12:22:02 +0000</lastBuildDate><item><title>#1 tt-a1i/archify (+4,561 stars)</title><link>https://github.com/tt-a1i/archify</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sat, 29 Aug 2026 07:31:25 +0000</pubDate><lastBuildDate>Sat, 29 Aug 2026 07:31:25 +0000</lastBuildDate><item><title>#1 tt-a1i/archify (+4,562 stars)</title><link>https://github.com/tt-a1i/archify</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;tt-a1i/archify&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.&lt;/p&gt;
-&lt;p&gt;⭐ 25,475 | +4,561 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 28,534 | +4,562 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/tt-a1i/archify#2026-08-28</guid><pubDate>Fri, 28 Aug 2026 12:22:02 +0000</pubDate></item><item><title>#2 K-Dense-AI/scientific-agent-skills (+720 stars)</title><link>https://github.com/K-Dense-AI/scientific-agent-skills</link><description>
+</description><guid isPermaLink="false">https://github.com/tt-a1i/archify#2026-08-29</guid><pubDate>Sat, 29 Aug 2026 07:31:25 +0000</pubDate></item><item><title>#2 K-Dense-AI/scientific-agent-skills (+720 stars)</title><link>https://github.com/K-Dense-AI/scientific-agent-skills</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;K-Dense-AI/scientific-agent-skills&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.&lt;/p&gt;
-&lt;p&gt;⭐ 35,741 | +720 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 37,001 | +720 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/K-Dense-AI/scientific-agent-skills#2026-08-28</guid><pubDate>Fri, 28 Aug 2026 12:22:02 +0000</pubDate></item><item><title>#3 calesthio/OpenMontage (+1,144 stars)</title><link>https://github.com/calesthio/OpenMontage</link><description>
+</description><guid isPermaLink="false">https://github.com/K-Dense-AI/scientific-agent-skills#2026-08-29</guid><pubDate>Sat, 29 Aug 2026 07:31:25 +0000</pubDate></item><item><title>#3 calesthio/OpenMontage (+1,144 stars)</title><link>https://github.com/calesthio/OpenMontage</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;calesthio/OpenMontage&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.&lt;/p&gt;
-&lt;p&gt;⭐ 52,904 | +1,144 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 53,506 | +1,144 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/calesthio/OpenMontage#2026-08-28</guid><pubDate>Fri, 28 Aug 2026 12:22:02 +0000</pubDate></item><item><title>#4 freestylefly/awesome-gpt-image-2 (+1,687 stars)</title><link>https://github.com/freestylefly/awesome-gpt-image-2</link><description>
+</description><guid isPermaLink="false">https://github.com/calesthio/OpenMontage#2026-08-29</guid><pubDate>Sat, 29 Aug 2026 07:31:25 +0000</pubDate></item><item><title>#4 freestylefly/awesome-gpt-image-2 (+1,687 stars)</title><link>https://github.com/freestylefly/awesome-gpt-image-2</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;freestylefly/awesome-gpt-image-2&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中&lt;/p&gt;
-&lt;p&gt;⭐ 23,963 | +1,687 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 24,502 | +1,687 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/freestylefly/awesome-gpt-image-2#2026-08-28</guid><pubDate>Fri, 28 Aug 2026 12:22:02 +0000</pubDate></item><item><title>#5 rohitg00/ai-engineering-from-scratch (+703 stars)</title><link>https://github.com/rohitg00/ai-engineering-from-scratch</link><description>
+</description><guid isPermaLink="false">https://github.com/freestylefly/awesome-gpt-image-2#2026-08-29</guid><pubDate>Sat, 29 Aug 2026 07:31:25 +0000</pubDate></item><item><title>#5 rohitg00/ai-engineering-from-scratch (+703 stars)</title><link>https://github.com/rohitg00/ai-engineering-from-scratch</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;rohitg00/ai-engineering-from-scratch&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Learn it. Build it. Ship it for others.&lt;/p&gt;
-&lt;p&gt;⭐ 50,453 | +703 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 50,723 | +703 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/rohitg00/ai-engineering-from-scratch#2026-08-28</guid><pubDate>Fri, 28 Aug 2026 12:22:02 +0000</pubDate></item><item><title>#6 DietrichGebert/ponytail (+1,396 stars)</title><link>https://github.com/DietrichGebert/ponytail</link><description>
+</description><guid isPermaLink="false">https://github.com/rohitg00/ai-engineering-from-scratch#2026-08-29</guid><pubDate>Sat, 29 Aug 2026 07:31:25 +0000</pubDate></item><item><title>#6 DietrichGebert/ponytail (+1,396 stars)</title><link>https://github.com/DietrichGebert/ponytail</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;DietrichGebert/ponytail&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.&lt;/p&gt;
-&lt;p&gt;⭐ 114,800 | +1,396 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 115,692 | +1,396 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/DietrichGebert/ponytail#2026-08-28</guid><pubDate>Fri, 28 Aug 2026 12:22:02 +0000</pubDate></item><item><title>#7 anthropics/claude-plugins-official (+457 stars)</title><link>https://github.com/anthropics/claude-plugins-official</link><description>
+</description><guid isPermaLink="false">https://github.com/DietrichGebert/ponytail#2026-08-29</guid><pubDate>Sat, 29 Aug 2026 07:31:25 +0000</pubDate></item><item><title>#7 anthropics/claude-plugins-official (+457 stars)</title><link>https://github.com/anthropics/claude-plugins-official</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;anthropics/claude-plugins-official&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Official, Anthropic-managed directory of high quality Claude Code Plugins.&lt;/p&gt;
-&lt;p&gt;⭐ 34,850 | +457 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 35,132 | +457 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/anthropics/claude-plugins-official#2026-08-28</guid><pubDate>Fri, 28 Aug 2026 12:22:02 +0000</pubDate></item><item><title>#8 bilawalsidhu/gods-eye-view (+1,984 stars)</title><link>https://github.com/bilawalsidhu/gods-eye-view</link><description>
+</description><guid isPermaLink="false">https://github.com/anthropics/claude-plugins-official#2026-08-29</guid><pubDate>Sat, 29 Aug 2026 07:31:25 +0000</pubDate></item><item><title>#8 bilawalsidhu/gods-eye-view (+3,829 stars)</title><link>https://github.com/bilawalsidhu/gods-eye-view</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;bilawalsidhu/gods-eye-view&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.&lt;/p&gt;
-&lt;p&gt;⭐ 9,998 | +1,984 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 11,485 | +3,829 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/bilawalsidhu/gods-eye-view#2026-08-28</guid><pubDate>Fri, 28 Aug 2026 12:22:02 +0000</pubDate></item><item><title>#9 abhigyanpatwari/GitNexus (+189 stars)</title><link>https://github.com/abhigyanpatwari/GitNexus</link><description>
+</description><guid isPermaLink="false">https://github.com/bilawalsidhu/gods-eye-view#2026-08-29</guid><pubDate>Sat, 29 Aug 2026 07:31:25 +0000</pubDate></item><item><title>#9 abhigyanpatwari/GitNexus (+202 stars)</title><link>https://github.com/abhigyanpatwari/GitNexus</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;abhigyanpatwari/GitNexus&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration&lt;/p&gt;
-&lt;p&gt;⭐ 46,022 | +189 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 46,235 | +202 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/abhigyanpatwari/GitNexus#2026-08-28</guid><pubDate>Fri, 28 Aug 2026 12:22:02 +0000</pubDate></item><item><title>#10 abi/screenshot-to-code (+309 stars)</title><link>https://github.com/abi/screenshot-to-code</link><description>
+</description><guid isPermaLink="false">https://github.com/abhigyanpatwari/GitNexus#2026-08-29</guid><pubDate>Sat, 29 Aug 2026 07:31:25 +0000</pubDate></item><item><title>#10 abi/screenshot-to-code (+326 stars)</title><link>https://github.com/abi/screenshot-to-code</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;abi/screenshot-to-code&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)&lt;/p&gt;
-&lt;p&gt;⭐ 75,264 | +309 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 75,698 | +326 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/abi/screenshot-to-code#2026-08-28</guid><pubDate>Fri, 28 Aug 2026 12:22:02 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/abi/screenshot-to-code#2026-08-29</guid><pubDate>Sat, 29 Aug 2026 07:31:25 +0000</pubDate></item></channel></rss>
