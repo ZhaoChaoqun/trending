@@ -1,0 +1,159 @@
+{
+  "date": "2026-08-30",
+  "updated_at": "2026-08-30 06:03:56",
+  "count": 19,
+  "rankings": [
+    {
+      "name": "tt-a1i/archify",
+      "rank": 1,
+      "stars": "31,749",
+      "stars_today": "3,902",
+      "language": "JavaScript",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export."
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "rank": 2,
+      "stars": "38,101",
+      "stars_today": "1,587",
+      "language": "Python",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard."
+    },
+    {
+      "name": "THU-MAIC/OpenMAIC",
+      "rank": 3,
+      "stars": "22,552",
+      "stars_today": "907",
+      "language": "TypeScript",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "rank": 4,
+      "stars": "54,215",
+      "stars_today": "806",
+      "language": "Python",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio."
+    },
+    {
+      "name": "abi/screenshot-to-code",
+      "rank": 5,
+      "stars": "76,120",
+      "stars_today": "550",
+      "language": "Python",
+      "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)"
+    },
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "rank": 6,
+      "stars": "12,882",
+      "stars_today": "1,855",
+      "language": "JavaScript",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
+    },
+    {
+      "name": "tailscale/tailcat",
+      "rank": 7,
+      "stars": "3,698",
+      "stars_today": "789",
+      "language": "Go",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane"
+    },
+    {
+      "name": "p-e-w/heretic",
+      "rank": 8,
+      "stars": "28,785",
+      "stars_today": "150",
+      "language": "Python",
+      "description": "Fully automatic censorship removal for language models"
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "rank": 9,
+      "stars": "73,978",
+      "stars_today": "73",
+      "language": "Python",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
+    },
+    {
+      "name": "every-app/open-seo",
+      "rank": 10,
+      "stars": "14,743",
+      "stars_today": "517",
+      "language": "TypeScript",
+      "description": "Open source alternative to Semrush and Ahrefs"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "rank": 11,
+      "stars": "35,495",
+      "stars_today": "358",
+      "language": "Python",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "rank": 12,
+      "stars": "90,789",
+      "stars_today": "196",
+      "language": "JavaScript",
+      "description": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "name": "bigskysoftware/htmx",
+      "rank": 13,
+      "stars": "49,167",
+      "stars_today": "32",
+      "language": "JavaScript",
+      "description": "</> htmx - high power tools for HTML"
+    },
+    {
+      "name": "JetBrains/go-modern-guidelines",
+      "rank": 14,
+      "stars": "2,914",
+      "stars_today": "303",
+      "language": "Go",
+      "description": "Help AI coding agents write modern Go"
+    },
+    {
+      "name": "google/googletest",
+      "rank": 15,
+      "stars": "39,339",
+      "stars_today": "128",
+      "language": "C++",
+      "description": "GoogleTest - Google Testing and Mocking Framework"
+    },
+    {
+      "name": "Osmantic/ODS",
+      "rank": 16,
+      "stars": "5,034",
+      "stars_today": "35",
+      "language": "Python",
+      "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation."
+    },
+    {
+      "name": "kaifcodec/user-scanner",
+      "rank": 17,
+      "stars": "3,719",
+      "stars_today": "39",
+      "language": "Python",
+      "description": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 455+ actively maintained scan vectors (175+ email / 280+ username) for security research, investigations, and digital footprinting."
+    },
+    {
+      "name": "workweave/router",
+      "rank": 18,
+      "stars": "2,866",
+      "stars_today": "284",
+      "language": "Go",
+      "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change."
+    },
+    {
+      "name": "actions/checkout",
+      "rank": 19,
+      "stars": "8,812",
+      "stars_today": "5",
+      "language": "TypeScript",
+      "description": "Action for checking out a repo"
+    }
+  ]
+}
