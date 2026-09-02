@@ -1,0 +1,119 @@
+{
+  "date": "2026-09-02",
+  "updated_at": "2026-09-02 05:13:46",
+  "count": 14,
+  "rankings": [
+    {
+      "name": "THU-MAIC/OpenMAIC",
+      "rank": 1,
+      "stars": "29,778",
+      "stars_today": "3,128",
+      "language": "TypeScript",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
+    },
+    {
+      "name": "iv-org/invidious",
+      "rank": 2,
+      "stars": "23,835",
+      "stars_today": "577",
+      "language": "Crystal",
+      "description": "Invidious is an alternative front-end to YouTube"
+    },
+    {
+      "name": "jingyaogong/minimind",
+      "rank": 3,
+      "stars": "57,283",
+      "stars_today": "1,005",
+      "language": "Python",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "rank": 4,
+      "stars": "41,700",
+      "stars_today": "912",
+      "language": "Python",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard."
+    },
+    {
+      "name": "affaan-m/ECC",
+      "rank": 5,
+      "stars": "245,841",
+      "stars_today": "623",
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "name": "Imbad0202/academic-research-skills",
+      "rank": 6,
+      "stars": "45,083",
+      "stars_today": "193",
+      "language": "Python",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize"
+    },
+    {
+      "name": "firecrawl/pdf-inspector",
+      "rank": 7,
+      "stars": "18,069",
+      "stars_today": "541",
+      "language": "Rust",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions."
+    },
+    {
+      "name": "browser-use/video-use",
+      "rank": 8,
+      "stars": "23,113",
+      "stars_today": "472",
+      "language": "Python",
+      "description": "Edit videos with coding agents"
+    },
+    {
+      "name": "handsomestWei/patent-disclosure-skill",
+      "rank": 9,
+      "stars": "6,844",
+      "stars_today": "501",
+      "language": "Python",
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。"
+    },
+    {
+      "name": "VoltAgent/awesome-design-md",
+      "rank": 10,
+      "stars": "113,030",
+      "stars_today": "323",
+      "language": null,
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI."
+    },
+    {
+      "name": "unclecode/crawl4ai",
+      "rank": 11,
+      "stars": "80,940",
+      "stars_today": "145",
+      "language": "Python",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN"
+    },
+    {
+      "name": "Gitlawb/openclaude",
+      "rank": 12,
+      "stars": "31,487",
+      "stars_today": "80",
+      "language": "TypeScript",
+      "description": "runs anywhere. uses anything"
+    },
+    {
+      "name": "3b1b/manim",
+      "rank": 13,
+      "stars": "92,656",
+      "stars_today": "86",
+      "language": "Python",
+      "description": "Animation engine for explanatory math videos"
+    },
+    {
+      "name": "averygan/reclip",
+      "rank": 14,
+      "stars": "7,824",
+      "stars_today": "56",
+      "language": "HTML",
+      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI."
+    }
+  ]
+}
