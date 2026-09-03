@@ -1,0 +1,159 @@
+{
+  "date": "2026-09-03",
+  "updated_at": "2026-09-03 05:19:07",
+  "count": 19,
+  "rankings": [
+    {
+      "name": "DietrichGebert/ponytail",
+      "rank": 1,
+      "stars": "122,048",
+      "stars_today": "1,354",
+      "language": "JavaScript",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "rank": 2,
+      "stars": "240,256",
+      "stars_today": "533",
+      "language": "Python",
+      "description": "The agent that grows with you"
+    },
+    {
+      "name": "Imbad0202/academic-research-skills",
+      "rank": 3,
+      "stars": "45,667",
+      "stars_today": "799",
+      "language": "Python",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "rank": 4,
+      "stars": "246,480",
+      "stars_today": "516",
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "name": "mattpocock/skills",
+      "rank": 5,
+      "stars": "245,494",
+      "stars_today": "1,166",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory."
+    },
+    {
+      "name": "Gitlawb/openclaude",
+      "rank": 6,
+      "stars": "32,063",
+      "stars_today": "775",
+      "language": "TypeScript",
+      "description": "runs anywhere. uses anything"
+    },
+    {
+      "name": "google-research/timesfm",
+      "rank": 7,
+      "stars": "30,107",
+      "stars_today": "343",
+      "language": "Python",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "rank": 8,
+      "stars": "15,122",
+      "stars_today": "832",
+      "language": "Python",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "rank": 9,
+      "stars": "50,714",
+      "stars_today": "148",
+      "language": "TypeScript",
+      "description": "Chrome DevTools for coding agents"
+    },
+    {
+      "name": "blader/humanizer",
+      "rank": 10,
+      "stars": "40,640",
+      "stars_today": "374",
+      "language": "Python",
+      "description": "Agent skill that removes signs of AI-generated writing from text"
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "rank": 11,
+      "stars": "102,740",
+      "stars_today": "238",
+      "language": "Go",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman"
+    },
+    {
+      "name": "firecrawl/pdf-inspector",
+      "rank": 12,
+      "stars": "18,603",
+      "stars_today": "586",
+      "language": "Rust",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions."
+    },
+    {
+      "name": "pacifio/atlas",
+      "rank": 13,
+      "stars": "2,996",
+      "stars_today": "888",
+      "language": "Rust",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place"
+    },
+    {
+      "name": "protocolbuffers/protobuf",
+      "rank": 14,
+      "stars": "71,958",
+      "stars_today": "18",
+      "language": "C++",
+      "description": "Protocol Buffers - Google's data interchange format"
+    },
+    {
+      "name": "vercel-labs/portless",
+      "rank": 15,
+      "stars": "11,868",
+      "stars_today": "73",
+      "language": "TypeScript",
+      "description": "Replace port numbers with stable, named local URLs. For humans and agents."
+    },
+    {
+      "name": "fmtlib/fmt",
+      "rank": 16,
+      "stars": "24,428",
+      "stars_today": "14",
+      "language": "C++",
+      "description": "A modern formatting library"
+    },
+    {
+      "name": "sngyai/Sequoia-X",
+      "rank": 17,
+      "stars": "6,245",
+      "stars_today": "63",
+      "language": "Python",
+      "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书"
+    },
+    {
+      "name": "superlinked/sie",
+      "rank": 18,
+      "stars": "3,113",
+      "stars_today": "60",
+      "language": "Python",
+      "description": "Open-source inference server and production cluster for all the models your agent needs."
+    },
+    {
+      "name": "zyronon/TypeWords",
+      "rank": 19,
+      "stars": "9,419",
+      "stars_today": "21",
+      "language": "Vue",
+      "description": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；"
+    }
+  ]
+}
