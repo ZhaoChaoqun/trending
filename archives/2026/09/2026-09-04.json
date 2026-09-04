@@ -1,0 +1,159 @@
+{
+  "date": "2026-09-04",
+  "updated_at": "2026-09-04 05:12:54",
+  "count": 19,
+  "rankings": [
+    {
+      "name": "mattpocock/skills",
+      "rank": 1,
+      "stars": "247,877",
+      "stars_today": "1,601",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory."
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "rank": 2,
+      "stars": "240,985",
+      "stars_today": "774",
+      "language": "Python",
+      "description": "The agent that grows with you"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "rank": 3,
+      "stars": "123,754",
+      "stars_today": "2,128",
+      "language": "JavaScript",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+    },
+    {
+      "name": "affaan-m/ECC",
+      "rank": 4,
+      "stars": "247,389",
+      "stars_today": "751",
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "rank": 5,
+      "stars": "103,191",
+      "stars_today": "543",
+      "language": "Go",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman"
+    },
+    {
+      "name": "blader/humanizer",
+      "rank": 6,
+      "stars": "41,709",
+      "stars_today": "1,208",
+      "language": "Python",
+      "description": "Agent skill that removes signs of AI-generated writing from text"
+    },
+    {
+      "name": "google-research/timesfm",
+      "rank": 7,
+      "stars": "30,763",
+      "stars_today": "1,618",
+      "language": "Python",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 8,
+      "stars": "281,437",
+      "stars_today": "462",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "fmtlib/fmt",
+      "rank": 9,
+      "stars": "25,196",
+      "stars_today": "963",
+      "language": "C++",
+      "description": "A modern formatting library"
+    },
+    {
+      "name": "anthropics/skills",
+      "rank": 10,
+      "stars": "173,752",
+      "stars_today": "281",
+      "language": "Python",
+      "description": "Public repository for Agent Skills"
+    },
+    {
+      "name": "bannedbook/fanqiang",
+      "rank": 11,
+      "stars": "52,363",
+      "stars_today": "522",
+      "language": "Kotlin",
+      "description": "翻墙-科学上网"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "rank": 12,
+      "stars": "92,091",
+      "stars_today": "264",
+      "language": "JavaScript",
+      "description": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "name": "ByteByteGoHq/system-design-101",
+      "rank": 13,
+      "stars": "88,459",
+      "stars_today": "171",
+      "language": null,
+      "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews."
+    },
+    {
+      "name": "Imbad0202/academic-research-skills",
+      "rank": 14,
+      "stars": "46,065",
+      "stars_today": "496",
+      "language": "Python",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize"
+    },
+    {
+      "name": "Gitlawb/openclaude",
+      "rank": 15,
+      "stars": "32,406",
+      "stars_today": "451",
+      "language": "TypeScript",
+      "description": "runs anywhere. uses anything"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "rank": 16,
+      "stars": "16,523",
+      "stars_today": "1,672",
+      "language": "Python",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+    },
+    {
+      "name": "f/prompts.chat",
+      "rank": 17,
+      "stars": "169,104",
+      "stars_today": "168",
+      "language": "HTML",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy."
+    },
+    {
+      "name": "averygan/reclip",
+      "rank": 18,
+      "stars": "8,482",
+      "stars_today": "88",
+      "language": "HTML",
+      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI."
+    },
+    {
+      "name": "magnitudedev/magnitude",
+      "rank": 19,
+      "stars": "2,032",
+      "stars_today": "161",
+      "language": "TypeScript",
+      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline."
+    }
+  ]
+}
