@@ -1,0 +1,143 @@
+{
+  "date": "2026-09-05",
+  "updated_at": "2026-09-05 05:02:21",
+  "count": 17,
+  "rankings": [
+    {
+      "name": "mattpocock/skills",
+      "rank": 1,
+      "stars": "250,691",
+      "stars_today": "2,758",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory."
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "rank": 2,
+      "stars": "126,426",
+      "stars_today": "1,679",
+      "language": "JavaScript",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+    },
+    {
+      "name": "affaan-m/ECC",
+      "rank": 3,
+      "stars": "248,661",
+      "stars_today": "1,135",
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "name": "anthropics/skills",
+      "rank": 4,
+      "stars": "174,201",
+      "stars_today": "511",
+      "language": "Python",
+      "description": "Public repository for Agent Skills"
+    },
+    {
+      "name": "blader/humanizer",
+      "rank": 5,
+      "stars": "42,853",
+      "stars_today": "1,130",
+      "language": "Python",
+      "description": "Agent skill that removes signs of AI-generated writing from text"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "rank": 6,
+      "stars": "241,587",
+      "stars_today": "720",
+      "language": "Python",
+      "description": "The agent that grows with you"
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "rank": 7,
+      "stars": "103,630",
+      "stars_today": "501",
+      "language": "Go",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman"
+    },
+    {
+      "name": "fmtlib/fmt",
+      "rank": 8,
+      "stars": "25,492",
+      "stars_today": "688",
+      "language": "C++",
+      "description": "A modern formatting library"
+    },
+    {
+      "name": "bannedbook/fanqiang",
+      "rank": 9,
+      "stars": "52,852",
+      "stars_today": "730",
+      "language": "Kotlin",
+      "description": "翻墙-科学上网"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "rank": 10,
+      "stars": "18,212",
+      "stars_today": "1,345",
+      "language": "Python",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+    },
+    {
+      "name": "google-research/timesfm",
+      "rank": 11,
+      "stars": "31,111",
+      "stars_today": "342",
+      "language": "Python",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting."
+    },
+    {
+      "name": "anomalyco/opencode",
+      "rank": 12,
+      "stars": "204,231",
+      "stars_today": "345",
+      "language": "TypeScript",
+      "description": "The open source coding agent."
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "rank": 13,
+      "stars": "31,077",
+      "stars_today": "437",
+      "language": "HTML",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+    },
+    {
+      "name": "magnitudedev/magnitude",
+      "rank": 14,
+      "stars": "2,601",
+      "stars_today": "391",
+      "language": "TypeScript",
+      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline."
+    },
+    {
+      "name": "clshortfuse/renodx",
+      "rank": 15,
+      "stars": "3,560",
+      "stars_today": "261",
+      "language": "HLSL",
+      "description": "Renovation Engine for DirectX Games"
+    },
+    {
+      "name": "bikini/exploitarium",
+      "rank": 16,
+      "stars": "4,552",
+      "stars_today": "74",
+      "language": "Python",
+      "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way."
+    },
+    {
+      "name": "radixark/miles",
+      "rank": 17,
+      "stars": "2,585",
+      "stars_today": "64",
+      "language": "Python",
+      "description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime."
+    }
+  ]
+}
