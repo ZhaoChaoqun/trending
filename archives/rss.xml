@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sat, 05 Sep 2026 05:02:21 +0000</pubDate><lastBuildDate>Sat, 05 Sep 2026 05:02:21 +0000</lastBuildDate><item><title>#1 mattpocock/skills (+2,758 stars)</title><link>https://github.com/mattpocock/skills</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sun, 06 Sep 2026 05:17:11 +0000</pubDate><lastBuildDate>Sun, 06 Sep 2026 05:17:11 +0000</lastBuildDate><item><title>#1 mattpocock/skills (+2,692 stars)</title><link>https://github.com/mattpocock/skills</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;mattpocock/skills&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Skills for Real Engineers. Straight from my .agents directory.&lt;/p&gt;
-&lt;p&gt;⭐ 250,691 | +2,758 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 252,972 | +2,692 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-09-05</guid><pubDate>Sat, 05 Sep 2026 05:02:21 +0000</pubDate></item><item><title>#2 DietrichGebert/ponytail (+1,679 stars)</title><link>https://github.com/DietrichGebert/ponytail</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;DietrichGebert/ponytail&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.&lt;/p&gt;
-&lt;p&gt;⭐ 126,426 | +1,679 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/DietrichGebert/ponytail#2026-09-05</guid><pubDate>Sat, 05 Sep 2026 05:02:21 +0000</pubDate></item><item><title>#3 affaan-m/ECC (+1,135 stars)</title><link>https://github.com/affaan-m/ECC</link><description>
+</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-09-06</guid><pubDate>Sun, 06 Sep 2026 05:17:11 +0000</pubDate></item><item><title>#2 affaan-m/ECC (+1,314 stars)</title><link>https://github.com/affaan-m/ECC</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;affaan-m/ECC&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.&lt;/p&gt;
-&lt;p&gt;⭐ 248,661 | +1,135 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 250,127 | +1,314 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/affaan-m/ECC#2026-09-05</guid><pubDate>Sat, 05 Sep 2026 05:02:21 +0000</pubDate></item><item><title>#4 anthropics/skills (+511 stars)</title><link>https://github.com/anthropics/skills</link><description>
+</description><guid isPermaLink="false">https://github.com/affaan-m/ECC#2026-09-06</guid><pubDate>Sun, 06 Sep 2026 05:17:11 +0000</pubDate></item><item><title>#3 DietrichGebert/ponytail (+2,845 stars)</title><link>https://github.com/DietrichGebert/ponytail</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;anthropics/skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Public repository for Agent Skills&lt;/p&gt;
-&lt;p&gt;⭐ 174,201 | +511 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DietrichGebert/ponytail&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.&lt;/p&gt;
+&lt;p&gt;⭐ 128,192 | +2,845 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/anthropics/skills#2026-09-05</guid><pubDate>Sat, 05 Sep 2026 05:02:21 +0000</pubDate></item><item><title>#5 blader/humanizer (+1,130 stars)</title><link>https://github.com/blader/humanizer</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;blader/humanizer&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Agent skill that removes signs of AI-generated writing from text&lt;/p&gt;
-&lt;p&gt;⭐ 42,853 | +1,130 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/blader/humanizer#2026-09-05</guid><pubDate>Sat, 05 Sep 2026 05:02:21 +0000</pubDate></item><item><title>#6 NousResearch/hermes-agent (+720 stars)</title><link>https://github.com/NousResearch/hermes-agent</link><description>
+</description><guid isPermaLink="false">https://github.com/DietrichGebert/ponytail#2026-09-06</guid><pubDate>Sun, 06 Sep 2026 05:17:11 +0000</pubDate></item><item><title>#4 NousResearch/hermes-agent (+575 stars)</title><link>https://github.com/NousResearch/hermes-agent</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;NousResearch/hermes-agent&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The agent that grows with you&lt;/p&gt;
-&lt;p&gt;⭐ 241,587 | +720 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 242,092 | +575 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/NousResearch/hermes-agent#2026-09-05</guid><pubDate>Sat, 05 Sep 2026 05:02:21 +0000</pubDate></item><item><title>#7 JuliusBrussee/caveman (+501 stars)</title><link>https://github.com/JuliusBrussee/caveman</link><description>
+</description><guid isPermaLink="false">https://github.com/NousResearch/hermes-agent#2026-09-06</guid><pubDate>Sun, 06 Sep 2026 05:17:11 +0000</pubDate></item><item><title>#5 cathrynlavery/diagram-design (+855 stars)</title><link>https://github.com/cathrynlavery/diagram-design</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;JuliusBrussee/caveman&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman&lt;/p&gt;
-&lt;p&gt;⭐ 103,630 | +501 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;cathrynlavery/diagram-design&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.&lt;/p&gt;
+&lt;p&gt;⭐ 31,814 | +855 today | 🔧 HTML&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/JuliusBrussee/caveman#2026-09-05</guid><pubDate>Sat, 05 Sep 2026 05:02:21 +0000</pubDate></item><item><title>#8 fmtlib/fmt (+688 stars)</title><link>https://github.com/fmtlib/fmt</link><description>
+</description><guid isPermaLink="false">https://github.com/cathrynlavery/diagram-design#2026-09-06</guid><pubDate>Sun, 06 Sep 2026 05:17:11 +0000</pubDate></item><item><title>#6 anomalyco/opencode (+725 stars)</title><link>https://github.com/anomalyco/opencode</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;anomalyco/opencode&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The open source coding agent.&lt;/p&gt;
+&lt;p&gt;⭐ 204,763 | +725 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/anomalyco/opencode#2026-09-06</guid><pubDate>Sun, 06 Sep 2026 05:17:11 +0000</pubDate></item><item><title>#7 blader/humanizer (+990 stars)</title><link>https://github.com/blader/humanizer</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;blader/humanizer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Agent skill that removes signs of AI-generated writing from text&lt;/p&gt;
+&lt;p&gt;⭐ 43,608 | +990 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/blader/humanizer#2026-09-06</guid><pubDate>Sun, 06 Sep 2026 05:17:11 +0000</pubDate></item><item><title>#8 anthropics/skills (+475 stars)</title><link>https://github.com/anthropics/skills</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;anthropics/skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Public repository for Agent Skills&lt;/p&gt;
+&lt;p&gt;⭐ 174,632 | +475 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/anthropics/skills#2026-09-06</guid><pubDate>Sun, 06 Sep 2026 05:17:11 +0000</pubDate></item><item><title>#9 ruvnet/ruflo (+136 stars)</title><link>https://github.com/ruvnet/ruflo</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;ruvnet/ruflo&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated&lt;/p&gt;
+&lt;p&gt;⭐ 70,736 | +136 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/ruvnet/ruflo#2026-09-06</guid><pubDate>Sun, 06 Sep 2026 05:17:11 +0000</pubDate></item><item><title>#10 fmtlib/fmt (+134 stars)</title><link>https://github.com/fmtlib/fmt</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;fmtlib/fmt&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A modern formatting library&lt;/p&gt;
-&lt;p&gt;⭐ 25,492 | +688 today | 🔧 C++&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 25,581 | +134 today | 🔧 C++&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/fmtlib/fmt#2026-09-05</guid><pubDate>Sat, 05 Sep 2026 05:02:21 +0000</pubDate></item><item><title>#9 bannedbook/fanqiang (+730 stars)</title><link>https://github.com/bannedbook/fanqiang</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;bannedbook/fanqiang&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;翻墙-科学上网&lt;/p&gt;
-&lt;p&gt;⭐ 52,852 | +730 today | 🔧 Kotlin&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/bannedbook/fanqiang#2026-09-05</guid><pubDate>Sat, 05 Sep 2026 05:02:21 +0000</pubDate></item><item><title>#10 debpalash/VoiceStudio (+1,345 stars)</title><link>https://github.com/debpalash/VoiceStudio</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;debpalash/VoiceStudio&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.&lt;/p&gt;
-&lt;p&gt;⭐ 18,212 | +1,345 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/debpalash/VoiceStudio#2026-09-05</guid><pubDate>Sat, 05 Sep 2026 05:02:21 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/fmtlib/fmt#2026-09-06</guid><pubDate>Sun, 06 Sep 2026 05:17:11 +0000</pubDate></item></channel></rss>

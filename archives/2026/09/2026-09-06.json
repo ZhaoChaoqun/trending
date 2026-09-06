@@ -1,0 +1,135 @@
+{
+  "date": "2026-09-06",
+  "updated_at": "2026-09-06 05:17:11",
+  "count": 16,
+  "rankings": [
+    {
+      "name": "mattpocock/skills",
+      "rank": 1,
+      "stars": "252,972",
+      "stars_today": "2,692",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory."
+    },
+    {
+      "name": "affaan-m/ECC",
+      "rank": 2,
+      "stars": "250,127",
+      "stars_today": "1,314",
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "rank": 3,
+      "stars": "128,192",
+      "stars_today": "2,845",
+      "language": "JavaScript",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "rank": 4,
+      "stars": "242,092",
+      "stars_today": "575",
+      "language": "Python",
+      "description": "The agent that grows with you"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "rank": 5,
+      "stars": "31,814",
+      "stars_today": "855",
+      "language": "HTML",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+    },
+    {
+      "name": "anomalyco/opencode",
+      "rank": 6,
+      "stars": "204,763",
+      "stars_today": "725",
+      "language": "TypeScript",
+      "description": "The open source coding agent."
+    },
+    {
+      "name": "blader/humanizer",
+      "rank": 7,
+      "stars": "43,608",
+      "stars_today": "990",
+      "language": "Python",
+      "description": "Agent skill that removes signs of AI-generated writing from text"
+    },
+    {
+      "name": "anthropics/skills",
+      "rank": 8,
+      "stars": "174,632",
+      "stars_today": "475",
+      "language": "Python",
+      "description": "Public repository for Agent Skills"
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "rank": 9,
+      "stars": "70,736",
+      "stars_today": "136",
+      "language": "TypeScript",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
+    },
+    {
+      "name": "fmtlib/fmt",
+      "rank": 10,
+      "stars": "25,581",
+      "stars_today": "134",
+      "language": "C++",
+      "description": "A modern formatting library"
+    },
+    {
+      "name": "humanlayer/skills",
+      "rank": 11,
+      "stars": "2,795",
+      "stars_today": "442",
+      "language": "TypeScript",
+      "description": ""
+    },
+    {
+      "name": "magnitudedev/magnitude",
+      "rank": 12,
+      "stars": "3,295",
+      "stars_today": "674",
+      "language": "TypeScript",
+      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline."
+    },
+    {
+      "name": "bikini/exploitarium",
+      "rank": 13,
+      "stars": "4,731",
+      "stars_today": "230",
+      "language": "Python",
+      "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way."
+    },
+    {
+      "name": "nvm-sh/nvm",
+      "rank": 14,
+      "stars": "94,943",
+      "stars_today": "22",
+      "language": "Shell",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump"
+    },
+    {
+      "name": "BraveOPotato/FckSignups",
+      "rank": 15,
+      "stars": "2,953",
+      "stars_today": "68",
+      "language": "TypeScript",
+      "description": "A list of tools that are open-source, in-browser, and require no-signups!"
+    },
+    {
+      "name": "WorldFlowAI/everything-claude-code",
+      "rank": 16,
+      "stars": "2,408",
+      "stars_today": "95",
+      "language": "JavaScript",
+      "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development"
+    }
+  ]
+}
