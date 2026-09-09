@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Tue, 08 Sep 2026 05:26:11 +0000</pubDate><lastBuildDate>Tue, 08 Sep 2026 05:26:11 +0000</lastBuildDate><item><title>#1 microsoft/markitdown (+886 stars)</title><link>https://github.com/microsoft/markitdown</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Wed, 09 Sep 2026 05:31:24 +0000</pubDate><lastBuildDate>Wed, 09 Sep 2026 05:31:24 +0000</lastBuildDate><item><title>#1 ayghri/i-have-adhd (+656 stars)</title><link>https://github.com/ayghri/i-have-adhd</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;microsoft/markitdown&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Python tool for converting files and office documents to Markdown.&lt;/p&gt;
-&lt;p&gt;⭐ 180,691 | +886 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ayghri/i-have-adhd&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A skill to stop your coding agent from burying the answer. ADHD-friendly output.&lt;/p&gt;
+&lt;p&gt;⭐ 31,310 | +656 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/microsoft/markitdown#2026-09-08</guid><pubDate>Tue, 08 Sep 2026 05:26:11 +0000</pubDate></item><item><title>#2 affaan-m/ECC (+1,897 stars)</title><link>https://github.com/affaan-m/ECC</link><description>
+</description><guid isPermaLink="false">https://github.com/ayghri/i-have-adhd#2026-09-09</guid><pubDate>Wed, 09 Sep 2026 05:31:24 +0000</pubDate></item><item><title>#2 cathrynlavery/diagram-design (+710 stars)</title><link>https://github.com/cathrynlavery/diagram-design</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;cathrynlavery/diagram-design&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.&lt;/p&gt;
+&lt;p&gt;⭐ 35,308 | +710 today | 🔧 HTML&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/cathrynlavery/diagram-design#2026-09-09</guid><pubDate>Wed, 09 Sep 2026 05:31:24 +0000</pubDate></item><item><title>#3 affaan-m/ECC (+1,427 stars)</title><link>https://github.com/affaan-m/ECC</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;affaan-m/ECC&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.&lt;/p&gt;
-&lt;p&gt;⭐ 253,108 | +1,897 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 254,501 | +1,427 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/affaan-m/ECC#2026-09-08</guid><pubDate>Tue, 08 Sep 2026 05:26:11 +0000</pubDate></item><item><title>#3 coreyhaines31/marketingskills (+580 stars)</title><link>https://github.com/coreyhaines31/marketingskills</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;coreyhaines31/marketingskills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.&lt;/p&gt;
-&lt;p&gt;⭐ 48,286 | +580 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/coreyhaines31/marketingskills#2026-09-08</guid><pubDate>Tue, 08 Sep 2026 05:26:11 +0000</pubDate></item><item><title>#4 ruvnet/ruflo (+394 stars)</title><link>https://github.com/ruvnet/ruflo</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ruvnet/ruflo&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated&lt;/p&gt;
-&lt;p&gt;⭐ 71,473 | +394 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/ruvnet/ruflo#2026-09-08</guid><pubDate>Tue, 08 Sep 2026 05:26:11 +0000</pubDate></item><item><title>#5 heygen-com/hyperframes (+474 stars)</title><link>https://github.com/heygen-com/hyperframes</link><description>
+</description><guid isPermaLink="false">https://github.com/affaan-m/ECC#2026-09-09</guid><pubDate>Wed, 09 Sep 2026 05:31:24 +0000</pubDate></item><item><title>#4 heygen-com/hyperframes (+2,627 stars)</title><link>https://github.com/heygen-com/hyperframes</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;heygen-com/hyperframes&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Write HTML. Render video. Built for agents.&lt;/p&gt;
-&lt;p&gt;⭐ 46,498 | +474 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 47,947 | +2,627 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/heygen-com/hyperframes#2026-09-08</guid><pubDate>Tue, 08 Sep 2026 05:26:11 +0000</pubDate></item><item><title>#6 The-Swarm-Corporation/AutoHedge (+517 stars)</title><link>https://github.com/The-Swarm-Corporation/AutoHedge</link><description>
+</description><guid isPermaLink="false">https://github.com/heygen-com/hyperframes#2026-09-09</guid><pubDate>Wed, 09 Sep 2026 05:31:24 +0000</pubDate></item><item><title>#5 coreyhaines31/marketingskills (+666 stars)</title><link>https://github.com/coreyhaines31/marketingskills</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;The-Swarm-Corporation/AutoHedge&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.&lt;/p&gt;
-&lt;p&gt;⭐ 5,353 | +517 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;coreyhaines31/marketingskills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.&lt;/p&gt;
+&lt;p&gt;⭐ 48,954 | +666 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/The-Swarm-Corporation/AutoHedge#2026-09-08</guid><pubDate>Tue, 08 Sep 2026 05:26:11 +0000</pubDate></item><item><title>#7 BraveOPotato/FckSignups (+501 stars)</title><link>https://github.com/BraveOPotato/FckSignups</link><description>
+</description><guid isPermaLink="false">https://github.com/coreyhaines31/marketingskills#2026-09-09</guid><pubDate>Wed, 09 Sep 2026 05:31:24 +0000</pubDate></item><item><title>#6 obra/superpowers (+452 stars)</title><link>https://github.com/obra/superpowers</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;BraveOPotato/FckSignups&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A list of tools that are open-source, in-browser, and require no-signups!&lt;/p&gt;
-&lt;p&gt;⭐ 3,918 | +501 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
+&lt;p&gt;⭐ 283,486 | +452 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/BraveOPotato/FckSignups#2026-09-08</guid><pubDate>Tue, 08 Sep 2026 05:26:11 +0000</pubDate></item><item><title>#8 bytedance/deer-flow (+195 stars)</title><link>https://github.com/bytedance/deer-flow</link><description>
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-09-09</guid><pubDate>Wed, 09 Sep 2026 05:31:24 +0000</pubDate></item><item><title>#7 multica-ai/andrej-karpathy-skills (+333 stars)</title><link>https://github.com/multica-ai/andrej-karpathy-skills</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;bytedance/deer-flow&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.&lt;/p&gt;
-&lt;p&gt;⭐ 81,924 | +195 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;multica-ai/andrej-karpathy-skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.&lt;/p&gt;
+&lt;p&gt;⭐ 211,592 | +333 today | 🔧 Unknown&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/bytedance/deer-flow#2026-09-08</guid><pubDate>Tue, 08 Sep 2026 05:26:11 +0000</pubDate></item><item><title>#9 openai/skills (+351 stars)</title><link>https://github.com/openai/skills</link><description>
+</description><guid isPermaLink="false">https://github.com/multica-ai/andrej-karpathy-skills#2026-09-09</guid><pubDate>Wed, 09 Sep 2026 05:31:24 +0000</pubDate></item><item><title>#8 microsoft/markitdown (+2,047 stars)</title><link>https://github.com/microsoft/markitdown</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;openai/skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Skills Catalog for Codex&lt;/p&gt;
-&lt;p&gt;⭐ 26,150 | +351 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;microsoft/markitdown&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Python tool for converting files and office documents to Markdown.&lt;/p&gt;
+&lt;p&gt;⭐ 181,869 | +2,047 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/openai/skills#2026-09-08</guid><pubDate>Tue, 08 Sep 2026 05:26:11 +0000</pubDate></item><item><title>#10 mksglu/context-mode (+96 stars)</title><link>https://github.com/mksglu/context-mode</link><description>
+</description><guid isPermaLink="false">https://github.com/microsoft/markitdown#2026-09-09</guid><pubDate>Wed, 09 Sep 2026 05:31:24 +0000</pubDate></item><item><title>#9 mksglu/context-mode (+651 stars)</title><link>https://github.com/mksglu/context-mode</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;mksglu/context-mode&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.&lt;/p&gt;
-&lt;p&gt;⭐ 21,000 | +96 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+&lt;p&gt;⭐ 21,479 | +651 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/mksglu/context-mode#2026-09-08</guid><pubDate>Tue, 08 Sep 2026 05:26:11 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/mksglu/context-mode#2026-09-09</guid><pubDate>Wed, 09 Sep 2026 05:31:24 +0000</pubDate></item><item><title>#10 openai/skills (+490 stars)</title><link>https://github.com/openai/skills</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;openai/skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Skills Catalog for Codex&lt;/p&gt;
+&lt;p&gt;⭐ 26,614 | +490 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/openai/skills#2026-09-09</guid><pubDate>Wed, 09 Sep 2026 05:31:24 +0000</pubDate></item></channel></rss>

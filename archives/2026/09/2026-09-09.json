@@ -1,0 +1,135 @@
+{
+  "date": "2026-09-09",
+  "updated_at": "2026-09-09 05:31:24",
+  "count": 16,
+  "rankings": [
+    {
+      "name": "ayghri/i-have-adhd",
+      "rank": 1,
+      "stars": "31,310",
+      "stars_today": "656",
+      "language": "Python",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "rank": 2,
+      "stars": "35,308",
+      "stars_today": "710",
+      "language": "HTML",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+    },
+    {
+      "name": "affaan-m/ECC",
+      "rank": 3,
+      "stars": "254,501",
+      "stars_today": "1,427",
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "rank": 4,
+      "stars": "47,947",
+      "stars_today": "2,627",
+      "language": "TypeScript",
+      "description": "Write HTML. Render video. Built for agents."
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "rank": 5,
+      "stars": "48,954",
+      "stars_today": "666",
+      "language": "JavaScript",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering."
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 6,
+      "stars": "283,486",
+      "stars_today": "452",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "rank": 7,
+      "stars": "211,592",
+      "stars_today": "333",
+      "language": null,
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+    },
+    {
+      "name": "microsoft/markitdown",
+      "rank": 8,
+      "stars": "181,869",
+      "stars_today": "2,047",
+      "language": "Python",
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "name": "mksglu/context-mode",
+      "rank": 9,
+      "stars": "21,479",
+      "stars_today": "651",
+      "language": "TypeScript",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
+    },
+    {
+      "name": "openai/skills",
+      "rank": 10,
+      "stars": "26,614",
+      "stars_today": "490",
+      "language": "Python",
+      "description": "Skills Catalog for Codex"
+    },
+    {
+      "name": "jo-inc/camofox-browser",
+      "rank": 11,
+      "stars": "10,643",
+      "stars_today": "871",
+      "language": "JavaScript",
+      "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement."
+    },
+    {
+      "name": "MoonTechLab/LunaTV",
+      "rank": 12,
+      "stars": "10,264",
+      "stars_today": "505",
+      "language": "TypeScript",
+      "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源"
+    },
+    {
+      "name": "browser-use/browser-use",
+      "rank": 13,
+      "stars": "113,677",
+      "stars_today": "228",
+      "language": "Python",
+      "description": "Agents that use the browser."
+    },
+    {
+      "name": "The-Swarm-Corporation/AutoHedge",
+      "rank": 14,
+      "stars": "5,798",
+      "stars_today": "494",
+      "language": "Python",
+      "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution."
+    },
+    {
+      "name": "viarotel-org/escrcpy",
+      "rank": 15,
+      "stars": "11,482",
+      "stars_today": "178",
+      "language": "JavaScript",
+      "description": "📱 Display and control your Android device graphically with scrcpy."
+    },
+    {
+      "name": "openai/plugins",
+      "rank": 16,
+      "stars": "5,910",
+      "stars_today": "105",
+      "language": "JavaScript",
+      "description": "OpenAI Plugins"
+    }
+  ]
+}
