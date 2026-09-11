@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Thu, 10 Sep 2026 05:25:29 +0000</pubDate><lastBuildDate>Thu, 10 Sep 2026 05:25:29 +0000</lastBuildDate><item><title>#1 ayghri/i-have-adhd (+4,650 stars)</title><link>https://github.com/ayghri/i-have-adhd</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 11 Sep 2026 05:24:01 +0000</pubDate><lastBuildDate>Fri, 11 Sep 2026 05:24:01 +0000</lastBuildDate><item><title>#1 ayghri/i-have-adhd (+3,882 stars)</title><link>https://github.com/ayghri/i-have-adhd</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;ayghri/i-have-adhd&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A skill to stop your coding agent from burying the answer. ADHD-friendly output.&lt;/p&gt;
-&lt;p&gt;⭐ 35,344 | +4,650 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 38,930 | +3,882 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/ayghri/i-have-adhd#2026-09-10</guid><pubDate>Thu, 10 Sep 2026 05:25:29 +0000</pubDate></item><item><title>#2 obra/superpowers (+688 stars)</title><link>https://github.com/obra/superpowers</link><description>
+</description><guid isPermaLink="false">https://github.com/ayghri/i-have-adhd#2026-09-11</guid><pubDate>Fri, 11 Sep 2026 05:24:01 +0000</pubDate></item><item><title>#2 bilawalsidhu/gods-eye-view (+1,762 stars)</title><link>https://github.com/bilawalsidhu/gods-eye-view</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;bilawalsidhu/gods-eye-view&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.&lt;/p&gt;
+&lt;p&gt;⭐ 24,890 | +1,762 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/bilawalsidhu/gods-eye-view#2026-09-11</guid><pubDate>Fri, 11 Sep 2026 05:24:01 +0000</pubDate></item><item><title>#3 obra/superpowers (+732 stars)</title><link>https://github.com/obra/superpowers</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 284,145 | +688 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 284,831 | +732 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-09-10</guid><pubDate>Thu, 10 Sep 2026 05:25:29 +0000</pubDate></item><item><title>#3 cathrynlavery/diagram-design (+2,249 stars)</title><link>https://github.com/cathrynlavery/diagram-design</link><description>
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-09-11</guid><pubDate>Fri, 11 Sep 2026 05:24:01 +0000</pubDate></item><item><title>#4 cathrynlavery/diagram-design (+1,294 stars)</title><link>https://github.com/cathrynlavery/diagram-design</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;cathrynlavery/diagram-design&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.&lt;/p&gt;
-&lt;p&gt;⭐ 36,866 | +2,249 today | 🔧 HTML&lt;/p&gt;
+&lt;p&gt;⭐ 37,966 | +1,294 today | 🔧 HTML&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/cathrynlavery/diagram-design#2026-09-10</guid><pubDate>Thu, 10 Sep 2026 05:25:29 +0000</pubDate></item><item><title>#4 TauricResearch/TradingAgents (+367 stars)</title><link>https://github.com/TauricResearch/TradingAgents</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;TauricResearch/TradingAgents&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;TradingAgents: Multi-Agents LLM Financial Trading Framework&lt;/p&gt;
-&lt;p&gt;⭐ 104,142 | +367 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/TauricResearch/TradingAgents#2026-09-10</guid><pubDate>Thu, 10 Sep 2026 05:25:29 +0000</pubDate></item><item><title>#5 freestylefly/awesome-gpt-image-2 (+705 stars)</title><link>https://github.com/freestylefly/awesome-gpt-image-2</link><description>
+</description><guid isPermaLink="false">https://github.com/cathrynlavery/diagram-design#2026-09-11</guid><pubDate>Fri, 11 Sep 2026 05:24:01 +0000</pubDate></item><item><title>#5 freestylefly/awesome-gpt-image-2 (+962 stars)</title><link>https://github.com/freestylefly/awesome-gpt-image-2</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;freestylefly/awesome-gpt-image-2&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中&lt;/p&gt;
-&lt;p&gt;⭐ 30,262 | +705 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。&lt;/p&gt;
+&lt;p&gt;⭐ 31,032 | +962 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/freestylefly/awesome-gpt-image-2#2026-09-10</guid><pubDate>Thu, 10 Sep 2026 05:25:29 +0000</pubDate></item><item><title>#6 affaan-m/ECC (+1,133 stars)</title><link>https://github.com/affaan-m/ECC</link><description>
+</description><guid isPermaLink="false">https://github.com/freestylefly/awesome-gpt-image-2#2026-09-11</guid><pubDate>Fri, 11 Sep 2026 05:24:01 +0000</pubDate></item><item><title>#6 diegosouzapw/OmniRoute (+626 stars)</title><link>https://github.com/diegosouzapw/OmniRoute</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;affaan-m/ECC&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.&lt;/p&gt;
-&lt;p&gt;⭐ 255,326 | +1,133 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;diegosouzapw/OmniRoute&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors&lt;/p&gt;
+&lt;p&gt;⭐ 64,399 | +626 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/affaan-m/ECC#2026-09-10</guid><pubDate>Thu, 10 Sep 2026 05:25:29 +0000</pubDate></item><item><title>#7 pascalorg/editor (+107 stars)</title><link>https://github.com/pascalorg/editor</link><description>
+</description><guid isPermaLink="false">https://github.com/diegosouzapw/OmniRoute#2026-09-11</guid><pubDate>Fri, 11 Sep 2026 05:24:01 +0000</pubDate></item><item><title>#7 THU-MAIC/OpenMAIC (+837 stars)</title><link>https://github.com/THU-MAIC/OpenMAIC</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;pascalorg/editor&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.&lt;/p&gt;
-&lt;p&gt;⭐ 23,057 | +107 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;THU-MAIC/OpenMAIC&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click&lt;/p&gt;
+&lt;p&gt;⭐ 35,502 | +837 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/THU-MAIC/OpenMAIC#2026-09-11</guid><pubDate>Fri, 11 Sep 2026 05:24:01 +0000</pubDate></item><item><title>#8 AlexsJones/llmfit (+258 stars)</title><link>https://github.com/AlexsJones/llmfit</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;AlexsJones/llmfit&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hundreds of models &amp; providers. One command to find what runs on your hardware.&lt;/p&gt;
+&lt;p&gt;⭐ 35,834 | +258 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/pascalorg/editor#2026-09-10</guid><pubDate>Thu, 10 Sep 2026 05:25:29 +0000</pubDate></item><item><title>#8 liquidslr/system-design-notes (+1,397 stars)</title><link>https://github.com/liquidslr/system-design-notes</link><description>
+</description><guid isPermaLink="false">https://github.com/AlexsJones/llmfit#2026-09-11</guid><pubDate>Fri, 11 Sep 2026 05:24:01 +0000</pubDate></item><item><title>#9 liquidslr/system-design-notes (+900 stars)</title><link>https://github.com/liquidslr/system-design-notes</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;liquidslr/system-design-notes&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Notes of the book System Desgin Interview - An Insider's Guide&lt;/p&gt;
-&lt;p&gt;⭐ 18,182 | +1,397 today | 🔧 Unknown&lt;/p&gt;
+&lt;p&gt;⭐ 18,962 | +900 today | 🔧 Unknown&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/liquidslr/system-design-notes#2026-09-10</guid><pubDate>Thu, 10 Sep 2026 05:25:29 +0000</pubDate></item><item><title>#9 openai/plugins (+498 stars)</title><link>https://github.com/openai/plugins</link><description>
+</description><guid isPermaLink="false">https://github.com/liquidslr/system-design-notes#2026-09-11</guid><pubDate>Fri, 11 Sep 2026 05:24:01 +0000</pubDate></item><item><title>#10 vastsa/PI-Desktop (+624 stars)</title><link>https://github.com/vastsa/PI-Desktop</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;openai/plugins&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI Plugins&lt;/p&gt;
-&lt;p&gt;⭐ 6,264 | +498 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;vastsa/PI-Desktop&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins&lt;/p&gt;
+&lt;p&gt;⭐ 2,420 | +624 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/openai/plugins#2026-09-10</guid><pubDate>Thu, 10 Sep 2026 05:25:29 +0000</pubDate></item><item><title>#10 rohitg00/ai-engineering-from-scratch (+343 stars)</title><link>https://github.com/rohitg00/ai-engineering-from-scratch</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;rohitg00/ai-engineering-from-scratch&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Learn it. Build it. Ship it for others.&lt;/p&gt;
-&lt;p&gt;⭐ 53,836 | +343 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/rohitg00/ai-engineering-from-scratch#2026-09-10</guid><pubDate>Thu, 10 Sep 2026 05:25:29 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/vastsa/PI-Desktop#2026-09-11</guid><pubDate>Fri, 11 Sep 2026 05:24:01 +0000</pubDate></item></channel></rss>
