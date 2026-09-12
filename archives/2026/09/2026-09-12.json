@@ -1,0 +1,135 @@
+{
+  "date": "2026-09-12",
+  "updated_at": "2026-09-12 05:14:23",
+  "count": 16,
+  "rankings": [
+    {
+      "name": "ayghri/i-have-adhd",
+      "rank": 1,
+      "stars": "42,238",
+      "stars_today": "3,463",
+      "language": "Python",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
+    },
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "rank": 2,
+      "stars": "27,412",
+      "stars_today": "3,680",
+      "language": "JavaScript",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 3,
+      "stars": "285,454",
+      "stars_today": "729",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "github/spec-kit",
+      "rank": 4,
+      "stars": "135,831",
+      "stars_today": "1,015",
+      "language": "Python",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development"
+    },
+    {
+      "name": "vastsa/PI-Desktop",
+      "rank": 5,
+      "stars": "2,853",
+      "stars_today": "552",
+      "language": "TypeScript",
+      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins"
+    },
+    {
+      "name": "nashsu/llm_wiki",
+      "rank": 6,
+      "stars": "18,829",
+      "stars_today": "647",
+      "language": "TypeScript",
+      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。"
+    },
+    {
+      "name": "pascalorg/editor",
+      "rank": 7,
+      "stars": "23,694",
+      "stars_today": "106",
+      "language": "TypeScript",
+      "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents."
+    },
+    {
+      "name": "armory3d/armorpaint",
+      "rank": 8,
+      "stars": "4,769",
+      "stars_today": "350",
+      "language": "C",
+      "description": "Graphics Creation Tools"
+    },
+    {
+      "name": "alsk1992/CloddsBot",
+      "rank": 9,
+      "stars": "2,226",
+      "stars_today": "626",
+      "language": "TypeScript",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude."
+    },
+    {
+      "name": "Sonarr/Sonarr",
+      "rank": 10,
+      "stars": "15,771",
+      "stars_today": "191",
+      "language": "C#",
+      "description": "Smart PVR for newsgroup and bittorrent users."
+    },
+    {
+      "name": "jihe520/MathModelAgent",
+      "rank": 11,
+      "stars": "4,909",
+      "stars_today": "129",
+      "language": "Python",
+      "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission."
+    },
+    {
+      "name": "jordan-gibbs/hyperresearch",
+      "rank": 12,
+      "stars": "2,735",
+      "stars_today": "153",
+      "language": "Python",
+      "description": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki."
+    },
+    {
+      "name": "nab138/iloader",
+      "rank": 13,
+      "stars": "2,942",
+      "stars_today": "50",
+      "language": "TypeScript",
+      "description": "User friendly sideloader"
+    },
+    {
+      "name": "melgarafael/DeskcommCRM",
+      "rank": 14,
+      "stars": "1,435",
+      "stars_today": "152",
+      "language": "TypeScript",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD."
+    },
+    {
+      "name": "p1neappleXpress/OpenFlux",
+      "rank": 15,
+      "stars": "1,197",
+      "stars_today": "198",
+      "language": "Go",
+      "description": "Network stack research tool. TCP tunnel with pluggable transports."
+    },
+    {
+      "name": "alphaXiv/OpenResearch",
+      "rank": 16,
+      "stars": "1,378",
+      "stars_today": "120",
+      "language": "Rust",
+      "description": "Run parallel research agents with any model"
+    }
+  ]
+}
