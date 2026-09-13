@@ -1,0 +1,135 @@
+{
+  "date": "2026-09-13",
+  "updated_at": "2026-09-13 05:29:00",
+  "count": 16,
+  "rankings": [
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "rank": 1,
+      "stars": "30,331",
+      "stars_today": "2,265",
+      "language": "JavaScript",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
+    },
+    {
+      "name": "melgarafael/DeskcommCRM",
+      "rank": 2,
+      "stars": "1,887",
+      "stars_today": "504",
+      "language": "TypeScript",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD."
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "rank": 3,
+      "stars": "65,541",
+      "stars_today": "217",
+      "language": "JavaScript",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly."
+    },
+    {
+      "name": "Sonarr/Sonarr",
+      "rank": 4,
+      "stars": "15,963",
+      "stars_today": "227",
+      "language": "C#",
+      "description": "Smart PVR for newsgroup and bittorrent users."
+    },
+    {
+      "name": "yuliskov/SmartTube",
+      "rank": 5,
+      "stars": "33,253",
+      "stars_today": "136",
+      "language": "Java",
+      "description": "Browse media content with your own rules on Android TV"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "rank": 6,
+      "stars": "137,711",
+      "stars_today": "230",
+      "language": "Python",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source."
+    },
+    {
+      "name": "vxcontrol/pentagi",
+      "rank": 7,
+      "stars": "23,548",
+      "stars_today": "189",
+      "language": "Go",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks"
+    },
+    {
+      "name": "nab138/iloader",
+      "rank": 8,
+      "stars": "3,130",
+      "stars_today": "209",
+      "language": "TypeScript",
+      "description": "User friendly sideloader"
+    },
+    {
+      "name": "Flowseal/zapret-discord-youtube",
+      "rank": 9,
+      "stars": "33,219",
+      "stars_today": "65",
+      "language": "Batchfile",
+      "description": ""
+    },
+    {
+      "name": "jihe520/MathModelAgent",
+      "rank": 10,
+      "stars": "5,185",
+      "stars_today": "262",
+      "language": "Python",
+      "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission."
+    },
+    {
+      "name": "alsk1992/CloddsBot",
+      "rank": 11,
+      "stars": "2,561",
+      "stars_today": "376",
+      "language": "TypeScript",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude."
+    },
+    {
+      "name": "p1neappleXpress/OpenFlux",
+      "rank": 12,
+      "stars": "1,428",
+      "stars_today": "355",
+      "language": "Go",
+      "description": "Network stack research tool. TCP tunnel with pluggable transports."
+    },
+    {
+      "name": "armory3d/armorpaint",
+      "rank": 13,
+      "stars": "4,937",
+      "stars_today": "237",
+      "language": "C",
+      "description": "Graphics Creation Tools"
+    },
+    {
+      "name": "SnailSploit/Claude-Red",
+      "rank": 14,
+      "stars": "3,694",
+      "stars_today": "113",
+      "language": "Python",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development."
+    },
+    {
+      "name": "multimodal-art-projection/YuE",
+      "rank": 15,
+      "stars": "7,381",
+      "stars_today": "210",
+      "language": "Python",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing."
+    },
+    {
+      "name": "max-sixty/worktrunk",
+      "rank": 16,
+      "stars": "7,307",
+      "stars_today": "54",
+      "language": "Rust",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
+    }
+  ]
+}

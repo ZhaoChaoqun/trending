@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sat, 12 Sep 2026 05:14:23 +0000</pubDate><lastBuildDate>Sat, 12 Sep 2026 05:14:23 +0000</lastBuildDate><item><title>#1 ayghri/i-have-adhd (+3,463 stars)</title><link>https://github.com/ayghri/i-have-adhd</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ayghri/i-have-adhd&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A skill to stop your coding agent from burying the answer. ADHD-friendly output.&lt;/p&gt;
-&lt;p&gt;⭐ 42,238 | +3,463 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/ayghri/i-have-adhd#2026-09-12</guid><pubDate>Sat, 12 Sep 2026 05:14:23 +0000</pubDate></item><item><title>#2 bilawalsidhu/gods-eye-view (+3,680 stars)</title><link>https://github.com/bilawalsidhu/gods-eye-view</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sun, 13 Sep 2026 05:29:00 +0000</pubDate><lastBuildDate>Sun, 13 Sep 2026 05:29:00 +0000</lastBuildDate><item><title>#1 bilawalsidhu/gods-eye-view (+2,265 stars)</title><link>https://github.com/bilawalsidhu/gods-eye-view</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;bilawalsidhu/gods-eye-view&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.&lt;/p&gt;
-&lt;p&gt;⭐ 27,412 | +3,680 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 30,331 | +2,265 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/bilawalsidhu/gods-eye-view#2026-09-12</guid><pubDate>Sat, 12 Sep 2026 05:14:23 +0000</pubDate></item><item><title>#3 obra/superpowers (+729 stars)</title><link>https://github.com/obra/superpowers</link><description>
+</description><guid isPermaLink="false">https://github.com/bilawalsidhu/gods-eye-view#2026-09-13</guid><pubDate>Sun, 13 Sep 2026 05:29:00 +0000</pubDate></item><item><title>#2 melgarafael/DeskcommCRM (+504 stars)</title><link>https://github.com/melgarafael/DeskcommCRM</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 285,454 | +729 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-09-12</guid><pubDate>Sat, 12 Sep 2026 05:14:23 +0000</pubDate></item><item><title>#4 github/spec-kit (+1,015 stars)</title><link>https://github.com/github/spec-kit</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;github/spec-kit&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;💫 Toolkit to help you get started with Spec-Driven Development&lt;/p&gt;
-&lt;p&gt;⭐ 135,831 | +1,015 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/github/spec-kit#2026-09-12</guid><pubDate>Sat, 12 Sep 2026 05:14:23 +0000</pubDate></item><item><title>#5 vastsa/PI-Desktop (+552 stars)</title><link>https://github.com/vastsa/PI-Desktop</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;vastsa/PI-Desktop&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins&lt;/p&gt;
-&lt;p&gt;⭐ 2,853 | +552 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;melgarafael/DeskcommCRM&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.&lt;/p&gt;
+&lt;p&gt;⭐ 1,887 | +504 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/vastsa/PI-Desktop#2026-09-12</guid><pubDate>Sat, 12 Sep 2026 05:14:23 +0000</pubDate></item><item><title>#6 nashsu/llm_wiki (+647 stars)</title><link>https://github.com/nashsu/llm_wiki</link><description>
+</description><guid isPermaLink="false">https://github.com/melgarafael/DeskcommCRM#2026-09-13</guid><pubDate>Sun, 13 Sep 2026 05:29:00 +0000</pubDate></item><item><title>#3 asgeirtj/system_prompts_leaks (+217 stars)</title><link>https://github.com/asgeirtj/system_prompts_leaks</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;nashsu/llm_wiki&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。&lt;/p&gt;
-&lt;p&gt;⭐ 18,829 | +647 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;asgeirtj/system_prompts_leaks&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.&lt;/p&gt;
+&lt;p&gt;⭐ 65,541 | +217 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/nashsu/llm_wiki#2026-09-12</guid><pubDate>Sat, 12 Sep 2026 05:14:23 +0000</pubDate></item><item><title>#7 pascalorg/editor (+106 stars)</title><link>https://github.com/pascalorg/editor</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;pascalorg/editor&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.&lt;/p&gt;
-&lt;p&gt;⭐ 23,694 | +106 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/pascalorg/editor#2026-09-12</guid><pubDate>Sat, 12 Sep 2026 05:14:23 +0000</pubDate></item><item><title>#8 armory3d/armorpaint (+350 stars)</title><link>https://github.com/armory3d/armorpaint</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;armory3d/armorpaint&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Graphics Creation Tools&lt;/p&gt;
-&lt;p&gt;⭐ 4,769 | +350 today | 🔧 C&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/armory3d/armorpaint#2026-09-12</guid><pubDate>Sat, 12 Sep 2026 05:14:23 +0000</pubDate></item><item><title>#9 alsk1992/CloddsBot (+626 stars)</title><link>https://github.com/alsk1992/CloddsBot</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;alsk1992/CloddsBot&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.&lt;/p&gt;
-&lt;p&gt;⭐ 2,226 | +626 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/alsk1992/CloddsBot#2026-09-12</guid><pubDate>Sat, 12 Sep 2026 05:14:23 +0000</pubDate></item><item><title>#10 Sonarr/Sonarr (+191 stars)</title><link>https://github.com/Sonarr/Sonarr</link><description>
+</description><guid isPermaLink="false">https://github.com/asgeirtj/system_prompts_leaks#2026-09-13</guid><pubDate>Sun, 13 Sep 2026 05:29:00 +0000</pubDate></item><item><title>#4 Sonarr/Sonarr (+227 stars)</title><link>https://github.com/Sonarr/Sonarr</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;Sonarr/Sonarr&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Smart PVR for newsgroup and bittorrent users.&lt;/p&gt;
-&lt;p&gt;⭐ 15,771 | +191 today | 🔧 C#&lt;/p&gt;
+&lt;p&gt;⭐ 15,963 | +227 today | 🔧 C#&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Sonarr/Sonarr#2026-09-13</guid><pubDate>Sun, 13 Sep 2026 05:29:00 +0000</pubDate></item><item><title>#5 yuliskov/SmartTube (+136 stars)</title><link>https://github.com/yuliskov/SmartTube</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;yuliskov/SmartTube&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Browse media content with your own rules on Android TV&lt;/p&gt;
+&lt;p&gt;⭐ 33,253 | +136 today | 🔧 Java&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/yuliskov/SmartTube#2026-09-13</guid><pubDate>Sun, 13 Sep 2026 05:29:00 +0000</pubDate></item><item><title>#6 Shubhamsaboo/awesome-llm-apps (+230 stars)</title><link>https://github.com/Shubhamsaboo/awesome-llm-apps</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Shubhamsaboo/awesome-llm-apps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.&lt;/p&gt;
+&lt;p&gt;⭐ 137,711 | +230 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Shubhamsaboo/awesome-llm-apps#2026-09-13</guid><pubDate>Sun, 13 Sep 2026 05:29:00 +0000</pubDate></item><item><title>#7 vxcontrol/pentagi (+189 stars)</title><link>https://github.com/vxcontrol/pentagi</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;vxcontrol/pentagi&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fully autonomous AI Agents system capable of performing complex penetration testing tasks&lt;/p&gt;
+&lt;p&gt;⭐ 23,548 | +189 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/vxcontrol/pentagi#2026-09-13</guid><pubDate>Sun, 13 Sep 2026 05:29:00 +0000</pubDate></item><item><title>#8 nab138/iloader (+209 stars)</title><link>https://github.com/nab138/iloader</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;nab138/iloader&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;User friendly sideloader&lt;/p&gt;
+&lt;p&gt;⭐ 3,130 | +209 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Sonarr/Sonarr#2026-09-12</guid><pubDate>Sat, 12 Sep 2026 05:14:23 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/nab138/iloader#2026-09-13</guid><pubDate>Sun, 13 Sep 2026 05:29:00 +0000</pubDate></item><item><title>#9 Flowseal/zapret-discord-youtube (+65 stars)</title><link>https://github.com/Flowseal/zapret-discord-youtube</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Flowseal/zapret-discord-youtube&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;⭐ 33,219 | +65 today | 🔧 Batchfile&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Flowseal/zapret-discord-youtube#2026-09-13</guid><pubDate>Sun, 13 Sep 2026 05:29:00 +0000</pubDate></item><item><title>#10 jihe520/MathModelAgent (+262 stars)</title><link>https://github.com/jihe520/MathModelAgent</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;jihe520/MathModelAgent&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;🤖📐专为数学建模设计的 Agent &amp; skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.&lt;/p&gt;
+&lt;p&gt;⭐ 5,185 | +262 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/jihe520/MathModelAgent#2026-09-13</guid><pubDate>Sun, 13 Sep 2026 05:29:00 +0000</pubDate></item></channel></rss>
