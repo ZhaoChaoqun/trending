@@ -1,0 +1,159 @@
+{
+  "date": "2026-09-14",
+  "updated_at": "2026-09-14 05:33:17",
+  "count": 19,
+  "rankings": [
+    {
+      "name": "JustVugg/colibri",
+      "rank": 1,
+      "stars": "30,253",
+      "stars_today": "868",
+      "language": "C",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+    },
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "rank": 2,
+      "stars": "32,321",
+      "stars_today": "2,680",
+      "language": "JavaScript",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "rank": 3,
+      "stars": "58,664",
+      "stars_today": "380",
+      "language": "Python",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio."
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "rank": 4,
+      "stars": "66,225",
+      "stars_today": "706",
+      "language": "JavaScript",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly."
+    },
+    {
+      "name": "vxcontrol/pentagi",
+      "rank": 5,
+      "stars": "24,118",
+      "stars_today": "590",
+      "language": "Go",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "rank": 6,
+      "stars": "27,380",
+      "stars_today": "2,632",
+      "language": "Python",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+    },
+    {
+      "name": "multimodal-art-projection/YuE",
+      "rank": 7,
+      "stars": "7,891",
+      "stars_today": "487",
+      "language": "Python",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing."
+    },
+    {
+      "name": "yuliskov/SmartTube",
+      "rank": 8,
+      "stars": "33,506",
+      "stars_today": "233",
+      "language": "Java",
+      "description": "Browse media content with your own rules on Android TV"
+    },
+    {
+      "name": "SnailSploit/Claude-Red",
+      "rank": 9,
+      "stars": "4,273",
+      "stars_today": "506",
+      "language": "Python",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development."
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "rank": 10,
+      "stars": "23,785",
+      "stars_today": "443",
+      "language": "Go",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+    },
+    {
+      "name": "tonhowtf/omniget",
+      "rank": 11,
+      "stars": "11,915",
+      "stars_today": "507",
+      "language": "Rust",
+      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer."
+    },
+    {
+      "name": "jiji262/douyin-downloader",
+      "rank": 12,
+      "stars": "11,517",
+      "stars_today": "452",
+      "language": "Python",
+      "description": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。"
+    },
+    {
+      "name": "huggingface/transformers",
+      "rank": 13,
+      "stars": "165,647",
+      "stars_today": "152",
+      "language": "Python",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
+    },
+    {
+      "name": "ever-co/ever-gauzy",
+      "rank": 14,
+      "stars": "5,342",
+      "stars_today": "191",
+      "language": "TypeScript",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co"
+    },
+    {
+      "name": "tech-leads-club/agent-skills",
+      "rank": 15,
+      "stars": "5,776",
+      "stars_today": "265",
+      "language": "TypeScript",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence."
+    },
+    {
+      "name": "melgarafael/DeskcommCRM",
+      "rank": 16,
+      "stars": "2,319",
+      "stars_today": "432",
+      "language": "TypeScript",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD."
+    },
+    {
+      "name": "alphaXiv/OpenResearch",
+      "rank": 17,
+      "stars": "2,222",
+      "stars_today": "289",
+      "language": "Rust",
+      "description": "Turn your coding agents into research agents"
+    },
+    {
+      "name": "jihe520/MathModelAgent",
+      "rank": 18,
+      "stars": "5,438",
+      "stars_today": "246",
+      "language": "Python",
+      "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission."
+    },
+    {
+      "name": "Swordfish90/cool-retro-term",
+      "rank": 19,
+      "stars": "26,285",
+      "stars_today": "57",
+      "language": "QML",
+      "description": "A good looking terminal emulator which mimics the old cathode display..."
+    }
+  ]
+}
