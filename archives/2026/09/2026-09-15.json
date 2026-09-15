@@ -1,0 +1,167 @@
+{
+  "date": "2026-09-15",
+  "updated_at": "2026-09-15 05:34:03",
+  "count": 20,
+  "rankings": [
+    {
+      "name": "JustVugg/colibri",
+      "rank": 1,
+      "stars": "32,439",
+      "stars_today": "2,173",
+      "language": "C",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "rank": 2,
+      "stars": "26,288",
+      "stars_today": "1,571",
+      "language": "Go",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "rank": 3,
+      "stars": "29,672",
+      "stars_today": "2,776",
+      "language": "Python",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+    },
+    {
+      "name": "666ghj/MiroFish",
+      "rank": 4,
+      "stars": "73,375",
+      "stars_today": "560",
+      "language": "Python",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "rank": 5,
+      "stars": "81,553",
+      "stars_today": "651",
+      "language": "Python",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "rank": 6,
+      "stars": "66,941",
+      "stars_today": "764",
+      "language": "JavaScript",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly."
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "rank": 7,
+      "stars": "106,309",
+      "stars_today": "745",
+      "language": "Python",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+    },
+    {
+      "name": "huggingface/transformers",
+      "rank": 8,
+      "stars": "166,081",
+      "stars_today": "536",
+      "language": "Python",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
+    },
+    {
+      "name": "multimodal-art-projection/YuE",
+      "rank": 9,
+      "stars": "8,574",
+      "stars_today": "559",
+      "language": "Python",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing."
+    },
+    {
+      "name": "localsend/localsend",
+      "rank": 10,
+      "stars": "91,447",
+      "stars_today": "251",
+      "language": "Dart",
+      "description": "An open-source cross-platform alternative to AirDrop"
+    },
+    {
+      "name": "dani-garcia/vaultwarden",
+      "rank": 11,
+      "stars": "67,589",
+      "stars_today": "115",
+      "language": "Rust",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "rank": 12,
+      "stars": "93,960",
+      "stars_today": "383",
+      "language": "Rust",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+    },
+    {
+      "name": "tech-leads-club/agent-skills",
+      "rank": 13,
+      "stars": "6,157",
+      "stars_today": "512",
+      "language": "TypeScript",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence."
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "rank": 14,
+      "stars": "37,460",
+      "stars_today": "216",
+      "language": "Python",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning"
+    },
+    {
+      "name": "ever-co/ever-gauzy",
+      "rank": 15,
+      "stars": "6,122",
+      "stars_today": "1,130",
+      "language": "TypeScript",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co"
+    },
+    {
+      "name": "reconurge/flowsint",
+      "rank": 16,
+      "stars": "8,435",
+      "stars_today": "280",
+      "language": "TypeScript",
+      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators."
+    },
+    {
+      "name": "SnailSploit/Claude-Red",
+      "rank": 17,
+      "stars": "4,904",
+      "stars_today": "579",
+      "language": "Python",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development."
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "rank": 18,
+      "stars": "37,008",
+      "stars_today": "40",
+      "language": "TypeScript",
+      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required."
+    },
+    {
+      "name": "peetzweg/opendisplay",
+      "rank": 19,
+      "stars": "3,689",
+      "stars_today": "229",
+      "language": "Swift",
+      "description": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input."
+    },
+    {
+      "name": "rlaope/oh-my-hermes",
+      "rank": 20,
+      "stars": "2,195",
+      "stars_today": "77",
+      "language": "Python",
+      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages"
+    }
+  ]
+}
