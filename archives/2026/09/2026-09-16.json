@@ -1,0 +1,119 @@
+{
+  "date": "2026-09-16",
+  "updated_at": "2026-09-16 05:27:25",
+  "count": 14,
+  "rankings": [
+    {
+      "name": "alibaba/open-code-review",
+      "rank": 1,
+      "stars": "29,205",
+      "stars_today": "2,756",
+      "language": "Go",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+    },
+    {
+      "name": "JustVugg/colibri",
+      "rank": 2,
+      "stars": "34,105",
+      "stars_today": "2,026",
+      "language": "C",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "rank": 3,
+      "stars": "31,256",
+      "stars_today": "2,072",
+      "language": "Python",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+    },
+    {
+      "name": "NationalSecurityAgency/ghidra",
+      "rank": 4,
+      "stars": "76,911",
+      "stars_today": "725",
+      "language": "Java",
+      "description": "Ghidra is a software reverse engineering (SRE) framework"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "rank": 5,
+      "stars": "94,942",
+      "stars_today": "307",
+      "language": "JavaScript",
+      "description": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "name": "earendil-works/pi",
+      "rank": 6,
+      "stars": "105,897",
+      "stars_today": "458",
+      "language": "TypeScript",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI"
+    },
+    {
+      "name": "ever-co/ever-gauzy",
+      "rank": 7,
+      "stars": "6,827",
+      "stars_today": "634",
+      "language": "TypeScript",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co"
+    },
+    {
+      "name": "danny-avila/LibreChat",
+      "rank": 8,
+      "stars": "43,945",
+      "stars_today": "254",
+      "language": "TypeScript",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active"
+    },
+    {
+      "name": "tonhowtf/omniget",
+      "rank": 9,
+      "stars": "13,126",
+      "stars_today": "258",
+      "language": "Rust",
+      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer."
+    },
+    {
+      "name": "melgarafael/DeskcommCRM",
+      "rank": 10,
+      "stars": "2,940",
+      "stars_today": "193",
+      "language": "TypeScript",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD."
+    },
+    {
+      "name": "alphaXiv/OpenResearch",
+      "rank": 11,
+      "stars": "3,567",
+      "stars_today": "531",
+      "language": "Rust",
+      "description": "Turn your coding agents into research agents"
+    },
+    {
+      "name": "Homebrew/BrewUI",
+      "rank": 12,
+      "stars": "1,524",
+      "stars_today": "271",
+      "language": "Swift",
+      "description": "📺 Homebrew's official macOS GUI"
+    },
+    {
+      "name": "pacifio/atlas",
+      "rank": 13,
+      "stars": "4,712",
+      "stars_today": "91",
+      "language": "Rust",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place"
+    },
+    {
+      "name": "MG1937/ASC",
+      "rank": 14,
+      "stars": "1,284",
+      "stars_today": "129",
+      "language": "Python",
+      "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers."
+    }
+  ]
+}

@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Tue, 15 Sep 2026 05:34:03 +0000</pubDate><lastBuildDate>Tue, 15 Sep 2026 05:34:03 +0000</lastBuildDate><item><title>#1 JustVugg/colibri (+2,173 stars)</title><link>https://github.com/JustVugg/colibri</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;JustVugg/colibri&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦&lt;/p&gt;
-&lt;p&gt;⭐ 32,439 | +2,173 today | 🔧 C&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/JustVugg/colibri#2026-09-15</guid><pubDate>Tue, 15 Sep 2026 05:34:03 +0000</pubDate></item><item><title>#2 alibaba/open-code-review (+1,571 stars)</title><link>https://github.com/alibaba/open-code-review</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Wed, 16 Sep 2026 05:27:25 +0000</pubDate><lastBuildDate>Wed, 16 Sep 2026 05:27:25 +0000</lastBuildDate><item><title>#1 alibaba/open-code-review (+2,756 stars)</title><link>https://github.com/alibaba/open-code-review</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;alibaba/open-code-review&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.&lt;/p&gt;
-&lt;p&gt;⭐ 26,288 | +1,571 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;⭐ 29,205 | +2,756 today | 🔧 Go&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/alibaba/open-code-review#2026-09-15</guid><pubDate>Tue, 15 Sep 2026 05:34:03 +0000</pubDate></item><item><title>#3 debpalash/VoiceStudio (+2,776 stars)</title><link>https://github.com/debpalash/VoiceStudio</link><description>
+</description><guid isPermaLink="false">https://github.com/alibaba/open-code-review#2026-09-16</guid><pubDate>Wed, 16 Sep 2026 05:27:25 +0000</pubDate></item><item><title>#2 JustVugg/colibri (+2,026 stars)</title><link>https://github.com/JustVugg/colibri</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;JustVugg/colibri&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦&lt;/p&gt;
+&lt;p&gt;⭐ 34,105 | +2,026 today | 🔧 C&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/JustVugg/colibri#2026-09-16</guid><pubDate>Wed, 16 Sep 2026 05:27:25 +0000</pubDate></item><item><title>#3 debpalash/VoiceStudio (+2,072 stars)</title><link>https://github.com/debpalash/VoiceStudio</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;debpalash/VoiceStudio&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.&lt;/p&gt;
-&lt;p&gt;⭐ 29,672 | +2,776 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 31,256 | +2,072 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/debpalash/VoiceStudio#2026-09-15</guid><pubDate>Tue, 15 Sep 2026 05:34:03 +0000</pubDate></item><item><title>#4 666ghj/MiroFish (+560 stars)</title><link>https://github.com/666ghj/MiroFish</link><description>
+</description><guid isPermaLink="false">https://github.com/debpalash/VoiceStudio#2026-09-16</guid><pubDate>Wed, 16 Sep 2026 05:27:25 +0000</pubDate></item><item><title>#4 NationalSecurityAgency/ghidra (+725 stars)</title><link>https://github.com/NationalSecurityAgency/ghidra</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;666ghj/MiroFish&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物&lt;/p&gt;
-&lt;p&gt;⭐ 73,375 | +560 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NationalSecurityAgency/ghidra&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ghidra is a software reverse engineering (SRE) framework&lt;/p&gt;
+&lt;p&gt;⭐ 76,911 | +725 today | 🔧 Java&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/666ghj/MiroFish#2026-09-15</guid><pubDate>Tue, 15 Sep 2026 05:34:03 +0000</pubDate></item><item><title>#5 Panniantong/Agent-Reach (+651 stars)</title><link>https://github.com/Panniantong/Agent-Reach</link><description>
+</description><guid isPermaLink="false">https://github.com/NationalSecurityAgency/ghidra#2026-09-16</guid><pubDate>Wed, 16 Sep 2026 05:27:25 +0000</pubDate></item><item><title>#5 addyosmani/agent-skills (+307 stars)</title><link>https://github.com/addyosmani/agent-skills</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Panniantong/Agent-Reach&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.&lt;/p&gt;
-&lt;p&gt;⭐ 81,553 | +651 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;addyosmani/agent-skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Production-grade engineering skills for AI coding agents.&lt;/p&gt;
+&lt;p&gt;⭐ 94,942 | +307 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Panniantong/Agent-Reach#2026-09-15</guid><pubDate>Tue, 15 Sep 2026 05:34:03 +0000</pubDate></item><item><title>#6 asgeirtj/system_prompts_leaks (+764 stars)</title><link>https://github.com/asgeirtj/system_prompts_leaks</link><description>
+</description><guid isPermaLink="false">https://github.com/addyosmani/agent-skills#2026-09-16</guid><pubDate>Wed, 16 Sep 2026 05:27:25 +0000</pubDate></item><item><title>#6 earendil-works/pi (+458 stars)</title><link>https://github.com/earendil-works/pi</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;asgeirtj/system_prompts_leaks&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.&lt;/p&gt;
-&lt;p&gt;⭐ 66,941 | +764 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;earendil-works/pi&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI&lt;/p&gt;
+&lt;p&gt;⭐ 105,897 | +458 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/asgeirtj/system_prompts_leaks#2026-09-15</guid><pubDate>Tue, 15 Sep 2026 05:34:03 +0000</pubDate></item><item><title>#7 TauricResearch/TradingAgents (+745 stars)</title><link>https://github.com/TauricResearch/TradingAgents</link><description>
+</description><guid isPermaLink="false">https://github.com/earendil-works/pi#2026-09-16</guid><pubDate>Wed, 16 Sep 2026 05:27:25 +0000</pubDate></item><item><title>#7 ever-co/ever-gauzy (+634 stars)</title><link>https://github.com/ever-co/ever-gauzy</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;TauricResearch/TradingAgents&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;TradingAgents: Multi-Agents LLM Financial Trading Framework&lt;/p&gt;
-&lt;p&gt;⭐ 106,309 | +745 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/TauricResearch/TradingAgents#2026-09-15</guid><pubDate>Tue, 15 Sep 2026 05:34:03 +0000</pubDate></item><item><title>#8 huggingface/transformers (+536 stars)</title><link>https://github.com/huggingface/transformers</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;huggingface/transformers&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.&lt;/p&gt;
-&lt;p&gt;⭐ 166,081 | +536 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/huggingface/transformers#2026-09-15</guid><pubDate>Tue, 15 Sep 2026 05:34:03 +0000</pubDate></item><item><title>#9 multimodal-art-projection/YuE (+559 stars)</title><link>https://github.com/multimodal-art-projection/YuE</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;multimodal-art-projection/YuE&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.&lt;/p&gt;
-&lt;p&gt;⭐ 8,574 | +559 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ever-co/ever-gauzy&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co&lt;/p&gt;
+&lt;p&gt;⭐ 6,827 | +634 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/multimodal-art-projection/YuE#2026-09-15</guid><pubDate>Tue, 15 Sep 2026 05:34:03 +0000</pubDate></item><item><title>#10 localsend/localsend (+251 stars)</title><link>https://github.com/localsend/localsend</link><description>
+</description><guid isPermaLink="false">https://github.com/ever-co/ever-gauzy#2026-09-16</guid><pubDate>Wed, 16 Sep 2026 05:27:25 +0000</pubDate></item><item><title>#8 danny-avila/LibreChat (+254 stars)</title><link>https://github.com/danny-avila/LibreChat</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;localsend/localsend&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An open-source cross-platform alternative to AirDrop&lt;/p&gt;
-&lt;p&gt;⭐ 91,447 | +251 today | 🔧 Dart&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;danny-avila/LibreChat&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active&lt;/p&gt;
+&lt;p&gt;⭐ 43,945 | +254 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/localsend/localsend#2026-09-15</guid><pubDate>Tue, 15 Sep 2026 05:34:03 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/danny-avila/LibreChat#2026-09-16</guid><pubDate>Wed, 16 Sep 2026 05:27:25 +0000</pubDate></item><item><title>#9 tonhowtf/omniget (+258 stars)</title><link>https://github.com/tonhowtf/omniget</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;tonhowtf/omniget&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.&lt;/p&gt;
+&lt;p&gt;⭐ 13,126 | +258 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/tonhowtf/omniget#2026-09-16</guid><pubDate>Wed, 16 Sep 2026 05:27:25 +0000</pubDate></item><item><title>#10 melgarafael/DeskcommCRM (+193 stars)</title><link>https://github.com/melgarafael/DeskcommCRM</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;melgarafael/DeskcommCRM&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.&lt;/p&gt;
+&lt;p&gt;⭐ 2,940 | +193 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/melgarafael/DeskcommCRM#2026-09-16</guid><pubDate>Wed, 16 Sep 2026 05:27:25 +0000</pubDate></item></channel></rss>
