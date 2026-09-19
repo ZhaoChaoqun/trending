@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 18 Sep 2026 05:22:56 +0000</pubDate><lastBuildDate>Fri, 18 Sep 2026 05:22:56 +0000</lastBuildDate><item><title>#1 alibaba/open-code-review (+3,286 stars)</title><link>https://github.com/alibaba/open-code-review</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;alibaba/open-code-review&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.&lt;/p&gt;
-&lt;p&gt;⭐ 35,371 | +3,286 today | 🔧 Go&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/alibaba/open-code-review#2026-09-18</guid><pubDate>Fri, 18 Sep 2026 05:22:56 +0000</pubDate></item><item><title>#2 addyosmani/agent-skills (+680 stars)</title><link>https://github.com/addyosmani/agent-skills</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;addyosmani/agent-skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Production-grade engineering skills for AI coding agents.&lt;/p&gt;
-&lt;p&gt;⭐ 95,978 | +680 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/addyosmani/agent-skills#2026-09-18</guid><pubDate>Fri, 18 Sep 2026 05:22:56 +0000</pubDate></item><item><title>#3 anthropics/claude-code (+538 stars)</title><link>https://github.com/anthropics/claude-code</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sat, 19 Sep 2026 05:16:02 +0000</pubDate><lastBuildDate>Sat, 19 Sep 2026 05:16:02 +0000</lastBuildDate><item><title>#1 anthropics/claude-code (+444 stars)</title><link>https://github.com/anthropics/claude-code</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;anthropics/claude-code&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.&lt;/p&gt;
-&lt;p&gt;⭐ 145,943 | +538 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 146,386 | +444 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/anthropics/claude-code#2026-09-18</guid><pubDate>Fri, 18 Sep 2026 05:22:56 +0000</pubDate></item><item><title>#4 NationalSecurityAgency/ghidra (+912 stars)</title><link>https://github.com/NationalSecurityAgency/ghidra</link><description>
+</description><guid isPermaLink="false">https://github.com/anthropics/claude-code#2026-09-19</guid><pubDate>Sat, 19 Sep 2026 05:16:02 +0000</pubDate></item><item><title>#2 alibaba/open-code-review (+2,704 stars)</title><link>https://github.com/alibaba/open-code-review</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;NationalSecurityAgency/ghidra&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Ghidra is a software reverse engineering (SRE) framework&lt;/p&gt;
-&lt;p&gt;⭐ 78,630 | +912 today | 🔧 Java&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;alibaba/open-code-review&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.&lt;/p&gt;
+&lt;p&gt;⭐ 36,855 | +2,704 today | 🔧 Go&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/NationalSecurityAgency/ghidra#2026-09-18</guid><pubDate>Fri, 18 Sep 2026 05:22:56 +0000</pubDate></item><item><title>#5 Tencent/WeKnora (+1,125 stars)</title><link>https://github.com/Tencent/WeKnora</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Tencent/WeKnora&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.&lt;/p&gt;
-&lt;p&gt;⭐ 26,511 | +1,125 today | 🔧 Go&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/Tencent/WeKnora#2026-09-18</guid><pubDate>Fri, 18 Sep 2026 05:22:56 +0000</pubDate></item><item><title>#6 jamiepine/voicebox (+667 stars)</title><link>https://github.com/jamiepine/voicebox</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;jamiepine/voicebox&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The open-source AI voice studio. Clone, dictate, create.&lt;/p&gt;
-&lt;p&gt;⭐ 54,936 | +667 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/jamiepine/voicebox#2026-09-18</guid><pubDate>Fri, 18 Sep 2026 05:22:56 +0000</pubDate></item><item><title>#7 affaan-m/ECC (+1,171 stars)</title><link>https://github.com/affaan-m/ECC</link><description>
+</description><guid isPermaLink="false">https://github.com/alibaba/open-code-review#2026-09-19</guid><pubDate>Sat, 19 Sep 2026 05:16:02 +0000</pubDate></item><item><title>#3 affaan-m/ECC (+958 stars)</title><link>https://github.com/affaan-m/ECC</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;affaan-m/ECC&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.&lt;/p&gt;
-&lt;p&gt;⭐ 261,315 | +1,171 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 262,195 | +958 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/affaan-m/ECC#2026-09-18</guid><pubDate>Fri, 18 Sep 2026 05:22:56 +0000</pubDate></item><item><title>#8 JustVugg/colibri (+873 stars)</title><link>https://github.com/JustVugg/colibri</link><description>
+</description><guid isPermaLink="false">https://github.com/affaan-m/ECC#2026-09-19</guid><pubDate>Sat, 19 Sep 2026 05:16:02 +0000</pubDate></item><item><title>#4 addyosmani/agent-skills (+675 stars)</title><link>https://github.com/addyosmani/agent-skills</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;JustVugg/colibri&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦&lt;/p&gt;
-&lt;p&gt;⭐ 35,847 | +873 today | 🔧 C&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;addyosmani/agent-skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Production-grade engineering skills for AI coding agents.&lt;/p&gt;
+&lt;p&gt;⭐ 96,499 | +675 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/JustVugg/colibri#2026-09-18</guid><pubDate>Fri, 18 Sep 2026 05:22:56 +0000</pubDate></item><item><title>#9 cline/cline (+380 stars)</title><link>https://github.com/cline/cline</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;cline/cline&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Autonomous coding agent as an SDK, IDE extension, or CLI assistant.&lt;/p&gt;
-&lt;p&gt;⭐ 68,607 | +380 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/cline/cline#2026-09-18</guid><pubDate>Fri, 18 Sep 2026 05:22:56 +0000</pubDate></item><item><title>#10 cloudflare/security-audit-skill (+3,607 stars)</title><link>https://github.com/cloudflare/security-audit-skill</link><description>
+</description><guid isPermaLink="false">https://github.com/addyosmani/agent-skills#2026-09-19</guid><pubDate>Sat, 19 Sep 2026 05:16:02 +0000</pubDate></item><item><title>#5 cloudflare/security-audit-skill (+3,006 stars)</title><link>https://github.com/cloudflare/security-audit-skill</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;cloudflare/security-audit-skill&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings&lt;/p&gt;
-&lt;p&gt;⭐ 11,059 | +3,607 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 14,137 | +3,006 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/cloudflare/security-audit-skill#2026-09-18</guid><pubDate>Fri, 18 Sep 2026 05:22:56 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/cloudflare/security-audit-skill#2026-09-19</guid><pubDate>Sat, 19 Sep 2026 05:16:02 +0000</pubDate></item><item><title>#6 Tencent/BrowserSkill (+1,306 stars)</title><link>https://github.com/Tencent/BrowserSkill</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Tencent/BrowserSkill&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.&lt;/p&gt;
+&lt;p&gt;⭐ 5,427 | +1,306 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Tencent/BrowserSkill#2026-09-19</guid><pubDate>Sat, 19 Sep 2026 05:16:02 +0000</pubDate></item><item><title>#7 TencentCloud/Octop (+569 stars)</title><link>https://github.com/TencentCloud/Octop</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;TencentCloud/Octop&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A smarter, self-hosted AI assistant — multi-user, multi-agent.&lt;/p&gt;
+&lt;p&gt;⭐ 4,024 | +569 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/TencentCloud/Octop#2026-09-19</guid><pubDate>Sat, 19 Sep 2026 05:16:02 +0000</pubDate></item><item><title>#8 Fission-AI/OpenSpec (+296 stars)</title><link>https://github.com/Fission-AI/OpenSpec</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Fission-AI/OpenSpec&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Spec-driven development (SDD) for AI coding assistants.&lt;/p&gt;
+&lt;p&gt;⭐ 69,429 | +296 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Fission-AI/OpenSpec#2026-09-19</guid><pubDate>Sat, 19 Sep 2026 05:16:02 +0000</pubDate></item><item><title>#9 ankitects/anki (+174 stars)</title><link>https://github.com/ankitects/anki</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;ankitects/anki&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Anki is a smart spaced repetition flashcard program&lt;/p&gt;
+&lt;p&gt;⭐ 31,241 | +174 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/ankitects/anki#2026-09-19</guid><pubDate>Sat, 19 Sep 2026 05:16:02 +0000</pubDate></item><item><title>#10 anthropics/knowledge-work-plugins (+299 stars)</title><link>https://github.com/anthropics/knowledge-work-plugins</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;anthropics/knowledge-work-plugins&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork&lt;/p&gt;
+&lt;p&gt;⭐ 24,929 | +299 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/anthropics/knowledge-work-plugins#2026-09-19</guid><pubDate>Sat, 19 Sep 2026 05:16:02 +0000</pubDate></item></channel></rss>
