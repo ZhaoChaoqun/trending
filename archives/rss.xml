@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sat, 19 Sep 2026 05:16:02 +0000</pubDate><lastBuildDate>Sat, 19 Sep 2026 05:16:02 +0000</lastBuildDate><item><title>#1 anthropics/claude-code (+444 stars)</title><link>https://github.com/anthropics/claude-code</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sun, 20 Sep 2026 05:31:38 +0000</pubDate><lastBuildDate>Sun, 20 Sep 2026 05:31:38 +0000</lastBuildDate><item><title>#1 trycua/cua (+859 stars)</title><link>https://github.com/trycua/cua</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;anthropics/claude-code&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.&lt;/p&gt;
-&lt;p&gt;⭐ 146,386 | +444 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;trycua/cua&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.&lt;/p&gt;
+&lt;p&gt;⭐ 24,623 | +859 today | 🔧 HTML&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/anthropics/claude-code#2026-09-19</guid><pubDate>Sat, 19 Sep 2026 05:16:02 +0000</pubDate></item><item><title>#2 alibaba/open-code-review (+2,704 stars)</title><link>https://github.com/alibaba/open-code-review</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;alibaba/open-code-review&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.&lt;/p&gt;
-&lt;p&gt;⭐ 36,855 | +2,704 today | 🔧 Go&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/alibaba/open-code-review#2026-09-19</guid><pubDate>Sat, 19 Sep 2026 05:16:02 +0000</pubDate></item><item><title>#3 affaan-m/ECC (+958 stars)</title><link>https://github.com/affaan-m/ECC</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;affaan-m/ECC&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.&lt;/p&gt;
-&lt;p&gt;⭐ 262,195 | +958 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/affaan-m/ECC#2026-09-19</guid><pubDate>Sat, 19 Sep 2026 05:16:02 +0000</pubDate></item><item><title>#4 addyosmani/agent-skills (+675 stars)</title><link>https://github.com/addyosmani/agent-skills</link><description>
+</description><guid isPermaLink="false">https://github.com/trycua/cua#2026-09-20</guid><pubDate>Sun, 20 Sep 2026 05:31:38 +0000</pubDate></item><item><title>#2 addyosmani/agent-skills (+556 stars)</title><link>https://github.com/addyosmani/agent-skills</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;addyosmani/agent-skills&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Production-grade engineering skills for AI coding agents.&lt;/p&gt;
-&lt;p&gt;⭐ 96,499 | +675 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 97,175 | +556 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/addyosmani/agent-skills#2026-09-19</guid><pubDate>Sat, 19 Sep 2026 05:16:02 +0000</pubDate></item><item><title>#5 cloudflare/security-audit-skill (+3,006 stars)</title><link>https://github.com/cloudflare/security-audit-skill</link><description>
+</description><guid isPermaLink="false">https://github.com/addyosmani/agent-skills#2026-09-20</guid><pubDate>Sun, 20 Sep 2026 05:31:38 +0000</pubDate></item><item><title>#3 anthropics/claude-code (+483 stars)</title><link>https://github.com/anthropics/claude-code</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;anthropics/claude-code&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.&lt;/p&gt;
+&lt;p&gt;⭐ 146,791 | +483 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/anthropics/claude-code#2026-09-20</guid><pubDate>Sun, 20 Sep 2026 05:31:38 +0000</pubDate></item><item><title>#4 cloudflare/security-audit-skill (+3,155 stars)</title><link>https://github.com/cloudflare/security-audit-skill</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;cloudflare/security-audit-skill&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings&lt;/p&gt;
-&lt;p&gt;⭐ 14,137 | +3,006 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 16,744 | +3,155 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/cloudflare/security-audit-skill#2026-09-19</guid><pubDate>Sat, 19 Sep 2026 05:16:02 +0000</pubDate></item><item><title>#6 Tencent/BrowserSkill (+1,306 stars)</title><link>https://github.com/Tencent/BrowserSkill</link><description>
+</description><guid isPermaLink="false">https://github.com/cloudflare/security-audit-skill#2026-09-20</guid><pubDate>Sun, 20 Sep 2026 05:31:38 +0000</pubDate></item><item><title>#5 coder/coder (+402 stars)</title><link>https://github.com/coder/coder</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Tencent/BrowserSkill&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.&lt;/p&gt;
-&lt;p&gt;⭐ 5,427 | +1,306 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;coder/coder&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Secure environments for developers and their agents&lt;/p&gt;
+&lt;p&gt;⭐ 15,687 | +402 today | 🔧 Go&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Tencent/BrowserSkill#2026-09-19</guid><pubDate>Sat, 19 Sep 2026 05:16:02 +0000</pubDate></item><item><title>#7 TencentCloud/Octop (+569 stars)</title><link>https://github.com/TencentCloud/Octop</link><description>
+</description><guid isPermaLink="false">https://github.com/coder/coder#2026-09-20</guid><pubDate>Sun, 20 Sep 2026 05:31:38 +0000</pubDate></item><item><title>#6 Open-Dev-Society/OpenStock (+472 stars)</title><link>https://github.com/Open-Dev-Society/OpenStock</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;TencentCloud/Octop&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A smarter, self-hosted AI assistant — multi-user, multi-agent.&lt;/p&gt;
-&lt;p&gt;⭐ 4,024 | +569 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Open-Dev-Society/OpenStock&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.&lt;/p&gt;
+&lt;p&gt;⭐ 16,228 | +472 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/TencentCloud/Octop#2026-09-19</guid><pubDate>Sat, 19 Sep 2026 05:16:02 +0000</pubDate></item><item><title>#8 Fission-AI/OpenSpec (+296 stars)</title><link>https://github.com/Fission-AI/OpenSpec</link><description>
+</description><guid isPermaLink="false">https://github.com/Open-Dev-Society/OpenStock#2026-09-20</guid><pubDate>Sun, 20 Sep 2026 05:31:38 +0000</pubDate></item><item><title>#7 docling-project/docling (+129 stars)</title><link>https://github.com/docling-project/docling</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Fission-AI/OpenSpec&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Spec-driven development (SDD) for AI coding assistants.&lt;/p&gt;
-&lt;p&gt;⭐ 69,429 | +296 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;docling-project/docling&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Get your documents ready for gen AI&lt;/p&gt;
+&lt;p&gt;⭐ 67,199 | +129 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Fission-AI/OpenSpec#2026-09-19</guid><pubDate>Sat, 19 Sep 2026 05:16:02 +0000</pubDate></item><item><title>#9 ankitects/anki (+174 stars)</title><link>https://github.com/ankitects/anki</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ankitects/anki&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Anki is a smart spaced repetition flashcard program&lt;/p&gt;
-&lt;p&gt;⭐ 31,241 | +174 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/ankitects/anki#2026-09-19</guid><pubDate>Sat, 19 Sep 2026 05:16:02 +0000</pubDate></item><item><title>#10 anthropics/knowledge-work-plugins (+299 stars)</title><link>https://github.com/anthropics/knowledge-work-plugins</link><description>
+</description><guid isPermaLink="false">https://github.com/docling-project/docling#2026-09-20</guid><pubDate>Sun, 20 Sep 2026 05:31:38 +0000</pubDate></item><item><title>#8 anthropics/knowledge-work-plugins (+281 stars)</title><link>https://github.com/anthropics/knowledge-work-plugins</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;anthropics/knowledge-work-plugins&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork&lt;/p&gt;
-&lt;p&gt;⭐ 24,929 | +299 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 25,181 | +281 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/anthropics/knowledge-work-plugins#2026-09-19</guid><pubDate>Sat, 19 Sep 2026 05:16:02 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/anthropics/knowledge-work-plugins#2026-09-20</guid><pubDate>Sun, 20 Sep 2026 05:31:38 +0000</pubDate></item><item><title>#9 cactus-compute/needle (+234 stars)</title><link>https://github.com/cactus-compute/needle</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;cactus-compute/needle&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.&lt;/p&gt;
+&lt;p&gt;⭐ 11,680 | +234 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/cactus-compute/needle#2026-09-20</guid><pubDate>Sun, 20 Sep 2026 05:31:38 +0000</pubDate></item><item><title>#10 higgsfield-ai/higgsfield (+196 stars)</title><link>https://github.com/higgsfield-ai/higgsfield</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;higgsfield-ai/higgsfield&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters&lt;/p&gt;
+&lt;p&gt;⭐ 5,033 | +196 today | 🔧 Jupyter Notebook&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/higgsfield-ai/higgsfield#2026-09-20</guid><pubDate>Sun, 20 Sep 2026 05:31:38 +0000</pubDate></item></channel></rss>

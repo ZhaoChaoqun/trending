@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-20",
+  "updated_at": "2026-09-20 05:31:38",
+  "count": 15,
+  "rankings": [
+    {
+      "name": "trycua/cua",
+      "rank": 1,
+      "stars": "24,623",
+      "stars_today": "859",
+      "language": "HTML",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "rank": 2,
+      "stars": "97,175",
+      "stars_today": "556",
+      "language": "JavaScript",
+      "description": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "name": "anthropics/claude-code",
+      "rank": 3,
+      "stars": "146,791",
+      "stars_today": "483",
+      "language": "TypeScript",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "rank": 4,
+      "stars": "16,744",
+      "stars_today": "3,155",
+      "language": "JavaScript",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+    },
+    {
+      "name": "coder/coder",
+      "rank": 5,
+      "stars": "15,687",
+      "stars_today": "402",
+      "language": "Go",
+      "description": "Secure environments for developers and their agents"
+    },
+    {
+      "name": "Open-Dev-Society/OpenStock",
+      "rank": 6,
+      "stars": "16,228",
+      "stars_today": "472",
+      "language": "TypeScript",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free."
+    },
+    {
+      "name": "docling-project/docling",
+      "rank": 7,
+      "stars": "67,199",
+      "stars_today": "129",
+      "language": "Python",
+      "description": "Get your documents ready for gen AI"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "rank": 8,
+      "stars": "25,181",
+      "stars_today": "281",
+      "language": "Python",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+    },
+    {
+      "name": "cactus-compute/needle",
+      "rank": 9,
+      "stars": "11,680",
+      "stars_today": "234",
+      "language": "Python",
+      "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers."
+    },
+    {
+      "name": "higgsfield-ai/higgsfield",
+      "rank": 10,
+      "stars": "5,033",
+      "stars_today": "196",
+      "language": "Jupyter Notebook",
+      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters"
+    },
+    {
+      "name": "cloudflare/quiche",
+      "rank": 11,
+      "stars": "12,076",
+      "stars_today": "31",
+      "language": "Rust",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
+    },
+    {
+      "name": "asciimoo/hister",
+      "rank": 12,
+      "stars": "5,304",
+      "stars_today": "420",
+      "language": "Go",
+      "description": "Your own search engine"
+    },
+    {
+      "name": "ruanyf/weekly",
+      "rank": 13,
+      "stars": "103,350",
+      "stars_today": "98",
+      "language": null,
+      "description": "科技爱好者周刊，每周五发布"
+    },
+    {
+      "name": "ZuodaoTech/everyone-can-use-english",
+      "rank": 14,
+      "stars": "37,941",
+      "stars_today": "48",
+      "language": "TypeScript",
+      "description": "人人都能用英语"
+    },
+    {
+      "name": "yynxxxxx/Codex-X",
+      "rank": 15,
+      "stars": "3,460",
+      "stars_today": "32",
+      "language": "Rust",
+      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。"
+    }
+  ]
+}
