@@ -1,0 +1,111 @@
+{
+  "date": "2026-09-21",
+  "updated_at": "2026-09-21 05:38:10",
+  "count": 13,
+  "rankings": [
+    {
+      "name": "affaan-m/ECC",
+      "rank": 1,
+      "stars": "263,969",
+      "stars_today": "826",
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "name": "trycua/cua",
+      "rank": 2,
+      "stars": "25,294",
+      "stars_today": "1,018",
+      "language": "HTML",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
+    },
+    {
+      "name": "anthropics/claude-code",
+      "rank": 3,
+      "stars": "147,247",
+      "stars_today": "419",
+      "language": "TypeScript",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "rank": 4,
+      "stars": "97,808",
+      "stars_today": "736",
+      "language": "JavaScript",
+      "description": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "rank": 5,
+      "stars": "18,258",
+      "stars_today": "2,428",
+      "language": "JavaScript",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+    },
+    {
+      "name": "anthropics/financial-services",
+      "rank": 6,
+      "stars": "35,476",
+      "stars_today": "260",
+      "language": "Python",
+      "description": ""
+    },
+    {
+      "name": "higgsfield-ai/higgsfield",
+      "rank": 7,
+      "stars": "5,470",
+      "stars_today": "465",
+      "language": "Jupyter Notebook",
+      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters"
+    },
+    {
+      "name": "Open-Dev-Society/OpenStock",
+      "rank": 8,
+      "stars": "17,006",
+      "stars_today": "755",
+      "language": "TypeScript",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free."
+    },
+    {
+      "name": "coder/coder",
+      "rank": 9,
+      "stars": "16,144",
+      "stars_today": "379",
+      "language": "Go",
+      "description": "Secure environments for developers and their agents"
+    },
+    {
+      "name": "paperless-ngx/paperless-ngx",
+      "rank": 10,
+      "stars": "45,664",
+      "stars_today": "57",
+      "language": "Python",
+      "description": "A community-supported supercharged document management system: scan, index and archive all your documents"
+    },
+    {
+      "name": "mihail911/modern-software-dev-assignments",
+      "rank": 11,
+      "stars": "4,632",
+      "stars_today": "172",
+      "language": "Python",
+      "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)"
+    },
+    {
+      "name": "vercel-labs/json-render",
+      "rank": 12,
+      "stars": "17,515",
+      "stars_today": "291",
+      "language": "TypeScript",
+      "description": "The Generative UI framework"
+    },
+    {
+      "name": "BuilderIO/agent-native",
+      "rank": 13,
+      "stars": "5,381",
+      "stars_today": "98",
+      "language": "TypeScript",
+      "description": "A framework for building agentic apps"
+    }
+  ]
+}
