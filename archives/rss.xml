@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Mon, 21 Sep 2026 05:38:10 +0000</pubDate><lastBuildDate>Mon, 21 Sep 2026 05:38:10 +0000</lastBuildDate><item><title>#1 affaan-m/ECC (+826 stars)</title><link>https://github.com/affaan-m/ECC</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;affaan-m/ECC&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.&lt;/p&gt;
-&lt;p&gt;⭐ 263,969 | +826 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/affaan-m/ECC#2026-09-21</guid><pubDate>Mon, 21 Sep 2026 05:38:10 +0000</pubDate></item><item><title>#2 trycua/cua (+1,018 stars)</title><link>https://github.com/trycua/cua</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Tue, 22 Sep 2026 05:35:22 +0000</pubDate><lastBuildDate>Tue, 22 Sep 2026 05:35:22 +0000</lastBuildDate><item><title>#1 trycua/cua (+609 stars)</title><link>https://github.com/trycua/cua</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;trycua/cua&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.&lt;/p&gt;
-&lt;p&gt;⭐ 25,294 | +1,018 today | 🔧 HTML&lt;/p&gt;
+&lt;p&gt;⭐ 25,792 | +609 today | 🔧 HTML&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/trycua/cua#2026-09-21</guid><pubDate>Mon, 21 Sep 2026 05:38:10 +0000</pubDate></item><item><title>#3 anthropics/claude-code (+419 stars)</title><link>https://github.com/anthropics/claude-code</link><description>
+</description><guid isPermaLink="false">https://github.com/trycua/cua#2026-09-22</guid><pubDate>Tue, 22 Sep 2026 05:35:22 +0000</pubDate></item><item><title>#2 BuilderIO/agent-native (+607 stars)</title><link>https://github.com/BuilderIO/agent-native</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;anthropics/claude-code&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.&lt;/p&gt;
-&lt;p&gt;⭐ 147,247 | +419 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/anthropics/claude-code#2026-09-21</guid><pubDate>Mon, 21 Sep 2026 05:38:10 +0000</pubDate></item><item><title>#4 addyosmani/agent-skills (+736 stars)</title><link>https://github.com/addyosmani/agent-skills</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;addyosmani/agent-skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Production-grade engineering skills for AI coding agents.&lt;/p&gt;
-&lt;p&gt;⭐ 97,808 | +736 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/addyosmani/agent-skills#2026-09-21</guid><pubDate>Mon, 21 Sep 2026 05:38:10 +0000</pubDate></item><item><title>#5 cloudflare/security-audit-skill (+2,428 stars)</title><link>https://github.com/cloudflare/security-audit-skill</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;cloudflare/security-audit-skill&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings&lt;/p&gt;
-&lt;p&gt;⭐ 18,258 | +2,428 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BuilderIO/agent-native&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A framework for building agentic apps&lt;/p&gt;
+&lt;p&gt;⭐ 6,061 | +607 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/cloudflare/security-audit-skill#2026-09-21</guid><pubDate>Mon, 21 Sep 2026 05:38:10 +0000</pubDate></item><item><title>#6 anthropics/financial-services (+260 stars)</title><link>https://github.com/anthropics/financial-services</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;anthropics/financial-services&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;⭐ 35,476 | +260 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/anthropics/financial-services#2026-09-21</guid><pubDate>Mon, 21 Sep 2026 05:38:10 +0000</pubDate></item><item><title>#7 higgsfield-ai/higgsfield (+465 stars)</title><link>https://github.com/higgsfield-ai/higgsfield</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;higgsfield-ai/higgsfield&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters&lt;/p&gt;
-&lt;p&gt;⭐ 5,470 | +465 today | 🔧 Jupyter Notebook&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/higgsfield-ai/higgsfield#2026-09-21</guid><pubDate>Mon, 21 Sep 2026 05:38:10 +0000</pubDate></item><item><title>#8 Open-Dev-Society/OpenStock (+755 stars)</title><link>https://github.com/Open-Dev-Society/OpenStock</link><description>
+</description><guid isPermaLink="false">https://github.com/BuilderIO/agent-native#2026-09-22</guid><pubDate>Tue, 22 Sep 2026 05:35:22 +0000</pubDate></item><item><title>#3 Open-Dev-Society/OpenStock (+844 stars)</title><link>https://github.com/Open-Dev-Society/OpenStock</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;Open-Dev-Society/OpenStock&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.&lt;/p&gt;
-&lt;p&gt;⭐ 17,006 | +755 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 17,966 | +844 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Open-Dev-Society/OpenStock#2026-09-21</guid><pubDate>Mon, 21 Sep 2026 05:38:10 +0000</pubDate></item><item><title>#9 coder/coder (+379 stars)</title><link>https://github.com/coder/coder</link><description>
+</description><guid isPermaLink="false">https://github.com/Open-Dev-Society/OpenStock#2026-09-22</guid><pubDate>Tue, 22 Sep 2026 05:35:22 +0000</pubDate></item><item><title>#4 coder/coder (+460 stars)</title><link>https://github.com/coder/coder</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;coder/coder&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Secure environments for developers and their agents&lt;/p&gt;
-&lt;p&gt;⭐ 16,144 | +379 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;⭐ 16,493 | +460 today | 🔧 Go&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/coder/coder#2026-09-21</guid><pubDate>Mon, 21 Sep 2026 05:38:10 +0000</pubDate></item><item><title>#10 paperless-ngx/paperless-ngx (+57 stars)</title><link>https://github.com/paperless-ngx/paperless-ngx</link><description>
+</description><guid isPermaLink="false">https://github.com/coder/coder#2026-09-22</guid><pubDate>Tue, 22 Sep 2026 05:35:22 +0000</pubDate></item><item><title>#5 anthropics/financial-services (+424 stars)</title><link>https://github.com/anthropics/financial-services</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;paperless-ngx/paperless-ngx&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A community-supported supercharged document management system: scan, index and archive all your documents&lt;/p&gt;
-&lt;p&gt;⭐ 45,664 | +57 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;anthropics/financial-services&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;⭐ 35,920 | +424 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/anthropics/financial-services#2026-09-22</guid><pubDate>Tue, 22 Sep 2026 05:35:22 +0000</pubDate></item><item><title>#6 ruanyf/weekly (+182 stars)</title><link>https://github.com/ruanyf/weekly</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;ruanyf/weekly&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;科技爱好者周刊，每周五发布&lt;/p&gt;
+&lt;p&gt;⭐ 104,174 | +182 today | 🔧 Unknown&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/ruanyf/weekly#2026-09-22</guid><pubDate>Tue, 22 Sep 2026 05:35:22 +0000</pubDate></item><item><title>#7 Crosstalk-Solutions/project-nomad (+394 stars)</title><link>https://github.com/Crosstalk-Solutions/project-nomad</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Crosstalk-Solutions/project-nomad&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.&lt;/p&gt;
+&lt;p&gt;⭐ 37,961 | +394 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Crosstalk-Solutions/project-nomad#2026-09-22</guid><pubDate>Tue, 22 Sep 2026 05:35:22 +0000</pubDate></item><item><title>#8 akitaonrails/ai-memory (+167 stars)</title><link>https://github.com/akitaonrails/ai-memory</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;akitaonrails/ai-memory&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors&lt;/p&gt;
+&lt;p&gt;⭐ 7,815 | +167 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/paperless-ngx/paperless-ngx#2026-09-21</guid><pubDate>Mon, 21 Sep 2026 05:38:10 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/akitaonrails/ai-memory#2026-09-22</guid><pubDate>Tue, 22 Sep 2026 05:35:22 +0000</pubDate></item><item><title>#9 cloudflare/quiche (+32 stars)</title><link>https://github.com/cloudflare/quiche</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;cloudflare/quiche&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;🥧 Savoury implementation of the QUIC transport protocol and HTTP/3&lt;/p&gt;
+&lt;p&gt;⭐ 12,410 | +32 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/cloudflare/quiche#2026-09-22</guid><pubDate>Tue, 22 Sep 2026 05:35:22 +0000</pubDate></item><item><title>#10 mvt-project/mvt (+169 stars)</title><link>https://github.com/mvt-project/mvt</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;mvt-project/mvt&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.&lt;/p&gt;
+&lt;p&gt;⭐ 13,685 | +169 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/mvt-project/mvt#2026-09-22</guid><pubDate>Tue, 22 Sep 2026 05:35:22 +0000</pubDate></item></channel></rss>

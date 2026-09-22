@@ -1,0 +1,103 @@
+{
+  "date": "2026-09-22",
+  "updated_at": "2026-09-22 05:35:22",
+  "count": 12,
+  "rankings": [
+    {
+      "name": "trycua/cua",
+      "rank": 1,
+      "stars": "25,792",
+      "stars_today": "609",
+      "language": "HTML",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
+    },
+    {
+      "name": "BuilderIO/agent-native",
+      "rank": 2,
+      "stars": "6,061",
+      "stars_today": "607",
+      "language": "TypeScript",
+      "description": "A framework for building agentic apps"
+    },
+    {
+      "name": "Open-Dev-Society/OpenStock",
+      "rank": 3,
+      "stars": "17,966",
+      "stars_today": "844",
+      "language": "TypeScript",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free."
+    },
+    {
+      "name": "coder/coder",
+      "rank": 4,
+      "stars": "16,493",
+      "stars_today": "460",
+      "language": "Go",
+      "description": "Secure environments for developers and their agents"
+    },
+    {
+      "name": "anthropics/financial-services",
+      "rank": 5,
+      "stars": "35,920",
+      "stars_today": "424",
+      "language": "Python",
+      "description": ""
+    },
+    {
+      "name": "ruanyf/weekly",
+      "rank": 6,
+      "stars": "104,174",
+      "stars_today": "182",
+      "language": null,
+      "description": "科技爱好者周刊，每周五发布"
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "rank": 7,
+      "stars": "37,961",
+      "stars_today": "394",
+      "language": "TypeScript",
+      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required."
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "rank": 8,
+      "stars": "7,815",
+      "stars_today": "167",
+      "language": "Rust",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
+    },
+    {
+      "name": "cloudflare/quiche",
+      "rank": 9,
+      "stars": "12,410",
+      "stars_today": "32",
+      "language": "Rust",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3"
+    },
+    {
+      "name": "mvt-project/mvt",
+      "rank": 10,
+      "stars": "13,685",
+      "stars_today": "169",
+      "language": "Python",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise."
+    },
+    {
+      "name": "zhouxiaoka/autoclip",
+      "rank": 11,
+      "stars": "8,414",
+      "stars_today": "250",
+      "language": "Python",
+      "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具"
+    },
+    {
+      "name": "yynxxxxx/Codex-X",
+      "rank": 12,
+      "stars": "3,748",
+      "stars_today": "50",
+      "language": "Rust",
+      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。"
+    }
+  ]
+}
