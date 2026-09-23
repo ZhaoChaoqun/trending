@@ -1,72 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Tue, 22 Sep 2026 05:35:22 +0000</pubDate><lastBuildDate>Tue, 22 Sep 2026 05:35:22 +0000</lastBuildDate><item><title>#1 trycua/cua (+609 stars)</title><link>https://github.com/trycua/cua</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;trycua/cua&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.&lt;/p&gt;
-&lt;p&gt;⭐ 25,792 | +609 today | 🔧 HTML&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/trycua/cua#2026-09-22</guid><pubDate>Tue, 22 Sep 2026 05:35:22 +0000</pubDate></item><item><title>#2 BuilderIO/agent-native (+607 stars)</title><link>https://github.com/BuilderIO/agent-native</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;BuilderIO/agent-native&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A framework for building agentic apps&lt;/p&gt;
-&lt;p&gt;⭐ 6,061 | +607 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/BuilderIO/agent-native#2026-09-22</guid><pubDate>Tue, 22 Sep 2026 05:35:22 +0000</pubDate></item><item><title>#3 Open-Dev-Society/OpenStock (+844 stars)</title><link>https://github.com/Open-Dev-Society/OpenStock</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Open-Dev-Society/OpenStock&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.&lt;/p&gt;
-&lt;p&gt;⭐ 17,966 | +844 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/Open-Dev-Society/OpenStock#2026-09-22</guid><pubDate>Tue, 22 Sep 2026 05:35:22 +0000</pubDate></item><item><title>#4 coder/coder (+460 stars)</title><link>https://github.com/coder/coder</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;coder/coder&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Secure environments for developers and their agents&lt;/p&gt;
-&lt;p&gt;⭐ 16,493 | +460 today | 🔧 Go&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/coder/coder#2026-09-22</guid><pubDate>Tue, 22 Sep 2026 05:35:22 +0000</pubDate></item><item><title>#5 anthropics/financial-services (+424 stars)</title><link>https://github.com/anthropics/financial-services</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Wed, 23 Sep 2026 05:21:58 +0000</pubDate><lastBuildDate>Wed, 23 Sep 2026 05:21:58 +0000</lastBuildDate><item><title>#1 anthropics/financial-services (+438 stars)</title><link>https://github.com/anthropics/financial-services</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;anthropics/financial-services&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;⭐ 35,920 | +424 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 36,497 | +438 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/anthropics/financial-services#2026-09-22</guid><pubDate>Tue, 22 Sep 2026 05:35:22 +0000</pubDate></item><item><title>#6 ruanyf/weekly (+182 stars)</title><link>https://github.com/ruanyf/weekly</link><description>
+</description><guid isPermaLink="false">https://github.com/anthropics/financial-services#2026-09-23</guid><pubDate>Wed, 23 Sep 2026 05:21:58 +0000</pubDate></item><item><title>#2 dream-num/univer (+255 stars)</title><link>https://github.com/dream-num/univer</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ruanyf/weekly&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;科技爱好者周刊，每周五发布&lt;/p&gt;
-&lt;p&gt;⭐ 104,174 | +182 today | 🔧 Unknown&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;dream-num/univer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.&lt;/p&gt;
+&lt;p&gt;⭐ 15,720 | +255 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/ruanyf/weekly#2026-09-22</guid><pubDate>Tue, 22 Sep 2026 05:35:22 +0000</pubDate></item><item><title>#7 Crosstalk-Solutions/project-nomad (+394 stars)</title><link>https://github.com/Crosstalk-Solutions/project-nomad</link><description>
+</description><guid isPermaLink="false">https://github.com/dream-num/univer#2026-09-23</guid><pubDate>Wed, 23 Sep 2026 05:21:58 +0000</pubDate></item><item><title>#3 google/ax (+2,305 stars)</title><link>https://github.com/google/ax</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Crosstalk-Solutions/project-nomad&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.&lt;/p&gt;
-&lt;p&gt;⭐ 37,961 | +394 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;google/ax&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Google's open agentic orchestration runtime&lt;/p&gt;
+&lt;p&gt;⭐ 7,905 | +2,305 today | 🔧 Go&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Crosstalk-Solutions/project-nomad#2026-09-22</guid><pubDate>Tue, 22 Sep 2026 05:35:22 +0000</pubDate></item><item><title>#8 akitaonrails/ai-memory (+167 stars)</title><link>https://github.com/akitaonrails/ai-memory</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;akitaonrails/ai-memory&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors&lt;/p&gt;
-&lt;p&gt;⭐ 7,815 | +167 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/akitaonrails/ai-memory#2026-09-22</guid><pubDate>Tue, 22 Sep 2026 05:35:22 +0000</pubDate></item><item><title>#9 cloudflare/quiche (+32 stars)</title><link>https://github.com/cloudflare/quiche</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;cloudflare/quiche&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;🥧 Savoury implementation of the QUIC transport protocol and HTTP/3&lt;/p&gt;
-&lt;p&gt;⭐ 12,410 | +32 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/cloudflare/quiche#2026-09-22</guid><pubDate>Tue, 22 Sep 2026 05:35:22 +0000</pubDate></item><item><title>#10 mvt-project/mvt (+169 stars)</title><link>https://github.com/mvt-project/mvt</link><description>
+</description><guid isPermaLink="false">https://github.com/google/ax#2026-09-23</guid><pubDate>Wed, 23 Sep 2026 05:21:58 +0000</pubDate></item><item><title>#4 mvt-project/mvt (+441 stars)</title><link>https://github.com/mvt-project/mvt</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;mvt-project/mvt&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.&lt;/p&gt;
-&lt;p&gt;⭐ 13,685 | +169 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 14,212 | +441 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/mvt-project/mvt#2026-09-23</guid><pubDate>Wed, 23 Sep 2026 05:21:58 +0000</pubDate></item><item><title>#5 agent-substrate/substrate (+245 stars)</title><link>https://github.com/agent-substrate/substrate</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;agent-substrate/substrate&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Agent Substrate: the core system&lt;/p&gt;
+&lt;p&gt;⭐ 3,081 | +245 today | 🔧 Go&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/mvt-project/mvt#2026-09-22</guid><pubDate>Tue, 22 Sep 2026 05:35:22 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/agent-substrate/substrate#2026-09-23</guid><pubDate>Wed, 23 Sep 2026 05:21:58 +0000</pubDate></item><item><title>#6 davila7/claude-code-templates (+64 stars)</title><link>https://github.com/davila7/claude-code-templates</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;davila7/claude-code-templates&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CLI tool for configuring and monitoring Claude Code&lt;/p&gt;
+&lt;p&gt;⭐ 31,205 | +64 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/davila7/claude-code-templates#2026-09-23</guid><pubDate>Wed, 23 Sep 2026 05:21:58 +0000</pubDate></item><item><title>#7 superdesigndev/treg (+230 stars)</title><link>https://github.com/superdesigndev/treg</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;superdesigndev/treg&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn&lt;/p&gt;
+&lt;p&gt;⭐ 2,315 | +230 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/superdesigndev/treg#2026-09-23</guid><pubDate>Wed, 23 Sep 2026 05:21:58 +0000</pubDate></item><item><title>#8 browser-use/video-use (+191 stars)</title><link>https://github.com/browser-use/video-use</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;browser-use/video-use&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Edit videos with coding agents&lt;/p&gt;
+&lt;p&gt;⭐ 26,013 | +191 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/browser-use/video-use#2026-09-23</guid><pubDate>Wed, 23 Sep 2026 05:21:58 +0000</pubDate></item></channel></rss>

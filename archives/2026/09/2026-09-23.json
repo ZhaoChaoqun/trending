@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-23",
+  "updated_at": "2026-09-23 05:21:58",
+  "count": 8,
+  "rankings": [
+    {
+      "name": "anthropics/financial-services",
+      "rank": 1,
+      "stars": "36,497",
+      "stars_today": "438",
+      "language": "Python",
+      "description": ""
+    },
+    {
+      "name": "dream-num/univer",
+      "rank": 2,
+      "stars": "15,720",
+      "stars_today": "255",
+      "language": "TypeScript",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime."
+    },
+    {
+      "name": "google/ax",
+      "rank": 3,
+      "stars": "7,905",
+      "stars_today": "2,305",
+      "language": "Go",
+      "description": "Google's open agentic orchestration runtime"
+    },
+    {
+      "name": "mvt-project/mvt",
+      "rank": 4,
+      "stars": "14,212",
+      "stars_today": "441",
+      "language": "Python",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise."
+    },
+    {
+      "name": "agent-substrate/substrate",
+      "rank": 5,
+      "stars": "3,081",
+      "stars_today": "245",
+      "language": "Go",
+      "description": "Agent Substrate: the core system"
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "rank": 6,
+      "stars": "31,205",
+      "stars_today": "64",
+      "language": "Python",
+      "description": "CLI tool for configuring and monitoring Claude Code"
+    },
+    {
+      "name": "superdesigndev/treg",
+      "rank": 7,
+      "stars": "2,315",
+      "stars_today": "230",
+      "language": "Python",
+      "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn"
+    },
+    {
+      "name": "browser-use/video-use",
+      "rank": 8,
+      "stars": "26,013",
+      "stars_today": "191",
+      "language": "Python",
+      "description": "Edit videos with coding agents"
+    }
+  ]
+}
