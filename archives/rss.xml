@@ -1,58 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Wed, 23 Sep 2026 05:21:58 +0000</pubDate><lastBuildDate>Wed, 23 Sep 2026 05:21:58 +0000</lastBuildDate><item><title>#1 anthropics/financial-services (+438 stars)</title><link>https://github.com/anthropics/financial-services</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Thu, 24 Sep 2026 05:38:08 +0000</pubDate><lastBuildDate>Thu, 24 Sep 2026 05:38:08 +0000</lastBuildDate><item><title>#1 anthropics/financial-services (+664 stars)</title><link>https://github.com/anthropics/financial-services</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;anthropics/financial-services&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;⭐ 36,497 | +438 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 37,053 | +664 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/anthropics/financial-services#2026-09-23</guid><pubDate>Wed, 23 Sep 2026 05:21:58 +0000</pubDate></item><item><title>#2 dream-num/univer (+255 stars)</title><link>https://github.com/dream-num/univer</link><description>
+</description><guid isPermaLink="false">https://github.com/anthropics/financial-services#2026-09-24</guid><pubDate>Thu, 24 Sep 2026 05:38:08 +0000</pubDate></item><item><title>#2 obra/superpowers (+474 stars)</title><link>https://github.com/obra/superpowers</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;dream-num/univer&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.&lt;/p&gt;
-&lt;p&gt;⭐ 15,720 | +255 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
+&lt;p&gt;⭐ 290,803 | +474 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/dream-num/univer#2026-09-23</guid><pubDate>Wed, 23 Sep 2026 05:21:58 +0000</pubDate></item><item><title>#3 google/ax (+2,305 stars)</title><link>https://github.com/google/ax</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;google/ax&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Google's open agentic orchestration runtime&lt;/p&gt;
-&lt;p&gt;⭐ 7,905 | +2,305 today | 🔧 Go&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/google/ax#2026-09-23</guid><pubDate>Wed, 23 Sep 2026 05:21:58 +0000</pubDate></item><item><title>#4 mvt-project/mvt (+441 stars)</title><link>https://github.com/mvt-project/mvt</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;mvt-project/mvt&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.&lt;/p&gt;
-&lt;p&gt;⭐ 14,212 | +441 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/mvt-project/mvt#2026-09-23</guid><pubDate>Wed, 23 Sep 2026 05:21:58 +0000</pubDate></item><item><title>#5 agent-substrate/substrate (+245 stars)</title><link>https://github.com/agent-substrate/substrate</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;agent-substrate/substrate&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Agent Substrate: the core system&lt;/p&gt;
-&lt;p&gt;⭐ 3,081 | +245 today | 🔧 Go&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/agent-substrate/substrate#2026-09-23</guid><pubDate>Wed, 23 Sep 2026 05:21:58 +0000</pubDate></item><item><title>#6 davila7/claude-code-templates (+64 stars)</title><link>https://github.com/davila7/claude-code-templates</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;davila7/claude-code-templates&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;CLI tool for configuring and monitoring Claude Code&lt;/p&gt;
-&lt;p&gt;⭐ 31,205 | +64 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/davila7/claude-code-templates#2026-09-23</guid><pubDate>Wed, 23 Sep 2026 05:21:58 +0000</pubDate></item><item><title>#7 superdesigndev/treg (+230 stars)</title><link>https://github.com/superdesigndev/treg</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;superdesigndev/treg&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn&lt;/p&gt;
-&lt;p&gt;⭐ 2,315 | +230 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/superdesigndev/treg#2026-09-23</guid><pubDate>Wed, 23 Sep 2026 05:21:58 +0000</pubDate></item><item><title>#8 browser-use/video-use (+191 stars)</title><link>https://github.com/browser-use/video-use</link><description>
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-09-24</guid><pubDate>Thu, 24 Sep 2026 05:38:08 +0000</pubDate></item><item><title>#3 browser-use/video-use (+746 stars)</title><link>https://github.com/browser-use/video-use</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;browser-use/video-use&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Edit videos with coding agents&lt;/p&gt;
-&lt;p&gt;⭐ 26,013 | +191 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+&lt;p&gt;⭐ 26,607 | +746 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/browser-use/video-use#2026-09-23</guid><pubDate>Wed, 23 Sep 2026 05:21:58 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/browser-use/video-use#2026-09-24</guid><pubDate>Thu, 24 Sep 2026 05:38:08 +0000</pubDate></item><item><title>#4 google/ax (+1,543 stars)</title><link>https://github.com/google/ax</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;google/ax&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Google's open agentic orchestration runtime&lt;/p&gt;
+&lt;p&gt;⭐ 9,334 | +1,543 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/google/ax#2026-09-24</guid><pubDate>Thu, 24 Sep 2026 05:38:08 +0000</pubDate></item><item><title>#5 davila7/claude-code-templates (+389 stars)</title><link>https://github.com/davila7/claude-code-templates</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;davila7/claude-code-templates&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CLI tool for configuring and monitoring Claude Code&lt;/p&gt;
+&lt;p&gt;⭐ 31,580 | +389 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/davila7/claude-code-templates#2026-09-24</guid><pubDate>Thu, 24 Sep 2026 05:38:08 +0000</pubDate></item><item><title>#6 dream-num/univer (+1,142 stars)</title><link>https://github.com/dream-num/univer</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;dream-num/univer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.&lt;/p&gt;
+&lt;p&gt;⭐ 16,482 | +1,142 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/dream-num/univer#2026-09-24</guid><pubDate>Thu, 24 Sep 2026 05:38:08 +0000</pubDate></item><item><title>#7 Open-Dev-Society/OpenStock (+344 stars)</title><link>https://github.com/Open-Dev-Society/OpenStock</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Open-Dev-Society/OpenStock&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.&lt;/p&gt;
+&lt;p&gt;⭐ 18,942 | +344 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Open-Dev-Society/OpenStock#2026-09-24</guid><pubDate>Thu, 24 Sep 2026 05:38:08 +0000</pubDate></item><item><title>#8 HKUDS/CLI-Anything (+57 stars)</title><link>https://github.com/HKUDS/CLI-Anything</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;HKUDS/CLI-Anything&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/&lt;/p&gt;
+&lt;p&gt;⭐ 50,025 | +57 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/HKUDS/CLI-Anything#2026-09-24</guid><pubDate>Thu, 24 Sep 2026 05:38:08 +0000</pubDate></item><item><title>#9 superdesigndev/treg (+506 stars)</title><link>https://github.com/superdesigndev/treg</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;superdesigndev/treg&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn&lt;/p&gt;
+&lt;p&gt;⭐ 2,821 | +506 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/superdesigndev/treg#2026-09-24</guid><pubDate>Thu, 24 Sep 2026 05:38:08 +0000</pubDate></item><item><title>#10 pbakaus/impeccable (+304 stars)</title><link>https://github.com/pbakaus/impeccable</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;pbakaus/impeccable&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The design language that makes your AI harness better at design.&lt;/p&gt;
+&lt;p&gt;⭐ 70,462 | +304 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/pbakaus/impeccable#2026-09-24</guid><pubDate>Thu, 24 Sep 2026 05:38:08 +0000</pubDate></item></channel></rss>

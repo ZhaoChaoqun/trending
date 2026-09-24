@@ -1,0 +1,143 @@
+{
+  "date": "2026-09-24",
+  "updated_at": "2026-09-24 05:38:08",
+  "count": 17,
+  "rankings": [
+    {
+      "name": "anthropics/financial-services",
+      "rank": 1,
+      "stars": "37,053",
+      "stars_today": "664",
+      "language": "Python",
+      "description": ""
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 2,
+      "stars": "290,803",
+      "stars_today": "474",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "browser-use/video-use",
+      "rank": 3,
+      "stars": "26,607",
+      "stars_today": "746",
+      "language": "Python",
+      "description": "Edit videos with coding agents"
+    },
+    {
+      "name": "google/ax",
+      "rank": 4,
+      "stars": "9,334",
+      "stars_today": "1,543",
+      "language": "Go",
+      "description": "Google's open agentic orchestration runtime"
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "rank": 5,
+      "stars": "31,580",
+      "stars_today": "389",
+      "language": "Python",
+      "description": "CLI tool for configuring and monitoring Claude Code"
+    },
+    {
+      "name": "dream-num/univer",
+      "rank": 6,
+      "stars": "16,482",
+      "stars_today": "1,142",
+      "language": "TypeScript",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime."
+    },
+    {
+      "name": "Open-Dev-Society/OpenStock",
+      "rank": 7,
+      "stars": "18,942",
+      "stars_today": "344",
+      "language": "TypeScript",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free."
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "rank": 8,
+      "stars": "50,025",
+      "stars_today": "57",
+      "language": "Python",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/"
+    },
+    {
+      "name": "superdesigndev/treg",
+      "rank": 9,
+      "stars": "2,821",
+      "stars_today": "506",
+      "language": "Python",
+      "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "rank": 10,
+      "stars": "70,462",
+      "stars_today": "304",
+      "language": "JavaScript",
+      "description": "The design language that makes your AI harness better at design."
+    },
+    {
+      "name": "mvt-project/mvt",
+      "rank": 11,
+      "stars": "14,524",
+      "stars_today": "543",
+      "language": "Python",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise."
+    },
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "rank": 12,
+      "stars": "44,676",
+      "stars_today": "190",
+      "language": "C",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies."
+    },
+    {
+      "name": "agent-substrate/substrate",
+      "rank": 13,
+      "stars": "3,573",
+      "stars_today": "558",
+      "language": "Go",
+      "description": "Agent Substrate: the core system"
+    },
+    {
+      "name": "strands-agents/harness-sdk",
+      "rank": 14,
+      "stars": "7,948",
+      "stars_today": "115",
+      "language": "Python",
+      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud."
+    },
+    {
+      "name": "BuilderIO/agent-native",
+      "rank": 15,
+      "stars": "6,635",
+      "stars_today": "87",
+      "language": "TypeScript",
+      "description": "A framework for building agentic apps"
+    },
+    {
+      "name": "harry7557558/spirula-studio",
+      "rank": 16,
+      "stars": "788",
+      "stars_today": "69",
+      "language": "C++",
+      "description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA."
+    },
+    {
+      "name": "TNT-Likely/PanWatch",
+      "rank": 17,
+      "stars": "1,618",
+      "stars_today": "95",
+      "language": "Python",
+      "description": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送"
+    }
+  ]
+}
