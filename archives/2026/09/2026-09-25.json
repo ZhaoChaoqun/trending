@@ -1,0 +1,119 @@
+{
+  "date": "2026-09-25",
+  "updated_at": "2026-09-25 05:34:20",
+  "count": 14,
+  "rankings": [
+    {
+      "name": "vectorize-io/hindsight",
+      "rank": 1,
+      "stars": "28,118",
+      "stars_today": "1,668",
+      "language": "Python",
+      "description": "Hindsight: Agent Memory That Learns"
+    },
+    {
+      "name": "anthropics/financial-services",
+      "rank": 2,
+      "stars": "37,416",
+      "stars_today": "509",
+      "language": "Python",
+      "description": ""
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "rank": 3,
+      "stars": "50,394",
+      "stars_today": "413",
+      "language": "Python",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/"
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 4,
+      "stars": "291,297",
+      "stars_today": "611",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "rank": 5,
+      "stars": "56,783",
+      "stars_today": "347",
+      "language": "Python",
+      "description": "Learn it. Build it. Ship it for others."
+    },
+    {
+      "name": "dream-num/univer",
+      "rank": 6,
+      "stars": "17,943",
+      "stars_today": "1,082",
+      "language": "TypeScript",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime."
+    },
+    {
+      "name": "google/ax",
+      "rank": 7,
+      "stars": "10,701",
+      "stars_today": "1,373",
+      "language": "Go",
+      "description": "Google's open agentic orchestration runtime"
+    },
+    {
+      "name": "mvt-project/mvt",
+      "rank": 8,
+      "stars": "14,758",
+      "stars_today": "272",
+      "language": "Python",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise."
+    },
+    {
+      "name": "strands-agents/harness-sdk",
+      "rank": 9,
+      "stars": "8,322",
+      "stars_today": "455",
+      "language": "Python",
+      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud."
+    },
+    {
+      "name": "FxEmbed/FxEmbed",
+      "rank": 10,
+      "stars": "5,399",
+      "stars_today": "182",
+      "language": "TypeScript",
+      "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others"
+    },
+    {
+      "name": "julyx10/lap",
+      "rank": 11,
+      "stars": "2,929",
+      "stars_today": "122",
+      "language": "Vue",
+      "description": "An offline-first photo manager for large local libraries"
+    },
+    {
+      "name": "superdesigndev/treg",
+      "rank": 12,
+      "stars": "3,219",
+      "stars_today": "468",
+      "language": "Python",
+      "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn"
+    },
+    {
+      "name": "NVIDIA/Model-Optimizer",
+      "rank": 13,
+      "stars": "4,148",
+      "stars_today": "44",
+      "language": "Python",
+      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed."
+    },
+    {
+      "name": "leejet/stable-diffusion.cpp",
+      "rank": 14,
+      "stars": "7,288",
+      "stars_today": "36",
+      "language": "C++",
+      "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++"
+    }
+  ]
+}
