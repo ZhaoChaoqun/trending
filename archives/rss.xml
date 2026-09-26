@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 25 Sep 2026 05:34:20 +0000</pubDate><lastBuildDate>Fri, 25 Sep 2026 05:34:20 +0000</lastBuildDate><item><title>#1 vectorize-io/hindsight (+1,668 stars)</title><link>https://github.com/vectorize-io/hindsight</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sat, 26 Sep 2026 05:40:57 +0000</pubDate><lastBuildDate>Sat, 26 Sep 2026 05:40:57 +0000</lastBuildDate><item><title>#1 paperclipai/paperclip (+2,109 stars)</title><link>https://github.com/paperclipai/paperclip</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;paperclipai/paperclip&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The open-source app everyone uses to manage agents at work&lt;/p&gt;
+&lt;p&gt;⭐ 85,344 | +2,109 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/paperclipai/paperclip#2026-09-26</guid><pubDate>Sat, 26 Sep 2026 05:40:57 +0000</pubDate></item><item><title>#2 vectorize-io/hindsight (+1,653 stars)</title><link>https://github.com/vectorize-io/hindsight</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;vectorize-io/hindsight&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Hindsight: Agent Memory That Learns&lt;/p&gt;
-&lt;p&gt;⭐ 28,118 | +1,668 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 30,105 | +1,653 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/vectorize-io/hindsight#2026-09-25</guid><pubDate>Fri, 25 Sep 2026 05:34:20 +0000</pubDate></item><item><title>#2 anthropics/financial-services (+509 stars)</title><link>https://github.com/anthropics/financial-services</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;anthropics/financial-services&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;⭐ 37,416 | +509 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/anthropics/financial-services#2026-09-25</guid><pubDate>Fri, 25 Sep 2026 05:34:20 +0000</pubDate></item><item><title>#3 HKUDS/CLI-Anything (+413 stars)</title><link>https://github.com/HKUDS/CLI-Anything</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;HKUDS/CLI-Anything&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/&lt;/p&gt;
-&lt;p&gt;⭐ 50,394 | +413 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/HKUDS/CLI-Anything#2026-09-25</guid><pubDate>Fri, 25 Sep 2026 05:34:20 +0000</pubDate></item><item><title>#4 obra/superpowers (+611 stars)</title><link>https://github.com/obra/superpowers</link><description>
+</description><guid isPermaLink="false">https://github.com/vectorize-io/hindsight#2026-09-26</guid><pubDate>Sat, 26 Sep 2026 05:40:57 +0000</pubDate></item><item><title>#3 obra/superpowers (+468 stars)</title><link>https://github.com/obra/superpowers</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 291,297 | +611 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 291,726 | +468 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-09-25</guid><pubDate>Fri, 25 Sep 2026 05:34:20 +0000</pubDate></item><item><title>#5 rohitg00/ai-engineering-from-scratch (+347 stars)</title><link>https://github.com/rohitg00/ai-engineering-from-scratch</link><description>
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-09-26</guid><pubDate>Sat, 26 Sep 2026 05:40:57 +0000</pubDate></item><item><title>#4 mattpocock/skills (+583 stars)</title><link>https://github.com/mattpocock/skills</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;mattpocock/skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Skills for Real Engineers. Straight from my .agents directory.&lt;/p&gt;
+&lt;p&gt;⭐ 269,821 | +583 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-09-26</guid><pubDate>Sat, 26 Sep 2026 05:40:57 +0000</pubDate></item><item><title>#5 rohitg00/ai-engineering-from-scratch (+1,177 stars)</title><link>https://github.com/rohitg00/ai-engineering-from-scratch</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;rohitg00/ai-engineering-from-scratch&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Learn it. Build it. Ship it for others.&lt;/p&gt;
-&lt;p&gt;⭐ 56,783 | +347 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 57,691 | +1,177 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/rohitg00/ai-engineering-from-scratch#2026-09-25</guid><pubDate>Fri, 25 Sep 2026 05:34:20 +0000</pubDate></item><item><title>#6 dream-num/univer (+1,082 stars)</title><link>https://github.com/dream-num/univer</link><description>
+</description><guid isPermaLink="false">https://github.com/rohitg00/ai-engineering-from-scratch#2026-09-26</guid><pubDate>Sat, 26 Sep 2026 05:40:57 +0000</pubDate></item><item><title>#6 dream-num/univer (+1,050 stars)</title><link>https://github.com/dream-num/univer</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;dream-num/univer&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.&lt;/p&gt;
-&lt;p&gt;⭐ 17,943 | +1,082 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 18,778 | +1,050 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/dream-num/univer#2026-09-25</guid><pubDate>Fri, 25 Sep 2026 05:34:20 +0000</pubDate></item><item><title>#7 google/ax (+1,373 stars)</title><link>https://github.com/google/ax</link><description>
+</description><guid isPermaLink="false">https://github.com/dream-num/univer#2026-09-26</guid><pubDate>Sat, 26 Sep 2026 05:40:57 +0000</pubDate></item><item><title>#7 anthropics/skills (+189 stars)</title><link>https://github.com/anthropics/skills</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;anthropics/skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Public repository for Agent Skills&lt;/p&gt;
+&lt;p&gt;⭐ 178,394 | +189 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/anthropics/skills#2026-09-26</guid><pubDate>Sat, 26 Sep 2026 05:40:57 +0000</pubDate></item><item><title>#8 kelseyhightower/kubernetes-the-hard-way (+119 stars)</title><link>https://github.com/kelseyhightower/kubernetes-the-hard-way</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;kelseyhightower/kubernetes-the-hard-way&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bootstrap Kubernetes the hard way. No scripts.&lt;/p&gt;
+&lt;p&gt;⭐ 50,154 | +119 today | 🔧 Unknown&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/kelseyhightower/kubernetes-the-hard-way#2026-09-26</guid><pubDate>Sat, 26 Sep 2026 05:40:57 +0000</pubDate></item><item><title>#9 google/ax (+1,379 stars)</title><link>https://github.com/google/ax</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;google/ax&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Google's open agentic orchestration runtime&lt;/p&gt;
-&lt;p&gt;⭐ 10,701 | +1,373 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;⭐ 11,614 | +1,379 today | 🔧 Go&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/google/ax#2026-09-25</guid><pubDate>Fri, 25 Sep 2026 05:34:20 +0000</pubDate></item><item><title>#8 mvt-project/mvt (+272 stars)</title><link>https://github.com/mvt-project/mvt</link><description>
+</description><guid isPermaLink="false">https://github.com/google/ax#2026-09-26</guid><pubDate>Sat, 26 Sep 2026 05:40:57 +0000</pubDate></item><item><title>#10 pbakaus/impeccable (+306 stars)</title><link>https://github.com/pbakaus/impeccable</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;mvt-project/mvt&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.&lt;/p&gt;
-&lt;p&gt;⭐ 14,758 | +272 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;pbakaus/impeccable&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The design language that makes your AI harness better at design.&lt;/p&gt;
+&lt;p&gt;⭐ 71,279 | +306 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/mvt-project/mvt#2026-09-25</guid><pubDate>Fri, 25 Sep 2026 05:34:20 +0000</pubDate></item><item><title>#9 strands-agents/harness-sdk (+455 stars)</title><link>https://github.com/strands-agents/harness-sdk</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;strands-agents/harness-sdk&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud.&lt;/p&gt;
-&lt;p&gt;⭐ 8,322 | +455 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/strands-agents/harness-sdk#2026-09-25</guid><pubDate>Fri, 25 Sep 2026 05:34:20 +0000</pubDate></item><item><title>#10 FxEmbed/FxEmbed (+182 stars)</title><link>https://github.com/FxEmbed/FxEmbed</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;FxEmbed/FxEmbed&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others&lt;/p&gt;
-&lt;p&gt;⭐ 5,399 | +182 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/FxEmbed/FxEmbed#2026-09-25</guid><pubDate>Fri, 25 Sep 2026 05:34:20 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/pbakaus/impeccable#2026-09-26</guid><pubDate>Sat, 26 Sep 2026 05:40:57 +0000</pubDate></item></channel></rss>
