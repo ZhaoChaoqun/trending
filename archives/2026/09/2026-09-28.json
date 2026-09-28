@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-28",
+  "updated_at": "2026-09-28 06:05:11",
+  "count": 9,
+  "rankings": [
+    {
+      "name": "paperclipai/paperclip",
+      "rank": 1,
+      "stars": "90,637",
+      "stars_today": "2,401",
+      "language": "TypeScript",
+      "description": "The open-source app everyone uses to manage agents at work"
+    },
+    {
+      "name": "vectorize-io/hindsight",
+      "rank": 2,
+      "stars": "38,237",
+      "stars_today": "4,520",
+      "language": "Python",
+      "description": "Hindsight: Agent Memory That Learns"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "rank": 3,
+      "stars": "40,788",
+      "stars_today": "3,086",
+      "language": "Python",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "rank": 4,
+      "stars": "59,658",
+      "stars_today": "790",
+      "language": "Python",
+      "description": "Learn it. Build it. Ship it for others."
+    },
+    {
+      "name": "dream-num/univer",
+      "rank": 5,
+      "stars": "20,758",
+      "stars_today": "895",
+      "language": "TypeScript",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime."
+    },
+    {
+      "name": "InfinityLoop1308/PipePipe",
+      "rank": 6,
+      "stars": "6,677",
+      "stars_today": "242",
+      "language": "Shell",
+      "description": "An open-source Android app to let you browse YouTube and other services freely."
+    },
+    {
+      "name": "vercel-labs/scriptc",
+      "rank": 7,
+      "stars": "5,484",
+      "stars_today": "102",
+      "language": "TypeScript",
+      "description": "TypeScript-to-Native Compiler"
+    },
+    {
+      "name": "mvschwarz/openrig",
+      "rank": 8,
+      "stars": "1,158",
+      "stars_today": "114",
+      "language": "TypeScript",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system"
+    },
+    {
+      "name": "willfaust/Madeira",
+      "rank": 9,
+      "stars": "876",
+      "stars_today": "83",
+      "language": "C",
+      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT"
+    }
+  ]
+}
