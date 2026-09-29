@@ -1,65 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Mon, 28 Sep 2026 06:05:11 +0000</pubDate><lastBuildDate>Mon, 28 Sep 2026 06:05:11 +0000</lastBuildDate><item><title>#1 paperclipai/paperclip (+2,401 stars)</title><link>https://github.com/paperclipai/paperclip</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;paperclipai/paperclip&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The open-source app everyone uses to manage agents at work&lt;/p&gt;
-&lt;p&gt;⭐ 90,637 | +2,401 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/paperclipai/paperclip#2026-09-28</guid><pubDate>Mon, 28 Sep 2026 06:05:11 +0000</pubDate></item><item><title>#2 vectorize-io/hindsight (+4,520 stars)</title><link>https://github.com/vectorize-io/hindsight</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;vectorize-io/hindsight&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Hindsight: Agent Memory That Learns&lt;/p&gt;
-&lt;p&gt;⭐ 38,237 | +4,520 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/vectorize-io/hindsight#2026-09-28</guid><pubDate>Mon, 28 Sep 2026 06:05:11 +0000</pubDate></item><item><title>#3 debpalash/VoiceStudio (+3,086 stars)</title><link>https://github.com/debpalash/VoiceStudio</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Tue, 29 Sep 2026 06:23:13 +0000</pubDate><lastBuildDate>Tue, 29 Sep 2026 06:23:13 +0000</lastBuildDate><item><title>#1 debpalash/VoiceStudio (+3,221 stars)</title><link>https://github.com/debpalash/VoiceStudio</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;debpalash/VoiceStudio&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.&lt;/p&gt;
-&lt;p&gt;⭐ 40,788 | +3,086 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 45,105 | +3,221 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/debpalash/VoiceStudio#2026-09-28</guid><pubDate>Mon, 28 Sep 2026 06:05:11 +0000</pubDate></item><item><title>#4 rohitg00/ai-engineering-from-scratch (+790 stars)</title><link>https://github.com/rohitg00/ai-engineering-from-scratch</link><description>
+</description><guid isPermaLink="false">https://github.com/debpalash/VoiceStudio#2026-09-29</guid><pubDate>Tue, 29 Sep 2026 06:23:13 +0000</pubDate></item><item><title>#2 paperclipai/paperclip (+3,197 stars)</title><link>https://github.com/paperclipai/paperclip</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;rohitg00/ai-engineering-from-scratch&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Learn it. Build it. Ship it for others.&lt;/p&gt;
-&lt;p&gt;⭐ 59,658 | +790 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;paperclipai/paperclip&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The open-source app everyone uses to manage agents at work&lt;/p&gt;
+&lt;p&gt;⭐ 93,334 | +3,197 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/rohitg00/ai-engineering-from-scratch#2026-09-28</guid><pubDate>Mon, 28 Sep 2026 06:05:11 +0000</pubDate></item><item><title>#5 dream-num/univer (+895 stars)</title><link>https://github.com/dream-num/univer</link><description>
+</description><guid isPermaLink="false">https://github.com/paperclipai/paperclip#2026-09-29</guid><pubDate>Tue, 29 Sep 2026 06:23:13 +0000</pubDate></item><item><title>#3 vectorize-io/hindsight (+4,561 stars)</title><link>https://github.com/vectorize-io/hindsight</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;vectorize-io/hindsight&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hindsight: Agent Memory That Learns&lt;/p&gt;
+&lt;p&gt;⭐ 41,484 | +4,561 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/vectorize-io/hindsight#2026-09-29</guid><pubDate>Tue, 29 Sep 2026 06:23:13 +0000</pubDate></item><item><title>#4 byoungd/up (+327 stars)</title><link>https://github.com/byoungd/up</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;byoungd/up&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语&lt;/p&gt;
+&lt;p&gt;⭐ 65,005 | +327 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/byoungd/up#2026-09-29</guid><pubDate>Tue, 29 Sep 2026 06:23:13 +0000</pubDate></item><item><title>#5 dream-num/univer (+1,099 stars)</title><link>https://github.com/dream-num/univer</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;dream-num/univer&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.&lt;/p&gt;
-&lt;p&gt;⭐ 20,758 | +895 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 21,437 | +1,099 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/dream-num/univer#2026-09-28</guid><pubDate>Mon, 28 Sep 2026 06:05:11 +0000</pubDate></item><item><title>#6 InfinityLoop1308/PipePipe (+242 stars)</title><link>https://github.com/InfinityLoop1308/PipePipe</link><description>
+</description><guid isPermaLink="false">https://github.com/dream-num/univer#2026-09-29</guid><pubDate>Tue, 29 Sep 2026 06:23:13 +0000</pubDate></item><item><title>#6 NawfalMotii79/PLFM_RADAR (+158 stars)</title><link>https://github.com/NawfalMotii79/PLFM_RADAR</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;InfinityLoop1308/PipePipe&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An open-source Android app to let you browse YouTube and other services freely.&lt;/p&gt;
-&lt;p&gt;⭐ 6,677 | +242 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NawfalMotii79/PLFM_RADAR&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open-source, low-cost 10.5 GHz PLFM phased array RADAR system&lt;/p&gt;
+&lt;p&gt;⭐ 25,865 | +158 today | 🔧 PLSQL&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/NawfalMotii79/PLFM_RADAR#2026-09-29</guid><pubDate>Tue, 29 Sep 2026 06:23:13 +0000</pubDate></item><item><title>#7 cs341-illinois/coursebook (+195 stars)</title><link>https://github.com/cs341-illinois/coursebook</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;cs341-illinois/coursebook&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open Source Introductory Systems Programming Textbook for the University of Illinois&lt;/p&gt;
+&lt;p&gt;⭐ 2,632 | +195 today | 🔧 TeX&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/InfinityLoop1308/PipePipe#2026-09-28</guid><pubDate>Mon, 28 Sep 2026 06:05:11 +0000</pubDate></item><item><title>#7 vercel-labs/scriptc (+102 stars)</title><link>https://github.com/vercel-labs/scriptc</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;vercel-labs/scriptc&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;TypeScript-to-Native Compiler&lt;/p&gt;
-&lt;p&gt;⭐ 5,484 | +102 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/vercel-labs/scriptc#2026-09-28</guid><pubDate>Mon, 28 Sep 2026 06:05:11 +0000</pubDate></item><item><title>#8 mvschwarz/openrig (+114 stars)</title><link>https://github.com/mvschwarz/openrig</link><description>
+</description><guid isPermaLink="false">https://github.com/cs341-illinois/coursebook#2026-09-29</guid><pubDate>Tue, 29 Sep 2026 06:23:13 +0000</pubDate></item><item><title>#8 mvschwarz/openrig (+734 stars)</title><link>https://github.com/mvschwarz/openrig</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;mvschwarz/openrig&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Multi-agent harness that runs Claude Code and Codex together as one system&lt;/p&gt;
-&lt;p&gt;⭐ 1,158 | +114 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
+&lt;p&gt;⭐ 1,904 | +734 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/mvschwarz/openrig#2026-09-28</guid><pubDate>Mon, 28 Sep 2026 06:05:11 +0000</pubDate></item><item><title>#9 willfaust/Madeira (+83 stars)</title><link>https://github.com/willfaust/Madeira</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;willfaust/Madeira&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT&lt;/p&gt;
-&lt;p&gt;⭐ 876 | +83 today | 🔧 C&lt;/p&gt;
-&lt;p&gt;推荐指数: 6/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/willfaust/Madeira#2026-09-28</guid><pubDate>Mon, 28 Sep 2026 06:05:11 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/mvschwarz/openrig#2026-09-29</guid><pubDate>Tue, 29 Sep 2026 06:23:13 +0000</pubDate></item></channel></rss>
