@@ -1,0 +1,143 @@
+{
+  "date": "2026-10-01",
+  "updated_at": "2026-10-01 06:40:25",
+  "count": 17,
+  "rankings": [
+    {
+      "name": "debpalash/VoiceStudio",
+      "rank": 1,
+      "stars": "50,746",
+      "stars_today": "3,483",
+      "language": "Python",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "rank": 2,
+      "stars": "149,462",
+      "stars_today": "743",
+      "language": "JavaScript",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "rank": 3,
+      "stars": "127,680",
+      "stars_today": "431",
+      "language": "Python",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow."
+    },
+    {
+      "name": "mattpocock/skills",
+      "rank": 4,
+      "stars": "273,197",
+      "stars_today": "876",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory."
+    },
+    {
+      "name": "byoungd/up",
+      "rank": 5,
+      "stars": "66,502",
+      "stars_today": "743",
+      "language": "JavaScript",
+      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语"
+    },
+    {
+      "name": "t8y2/dbx",
+      "rank": 6,
+      "stars": "23,403",
+      "stars_today": "1,138",
+      "language": "Rust",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。"
+    },
+    {
+      "name": "VectifyAI/PageIndex",
+      "rank": 7,
+      "stars": "38,242",
+      "stars_today": "1,097",
+      "language": "Python",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG"
+    },
+    {
+      "name": "NVIDIA/OpenShell",
+      "rank": 8,
+      "stars": "13,151",
+      "stars_today": "1,281",
+      "language": "Rust",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents."
+    },
+    {
+      "name": "mvschwarz/openrig",
+      "rank": 9,
+      "stars": "3,183",
+      "stars_today": "624",
+      "language": "TypeScript",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "rank": 10,
+      "stars": "391,055",
+      "stars_today": "136",
+      "language": "TypeScript",
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞"
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "rank": 11,
+      "stars": "76,213",
+      "stars_today": "123",
+      "language": "Python",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "rank": 12,
+      "stars": "54,880",
+      "stars_today": "349",
+      "language": "TypeScript",
+      "description": "Write HTML. Render video. Built for agents."
+    },
+    {
+      "name": "colbymchenry/codegraph",
+      "rank": 13,
+      "stars": "72,666",
+      "stars_today": "118",
+      "language": "C",
+      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local"
+    },
+    {
+      "name": "NawfalMotii79/PLFM_RADAR",
+      "rank": 14,
+      "stars": "26,472",
+      "stars_today": "263",
+      "language": "PLSQL",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "rank": 15,
+      "stars": "24,558",
+      "stars_today": "90",
+      "language": "TypeScript",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
+    },
+    {
+      "name": "modelcontextprotocol/servers",
+      "rank": 16,
+      "stars": "90,860",
+      "stars_today": "50",
+      "language": "TypeScript",
+      "description": "Model Context Protocol Servers"
+    },
+    {
+      "name": "firebase/firebase-ios-sdk",
+      "rank": 17,
+      "stars": "6,787",
+      "stars_today": "8",
+      "language": "C++",
+      "description": "Firebase SDK for Apple App Development"
+    }
+  ]
+}
