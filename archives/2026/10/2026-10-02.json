@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-02",
+  "updated_at": "2026-10-02 06:25:22",
+  "count": 15,
+  "rankings": [
+    {
+      "name": "DietrichGebert/ponytail",
+      "rank": 1,
+      "stars": "150,826",
+      "stars_today": "1,194",
+      "language": "JavaScript",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+    },
+    {
+      "name": "mattpocock/skills",
+      "rank": 2,
+      "stars": "274,104",
+      "stars_today": "883",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory."
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 3,
+      "stars": "294,081",
+      "stars_today": "455",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "rank": 4,
+      "stars": "55,470",
+      "stars_today": "627",
+      "language": "TypeScript",
+      "description": "Write HTML. Render video. Built for agents."
+    },
+    {
+      "name": "NVIDIA/OpenShell",
+      "rank": 5,
+      "stars": "14,124",
+      "stars_today": "2,456",
+      "language": "Rust",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents."
+    },
+    {
+      "name": "mvschwarz/openrig",
+      "rank": 6,
+      "stars": "3,853",
+      "stars_today": "642",
+      "language": "TypeScript",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
+    },
+    {
+      "name": "mksglu/context-mode",
+      "rank": 7,
+      "stars": "24,846",
+      "stars_today": "362",
+      "language": "TypeScript",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
+    },
+    {
+      "name": "earendil-works/pi",
+      "rank": 8,
+      "stars": "111,385",
+      "stars_today": "298",
+      "language": "TypeScript",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI"
+    },
+    {
+      "name": "HunxByts/GhostTrack",
+      "rank": 9,
+      "stars": "16,515",
+      "stars_today": "368",
+      "language": "Python",
+      "description": "Useful tool to track location or mobile number"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "rank": 10,
+      "stars": "73,838",
+      "stars_today": "495",
+      "language": "JavaScript",
+      "description": "The design language that makes your AI harness better at design."
+    },
+    {
+      "name": "firebase/firebase-ios-sdk",
+      "rank": 11,
+      "stars": "6,887",
+      "stars_today": "112",
+      "language": "C++",
+      "description": "Firebase SDK for Apple App Development"
+    },
+    {
+      "name": "cursor/plugins",
+      "rank": 12,
+      "stars": "9,353",
+      "stars_today": "150",
+      "language": "TypeScript",
+      "description": "Cursor plugin specification and official plugins"
+    },
+    {
+      "name": "tile-ai/tilelang",
+      "rank": 13,
+      "stars": "8,166",
+      "stars_today": "163",
+      "language": "Python",
+      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels"
+    },
+    {
+      "name": "pablostanley/yoinks",
+      "rank": 14,
+      "stars": "3,065",
+      "stars_today": "361",
+      "language": "TypeScript",
+      "description": "yoink any video from your terminal. no shady ads."
+    },
+    {
+      "name": "Friedrich-M/UniMate",
+      "rank": 15,
+      "stars": "1,129",
+      "stars_today": "217",
+      "language": "Python",
+      "description": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons"
+    }
+  ]
+}
