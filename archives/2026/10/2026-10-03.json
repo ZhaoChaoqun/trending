@@ -1,0 +1,143 @@
+{
+  "date": "2026-10-03",
+  "updated_at": "2026-10-03 05:53:26",
+  "count": 17,
+  "rankings": [
+    {
+      "name": "Panniantong/Agent-Reach",
+      "rank": 1,
+      "stars": "88,941",
+      "stars_today": "696",
+      "language": "Python",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 2,
+      "stars": "294,547",
+      "stars_today": "556",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "rank": 3,
+      "stars": "152,029",
+      "stars_today": "1,435",
+      "language": "JavaScript",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "rank": 4,
+      "stars": "74,462",
+      "stars_today": "722",
+      "language": "JavaScript",
+      "description": "The design language that makes your AI harness better at design."
+    },
+    {
+      "name": "mattpocock/skills",
+      "rank": 5,
+      "stars": "274,830",
+      "stars_today": "955",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory."
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "rank": 6,
+      "stars": "55,984",
+      "stars_today": "580",
+      "language": "TypeScript",
+      "description": "Write HTML. Render video. Built for agents."
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "rank": 7,
+      "stars": "109,193",
+      "stars_today": "209",
+      "language": "Go",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman."
+    },
+    {
+      "name": "NVIDIA/OpenShell",
+      "rank": 8,
+      "stars": "14,501",
+      "stars_today": "594",
+      "language": "Rust",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents."
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "rank": 9,
+      "stars": "52,481",
+      "stars_today": "140",
+      "language": "JavaScript",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering."
+    },
+    {
+      "name": "mksglu/context-mode",
+      "rank": 10,
+      "stars": "25,088",
+      "stars_today": "282",
+      "language": "TypeScript",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
+    },
+    {
+      "name": "mvschwarz/openrig",
+      "rank": 11,
+      "stars": "4,435",
+      "stars_today": "683",
+      "language": "TypeScript",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
+    },
+    {
+      "name": "google/skills",
+      "rank": 12,
+      "stars": "20,807",
+      "stars_today": "39",
+      "language": "Python",
+      "description": "Agent Skills for Google products and technologies"
+    },
+    {
+      "name": "colbymchenry/codegraph",
+      "rank": 13,
+      "stars": "73,018",
+      "stars_today": "98",
+      "language": "C",
+      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local"
+    },
+    {
+      "name": "cursor/plugins",
+      "rank": 14,
+      "stars": "9,540",
+      "stars_today": "163",
+      "language": "TypeScript",
+      "description": "Cursor plugin specification and official plugins"
+    },
+    {
+      "name": "pablostanley/yoinks",
+      "rank": 15,
+      "stars": "3,596",
+      "stars_today": "623",
+      "language": "TypeScript",
+      "description": "yoink any video from your terminal. no shady ads."
+    },
+    {
+      "name": "getsentry/sentry",
+      "rank": 16,
+      "stars": "45,064",
+      "stars_today": "16",
+      "language": "Python",
+      "description": "Developer-first error tracking and performance monitoring"
+    },
+    {
+      "name": "Effect-TS/effect",
+      "rank": 17,
+      "stars": "16,613",
+      "stars_today": "80",
+      "language": "TypeScript",
+      "description": "Build production-ready applications in TypeScript"
+    }
+  ]
+}
