@@ -1,0 +1,135 @@
+{
+  "date": "2026-10-05",
+  "updated_at": "2026-10-05 06:23:58",
+  "count": 16,
+  "rankings": [
+    {
+      "name": "pbakaus/impeccable",
+      "rank": 1,
+      "stars": "76,497",
+      "stars_today": "1,171",
+      "language": "JavaScript",
+      "description": "The design language that makes your AI harness better at design."
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "rank": 2,
+      "stars": "155,177",
+      "stars_today": "1,894",
+      "language": "JavaScript",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "rank": 3,
+      "stars": "91,152",
+      "stars_today": "980",
+      "language": "Python",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "rank": 4,
+      "stars": "101,286",
+      "stars_today": "336",
+      "language": "JavaScript",
+      "description": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "rank": 5,
+      "stars": "96,255",
+      "stars_today": "628",
+      "language": "TypeScript",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "rank": 6,
+      "stars": "92,335",
+      "stars_today": "512",
+      "language": "TypeScript",
+      "description": "The open-source CapCut alternative"
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "rank": 7,
+      "stars": "53,188",
+      "stars_today": "197",
+      "language": "JavaScript",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering."
+    },
+    {
+      "name": "getsentry/sentry",
+      "rank": 8,
+      "stars": "45,435",
+      "stars_today": "152",
+      "language": "Python",
+      "description": "Developer-first error tracking and performance monitoring"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "rank": 9,
+      "stars": "63,373",
+      "stars_today": "245",
+      "language": "Python",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio."
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "rank": 10,
+      "stars": "25,286",
+      "stars_today": "490",
+      "language": "TypeScript",
+      "description": ""
+    },
+    {
+      "name": "garrytan/gstack",
+      "rank": 11,
+      "stars": "135,226",
+      "stars_today": "125",
+      "language": "TypeScript",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA"
+    },
+    {
+      "name": "antirez/ds4",
+      "rank": 12,
+      "stars": "23,491",
+      "stars_today": "211",
+      "language": "C",
+      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm"
+    },
+    {
+      "name": "tester-army/e2e",
+      "rank": 13,
+      "stars": "3,444",
+      "stars_today": "345",
+      "language": "TypeScript",
+      "description": "Next generation e2e testing framework for web and mobile apps."
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "rank": 14,
+      "stars": "16,986",
+      "stars_today": "83",
+      "language": "Python",
+      "description": "Give your agent CAD superpowers."
+    },
+    {
+      "name": "caddyserver/caddy",
+      "rank": 15,
+      "stars": "76,669",
+      "stars_today": "24",
+      "language": "Go",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS"
+    },
+    {
+      "name": "michael-denyer/pstack-claude",
+      "rank": 16,
+      "stars": "1,212",
+      "stars_today": "232",
+      "language": "JavaScript",
+      "description": "Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses."
+    }
+  ]
+}

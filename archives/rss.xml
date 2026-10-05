@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sun, 04 Oct 2026 06:30:32 +0000</pubDate><lastBuildDate>Sun, 04 Oct 2026 06:30:32 +0000</lastBuildDate><item><title>#1 DietrichGebert/ponytail (+1,281 stars)</title><link>https://github.com/DietrichGebert/ponytail</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;DietrichGebert/ponytail&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.&lt;/p&gt;
-&lt;p&gt;⭐ 153,763 | +1,281 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/DietrichGebert/ponytail#2026-10-04</guid><pubDate>Sun, 04 Oct 2026 06:30:32 +0000</pubDate></item><item><title>#2 pbakaus/impeccable (+699 stars)</title><link>https://github.com/pbakaus/impeccable</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Mon, 05 Oct 2026 06:23:58 +0000</pubDate><lastBuildDate>Mon, 05 Oct 2026 06:23:58 +0000</lastBuildDate><item><title>#1 pbakaus/impeccable (+1,171 stars)</title><link>https://github.com/pbakaus/impeccable</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;pbakaus/impeccable&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The design language that makes your AI harness better at design.&lt;/p&gt;
-&lt;p&gt;⭐ 75,533 | +699 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 76,497 | +1,171 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/pbakaus/impeccable#2026-10-04</guid><pubDate>Sun, 04 Oct 2026 06:30:32 +0000</pubDate></item><item><title>#3 affaan-m/ECC (+897 stars)</title><link>https://github.com/affaan-m/ECC</link><description>
+</description><guid isPermaLink="false">https://github.com/pbakaus/impeccable#2026-10-05</guid><pubDate>Mon, 05 Oct 2026 06:23:58 +0000</pubDate></item><item><title>#2 DietrichGebert/ponytail (+1,894 stars)</title><link>https://github.com/DietrichGebert/ponytail</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;affaan-m/ECC&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.&lt;/p&gt;
-&lt;p&gt;⭐ 272,410 | +897 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DietrichGebert/ponytail&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.&lt;/p&gt;
+&lt;p&gt;⭐ 155,177 | +1,894 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/affaan-m/ECC#2026-10-04</guid><pubDate>Sun, 04 Oct 2026 06:30:32 +0000</pubDate></item><item><title>#4 JuliusBrussee/caveman (+507 stars)</title><link>https://github.com/JuliusBrussee/caveman</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;JuliusBrussee/caveman&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.&lt;/p&gt;
-&lt;p&gt;⭐ 109,618 | +507 today | 🔧 Go&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/JuliusBrussee/caveman#2026-10-04</guid><pubDate>Sun, 04 Oct 2026 06:30:32 +0000</pubDate></item><item><title>#5 Panniantong/Agent-Reach (+1,696 stars)</title><link>https://github.com/Panniantong/Agent-Reach</link><description>
+</description><guid isPermaLink="false">https://github.com/DietrichGebert/ponytail#2026-10-05</guid><pubDate>Mon, 05 Oct 2026 06:23:58 +0000</pubDate></item><item><title>#3 Panniantong/Agent-Reach (+980 stars)</title><link>https://github.com/Panniantong/Agent-Reach</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;Panniantong/Agent-Reach&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.&lt;/p&gt;
-&lt;p&gt;⭐ 90,033 | +1,696 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 91,152 | +980 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Panniantong/Agent-Reach#2026-10-04</guid><pubDate>Sun, 04 Oct 2026 06:30:32 +0000</pubDate></item><item><title>#6 obra/superpowers (+577 stars)</title><link>https://github.com/obra/superpowers</link><description>
+</description><guid isPermaLink="false">https://github.com/Panniantong/Agent-Reach#2026-10-05</guid><pubDate>Mon, 05 Oct 2026 06:23:58 +0000</pubDate></item><item><title>#4 addyosmani/agent-skills (+336 stars)</title><link>https://github.com/addyosmani/agent-skills</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 294,981 | +577 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;addyosmani/agent-skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Production-grade engineering skills for AI coding agents.&lt;/p&gt;
+&lt;p&gt;⭐ 101,286 | +336 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-10-04</guid><pubDate>Sun, 04 Oct 2026 06:30:32 +0000</pubDate></item><item><title>#7 mattpocock/skills (+751 stars)</title><link>https://github.com/mattpocock/skills</link><description>
+</description><guid isPermaLink="false">https://github.com/addyosmani/agent-skills#2026-10-05</guid><pubDate>Mon, 05 Oct 2026 06:23:58 +0000</pubDate></item><item><title>#5 thedotmack/claude-mem (+628 stars)</title><link>https://github.com/thedotmack/claude-mem</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;mattpocock/skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Skills for Real Engineers. Straight from my .agents directory.&lt;/p&gt;
-&lt;p&gt;⭐ 275,497 | +751 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;thedotmack/claude-mem&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More&lt;/p&gt;
+&lt;p&gt;⭐ 96,255 | +628 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-10-04</guid><pubDate>Sun, 04 Oct 2026 06:30:32 +0000</pubDate></item><item><title>#8 earendil-works/pi (+408 stars)</title><link>https://github.com/earendil-works/pi</link><description>
+</description><guid isPermaLink="false">https://github.com/thedotmack/claude-mem#2026-10-05</guid><pubDate>Mon, 05 Oct 2026 06:23:58 +0000</pubDate></item><item><title>#6 OpenCut-app/OpenCut (+512 stars)</title><link>https://github.com/OpenCut-app/OpenCut</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;earendil-works/pi&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI&lt;/p&gt;
-&lt;p&gt;⭐ 112,246 | +408 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OpenCut-app/OpenCut&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The open-source CapCut alternative&lt;/p&gt;
+&lt;p&gt;⭐ 92,335 | +512 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/earendil-works/pi#2026-10-04</guid><pubDate>Sun, 04 Oct 2026 06:30:32 +0000</pubDate></item><item><title>#9 Effect-TS/effect (+302 stars)</title><link>https://github.com/Effect-TS/effect</link><description>
+</description><guid isPermaLink="false">https://github.com/OpenCut-app/OpenCut#2026-10-05</guid><pubDate>Mon, 05 Oct 2026 06:23:58 +0000</pubDate></item><item><title>#7 coreyhaines31/marketingskills (+197 stars)</title><link>https://github.com/coreyhaines31/marketingskills</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Effect-TS/effect&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Build production-ready applications in TypeScript&lt;/p&gt;
-&lt;p&gt;⭐ 16,878 | +302 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;coreyhaines31/marketingskills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.&lt;/p&gt;
+&lt;p&gt;⭐ 53,188 | +197 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Effect-TS/effect#2026-10-04</guid><pubDate>Sun, 04 Oct 2026 06:30:32 +0000</pubDate></item><item><title>#10 pingdotgg/t3code (+252 stars)</title><link>https://github.com/pingdotgg/t3code</link><description>
+</description><guid isPermaLink="false">https://github.com/coreyhaines31/marketingskills#2026-10-05</guid><pubDate>Mon, 05 Oct 2026 06:23:58 +0000</pubDate></item><item><title>#8 getsentry/sentry (+152 stars)</title><link>https://github.com/getsentry/sentry</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;getsentry/sentry&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Developer-first error tracking and performance monitoring&lt;/p&gt;
+&lt;p&gt;⭐ 45,435 | +152 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/getsentry/sentry#2026-10-05</guid><pubDate>Mon, 05 Oct 2026 06:23:58 +0000</pubDate></item><item><title>#9 calesthio/OpenMontage (+245 stars)</title><link>https://github.com/calesthio/OpenMontage</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;calesthio/OpenMontage&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.&lt;/p&gt;
+&lt;p&gt;⭐ 63,373 | +245 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/calesthio/OpenMontage#2026-10-05</guid><pubDate>Mon, 05 Oct 2026 06:23:58 +0000</pubDate></item><item><title>#10 pingdotgg/t3code (+490 stars)</title><link>https://github.com/pingdotgg/t3code</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;pingdotgg/t3code&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;⭐ 24,800 | +252 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 25,286 | +490 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/pingdotgg/t3code#2026-10-04</guid><pubDate>Sun, 04 Oct 2026 06:30:32 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/pingdotgg/t3code#2026-10-05</guid><pubDate>Mon, 05 Oct 2026 06:23:58 +0000</pubDate></item></channel></rss>
