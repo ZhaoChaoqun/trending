@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-06",
+  "updated_at": "2026-10-06 06:59:59",
+  "count": 13,
+  "rankings": [
+    {
+      "name": "thedotmack/claude-mem",
+      "rank": 1,
+      "stars": "96,741",
+      "stars_today": "534",
+      "language": "TypeScript",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "rank": 2,
+      "stars": "92,128",
+      "stars_today": "1,155",
+      "language": "Python",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "rank": 3,
+      "stars": "64,254",
+      "stars_today": "742",
+      "language": "Python",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio."
+    },
+    {
+      "name": "caddyserver/caddy",
+      "rank": 4,
+      "stars": "77,263",
+      "stars_today": "515",
+      "language": "Go",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "rank": 5,
+      "stars": "157,414",
+      "stars_today": "744",
+      "language": "Shell",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "name": "tester-army/e2e",
+      "rank": 6,
+      "stars": "5,177",
+      "stars_today": "1,398",
+      "language": "TypeScript",
+      "description": "Next generation e2e testing framework for web and mobile apps."
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "rank": 7,
+      "stars": "17,567",
+      "stars_today": "437",
+      "language": "Python",
+      "description": "Give your agent CAD superpowers."
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "rank": 8,
+      "stars": "25,711",
+      "stars_today": "485",
+      "language": "TypeScript",
+      "description": ""
+    },
+    {
+      "name": "boykopovar/AnyPS5",
+      "rank": 9,
+      "stars": "5,145",
+      "stars_today": "997",
+      "language": "C++",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows"
+    },
+    {
+      "name": "DuarteSantos8/openGym",
+      "rank": 10,
+      "stars": "4,548",
+      "stars_today": "1,433",
+      "language": "JavaScript",
+      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server."
+    },
+    {
+      "name": "cloudflare/cloudflare-os",
+      "rank": 11,
+      "stars": "11,104",
+      "stars_today": "101",
+      "language": "TypeScript",
+      "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems."
+    },
+    {
+      "name": "Stremio/stremio-web",
+      "rank": 12,
+      "stars": "14,354",
+      "stars_today": "111",
+      "language": "JavaScript",
+      "description": "Stremio - Freedom to Stream"
+    },
+    {
+      "name": "M-Abozaid/esp32-c3-adblock",
+      "rank": 13,
+      "stars": "1,512",
+      "stars_today": "196",
+      "language": "C++",
+      "description": "Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard.https://youtube.com/shorts/RaxszOUMi8E?feature=share"
+    }
+  ]
+}
