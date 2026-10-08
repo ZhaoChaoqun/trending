@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-08",
+  "updated_at": "2026-10-08 06:47:56",
+  "count": 13,
+  "rankings": [
+    {
+      "name": "mattpocock/skills",
+      "rank": 1,
+      "stars": "280,074",
+      "stars_today": "1,403",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory."
+    },
+    {
+      "name": "ayghri/i-have-adhd",
+      "rank": 2,
+      "stars": "55,381",
+      "stars_today": "619",
+      "language": "Python",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "rank": 3,
+      "stars": "45,293",
+      "stars_today": "825",
+      "language": "HTML",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "rank": 4,
+      "stars": "103,005",
+      "stars_today": "677",
+      "language": "JavaScript",
+      "description": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "rank": 5,
+      "stars": "97,914",
+      "stars_today": "578",
+      "language": "TypeScript",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "rank": 6,
+      "stars": "26,241",
+      "stars_today": "576",
+      "language": "JavaScript",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+    },
+    {
+      "name": "morluto/rea",
+      "rank": 7,
+      "stars": "17,379",
+      "stars_today": "4,655",
+      "language": "TypeScript",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+    },
+    {
+      "name": "boykopovar/AnyPS5",
+      "rank": 8,
+      "stars": "11,588",
+      "stars_today": "2,716",
+      "language": "C++",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows"
+    },
+    {
+      "name": "trycua/cua",
+      "rank": 9,
+      "stars": "28,880",
+      "stars_today": "228",
+      "language": "Rust",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation."
+    },
+    {
+      "name": "tester-army/e2e",
+      "rank": 10,
+      "stars": "7,776",
+      "stars_today": "1,390",
+      "language": "TypeScript",
+      "description": "Next generation e2e testing framework for web and mobile apps."
+    },
+    {
+      "name": "DuarteSantos8/openGym",
+      "rank": 11,
+      "stars": "7,353",
+      "stars_today": "1,493",
+      "language": "JavaScript",
+      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server."
+    },
+    {
+      "name": "manaflow-ai/cmux",
+      "rank": 12,
+      "stars": "27,944",
+      "stars_today": "44",
+      "language": "Swift",
+      "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability."
+    },
+    {
+      "name": "EpicGames/raddebugger",
+      "rank": 13,
+      "stars": "7,939",
+      "stars_today": "90",
+      "language": "C",
+      "description": "A native, user-mode, multi-process, graphical debugger."
+    }
+  ]
+}
