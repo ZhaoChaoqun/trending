@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-11",
+  "updated_at": "2026-10-11 06:36:51",
+  "count": 13,
+  "rankings": [
+    {
+      "name": "morluto/rea",
+      "rank": 1,
+      "stars": "78,969",
+      "stars_today": "25,793",
+      "language": "TypeScript",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+    },
+    {
+      "name": "boykopovar/AnyPS5",
+      "rank": 2,
+      "stars": "27,511",
+      "stars_today": "5,805",
+      "language": "C++",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "rank": 3,
+      "stars": "49,228",
+      "stars_today": "1,190",
+      "language": "HTML",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+    },
+    {
+      "name": "mattpocock/skills",
+      "rank": 4,
+      "stars": "284,879",
+      "stars_today": "1,736",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory."
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "rank": 5,
+      "stars": "59,751",
+      "stars_today": "461",
+      "language": "Python",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "rank": 6,
+      "stars": "28,925",
+      "stars_today": "625",
+      "language": "Python",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+    },
+    {
+      "name": "storytold/artcraft",
+      "rank": 7,
+      "stars": "15,126",
+      "stars_today": "3,222",
+      "language": "Rust",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "rank": 8,
+      "stars": "26,444",
+      "stars_today": "178",
+      "language": "TypeScript",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
+    },
+    {
+      "name": "flutter/flutter",
+      "rank": 9,
+      "stars": "179,634",
+      "stars_today": "88",
+      "language": "Dart",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond"
+    },
+    {
+      "name": "pytorch/pytorch",
+      "rank": 10,
+      "stars": "104,204",
+      "stars_today": "84",
+      "language": "Python",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
+    },
+    {
+      "name": "huggingface/transformers",
+      "rank": 11,
+      "stars": "167,380",
+      "stars_today": "96",
+      "language": "Python",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "rank": 12,
+      "stars": "218,463",
+      "stars_today": "278",
+      "language": null,
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "rank": 13,
+      "stars": "200,792",
+      "stars_today": "26",
+      "language": "C++",
+      "description": "An Open Source Machine Learning Framework for Everyone"
+    }
+  ]
+}
