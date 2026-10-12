@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-12",
+  "updated_at": "2026-10-12 06:44:12",
+  "count": 8,
+  "rankings": [
+    {
+      "name": "morluto/rea",
+      "rank": 1,
+      "stars": "118,855",
+      "stars_today": "25,599",
+      "language": "TypeScript",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+    },
+    {
+      "name": "boykopovar/AnyPS5",
+      "rank": 2,
+      "stars": "30,895",
+      "stars_today": "3,952",
+      "language": "C++",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "rank": 3,
+      "stars": "50,969",
+      "stars_today": "1,083",
+      "language": "HTML",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+    },
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "rank": 4,
+      "stars": "52,173",
+      "stars_today": "886",
+      "language": "JavaScript",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
+    },
+    {
+      "name": "pytorch/pytorch",
+      "rank": 5,
+      "stars": "104,628",
+      "stars_today": "315",
+      "language": "Python",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "rank": 6,
+      "stars": "36,761",
+      "stars_today": "548",
+      "language": "Jupyter Notebook",
+      "description": "AirLLM 70B inference with single 4GB GPU"
+    },
+    {
+      "name": "chrislgarry/Apollo-11",
+      "rank": 7,
+      "stars": "74,411",
+      "stars_today": "466",
+      "language": "Assembly",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules."
+    },
+    {
+      "name": "storytold/artcraft",
+      "rank": 8,
+      "stars": "18,951",
+      "stars_today": "2,957",
+      "language": "Rust",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
+    }
+  ]
+}
