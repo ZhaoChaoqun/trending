@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-13",
+  "updated_at": "2026-10-13 07:12:31",
+  "count": 9,
+  "rankings": [
+    {
+      "name": "morluto/rea",
+      "rank": 1,
+      "stars": "174,521",
+      "stars_today": "45,327",
+      "language": "TypeScript",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+    },
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "rank": 2,
+      "stars": "54,190",
+      "stars_today": "1,895",
+      "language": "JavaScript",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe."
+    },
+    {
+      "name": "storytold/artcraft",
+      "rank": 3,
+      "stars": "23,135",
+      "stars_today": "4,095",
+      "language": "Rust",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "rank": 4,
+      "stars": "53,082",
+      "stars_today": "2,081",
+      "language": "HTML",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+    },
+    {
+      "name": "lyogavin/airllm",
+      "rank": 5,
+      "stars": "37,775",
+      "stars_today": "879",
+      "language": "Jupyter Notebook",
+      "description": "AirLLM 2.8T LLM inference with single 4GB GPU"
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "rank": 6,
+      "stars": "59,524",
+      "stars_today": "626",
+      "language": "Python",
+      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "rank": 7,
+      "stars": "27,566",
+      "stars_today": "246",
+      "language": "TypeScript",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
+    },
+    {
+      "name": "open-webui/open-webui",
+      "rank": 8,
+      "stars": "155,338",
+      "stars_today": "157",
+      "language": "Python",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+    },
+    {
+      "name": "microsoft/BitNet",
+      "rank": 9,
+      "stars": "41,028",
+      "stars_today": "97",
+      "language": "C++",
+      "description": "Official inference framework for 1-bit LLMs"
+    }
+  ]
+}

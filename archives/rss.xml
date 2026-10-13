@@ -1,58 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Mon, 12 Oct 2026 06:44:12 +0000</pubDate><lastBuildDate>Mon, 12 Oct 2026 06:44:12 +0000</lastBuildDate><item><title>#1 morluto/rea (+25,599 stars)</title><link>https://github.com/morluto/rea</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Tue, 13 Oct 2026 07:12:31 +0000</pubDate><lastBuildDate>Tue, 13 Oct 2026 07:12:31 +0000</lastBuildDate><item><title>#1 morluto/rea (+45,327 stars)</title><link>https://github.com/morluto/rea</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;morluto/rea&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Reverse engineer anything with agents, from app behavior down to native binaries.&lt;/p&gt;
-&lt;p&gt;⭐ 118,855 | +25,599 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 174,521 | +45,327 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/morluto/rea#2026-10-12</guid><pubDate>Mon, 12 Oct 2026 06:44:12 +0000</pubDate></item><item><title>#2 boykopovar/AnyPS5 (+3,952 stars)</title><link>https://github.com/boykopovar/AnyPS5</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;boykopovar/AnyPS5&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Tool for automatic PS5 executables porting to Linux and Windows&lt;/p&gt;
-&lt;p&gt;⭐ 30,895 | +3,952 today | 🔧 C++&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/boykopovar/AnyPS5#2026-10-12</guid><pubDate>Mon, 12 Oct 2026 06:44:12 +0000</pubDate></item><item><title>#3 cathrynlavery/diagram-design (+1,083 stars)</title><link>https://github.com/cathrynlavery/diagram-design</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;cathrynlavery/diagram-design&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.&lt;/p&gt;
-&lt;p&gt;⭐ 50,969 | +1,083 today | 🔧 HTML&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/cathrynlavery/diagram-design#2026-10-12</guid><pubDate>Mon, 12 Oct 2026 06:44:12 +0000</pubDate></item><item><title>#4 bilawalsidhu/gods-eye-view (+886 stars)</title><link>https://github.com/bilawalsidhu/gods-eye-view</link><description>
+</description><guid isPermaLink="false">https://github.com/morluto/rea#2026-10-13</guid><pubDate>Tue, 13 Oct 2026 07:12:31 +0000</pubDate></item><item><title>#2 bilawalsidhu/gods-eye-view (+1,895 stars)</title><link>https://github.com/bilawalsidhu/gods-eye-view</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;bilawalsidhu/gods-eye-view&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.&lt;/p&gt;
-&lt;p&gt;⭐ 52,173 | +886 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 54,190 | +1,895 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/bilawalsidhu/gods-eye-view#2026-10-12</guid><pubDate>Mon, 12 Oct 2026 06:44:12 +0000</pubDate></item><item><title>#5 pytorch/pytorch (+315 stars)</title><link>https://github.com/pytorch/pytorch</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;pytorch/pytorch&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Tensors and Dynamic neural networks in Python with strong GPU acceleration&lt;/p&gt;
-&lt;p&gt;⭐ 104,628 | +315 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/pytorch/pytorch#2026-10-12</guid><pubDate>Mon, 12 Oct 2026 06:44:12 +0000</pubDate></item><item><title>#6 lyogavin/airllm (+548 stars)</title><link>https://github.com/lyogavin/airllm</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;lyogavin/airllm&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AirLLM 70B inference with single 4GB GPU&lt;/p&gt;
-&lt;p&gt;⭐ 36,761 | +548 today | 🔧 Jupyter Notebook&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/lyogavin/airllm#2026-10-12</guid><pubDate>Mon, 12 Oct 2026 06:44:12 +0000</pubDate></item><item><title>#7 chrislgarry/Apollo-11 (+466 stars)</title><link>https://github.com/chrislgarry/Apollo-11</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;chrislgarry/Apollo-11&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.&lt;/p&gt;
-&lt;p&gt;⭐ 74,411 | +466 today | 🔧 Assembly&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/chrislgarry/Apollo-11#2026-10-12</guid><pubDate>Mon, 12 Oct 2026 06:44:12 +0000</pubDate></item><item><title>#8 storytold/artcraft (+2,957 stars)</title><link>https://github.com/storytold/artcraft</link><description>
+</description><guid isPermaLink="false">https://github.com/bilawalsidhu/gods-eye-view#2026-10-13</guid><pubDate>Tue, 13 Oct 2026 07:12:31 +0000</pubDate></item><item><title>#3 storytold/artcraft (+4,095 stars)</title><link>https://github.com/storytold/artcraft</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;storytold/artcraft&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;ArtCraft is an intentional crafting engine for artists, designers, and filmmakers&lt;/p&gt;
-&lt;p&gt;⭐ 18,951 | +2,957 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;⭐ 23,135 | +4,095 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/storytold/artcraft#2026-10-13</guid><pubDate>Tue, 13 Oct 2026 07:12:31 +0000</pubDate></item><item><title>#4 cathrynlavery/diagram-design (+2,081 stars)</title><link>https://github.com/cathrynlavery/diagram-design</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;cathrynlavery/diagram-design&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.&lt;/p&gt;
+&lt;p&gt;⭐ 53,082 | +2,081 today | 🔧 HTML&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/cathrynlavery/diagram-design#2026-10-13</guid><pubDate>Tue, 13 Oct 2026 07:12:31 +0000</pubDate></item><item><title>#5 lyogavin/airllm (+879 stars)</title><link>https://github.com/lyogavin/airllm</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;lyogavin/airllm&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AirLLM 2.8T LLM inference with single 4GB GPU&lt;/p&gt;
+&lt;p&gt;⭐ 37,775 | +879 today | 🔧 Jupyter Notebook&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/lyogavin/airllm#2026-10-13</guid><pubDate>Tue, 13 Oct 2026 07:12:31 +0000</pubDate></item><item><title>#6 Alishahryar1/free-claude-code (+626 stars)</title><link>https://github.com/Alishahryar1/free-claude-code</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Alishahryar1/free-claude-code&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)&lt;/p&gt;
+&lt;p&gt;⭐ 59,524 | +626 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Alishahryar1/free-claude-code#2026-10-13</guid><pubDate>Tue, 13 Oct 2026 07:12:31 +0000</pubDate></item><item><title>#7 mksglu/context-mode (+246 stars)</title><link>https://github.com/mksglu/context-mode</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;mksglu/context-mode&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.&lt;/p&gt;
+&lt;p&gt;⭐ 27,566 | +246 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/storytold/artcraft#2026-10-12</guid><pubDate>Mon, 12 Oct 2026 06:44:12 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/mksglu/context-mode#2026-10-13</guid><pubDate>Tue, 13 Oct 2026 07:12:31 +0000</pubDate></item><item><title>#8 open-webui/open-webui (+157 stars)</title><link>https://github.com/open-webui/open-webui</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;open-webui/open-webui&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;User-friendly AI Interface (Supports Ollama, OpenAI API, ...)&lt;/p&gt;
+&lt;p&gt;⭐ 155,338 | +157 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/open-webui/open-webui#2026-10-13</guid><pubDate>Tue, 13 Oct 2026 07:12:31 +0000</pubDate></item><item><title>#9 microsoft/BitNet (+97 stars)</title><link>https://github.com/microsoft/BitNet</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;microsoft/BitNet&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Official inference framework for 1-bit LLMs&lt;/p&gt;
+&lt;p&gt;⭐ 41,028 | +97 today | 🔧 C++&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/microsoft/BitNet#2026-10-13</guid><pubDate>Tue, 13 Oct 2026 07:12:31 +0000</pubDate></item></channel></rss>
