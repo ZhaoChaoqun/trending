@@ -1,65 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Tue, 13 Oct 2026 07:12:31 +0000</pubDate><lastBuildDate>Tue, 13 Oct 2026 07:12:31 +0000</lastBuildDate><item><title>#1 morluto/rea (+45,327 stars)</title><link>https://github.com/morluto/rea</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Wed, 14 Oct 2026 05:36:01 +0000</pubDate><lastBuildDate>Wed, 14 Oct 2026 05:36:01 +0000</lastBuildDate><item><title>#1 morluto/rea (+54,679 stars)</title><link>https://github.com/morluto/rea</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;morluto/rea&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Reverse engineer anything with agents, from app behavior down to native binaries.&lt;/p&gt;
-&lt;p&gt;⭐ 174,521 | +45,327 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 215,999 | +54,679 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/morluto/rea#2026-10-13</guid><pubDate>Tue, 13 Oct 2026 07:12:31 +0000</pubDate></item><item><title>#2 bilawalsidhu/gods-eye-view (+1,895 stars)</title><link>https://github.com/bilawalsidhu/gods-eye-view</link><description>
+</description><guid isPermaLink="false">https://github.com/morluto/rea#2026-10-14</guid><pubDate>Wed, 14 Oct 2026 05:36:01 +0000</pubDate></item><item><title>#2 bilawalsidhu/gods-eye-view (+1,961 stars)</title><link>https://github.com/bilawalsidhu/gods-eye-view</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;bilawalsidhu/gods-eye-view&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.&lt;/p&gt;
-&lt;p&gt;⭐ 54,190 | +1,895 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 55,741 | +1,961 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/bilawalsidhu/gods-eye-view#2026-10-13</guid><pubDate>Tue, 13 Oct 2026 07:12:31 +0000</pubDate></item><item><title>#3 storytold/artcraft (+4,095 stars)</title><link>https://github.com/storytold/artcraft</link><description>
+</description><guid isPermaLink="false">https://github.com/bilawalsidhu/gods-eye-view#2026-10-14</guid><pubDate>Wed, 14 Oct 2026 05:36:01 +0000</pubDate></item><item><title>#3 debpalash/VoiceStudio (+1,748 stars)</title><link>https://github.com/debpalash/VoiceStudio</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;storytold/artcraft&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ArtCraft is an intentional crafting engine for artists, designers, and filmmakers&lt;/p&gt;
-&lt;p&gt;⭐ 23,135 | +4,095 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;debpalash/VoiceStudio&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.&lt;/p&gt;
+&lt;p&gt;⭐ 63,995 | +1,748 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/storytold/artcraft#2026-10-13</guid><pubDate>Tue, 13 Oct 2026 07:12:31 +0000</pubDate></item><item><title>#4 cathrynlavery/diagram-design (+2,081 stars)</title><link>https://github.com/cathrynlavery/diagram-design</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;cathrynlavery/diagram-design&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.&lt;/p&gt;
-&lt;p&gt;⭐ 53,082 | +2,081 today | 🔧 HTML&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/cathrynlavery/diagram-design#2026-10-13</guid><pubDate>Tue, 13 Oct 2026 07:12:31 +0000</pubDate></item><item><title>#5 lyogavin/airllm (+879 stars)</title><link>https://github.com/lyogavin/airllm</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;lyogavin/airllm&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AirLLM 2.8T LLM inference with single 4GB GPU&lt;/p&gt;
-&lt;p&gt;⭐ 37,775 | +879 today | 🔧 Jupyter Notebook&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/lyogavin/airllm#2026-10-13</guid><pubDate>Tue, 13 Oct 2026 07:12:31 +0000</pubDate></item><item><title>#6 Alishahryar1/free-claude-code (+626 stars)</title><link>https://github.com/Alishahryar1/free-claude-code</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Alishahryar1/free-claude-code&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)&lt;/p&gt;
-&lt;p&gt;⭐ 59,524 | +626 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/Alishahryar1/free-claude-code#2026-10-13</guid><pubDate>Tue, 13 Oct 2026 07:12:31 +0000</pubDate></item><item><title>#7 mksglu/context-mode (+246 stars)</title><link>https://github.com/mksglu/context-mode</link><description>
+</description><guid isPermaLink="false">https://github.com/debpalash/VoiceStudio#2026-10-14</guid><pubDate>Wed, 14 Oct 2026 05:36:01 +0000</pubDate></item><item><title>#4 mksglu/context-mode (+969 stars)</title><link>https://github.com/mksglu/context-mode</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;mksglu/context-mode&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.&lt;/p&gt;
-&lt;p&gt;⭐ 27,566 | +246 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 28,433 | +969 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/mksglu/context-mode#2026-10-14</guid><pubDate>Wed, 14 Oct 2026 05:36:01 +0000</pubDate></item><item><title>#5 cathrynlavery/diagram-design (+1,815 stars)</title><link>https://github.com/cathrynlavery/diagram-design</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;cathrynlavery/diagram-design&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.&lt;/p&gt;
+&lt;p&gt;⭐ 54,515 | +1,815 today | 🔧 HTML&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/cathrynlavery/diagram-design#2026-10-14</guid><pubDate>Wed, 14 Oct 2026 05:36:01 +0000</pubDate></item><item><title>#6 lyogavin/airllm (+1,001 stars)</title><link>https://github.com/lyogavin/airllm</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;lyogavin/airllm&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AirLLM 2.8T LLM inference with single 4GB GPU&lt;/p&gt;
+&lt;p&gt;⭐ 38,452 | +1,001 today | 🔧 Jupyter Notebook&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/lyogavin/airllm#2026-10-14</guid><pubDate>Wed, 14 Oct 2026 05:36:01 +0000</pubDate></item><item><title>#7 storytold/artcraft (+4,081 stars)</title><link>https://github.com/storytold/artcraft</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;storytold/artcraft&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ArtCraft is an intentional crafting engine for artists, designers, and filmmakers&lt;/p&gt;
+&lt;p&gt;⭐ 26,268 | +4,081 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/storytold/artcraft#2026-10-14</guid><pubDate>Wed, 14 Oct 2026 05:36:01 +0000</pubDate></item><item><title>#8 xtool-org/xtool (+1,198 stars)</title><link>https://github.com/xtool-org/xtool</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;xtool-org/xtool&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.&lt;/p&gt;
+&lt;p&gt;⭐ 9,690 | +1,198 today | 🔧 Swift&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/mksglu/context-mode#2026-10-13</guid><pubDate>Tue, 13 Oct 2026 07:12:31 +0000</pubDate></item><item><title>#8 open-webui/open-webui (+157 stars)</title><link>https://github.com/open-webui/open-webui</link><description>
+</description><guid isPermaLink="false">https://github.com/xtool-org/xtool#2026-10-14</guid><pubDate>Wed, 14 Oct 2026 05:36:01 +0000</pubDate></item><item><title>#9 vercel-labs/skills (+190 stars)</title><link>https://github.com/vercel-labs/skills</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;open-webui/open-webui&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;User-friendly AI Interface (Supports Ollama, OpenAI API, ...)&lt;/p&gt;
-&lt;p&gt;⭐ 155,338 | +157 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/open-webui/open-webui#2026-10-13</guid><pubDate>Tue, 13 Oct 2026 07:12:31 +0000</pubDate></item><item><title>#9 microsoft/BitNet (+97 stars)</title><link>https://github.com/microsoft/BitNet</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;microsoft/BitNet&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Official inference framework for 1-bit LLMs&lt;/p&gt;
-&lt;p&gt;⭐ 41,028 | +97 today | 🔧 C++&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;vercel-labs/skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The open agent skills tool - npx skills&lt;/p&gt;
+&lt;p&gt;⭐ 34,676 | +190 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/microsoft/BitNet#2026-10-13</guid><pubDate>Tue, 13 Oct 2026 07:12:31 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/vercel-labs/skills#2026-10-14</guid><pubDate>Wed, 14 Oct 2026 05:36:01 +0000</pubDate></item></channel></rss>
