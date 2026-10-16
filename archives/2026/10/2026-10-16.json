@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-16",
+  "updated_at": "2026-10-16 05:15:42",
+  "count": 13,
+  "rankings": [
+    {
+      "name": "morluto/rea",
+      "rank": 1,
+      "stars": "275,626",
+      "stars_today": "32,314",
+      "language": "TypeScript",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "rank": 2,
+      "stars": "50,711",
+      "stars_today": "1,091",
+      "language": "Python",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard."
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "rank": 3,
+      "stars": "69,483",
+      "stars_today": "3,024",
+      "language": "Python",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 4,
+      "stars": "300,082",
+      "stars_today": "582",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "mksglu/context-mode",
+      "rank": 5,
+      "stars": "29,884",
+      "stars_today": "904",
+      "language": "TypeScript",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
+    },
+    {
+      "name": "NationalSecurityAgency/ghidra",
+      "rank": 6,
+      "stars": "88,981",
+      "stars_today": "1,369",
+      "language": "Java",
+      "description": "Ghidra is a software reverse engineering (SRE) framework"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "rank": 7,
+      "stars": "280,576",
+      "stars_today": "1,013",
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "rank": 8,
+      "stars": "39,352",
+      "stars_today": "307",
+      "language": "Python",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "rank": 9,
+      "stars": "112,729",
+      "stars_today": "433",
+      "language": "Go",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman."
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "rank": 10,
+      "stars": "75,247",
+      "stars_today": "147",
+      "language": "TypeScript",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
+    },
+    {
+      "name": "xerj-org/xerj",
+      "rank": 11,
+      "stars": "5,892",
+      "stars_today": "715",
+      "language": "Rust",
+      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work."
+    },
+    {
+      "name": "LibreSpark/LibreTV",
+      "rank": 12,
+      "stars": "18,215",
+      "stars_today": "978",
+      "language": "TypeScript",
+      "description": "一分钟搭建影视站，支持Docker等部署方式"
+    },
+    {
+      "name": "lightseekorg/tokenspeed",
+      "rank": 13,
+      "stars": "2,551",
+      "stars_today": "30",
+      "language": "Python",
+      "description": "TokenSpeed is a speed-of-light LLM inference engine."
+    }
+  ]
+}
