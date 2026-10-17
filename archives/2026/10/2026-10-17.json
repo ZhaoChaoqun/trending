@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-17",
+  "updated_at": "2026-10-17 05:10:30",
+  "count": 13,
+  "rankings": [
+    {
+      "name": "anthropics/claude-plugins-official",
+      "rank": 1,
+      "stars": "40,793",
+      "stars_today": "1,552",
+      "language": "Python",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "rank": 2,
+      "stars": "51,658",
+      "stars_today": "1,158",
+      "language": "Python",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard."
+    },
+    {
+      "name": "affaan-m/ECC",
+      "rank": 3,
+      "stars": "281,652",
+      "stars_today": "1,057",
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "rank": 4,
+      "stars": "75,710",
+      "stars_today": "672",
+      "language": "TypeScript",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 5,
+      "stars": "300,767",
+      "stars_today": "973",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "rank": 6,
+      "stars": "71,572",
+      "stars_today": "2,301",
+      "language": "Python",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "rank": 7,
+      "stars": "48,758",
+      "stars_today": "898",
+      "language": "Python",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it."
+    },
+    {
+      "name": "hmjz100/LinkSwift",
+      "rank": 8,
+      "stars": "23,911",
+      "stars_today": "538",
+      "language": "JavaScript",
+      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘"
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "rank": 9,
+      "stars": "53,602",
+      "stars_today": "281",
+      "language": "Python",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "rank": 10,
+      "stars": "30,293",
+      "stars_today": "449",
+      "language": "TypeScript",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
+    },
+    {
+      "name": "cursor/plugins",
+      "rank": 11,
+      "stars": "12,037",
+      "stars_today": "278",
+      "language": "TypeScript",
+      "description": "Cursor plugin specification and official plugins"
+    },
+    {
+      "name": "xerj-org/xerj",
+      "rank": 12,
+      "stars": "7,085",
+      "stars_today": "1,648",
+      "language": "Rust",
+      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work."
+    },
+    {
+      "name": "android/skills",
+      "rank": 13,
+      "stars": "8,141",
+      "stars_today": "36",
+      "language": "Kotlin",
+      "description": ""
+    }
+  ]
+}
