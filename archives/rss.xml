@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Mon, 19 Oct 2026 05:27:40 +0000</pubDate><lastBuildDate>Mon, 19 Oct 2026 05:27:40 +0000</lastBuildDate><item><title>#1 MadsLorentzen/ai-job-search (+2,232 stars)</title><link>https://github.com/MadsLorentzen/ai-job-search</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Tue, 20 Oct 2026 05:30:46 +0000</pubDate><lastBuildDate>Tue, 20 Oct 2026 05:30:46 +0000</lastBuildDate><item><title>#1 MadsLorentzen/ai-job-search (+3,856 stars)</title><link>https://github.com/MadsLorentzen/ai-job-search</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;MadsLorentzen/ai-job-search&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.&lt;/p&gt;
-&lt;p&gt;⭐ 54,002 | +2,232 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 57,990 | +3,856 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/MadsLorentzen/ai-job-search#2026-10-19</guid><pubDate>Mon, 19 Oct 2026 05:27:40 +0000</pubDate></item><item><title>#2 anthropics/claude-plugins-official (+1,175 stars)</title><link>https://github.com/anthropics/claude-plugins-official</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;anthropics/claude-plugins-official&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Official, Anthropic-managed directory of high quality Claude Code Plugins.&lt;/p&gt;
-&lt;p&gt;⭐ 42,847 | +1,175 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/anthropics/claude-plugins-official#2026-10-19</guid><pubDate>Mon, 19 Oct 2026 05:27:40 +0000</pubDate></item><item><title>#3 anomalyco/opencode (+1,414 stars)</title><link>https://github.com/anomalyco/opencode</link><description>
+</description><guid isPermaLink="false">https://github.com/MadsLorentzen/ai-job-search#2026-10-20</guid><pubDate>Tue, 20 Oct 2026 05:30:46 +0000</pubDate></item><item><title>#2 anomalyco/opencode (+1,311 stars)</title><link>https://github.com/anomalyco/opencode</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;anomalyco/opencode&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The open source coding agent.&lt;/p&gt;
-&lt;p&gt;⭐ 216,832 | +1,414 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 218,037 | +1,311 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/anomalyco/opencode#2026-10-19</guid><pubDate>Mon, 19 Oct 2026 05:27:40 +0000</pubDate></item><item><title>#4 ruvnet/ruflo (+513 stars)</title><link>https://github.com/ruvnet/ruflo</link><description>
+</description><guid isPermaLink="false">https://github.com/anomalyco/opencode#2026-10-20</guid><pubDate>Tue, 20 Oct 2026 05:30:46 +0000</pubDate></item><item><title>#3 Comfy-Org/ComfyUI (+1,011 stars)</title><link>https://github.com/Comfy-Org/ComfyUI</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;Comfy-Org/ComfyUI&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.&lt;/p&gt;
+&lt;p&gt;⭐ 139,974 | +1,011 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/Comfy-Org/ComfyUI#2026-10-20</guid><pubDate>Tue, 20 Oct 2026 05:30:46 +0000</pubDate></item><item><title>#4 ruvnet/ruflo (+564 stars)</title><link>https://github.com/ruvnet/ruflo</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;ruvnet/ruflo&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated&lt;/p&gt;
-&lt;p&gt;⭐ 76,667 | +513 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 77,336 | +564 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/ruvnet/ruflo#2026-10-19</guid><pubDate>Mon, 19 Oct 2026 05:27:40 +0000</pubDate></item><item><title>#5 stablyai/orca (+1,146 stars)</title><link>https://github.com/stablyai/orca</link><description>
+</description><guid isPermaLink="false">https://github.com/ruvnet/ruflo#2026-10-20</guid><pubDate>Tue, 20 Oct 2026 05:30:46 +0000</pubDate></item><item><title>#5 stablyai/orca (+1,590 stars)</title><link>https://github.com/stablyai/orca</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;stablyai/orca&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.&lt;/p&gt;
-&lt;p&gt;⭐ 97,029 | +1,146 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 98,567 | +1,590 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/stablyai/orca#2026-10-19</guid><pubDate>Mon, 19 Oct 2026 05:27:40 +0000</pubDate></item><item><title>#6 HKUDS/CLI-Anything (+589 stars)</title><link>https://github.com/HKUDS/CLI-Anything</link><description>
+</description><guid isPermaLink="false">https://github.com/stablyai/orca#2026-10-20</guid><pubDate>Tue, 20 Oct 2026 05:30:46 +0000</pubDate></item><item><title>#6 headroomlabs-ai/headroom (+310 stars)</title><link>https://github.com/headroomlabs-ai/headroom</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;headroomlabs-ai/headroom&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.&lt;/p&gt;
+&lt;p&gt;⭐ 76,359 | +310 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/headroomlabs-ai/headroom#2026-10-20</guid><pubDate>Tue, 20 Oct 2026 05:30:46 +0000</pubDate></item><item><title>#7 HKUDS/CLI-Anything (+606 stars)</title><link>https://github.com/HKUDS/CLI-Anything</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;HKUDS/CLI-Anything&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/&lt;/p&gt;
-&lt;p&gt;⭐ 54,748 | +589 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 55,378 | +606 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/HKUDS/CLI-Anything#2026-10-19</guid><pubDate>Mon, 19 Oct 2026 05:27:40 +0000</pubDate></item><item><title>#7 debpalash/VoiceStudio (+2,082 stars)</title><link>https://github.com/debpalash/VoiceStudio</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;debpalash/VoiceStudio&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.&lt;/p&gt;
-&lt;p&gt;⭐ 75,945 | +2,082 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/debpalash/VoiceStudio#2026-10-19</guid><pubDate>Mon, 19 Oct 2026 05:27:40 +0000</pubDate></item><item><title>#8 cursor/plugins (+350 stars)</title><link>https://github.com/cursor/plugins</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;cursor/plugins&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Cursor plugin specification and official plugins&lt;/p&gt;
-&lt;p&gt;⭐ 12,829 | +350 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/cursor/plugins#2026-10-19</guid><pubDate>Mon, 19 Oct 2026 05:27:40 +0000</pubDate></item><item><title>#9 akitaonrails/ai-memory (+512 stars)</title><link>https://github.com/akitaonrails/ai-memory</link><description>
+</description><guid isPermaLink="false">https://github.com/HKUDS/CLI-Anything#2026-10-20</guid><pubDate>Tue, 20 Oct 2026 05:30:46 +0000</pubDate></item><item><title>#8 akitaonrails/ai-memory (+666 stars)</title><link>https://github.com/akitaonrails/ai-memory</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;akitaonrails/ai-memory&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors&lt;/p&gt;
-&lt;p&gt;⭐ 10,666 | +512 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;⭐ 11,520 | +666 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/akitaonrails/ai-memory#2026-10-19</guid><pubDate>Mon, 19 Oct 2026 05:27:40 +0000</pubDate></item><item><title>#10 android/skills (+375 stars)</title><link>https://github.com/android/skills</link><description>
+</description><guid isPermaLink="false">https://github.com/akitaonrails/ai-memory#2026-10-20</guid><pubDate>Tue, 20 Oct 2026 05:30:46 +0000</pubDate></item><item><title>#9 anthropics/claude-code (+167 stars)</title><link>https://github.com/anthropics/claude-code</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;android/skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;⭐ 8,871 | +375 today | 🔧 Kotlin&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;anthropics/claude-code&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.&lt;/p&gt;
+&lt;p&gt;⭐ 152,755 | +167 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/android/skills#2026-10-19</guid><pubDate>Mon, 19 Oct 2026 05:27:40 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/anthropics/claude-code#2026-10-20</guid><pubDate>Tue, 20 Oct 2026 05:30:46 +0000</pubDate></item><item><title>#10 shiyu-coder/Kronos (+363 stars)</title><link>https://github.com/shiyu-coder/Kronos</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;shiyu-coder/Kronos&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kronos: A Foundation Model for the Language of Financial Markets&lt;/p&gt;
+&lt;p&gt;⭐ 41,825 | +363 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/shiyu-coder/Kronos#2026-10-20</guid><pubDate>Tue, 20 Oct 2026 05:30:46 +0000</pubDate></item></channel></rss>
