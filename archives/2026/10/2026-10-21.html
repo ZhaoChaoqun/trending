@@ -1,0 +1,1439 @@
+<!DOCTYPE html>
+<html lang="zh-CN" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Trending - Synapse - 2026-10-21</title>
+    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg" type="image/svg+xml">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet">
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com?plugins=forms"></script>
+
+    <!-- ECharts -->
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+
+    <!-- Tailwind Config -->
+    <script>
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "synapse-bg": "#0D1117",
+                        "synapse-card": "#161B22",
+                        "synapse-border": "#30363D",
+                        "electric-cyan": "#00E5FF",
+                        "muted-mint": "#70FFC9",
+                        "glow-amber": "#FFAB00",
+                        "text-main": "#C9D1D9",
+                        "text-muted": "#8B949E",
+                    },
+                    fontFamily: {
+                        "display": ["Inter", "sans-serif"],
+                        "mono": ["JetBrains Mono", "monospace"],
+                    },
+                    boxShadow: {
+                        'neon-cyan': '0 0 5px theme("colors.electric-cyan"), 0 0 20px theme("colors.electric-cyan")',
+                        'neon-amber': '0 0 5px theme("colors.glow-amber"), 0 0 10px rgba(255, 171, 0, 0.5)',
+                    }
+                },
+            },
+        }
+    </script>
+
+    <style>
+        body {
+            background-color: #0D1117;
+            color: #C9D1D9;
+        }
+
+        /* Custom Scrollbar */
+        ::-webkit-scrollbar {
+            width: 6px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #0D1117;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #30363D;
+            border-radius: 3px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #00E5FF;
+        }
+
+        .glass-panel {
+            background: rgba(22, 27, 34, 0.7);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid rgba(48, 54, 61, 0.5);
+        }
+
+        .glass-card {
+            background: rgba(13, 17, 23, 0.6);
+            border: 1px solid rgba(48, 54, 61, 0.8);
+        }
+
+        .nav-item-active {
+            background: rgba(0, 229, 255, 0.1);
+            border-left: 3px solid #00E5FF;
+            color: #fff;
+        }
+
+        .pulse-dot {
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+
+        .feed-item.selected {
+            border-color: rgba(0, 229, 255, 0.3) !important;
+            background: rgba(22, 27, 34, 0.8) !important;
+            box-shadow: 0 0 15px -3px rgba(0, 229, 255, 0.1);
+        }
+
+        .feed-item.selected h3 {
+            color: #00E5FF !important;
+        }
+
+        .feed-item.selected .rank-num {
+            color: #fff !important;
+        }
+    </style>
+</head>
+<body class="h-screen w-full flex overflow-hidden font-display selection:bg-electric-cyan selection:text-black">
+
+    
+    <aside class="w-64 h-full flex flex-col glass-panel border-r border-synapse-border shrink-0 z-20">
+        <!-- Header / Logo -->
+        <div class="h-16 flex items-center px-6 border-b border-synapse-border">
+            <div class="flex items-center gap-3">
+                <div class="w-8 h-8 rounded-lg bg-gradient-to-br from-electric-cyan to-blue-600 flex items-center justify-center shadow-neon-cyan">
+                    <span class="material-symbols-outlined text-black font-bold" style="font-size: 20px;">trending_up</span>
+                </div>
+                <div>
+                    <h1 class="font-bold text-lg tracking-tight text-white">GitHub<span class="text-electric-cyan">Trending</span></h1>
+                    <p class="text-[10px] text-text-muted font-mono tracking-wider">SYNAPSE v2.0</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Navigation -->
+        <div class="flex-1 overflow-y-auto py-6 flex flex-col gap-2">
+            <div class="px-4 mb-2">
+                <p class="text-xs font-bold text-text-muted uppercase tracking-wider mb-2 px-2">分类</p>
+                <a href="#" class="nav-item-active flex items-center gap-3 px-3 py-2.5 rounded-r-lg transition-colors group" data-filter="all">
+                    <span class="material-symbols-outlined text-electric-cyan">grid_view</span>
+                    <span class="text-sm font-medium">全部热门</span>
+                </a>
+                <a href="#" class="nav-item flex items-center gap-3 px-3 py-2.5 rounded-lg text-text-muted hover:text-white hover:bg-synapse-border/30 transition-colors group border-l-2 border-transparent hover:border-text-muted/50 ml-1" data-filter="AI & ML">
+                    <span class="material-symbols-outlined group-hover:text-muted-mint transition-colors">smart_toy</span>
+                    <span class="text-sm font-medium">AI & ML</span>
+                </a>
+                <a href="#" class="nav-item flex items-center gap-3 px-3 py-2.5 rounded-lg text-text-muted hover:text-white hover:bg-synapse-border/30 transition-colors group border-l-2 border-transparent hover:border-text-muted/50 ml-1" data-filter="Frontend">
+                    <span class="material-symbols-outlined group-hover:text-muted-mint transition-colors">language</span>
+                    <span class="text-sm font-medium">前端开发</span>
+                </a>
+                <a href="#" class="nav-item flex items-center gap-3 px-3 py-2.5 rounded-lg text-text-muted hover:text-white hover:bg-synapse-border/30 transition-colors group border-l-2 border-transparent hover:border-text-muted/50 ml-1" data-filter="System">
+                    <span class="material-symbols-outlined group-hover:text-muted-mint transition-colors">memory</span>
+                    <span class="text-sm font-medium">系统底层</span>
+                </a>
+            </div>
+            <div class="px-4 mt-4">
+                <p class="text-xs font-bold text-text-muted uppercase tracking-wider mb-2 px-2">洞察</p>
+                <a href="#" class="nav-item flex items-center gap-3 px-3 py-2.5 rounded-lg text-text-muted hover:text-white hover:bg-synapse-border/30 transition-colors border-l-2 border-transparent ml-1" data-filter="rising">
+                    <span class="material-symbols-outlined text-muted-mint">rocket_launch</span>
+                    <span class="text-sm font-medium">上升最快</span>
+                </a>
+                <a href="#" class="nav-item flex items-center gap-3 px-3 py-2.5 rounded-lg text-text-muted hover:text-white hover:bg-synapse-border/30 transition-colors border-l-2 border-transparent ml-1" data-filter="new">
+                    <span class="material-symbols-outlined text-glow-amber">new_releases</span>
+                    <span class="text-sm font-medium">今日新上榜</span>
+                </a>
+            </div>
+
+            <!-- Hacker News Section -->
+            <div class="px-4 mt-4">
+                <p class="text-xs font-bold text-text-muted uppercase tracking-wider mb-2 px-2">
+                    <span class="text-glow-amber">Y</span> Hacker News
+                </p>
+                <a href="../../hn.html" class="nav-item flex items-center gap-3 px-3 py-2.5 rounded-lg text-text-muted hover:text-white hover:bg-synapse-border/30 transition-colors border-l-2 border-transparent hover:border-glow-amber/50 ml-1">
+                    <span class="material-symbols-outlined text-glow-amber">local_fire_department</span>
+                    <span class="text-sm font-medium">Top Stories</span>
+                </a>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <div class="p-4 border-t border-synapse-border">
+            <div class="flex items-center gap-2 text-xs text-text-muted">
+                <span class="w-2 h-2 rounded-full bg-muted-mint pulse-dot"></span>
+                <span class="font-mono">数据已同步</span>
+            </div>
+        </div>
+    </aside>
+    
+
+    <!-- Main Content Area -->
+    <main class="flex-1 flex flex-col h-full overflow-hidden bg-synapse-bg relative">
+        <!-- Top Search Bar -->
+        <header class="h-16 shrink-0 border-b border-synapse-border flex items-center justify-between px-6 bg-synapse-bg/80 backdrop-blur-md z-10 sticky top-0">
+            <div class="flex items-center w-full max-w-md relative">
+                <span class="material-symbols-outlined absolute left-3 text-text-muted">search</span>
+                <input type="text" id="search-input"
+                    class="w-full bg-synapse-card border border-synapse-border rounded-lg pl-10 pr-4 py-2 text-sm text-white placeholder-text-muted focus:outline-none focus:border-electric-cyan focus:ring-1 focus:ring-electric-cyan transition-all"
+                    placeholder="搜索项目..."
+                    onkeyup="filterBySearch(this.value)">
+            </div>
+            <div class="flex items-center gap-4">
+                <span class="text-sm text-text-muted font-mono">2026-10-21</span>
+                <button onclick="window.open('https://github.com/trending', '_blank')" class="p-2 text-text-muted hover:text-white transition-colors" title="GitHub Trending">
+                    <span class="material-symbols-outlined">open_in_new</span>
+                </button>
+            </div>
+        </header>
+
+        <!-- Feed List -->
+        <div class="flex-1 overflow-y-auto p-4 md:p-6">
+            
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-3 mb-6">
+        <div class="glass-card rounded-xl p-4 flex items-center gap-3">
+            <div class="w-10 h-10 rounded-lg bg-muted-mint/10 flex items-center justify-center">
+                <span class="material-symbols-outlined text-muted-mint">star</span>
+            </div>
+            <div>
+                <p class="text-xs text-text-muted">今日 Star</p>
+                <p class="text-xl font-bold text-white">14.7k</p>
+            </div>
+        </div>
+        <div class="glass-card rounded-xl p-4 flex items-center gap-3">
+            <div class="w-10 h-10 rounded-lg bg-electric-cyan/10 flex items-center justify-center">
+                <span class="material-symbols-outlined text-electric-cyan">analytics</span>
+            </div>
+            <div>
+                <p class="text-xs text-text-muted">平均评分</p>
+                <p class="text-xl font-bold text-white">8.6<span class="text-sm text-text-muted">/10</span></p>
+            </div>
+        </div>
+        <div class="glass-card rounded-xl p-4 flex items-center gap-3">
+            <div class="w-10 h-10 rounded-lg bg-glow-amber/10 flex items-center justify-center">
+                <span class="material-symbols-outlined text-glow-amber">folder</span>
+            </div>
+            <div>
+                <p class="text-xs text-text-muted">热门项目</p>
+                <p class="text-xl font-bold text-white">15</p>
+            </div>
+        </div>
+        <div class="glass-card rounded-xl p-4 flex items-center gap-3">
+            <div class="w-10 h-10 rounded-lg bg-purple-500/10 flex items-center justify-center">
+                <span class="material-symbols-outlined text-purple-400">code</span>
+            </div>
+            <div>
+                <p class="text-xs text-text-muted">热门语言</p>
+                <p class="text-xl font-bold text-white">Python</p>
+            </div>
+        </div>
+    </div>
+    
+
+            
+    <section class="mb-8">
+        <!-- Header -->
+        <div class="flex flex-col lg:flex-row lg:items-end justify-between gap-4 mb-4">
+            <div>
+                <div class="flex items-center gap-3 mb-1">
+                    <span class="material-symbols-outlined text-electric-cyan">local_fire_department</span>
+                    <h2 class="text-xl font-bold text-white">Tech Pulse Treemap</h2>
+                </div>
+                <p class="text-text-muted text-sm">实时 GitHub 市场情绪。面积 = 增长，颜色 = 动量。</p>
+            </div>
+            <div class="flex flex-wrap items-center gap-3">
+                <!-- Time Range Toggle -->
+                <div class="bg-synapse-card p-1 rounded-lg flex border border-synapse-border">
+                    <button class="treemap-time-filter px-3 py-1.5 rounded text-xs font-medium bg-synapse-bg text-white shadow-sm border border-synapse-border" data-time="24h">24h</button>
+                    <button class="treemap-time-filter px-3 py-1.5 rounded text-xs font-medium text-text-muted hover:text-white hover:bg-synapse-border transition-colors" data-time="7d">7d</button>
+                    <button class="treemap-time-filter px-3 py-1.5 rounded text-xs font-medium text-text-muted hover:text-white hover:bg-synapse-border transition-colors" data-time="30d">30d</button>
+                </div>
+                <div class="h-8 w-px bg-synapse-border mx-1 hidden md:block"></div>
+                <!-- Language Filters -->
+                <button class="treemap-lang-filter flex items-center gap-2 px-3 py-1.5 rounded-lg bg-electric-cyan/20 text-electric-cyan border border-electric-cyan/30 text-sm font-medium" data-lang="all">
+                    <span>All Languages</span>
+                </button>
+                <button class="treemap-lang-filter flex items-center gap-2 px-3 py-1.5 rounded-lg bg-synapse-card hover:bg-synapse-border text-text-muted hover:text-white border border-synapse-border transition-colors text-sm font-medium" data-lang="Python">Python</button><button class="treemap-lang-filter flex items-center gap-2 px-3 py-1.5 rounded-lg bg-synapse-card hover:bg-synapse-border text-text-muted hover:text-white border border-synapse-border transition-colors text-sm font-medium" data-lang="TypeScript">TypeScript</button><button class="treemap-lang-filter flex items-center gap-2 px-3 py-1.5 rounded-lg bg-synapse-card hover:bg-synapse-border text-text-muted hover:text-white border border-synapse-border transition-colors text-sm font-medium" data-lang="JavaScript">JavaScript</button>
+            </div>
+        </div>
+
+        <!-- Legend -->
+        <div class="flex items-center gap-4 text-xs text-text-muted border-t border-b border-synapse-border py-3 mb-4">
+            <span class="uppercase tracking-wider font-semibold">强度:</span>
+            <div class="flex items-center gap-2">
+                <span>低动量</span>
+                <div class="h-3 w-32 rounded-full bg-gradient-to-r from-[#1c3538] via-[#2d5d63] to-electric-cyan"></div>
+                <span class="text-white">高动量</span>
+            </div>
+            <div class="ml-6 flex items-center gap-2">
+                <div class="w-3 h-3 border border-electric-cyan shadow-[0_0_8px_rgba(0,229,255,0.3)] rounded-sm"></div>
+                <span class="text-electric-cyan">新项目 (发光边框)</span>
+            </div>
+        </div>
+
+        <!-- 3 Column Grid -->
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+            
+        <div class="flex flex-col h-full gap-2">
+            <div class="flex items-center justify-between px-1">
+                <h3 class="text-white font-semibold text-sm tracking-wide flex items-center gap-2">
+                    <span class="w-2 h-2 rounded-full bg-purple-500"></span>
+                    AI & 机器学习
+                </h3>
+                <span class="text-xs text-text-muted">12 Repos</span>
+            </div>
+            <div class="flex-1 relative bg-synapse-card/30 rounded-xl overflow-hidden p-1 border border-synapse-border min-h-[280px]">
+                <div class="treemap-grid">
+                    
+        <div class="treemap-item col-span-8 row-span-5 bg-[#2d5d63] border-[#3d7d83] shadow-[0_0_15px_rgba(0,229,255,0.4)] border-electric-cyan border relative rounded overflow-hidden cursor-pointer hover:border-white/50 transition-all"
+             onclick="window.open('https://github.com/cloudflare/security-audit-skill', '_blank')">
+            
+            <div class="absolute inset-0 p-3 flex flex-col justify-between z-10">
+                <div class="flex justify-between items-start">
+                    <span class="font-bold text-white text-base truncate">security-audit-skill</span>
+                    <span class="text-[10px] font-mono text-muted-mint bg-muted-mint/10 px-1.5 py-0.5 rounded">+1712</span>
+                </div>
+                <div class="flex items-center justify-between">
+                    <span class="text-[10px] text-white/70">JavaScript • 34.6k ⭐</span>
+                    <span class="material-symbols-outlined text-glow-amber text-sm">local_fire_department</span>
+                </div>
+            </div>
+        
+        </div>
+    
+        <div class="treemap-item col-span-6 row-span-4 bg-[#2d5d63] border-[#3d7d83]  border relative rounded overflow-hidden cursor-pointer hover:border-white/50 transition-all"
+             onclick="window.open('https://github.com/stablyai/orca', '_blank')">
+            
+            <div class="absolute inset-0 p-3 flex flex-col justify-between z-10">
+                <div class="flex justify-between items-start">
+                    <span class="font-bold text-white text-base truncate">orca</span>
+                    <span class="text-[10px] font-mono text-muted-mint bg-muted-mint/10 px-1.5 py-0.5 rounded">+1565</span>
+                </div>
+                <div class="flex items-center justify-between">
+                    <span class="text-[10px] text-white/70">TypeScript • 100.1k ⭐</span>
+                    <span class="material-symbols-outlined text-glow-amber text-sm">local_fire_department</span>
+                </div>
+            </div>
+        
+        </div>
+    
+        <div class="treemap-item col-span-4 row-span-3 bg-[#2d5d63] border-[#3d7d83] shadow-[0_0_15px_rgba(0,229,255,0.4)] border-electric-cyan border relative rounded overflow-hidden cursor-pointer hover:border-white/50 transition-all"
+             onclick="window.open('https://github.com/DietrichGebert/ponytail', '_blank')">
+            
+            <div class="absolute inset-0 p-2 flex flex-col justify-between">
+                <span class="font-bold text-white text-sm truncate">ponytail</span>
+                <span class="text-[10px] text-white/70"><span class="text-[10px] font-mono text-muted-mint bg-muted-mint/10 px-1.5 py-0.5 rounded">+1208</span></span>
+            </div>
+        
+        </div>
+    
+        <div class="treemap-item col-span-4 row-span-3 bg-[#2d5d63] border-[#3d7d83]  border relative rounded overflow-hidden cursor-pointer hover:border-white/50 transition-all"
+             onclick="window.open('https://github.com/Comfy-Org/ComfyUI', '_blank')">
+            
+            <div class="absolute inset-0 p-2 flex flex-col justify-between">
+                <span class="font-bold text-white text-sm truncate">ComfyUI</span>
+                <span class="text-[10px] text-white/70"><span class="text-[10px] font-mono text-muted-mint bg-muted-mint/10 px-1.5 py-0.5 rounded">+1206</span></span>
+            </div>
+        
+        </div>
+    
+        <div class="treemap-item col-span-3 row-span-2 bg-[#1c3538] border-[#2d5d63]  border relative rounded overflow-hidden cursor-pointer hover:border-white/50 transition-all"
+             onclick="window.open('https://github.com/ruvnet/ruflo', '_blank')">
+            
+            <div class="absolute inset-0 p-2 flex items-center justify-center">
+                <span class="font-medium text-white/80 text-xs truncate">ruflo</span>
+            </div>
+        
+        </div>
+    
+        <div class="treemap-item col-span-3 row-span-2 bg-[#2d5d63] border-[#3d7d83]  border relative rounded overflow-hidden cursor-pointer hover:border-white/50 transition-all"
+             onclick="window.open('https://github.com/anomalyco/opencode', '_blank')">
+            
+            <div class="absolute inset-0 p-2 flex items-center justify-center">
+                <span class="font-medium text-white/80 text-xs truncate">opencode</span>
+            </div>
+        
+        </div>
+    
+        <div class="treemap-item col-span-2 row-span-2 bg-[#1c3538] border-[#2d5d63] shadow-[0_0_15px_rgba(0,229,255,0.4)] border-electric-cyan border relative rounded overflow-hidden cursor-pointer hover:border-white/50 transition-all"
+             onclick="window.open('https://github.com/msitarzewski/agency-agents', '_blank')">
+            
+            <div class="absolute inset-0 p-2 flex items-center justify-center">
+                <span class="font-medium text-white/80 text-xs truncate">agency-agents</span>
+            </div>
+        
+        </div>
+    
+        <div class="treemap-item col-span-2 row-span-2 bg-[#1c3538] border-[#2d5d63]  border relative rounded overflow-hidden cursor-pointer hover:border-white/50 transition-all"
+             onclick="window.open('https://github.com/headroomlabs-ai/headroom', '_blank')">
+            
+            <div class="absolute inset-0 p-2 flex items-center justify-center">
+                <span class="font-medium text-white/80 text-xs truncate">headroom</span>
+            </div>
+        
+        </div>
+    
+                </div>
+            </div>
+        </div>
+    
+        <div class="flex flex-col h-full gap-2">
+            <div class="flex items-center justify-between px-1">
+                <h3 class="text-white font-semibold text-sm tracking-wide flex items-center gap-2">
+                    <span class="w-2 h-2 rounded-full bg-orange-500"></span>
+                    系统 & 基础设施
+                </h3>
+                <span class="text-xs text-text-muted">1 Repos</span>
+            </div>
+            <div class="flex-1 relative bg-synapse-card/30 rounded-xl overflow-hidden p-1 border border-synapse-border min-h-[280px]">
+                <div class="treemap-grid">
+                    
+        <div class="treemap-item col-span-8 row-span-5 bg-[#1c3538] border-[#2d5d63] shadow-[0_0_15px_rgba(0,229,255,0.4)] border-electric-cyan border relative rounded overflow-hidden cursor-pointer hover:border-white/50 transition-all"
+             onclick="window.open('https://github.com/Graphify-Labs/graphify', '_blank')">
+            
+            <div class="absolute inset-0 p-3 flex flex-col justify-between z-10">
+                <div class="flex justify-between items-start">
+                    <span class="font-bold text-white text-base truncate">graphify</span>
+                    <span class="text-[10px] font-mono text-muted-mint bg-muted-mint/10 px-1.5 py-0.5 rounded">+802</span>
+                </div>
+                <div class="flex items-center justify-between">
+                    <span class="text-[10px] text-white/70">Python • 130.5k ⭐</span>
+                    <span class="material-symbols-outlined text-glow-amber text-sm">local_fire_department</span>
+                </div>
+            </div>
+        
+        </div>
+    
+                </div>
+            </div>
+        </div>
+    
+        <div class="flex flex-col h-full gap-2">
+            <div class="flex items-center justify-between px-1">
+                <h3 class="text-white font-semibold text-sm tracking-wide flex items-center gap-2">
+                    <span class="w-2 h-2 rounded-full bg-gray-500"></span>
+                    其他
+                </h3>
+                <span class="text-xs text-text-muted">2 Repos</span>
+            </div>
+            <div class="flex-1 relative bg-synapse-card/30 rounded-xl overflow-hidden p-1 border border-synapse-border min-h-[280px]">
+                <div class="treemap-grid">
+                    
+        <div class="treemap-item col-span-8 row-span-5 bg-electric-cyan/30 border-electric-cyan/50  border relative rounded overflow-hidden cursor-pointer hover:border-white/50 transition-all"
+             onclick="window.open('https://github.com/MadsLorentzen/ai-job-search', '_blank')">
+            
+            <div class="absolute inset-0 p-3 flex flex-col justify-between z-10">
+                <div class="flex justify-between items-start">
+                    <span class="font-bold text-white text-base truncate">ai-job-search</span>
+                    <span class="text-[10px] font-mono text-muted-mint bg-muted-mint/10 px-1.5 py-0.5 rounded">+3861</span>
+                </div>
+                <div class="flex items-center justify-between">
+                    <span class="text-[10px] text-white/70">Python • 61.2k ⭐</span>
+                    <span class="text-[10px] bg-white/10 px-1.5 py-0.5 rounded text-white">#1 Trending</span> <span class="material-symbols-outlined text-glow-amber text-sm">local_fire_department</span>
+                </div>
+            </div>
+        
+        </div>
+    
+        <div class="treemap-item col-span-6 row-span-4 bg-[#1c3538] border-[#2d5d63] shadow-[0_0_15px_rgba(0,229,255,0.4)] border-electric-cyan border relative rounded overflow-hidden cursor-pointer hover:border-white/50 transition-all"
+             onclick="window.open('https://github.com/anthropics/knowledge-work-plugins', '_blank')">
+            
+            <div class="absolute inset-0 p-3 flex flex-col justify-between z-10">
+                <div class="flex justify-between items-start">
+                    <span class="font-bold text-white text-base truncate">knowledge-work-plugins</span>
+                    <span class="text-[10px] font-mono text-muted-mint bg-muted-mint/10 px-1.5 py-0.5 rounded">+267</span>
+                </div>
+                <div class="flex items-center justify-between">
+                    <span class="text-[10px] text-white/70">Python • 30.9k ⭐</span>
+                    
+                </div>
+            </div>
+        
+        </div>
+    
+                </div>
+            </div>
+        </div>
+    
+        </div>
+    </section>
+
+    <style>
+        .treemap-grid {
+            display: grid;
+            grid-template-columns: repeat(12, 1fr);
+            grid-template-rows: repeat(8, 1fr);
+            gap: 4px;
+            height: 100%;
+        }
+
+        .treemap-item {
+            transition: transform 0.2s ease, z-index 0s;
+        }
+
+        .treemap-item:hover {
+            z-index: 10;
+            transform: scale(1.02);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+        }
+    </style>
+
+    <script>
+    (function() {
+        // 时间筛选按钮点击 (暂时只做 UI 效果，实际筛选需要后端数据支持)
+        document.querySelectorAll('.treemap-time-filter').forEach(function(btn) {
+            btn.addEventListener('click', function() {
+                document.querySelectorAll('.treemap-time-filter').forEach(function(b) {
+                    b.classList.remove('bg-synapse-bg', 'text-white', 'shadow-sm', 'border-synapse-border');
+                    b.classList.add('text-text-muted');
+                });
+                this.classList.add('bg-synapse-bg', 'text-white', 'shadow-sm', 'border-synapse-border');
+                this.classList.remove('text-text-muted');
+            });
+        });
+
+        // 语言筛选按钮点击
+        document.querySelectorAll('.treemap-lang-filter').forEach(function(btn) {
+            btn.addEventListener('click', function() {
+                var lang = this.dataset.lang;
+
+                // 更新按钮样式
+                document.querySelectorAll('.treemap-lang-filter').forEach(function(b) {
+                    b.classList.remove('bg-electric-cyan/20', 'text-electric-cyan', 'border-electric-cyan/30');
+                    b.classList.add('bg-synapse-card', 'text-text-muted', 'border-synapse-border');
+                });
+                this.classList.add('bg-electric-cyan/20', 'text-electric-cyan', 'border-electric-cyan/30');
+                this.classList.remove('bg-synapse-card', 'text-text-muted', 'border-synapse-border');
+
+                // TODO: 实际的筛选逻辑 (需要重新渲染 treemap)
+                console.log('Filter by language:', lang);
+            });
+        });
+    })();
+    </script>
+    
+
+            <div class="flex items-center gap-3 mb-4">
+                <span class="material-symbols-outlined text-electric-cyan">apps</span>
+                <h2 class="text-lg font-bold text-white">全部项目</h2>
+                <span class="px-2 py-0.5 rounded text-[10px] font-mono bg-synapse-border text-text-muted">TOP 15</span>
+            </div>
+
+            <div id="feed-list" class="space-y-3">
+                
+    <div class="feed-item group relative flex flex-col md:flex-row items-start md:items-center gap-4 p-4 rounded-xl border border-electric-cyan/30 bg-synapse-card/80 shadow-[0_0_15px_-3px_rgba(0,229,255,0.1)] transition-all cursor-pointer"
+         data-repo-id="MadsLorentzen/ai-job-search"
+         data-domain="Other"
+         data-is-new="false"
+         data-change="0"
+         onclick="selectRepo('MadsLorentzen/ai-job-search')">
+        <!-- Rank -->
+        <div class="flex flex-row md:flex-col items-center justify-center min-w-[3rem] gap-1 shrink-0">
+            <span class="text-2xl font-bold text-white transition-colors font-mono">01</span>
+            <span class="px-1.5 py-0.5 rounded-full bg-synapse-border text-text-muted text-[10px] font-bold">-</span>
+        </div>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0 flex flex-col gap-1.5">
+            <div class="flex items-center gap-3 flex-wrap">
+                <h3 class="text-lg font-mono font-bold text-electric-cyan transition-colors truncate">MadsLorentzen/ai-job-search</h3>
+                
+            </div>
+            <p class="text-sm text-text-muted line-clamp-2 leading-relaxed">The job search that runs on your machine. AI job application framework built on Claude Code: evaluat...</p>
+            <div class="flex items-center gap-4 mt-1 flex-wrap">
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="w-2.5 h-2.5 rounded-full" style="background: #3572A5"></span>
+                    <span>Python</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="material-symbols-outlined text-xs">star</span>
+                    <span>61.2k</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-muted-mint">
+                    <span class="material-symbols-outlined text-xs">add</span>
+                    <span>+3,861</span>
+                </div>
+                <span class="px-1.5 py-0.5 rounded text-[10px] text-text-muted bg-synapse-border/50">Other</span>
+            </div>
+        </div>
+
+        <!-- Arrow -->
+        <div class="hidden md:flex items-center justify-center pr-2 opacity-0 group-hover:opacity-100 transition-opacity">
+            <span class="material-symbols-outlined text-electric-cyan">chevron_right</span>
+        </div>
+    </div>
+    
+    <div class="feed-item group relative flex flex-col md:flex-row items-start md:items-center gap-4 p-4 rounded-xl border border-synapse-border bg-synapse-card/40 hover:bg-synapse-card hover:border-text-muted/30 transition-all cursor-pointer"
+         data-repo-id="cloudflare/security-audit-skill"
+         data-domain="AI & ML"
+         data-is-new="true"
+         data-change="0"
+         onclick="selectRepo('cloudflare/security-audit-skill')">
+        <!-- Rank -->
+        <div class="flex flex-row md:flex-col items-center justify-center min-w-[3rem] gap-1 shrink-0">
+            <span class="text-2xl font-bold text-text-muted group-hover:text-white transition-colors font-mono">02</span>
+            <span class="px-1.5 py-0.5 rounded-full bg-synapse-border text-text-muted text-[10px] font-bold">-</span>
+        </div>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0 flex flex-col gap-1.5">
+            <div class="flex items-center gap-3 flex-wrap">
+                <h3 class="text-lg font-mono font-bold text-white group-hover:text-electric-cyan transition-colors truncate">cloudflare/security-audit-skill</h3>
+                <span class="px-2 py-0.5 rounded text-[10px] font-bold bg-glow-amber/10 text-glow-amber border border-glow-amber/30 shadow-neon-amber animate-pulse">NEW</span>
+            </div>
+            <p class="text-sm text-text-muted line-clamp-2 leading-relaxed">A coding-agent skill for multi-phase security audits with independently verified, machine-readable f...</p>
+            <div class="flex items-center gap-4 mt-1 flex-wrap">
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="w-2.5 h-2.5 rounded-full" style="background: #f1e05a"></span>
+                    <span>JavaScript</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="material-symbols-outlined text-xs">star</span>
+                    <span>34.6k</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-muted-mint">
+                    <span class="material-symbols-outlined text-xs">add</span>
+                    <span>+1,712</span>
+                </div>
+                <span class="px-1.5 py-0.5 rounded text-[10px] text-text-muted bg-synapse-border/50">AI & ML</span>
+            </div>
+        </div>
+
+        <!-- Arrow -->
+        <div class="hidden md:flex items-center justify-center pr-2 opacity-0 group-hover:opacity-100 transition-opacity">
+            <span class="material-symbols-outlined text-text-muted">chevron_right</span>
+        </div>
+    </div>
+    
+    <div class="feed-item group relative flex flex-col md:flex-row items-start md:items-center gap-4 p-4 rounded-xl border border-synapse-border bg-synapse-card/40 hover:bg-synapse-card hover:border-text-muted/30 transition-all cursor-pointer"
+         data-repo-id="stablyai/orca"
+         data-domain="AI & ML"
+         data-is-new="false"
+         data-change="2"
+         onclick="selectRepo('stablyai/orca')">
+        <!-- Rank -->
+        <div class="flex flex-row md:flex-col items-center justify-center min-w-[3rem] gap-1 shrink-0">
+            <span class="text-2xl font-bold text-text-muted group-hover:text-white transition-colors font-mono">03</span>
+            <span class="px-1.5 py-0.5 rounded-full bg-electric-cyan/10 text-electric-cyan text-[10px] font-bold border border-electric-cyan/20 flex items-center">
+            <span class="material-symbols-outlined text-[10px] mr-0.5">arrow_upward</span>2
+        </span>
+        </div>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0 flex flex-col gap-1.5">
+            <div class="flex items-center gap-3 flex-wrap">
+                <h3 class="text-lg font-mono font-bold text-white group-hover:text-electric-cyan transition-colors truncate">stablyai/orca</h3>
+                
+            </div>
+            <p class="text-sm text-text-muted line-clamp-2 leading-relaxed">Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding ag...</p>
+            <div class="flex items-center gap-4 mt-1 flex-wrap">
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="w-2.5 h-2.5 rounded-full" style="background: #3178c6"></span>
+                    <span>TypeScript</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="material-symbols-outlined text-xs">star</span>
+                    <span>100.1k</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-muted-mint">
+                    <span class="material-symbols-outlined text-xs">add</span>
+                    <span>+1,565</span>
+                </div>
+                <span class="px-1.5 py-0.5 rounded text-[10px] text-text-muted bg-synapse-border/50">AI & ML</span>
+            </div>
+        </div>
+
+        <!-- Arrow -->
+        <div class="hidden md:flex items-center justify-center pr-2 opacity-0 group-hover:opacity-100 transition-opacity">
+            <span class="material-symbols-outlined text-text-muted">chevron_right</span>
+        </div>
+    </div>
+    
+    <div class="feed-item group relative flex flex-col md:flex-row items-start md:items-center gap-4 p-4 rounded-xl border border-synapse-border bg-synapse-card/40 hover:bg-synapse-card hover:border-text-muted/30 transition-all cursor-pointer"
+         data-repo-id="DietrichGebert/ponytail"
+         data-domain="AI & ML"
+         data-is-new="true"
+         data-change="0"
+         onclick="selectRepo('DietrichGebert/ponytail')">
+        <!-- Rank -->
+        <div class="flex flex-row md:flex-col items-center justify-center min-w-[3rem] gap-1 shrink-0">
+            <span class="text-2xl font-bold text-text-muted group-hover:text-white transition-colors font-mono">04</span>
+            <span class="px-1.5 py-0.5 rounded-full bg-synapse-border text-text-muted text-[10px] font-bold">-</span>
+        </div>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0 flex flex-col gap-1.5">
+            <div class="flex items-center gap-3 flex-wrap">
+                <h3 class="text-lg font-mono font-bold text-white group-hover:text-electric-cyan transition-colors truncate">DietrichGebert/ponytail</h3>
+                <span class="px-2 py-0.5 rounded text-[10px] font-bold bg-glow-amber/10 text-glow-amber border border-glow-amber/30 shadow-neon-amber animate-pulse">NEW</span>
+            </div>
+            <p class="text-sm text-text-muted line-clamp-2 leading-relaxed">Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...</p>
+            <div class="flex items-center gap-4 mt-1 flex-wrap">
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="w-2.5 h-2.5 rounded-full" style="background: #f1e05a"></span>
+                    <span>JavaScript</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="material-symbols-outlined text-xs">star</span>
+                    <span>170.1k</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-muted-mint">
+                    <span class="material-symbols-outlined text-xs">add</span>
+                    <span>+1,208</span>
+                </div>
+                <span class="px-1.5 py-0.5 rounded text-[10px] text-text-muted bg-synapse-border/50">AI & ML</span>
+            </div>
+        </div>
+
+        <!-- Arrow -->
+        <div class="hidden md:flex items-center justify-center pr-2 opacity-0 group-hover:opacity-100 transition-opacity">
+            <span class="material-symbols-outlined text-text-muted">chevron_right</span>
+        </div>
+    </div>
+    
+    <div class="feed-item group relative flex flex-col md:flex-row items-start md:items-center gap-4 p-4 rounded-xl border border-synapse-border bg-synapse-card/40 hover:bg-synapse-card hover:border-text-muted/30 transition-all cursor-pointer"
+         data-repo-id="Comfy-Org/ComfyUI"
+         data-domain="AI & ML"
+         data-is-new="false"
+         data-change="-2"
+         onclick="selectRepo('Comfy-Org/ComfyUI')">
+        <!-- Rank -->
+        <div class="flex flex-row md:flex-col items-center justify-center min-w-[3rem] gap-1 shrink-0">
+            <span class="text-2xl font-bold text-text-muted group-hover:text-white transition-colors font-mono">05</span>
+            <span class="px-1.5 py-0.5 rounded-full bg-red-500/10 text-red-400 text-[10px] font-bold border border-red-500/20 flex items-center">
+            <span class="material-symbols-outlined text-[10px] mr-0.5">arrow_downward</span>2
+        </span>
+        </div>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0 flex flex-col gap-1.5">
+            <div class="flex items-center gap-3 flex-wrap">
+                <h3 class="text-lg font-mono font-bold text-white group-hover:text-electric-cyan transition-colors truncate">Comfy-Org/ComfyUI</h3>
+                
+            </div>
+            <p class="text-sm text-text-muted line-clamp-2 leading-relaxed">The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The...</p>
+            <div class="flex items-center gap-4 mt-1 flex-wrap">
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="w-2.5 h-2.5 rounded-full" style="background: #3572A5"></span>
+                    <span>Python</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="material-symbols-outlined text-xs">star</span>
+                    <span>141.0k</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-muted-mint">
+                    <span class="material-symbols-outlined text-xs">add</span>
+                    <span>+1,206</span>
+                </div>
+                <span class="px-1.5 py-0.5 rounded text-[10px] text-text-muted bg-synapse-border/50">AI & ML</span>
+            </div>
+        </div>
+
+        <!-- Arrow -->
+        <div class="hidden md:flex items-center justify-center pr-2 opacity-0 group-hover:opacity-100 transition-opacity">
+            <span class="material-symbols-outlined text-text-muted">chevron_right</span>
+        </div>
+    </div>
+    
+    <div class="feed-item group relative flex flex-col md:flex-row items-start md:items-center gap-4 p-4 rounded-xl border border-synapse-border bg-synapse-card/40 hover:bg-synapse-card hover:border-text-muted/30 transition-all cursor-pointer"
+         data-repo-id="ruvnet/ruflo"
+         data-domain="AI & ML"
+         data-is-new="false"
+         data-change="-2"
+         onclick="selectRepo('ruvnet/ruflo')">
+        <!-- Rank -->
+        <div class="flex flex-row md:flex-col items-center justify-center min-w-[3rem] gap-1 shrink-0">
+            <span class="text-2xl font-bold text-text-muted group-hover:text-white transition-colors font-mono">06</span>
+            <span class="px-1.5 py-0.5 rounded-full bg-red-500/10 text-red-400 text-[10px] font-bold border border-red-500/20 flex items-center">
+            <span class="material-symbols-outlined text-[10px] mr-0.5">arrow_downward</span>2
+        </span>
+        </div>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0 flex flex-col gap-1.5">
+            <div class="flex items-center gap-3 flex-wrap">
+                <h3 class="text-lg font-mono font-bold text-white group-hover:text-electric-cyan transition-colors truncate">ruvnet/ruflo</h3>
+                
+            </div>
+            <p class="text-sm text-text-muted line-clamp-2 leading-relaxed">🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflow...</p>
+            <div class="flex items-center gap-4 mt-1 flex-wrap">
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="w-2.5 h-2.5 rounded-full" style="background: #3178c6"></span>
+                    <span>TypeScript</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="material-symbols-outlined text-xs">star</span>
+                    <span>78.0k</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-muted-mint">
+                    <span class="material-symbols-outlined text-xs">add</span>
+                    <span>+684</span>
+                </div>
+                <span class="px-1.5 py-0.5 rounded text-[10px] text-text-muted bg-synapse-border/50">AI & ML</span>
+            </div>
+        </div>
+
+        <!-- Arrow -->
+        <div class="hidden md:flex items-center justify-center pr-2 opacity-0 group-hover:opacity-100 transition-opacity">
+            <span class="material-symbols-outlined text-text-muted">chevron_right</span>
+        </div>
+    </div>
+    
+    <div class="feed-item group relative flex flex-col md:flex-row items-start md:items-center gap-4 p-4 rounded-xl border border-synapse-border bg-synapse-card/40 hover:bg-synapse-card hover:border-text-muted/30 transition-all cursor-pointer"
+         data-repo-id="Graphify-Labs/graphify"
+         data-domain="System"
+         data-is-new="true"
+         data-change="0"
+         onclick="selectRepo('Graphify-Labs/graphify')">
+        <!-- Rank -->
+        <div class="flex flex-row md:flex-col items-center justify-center min-w-[3rem] gap-1 shrink-0">
+            <span class="text-2xl font-bold text-text-muted group-hover:text-white transition-colors font-mono">07</span>
+            <span class="px-1.5 py-0.5 rounded-full bg-synapse-border text-text-muted text-[10px] font-bold">-</span>
+        </div>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0 flex flex-col gap-1.5">
+            <div class="flex items-center gap-3 flex-wrap">
+                <h3 class="text-lg font-mono font-bold text-white group-hover:text-electric-cyan transition-colors truncate">Graphify-Labs/graphify</h3>
+                <span class="px-2 py-0.5 rounded text-[10px] font-bold bg-glow-amber/10 text-glow-amber border border-glow-amber/30 shadow-neon-amber animate-pulse">NEW</span>
+            </div>
+            <p class="text-sm text-text-muted line-clamp-2 leading-relaxed">Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. ...</p>
+            <div class="flex items-center gap-4 mt-1 flex-wrap">
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="w-2.5 h-2.5 rounded-full" style="background: #3572A5"></span>
+                    <span>Python</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="material-symbols-outlined text-xs">star</span>
+                    <span>130.5k</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-muted-mint">
+                    <span class="material-symbols-outlined text-xs">add</span>
+                    <span>+802</span>
+                </div>
+                <span class="px-1.5 py-0.5 rounded text-[10px] text-text-muted bg-synapse-border/50">System</span>
+            </div>
+        </div>
+
+        <!-- Arrow -->
+        <div class="hidden md:flex items-center justify-center pr-2 opacity-0 group-hover:opacity-100 transition-opacity">
+            <span class="material-symbols-outlined text-text-muted">chevron_right</span>
+        </div>
+    </div>
+    
+    <div class="feed-item group relative flex flex-col md:flex-row items-start md:items-center gap-4 p-4 rounded-xl border border-synapse-border bg-synapse-card/40 hover:bg-synapse-card hover:border-text-muted/30 transition-all cursor-pointer"
+         data-repo-id="anomalyco/opencode"
+         data-domain="AI & ML"
+         data-is-new="false"
+         data-change="-6"
+         onclick="selectRepo('anomalyco/opencode')">
+        <!-- Rank -->
+        <div class="flex flex-row md:flex-col items-center justify-center min-w-[3rem] gap-1 shrink-0">
+            <span class="text-2xl font-bold text-text-muted group-hover:text-white transition-colors font-mono">08</span>
+            <span class="px-1.5 py-0.5 rounded-full bg-red-500/10 text-red-400 text-[10px] font-bold border border-red-500/20 flex items-center">
+            <span class="material-symbols-outlined text-[10px] mr-0.5">arrow_downward</span>6
+        </span>
+        </div>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0 flex flex-col gap-1.5">
+            <div class="flex items-center gap-3 flex-wrap">
+                <h3 class="text-lg font-mono font-bold text-white group-hover:text-electric-cyan transition-colors truncate">anomalyco/opencode</h3>
+                
+            </div>
+            <p class="text-sm text-text-muted line-clamp-2 leading-relaxed">The open source coding agent.</p>
+            <div class="flex items-center gap-4 mt-1 flex-wrap">
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="w-2.5 h-2.5 rounded-full" style="background: #3178c6"></span>
+                    <span>TypeScript</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="material-symbols-outlined text-xs">star</span>
+                    <span>219.1k</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-muted-mint">
+                    <span class="material-symbols-outlined text-xs">add</span>
+                    <span>+1,240</span>
+                </div>
+                <span class="px-1.5 py-0.5 rounded text-[10px] text-text-muted bg-synapse-border/50">AI & ML</span>
+            </div>
+        </div>
+
+        <!-- Arrow -->
+        <div class="hidden md:flex items-center justify-center pr-2 opacity-0 group-hover:opacity-100 transition-opacity">
+            <span class="material-symbols-outlined text-text-muted">chevron_right</span>
+        </div>
+    </div>
+    
+    <div class="feed-item group relative flex flex-col md:flex-row items-start md:items-center gap-4 p-4 rounded-xl border border-synapse-border bg-synapse-card/40 hover:bg-synapse-card hover:border-text-muted/30 transition-all cursor-pointer"
+         data-repo-id="msitarzewski/agency-agents"
+         data-domain="AI & ML"
+         data-is-new="true"
+         data-change="0"
+         onclick="selectRepo('msitarzewski/agency-agents')">
+        <!-- Rank -->
+        <div class="flex flex-row md:flex-col items-center justify-center min-w-[3rem] gap-1 shrink-0">
+            <span class="text-2xl font-bold text-text-muted group-hover:text-white transition-colors font-mono">09</span>
+            <span class="px-1.5 py-0.5 rounded-full bg-synapse-border text-text-muted text-[10px] font-bold">-</span>
+        </div>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0 flex flex-col gap-1.5">
+            <div class="flex items-center gap-3 flex-wrap">
+                <h3 class="text-lg font-mono font-bold text-white group-hover:text-electric-cyan transition-colors truncate">msitarzewski/agency-agents</h3>
+                <span class="px-2 py-0.5 rounded text-[10px] font-bold bg-glow-amber/10 text-glow-amber border border-glow-amber/30 shadow-neon-amber animate-pulse">NEW</span>
+            </div>
+            <p class="text-sm text-text-muted line-clamp-2 leading-relaxed">A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whi...</p>
+            <div class="flex items-center gap-4 mt-1 flex-wrap">
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="w-2.5 h-2.5 rounded-full" style="background: #89e051"></span>
+                    <span>Shell</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="material-symbols-outlined text-xs">star</span>
+                    <span>162.5k</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-muted-mint">
+                    <span class="material-symbols-outlined text-xs">add</span>
+                    <span>+562</span>
+                </div>
+                <span class="px-1.5 py-0.5 rounded text-[10px] text-text-muted bg-synapse-border/50">AI & ML</span>
+            </div>
+        </div>
+
+        <!-- Arrow -->
+        <div class="hidden md:flex items-center justify-center pr-2 opacity-0 group-hover:opacity-100 transition-opacity">
+            <span class="material-symbols-outlined text-text-muted">chevron_right</span>
+        </div>
+    </div>
+    
+    <div class="feed-item group relative flex flex-col md:flex-row items-start md:items-center gap-4 p-4 rounded-xl border border-synapse-border bg-synapse-card/40 hover:bg-synapse-card hover:border-text-muted/30 transition-all cursor-pointer"
+         data-repo-id="headroomlabs-ai/headroom"
+         data-domain="AI & ML"
+         data-is-new="false"
+         data-change="-4"
+         onclick="selectRepo('headroomlabs-ai/headroom')">
+        <!-- Rank -->
+        <div class="flex flex-row md:flex-col items-center justify-center min-w-[3rem] gap-1 shrink-0">
+            <span class="text-2xl font-bold text-text-muted group-hover:text-white transition-colors font-mono">10</span>
+            <span class="px-1.5 py-0.5 rounded-full bg-red-500/10 text-red-400 text-[10px] font-bold border border-red-500/20 flex items-center">
+            <span class="material-symbols-outlined text-[10px] mr-0.5">arrow_downward</span>4
+        </span>
+        </div>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0 flex flex-col gap-1.5">
+            <div class="flex items-center gap-3 flex-wrap">
+                <h3 class="text-lg font-mono font-bold text-white group-hover:text-electric-cyan transition-colors truncate">headroomlabs-ai/headroom</h3>
+                
+            </div>
+            <p class="text-sm text-text-muted line-clamp-2 leading-relaxed">Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for c...</p>
+            <div class="flex items-center gap-4 mt-1 flex-wrap">
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="w-2.5 h-2.5 rounded-full" style="background: #3572A5"></span>
+                    <span>Python</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="material-symbols-outlined text-xs">star</span>
+                    <span>76.9k</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-muted-mint">
+                    <span class="material-symbols-outlined text-xs">add</span>
+                    <span>+549</span>
+                </div>
+                <span class="px-1.5 py-0.5 rounded text-[10px] text-text-muted bg-synapse-border/50">AI & ML</span>
+            </div>
+        </div>
+
+        <!-- Arrow -->
+        <div class="hidden md:flex items-center justify-center pr-2 opacity-0 group-hover:opacity-100 transition-opacity">
+            <span class="material-symbols-outlined text-text-muted">chevron_right</span>
+        </div>
+    </div>
+    
+    <div class="feed-item group relative flex flex-col md:flex-row items-start md:items-center gap-4 p-4 rounded-xl border border-synapse-border bg-synapse-card/40 hover:bg-synapse-card hover:border-text-muted/30 transition-all cursor-pointer"
+         data-repo-id="shiyu-coder/Kronos"
+         data-domain="AI & ML"
+         data-is-new="false"
+         data-change="-1"
+         onclick="selectRepo('shiyu-coder/Kronos')">
+        <!-- Rank -->
+        <div class="flex flex-row md:flex-col items-center justify-center min-w-[3rem] gap-1 shrink-0">
+            <span class="text-2xl font-bold text-text-muted group-hover:text-white transition-colors font-mono">11</span>
+            <span class="px-1.5 py-0.5 rounded-full bg-red-500/10 text-red-400 text-[10px] font-bold border border-red-500/20 flex items-center">
+            <span class="material-symbols-outlined text-[10px] mr-0.5">arrow_downward</span>1
+        </span>
+        </div>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0 flex flex-col gap-1.5">
+            <div class="flex items-center gap-3 flex-wrap">
+                <h3 class="text-lg font-mono font-bold text-white group-hover:text-electric-cyan transition-colors truncate">shiyu-coder/Kronos</h3>
+                
+            </div>
+            <p class="text-sm text-text-muted line-clamp-2 leading-relaxed">Kronos: A Foundation Model for the Language of Financial Markets</p>
+            <div class="flex items-center gap-4 mt-1 flex-wrap">
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="w-2.5 h-2.5 rounded-full" style="background: #3572A5"></span>
+                    <span>Python</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="material-symbols-outlined text-xs">star</span>
+                    <span>42.4k</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-muted-mint">
+                    <span class="material-symbols-outlined text-xs">add</span>
+                    <span>+733</span>
+                </div>
+                <span class="px-1.5 py-0.5 rounded text-[10px] text-text-muted bg-synapse-border/50">AI & ML</span>
+            </div>
+        </div>
+
+        <!-- Arrow -->
+        <div class="hidden md:flex items-center justify-center pr-2 opacity-0 group-hover:opacity-100 transition-opacity">
+            <span class="material-symbols-outlined text-text-muted">chevron_right</span>
+        </div>
+    </div>
+    
+    <div class="feed-item group relative flex flex-col md:flex-row items-start md:items-center gap-4 p-4 rounded-xl border border-synapse-border bg-synapse-card/40 hover:bg-synapse-card hover:border-text-muted/30 transition-all cursor-pointer"
+         data-repo-id="anthropics/knowledge-work-plugins"
+         data-domain="Other"
+         data-is-new="true"
+         data-change="0"
+         onclick="selectRepo('anthropics/knowledge-work-plugins')">
+        <!-- Rank -->
+        <div class="flex flex-row md:flex-col items-center justify-center min-w-[3rem] gap-1 shrink-0">
+            <span class="text-2xl font-bold text-text-muted group-hover:text-white transition-colors font-mono">12</span>
+            <span class="px-1.5 py-0.5 rounded-full bg-synapse-border text-text-muted text-[10px] font-bold">-</span>
+        </div>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0 flex flex-col gap-1.5">
+            <div class="flex items-center gap-3 flex-wrap">
+                <h3 class="text-lg font-mono font-bold text-white group-hover:text-electric-cyan transition-colors truncate">anthropics/knowledge-work-plugins</h3>
+                <span class="px-2 py-0.5 rounded text-[10px] font-bold bg-glow-amber/10 text-glow-amber border border-glow-amber/30 shadow-neon-amber animate-pulse">NEW</span>
+            </div>
+            <p class="text-sm text-text-muted line-clamp-2 leading-relaxed">Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork</p>
+            <div class="flex items-center gap-4 mt-1 flex-wrap">
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="w-2.5 h-2.5 rounded-full" style="background: #3572A5"></span>
+                    <span>Python</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="material-symbols-outlined text-xs">star</span>
+                    <span>30.9k</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-muted-mint">
+                    <span class="material-symbols-outlined text-xs">add</span>
+                    <span>+267</span>
+                </div>
+                <span class="px-1.5 py-0.5 rounded text-[10px] text-text-muted bg-synapse-border/50">Other</span>
+            </div>
+        </div>
+
+        <!-- Arrow -->
+        <div class="hidden md:flex items-center justify-center pr-2 opacity-0 group-hover:opacity-100 transition-opacity">
+            <span class="material-symbols-outlined text-text-muted">chevron_right</span>
+        </div>
+    </div>
+    
+    <div class="feed-item group relative flex flex-col md:flex-row items-start md:items-center gap-4 p-4 rounded-xl border border-synapse-border bg-synapse-card/40 hover:bg-synapse-card hover:border-text-muted/30 transition-all cursor-pointer"
+         data-repo-id="vllm-project/vllm"
+         data-domain="AI & ML"
+         data-is-new="true"
+         data-change="0"
+         onclick="selectRepo('vllm-project/vllm')">
+        <!-- Rank -->
+        <div class="flex flex-row md:flex-col items-center justify-center min-w-[3rem] gap-1 shrink-0">
+            <span class="text-2xl font-bold text-text-muted group-hover:text-white transition-colors font-mono">13</span>
+            <span class="px-1.5 py-0.5 rounded-full bg-synapse-border text-text-muted text-[10px] font-bold">-</span>
+        </div>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0 flex flex-col gap-1.5">
+            <div class="flex items-center gap-3 flex-wrap">
+                <h3 class="text-lg font-mono font-bold text-white group-hover:text-electric-cyan transition-colors truncate">vllm-project/vllm</h3>
+                <span class="px-2 py-0.5 rounded text-[10px] font-bold bg-glow-amber/10 text-glow-amber border border-glow-amber/30 shadow-neon-amber animate-pulse">NEW</span>
+            </div>
+            <p class="text-sm text-text-muted line-clamp-2 leading-relaxed">A high-throughput and memory-efficient inference and serving engine for LLMs</p>
+            <div class="flex items-center gap-4 mt-1 flex-wrap">
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="w-2.5 h-2.5 rounded-full" style="background: #3572A5"></span>
+                    <span>Python</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="material-symbols-outlined text-xs">star</span>
+                    <span>94.5k</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-muted-mint">
+                    <span class="material-symbols-outlined text-xs">add</span>
+                    <span>+128</span>
+                </div>
+                <span class="px-1.5 py-0.5 rounded text-[10px] text-text-muted bg-synapse-border/50">AI & ML</span>
+            </div>
+        </div>
+
+        <!-- Arrow -->
+        <div class="hidden md:flex items-center justify-center pr-2 opacity-0 group-hover:opacity-100 transition-opacity">
+            <span class="material-symbols-outlined text-text-muted">chevron_right</span>
+        </div>
+    </div>
+    
+    <div class="feed-item group relative flex flex-col md:flex-row items-start md:items-center gap-4 p-4 rounded-xl border border-synapse-border bg-synapse-card/40 hover:bg-synapse-card hover:border-text-muted/30 transition-all cursor-pointer"
+         data-repo-id="wshobson/agents"
+         data-domain="AI & ML"
+         data-is-new="true"
+         data-change="0"
+         onclick="selectRepo('wshobson/agents')">
+        <!-- Rank -->
+        <div class="flex flex-row md:flex-col items-center justify-center min-w-[3rem] gap-1 shrink-0">
+            <span class="text-2xl font-bold text-text-muted group-hover:text-white transition-colors font-mono">14</span>
+            <span class="px-1.5 py-0.5 rounded-full bg-synapse-border text-text-muted text-[10px] font-bold">-</span>
+        </div>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0 flex flex-col gap-1.5">
+            <div class="flex items-center gap-3 flex-wrap">
+                <h3 class="text-lg font-mono font-bold text-white group-hover:text-electric-cyan transition-colors truncate">wshobson/agents</h3>
+                <span class="px-2 py-0.5 rounded text-[10px] font-bold bg-glow-amber/10 text-glow-amber border border-glow-amber/30 shadow-neon-amber animate-pulse">NEW</span>
+            </div>
+            <p class="text-sm text-text-muted line-clamp-2 leading-relaxed">Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, G...</p>
+            <div class="flex items-center gap-4 mt-1 flex-wrap">
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="w-2.5 h-2.5 rounded-full" style="background: #3572A5"></span>
+                    <span>Python</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="material-symbols-outlined text-xs">star</span>
+                    <span>41.3k</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-muted-mint">
+                    <span class="material-symbols-outlined text-xs">add</span>
+                    <span>+93</span>
+                </div>
+                <span class="px-1.5 py-0.5 rounded text-[10px] text-text-muted bg-synapse-border/50">AI & ML</span>
+            </div>
+        </div>
+
+        <!-- Arrow -->
+        <div class="hidden md:flex items-center justify-center pr-2 opacity-0 group-hover:opacity-100 transition-opacity">
+            <span class="material-symbols-outlined text-text-muted">chevron_right</span>
+        </div>
+    </div>
+    
+    <div class="feed-item group relative flex flex-col md:flex-row items-start md:items-center gap-4 p-4 rounded-xl border border-synapse-border bg-synapse-card/40 hover:bg-synapse-card hover:border-text-muted/30 transition-all cursor-pointer"
+         data-repo-id="sickn33/agentic-awesome-skills"
+         data-domain="AI & ML"
+         data-is-new="true"
+         data-change="0"
+         onclick="selectRepo('sickn33/agentic-awesome-skills')">
+        <!-- Rank -->
+        <div class="flex flex-row md:flex-col items-center justify-center min-w-[3rem] gap-1 shrink-0">
+            <span class="text-2xl font-bold text-text-muted group-hover:text-white transition-colors font-mono">15</span>
+            <span class="px-1.5 py-0.5 rounded-full bg-synapse-border text-text-muted text-[10px] font-bold">-</span>
+        </div>
+
+        <!-- Content -->
+        <div class="flex-1 min-w-0 flex flex-col gap-1.5">
+            <div class="flex items-center gap-3 flex-wrap">
+                <h3 class="text-lg font-mono font-bold text-white group-hover:text-electric-cyan transition-colors truncate">sickn33/agentic-awesome-skills</h3>
+                <span class="px-2 py-0.5 rounded text-[10px] font-bold bg-glow-amber/10 text-glow-amber border border-glow-amber/30 shadow-neon-amber animate-pulse">NEW</span>
+            </div>
+            <p class="text-sm text-text-muted line-clamp-2 leading-relaxed">AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selecti...</p>
+            <div class="flex items-center gap-4 mt-1 flex-wrap">
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="w-2.5 h-2.5 rounded-full" style="background: #3572A5"></span>
+                    <span>Python</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-text-muted">
+                    <span class="material-symbols-outlined text-xs">star</span>
+                    <span>48.2k</span>
+                </div>
+                <div class="flex items-center gap-1.5 text-xs text-muted-mint">
+                    <span class="material-symbols-outlined text-xs">add</span>
+                    <span>+83</span>
+                </div>
+                <span class="px-1.5 py-0.5 rounded text-[10px] text-text-muted bg-synapse-border/50">AI & ML</span>
+            </div>
+        </div>
+
+        <!-- Arrow -->
+        <div class="hidden md:flex items-center justify-center pr-2 opacity-0 group-hover:opacity-100 transition-opacity">
+            <span class="material-symbols-outlined text-text-muted">chevron_right</span>
+        </div>
+    </div>
+    
+            </div>
+        </div>
+    </main>
+
+    
+    <aside id="detail-panel" class="w-[400px] h-full flex flex-col glass-panel border-l border-synapse-border shrink-0 z-20 overflow-y-auto hidden xl:flex">
+        <!-- Placeholder when nothing selected -->
+        <div id="detail-placeholder" class="flex-1 flex items-center justify-center">
+            <div class="text-center text-text-muted">
+                <span class="material-symbols-outlined text-4xl mb-2 block">touch_app</span>
+                <p class="text-sm">点击左侧项目查看详情</p>
+            </div>
+        </div>
+
+        <!-- Detail Content (hidden by default) -->
+        <div id="detail-content" class="hidden">
+            <!-- Sticky Header -->
+            <div class="p-6 pb-4 bg-[#0D1117]/90 backdrop-blur-md sticky top-0 z-10 border-b border-synapse-border">
+                <div class="flex items-center justify-between mb-2">
+                    <span id="detail-rank" class="px-2 py-0.5 rounded bg-synapse-border/50 text-xs text-text-muted font-mono">排名 #1</span>
+                    <div class="flex gap-2">
+                        <span id="detail-new-badge" class="hidden px-2 py-0.5 rounded text-[10px] font-bold bg-glow-amber/10 text-glow-amber border border-glow-amber/30 animate-pulse">NEW</span>
+                        <button onclick="copyToClipboard()" class="p-1.5 hover:bg-synapse-border rounded transition-colors text-text-muted hover:text-white" title="Copy link">
+                            <span class="material-symbols-outlined text-sm">share</span>
+                        </button>
+                    </div>
+                </div>
+                <h2 id="detail-name" class="text-2xl font-mono font-bold text-white leading-tight mb-2">Project Name</h2>
+                <p id="detail-author" class="text-sm text-electric-cyan font-mono mb-3">@owner</p>
+                <div id="detail-tags" class="flex gap-2 flex-wrap mb-4">
+                    <!-- Tags will be inserted here -->
+                </div>
+                <a id="detail-repo-link" href="#" target="_blank" class="flex items-center justify-center gap-2 w-full py-2.5 rounded-lg bg-electric-cyan hover:bg-cyan-400 text-black font-bold transition-all shadow-neon-cyan text-sm">
+                    <span class="material-symbols-outlined text-lg">code</span>
+                    查看仓库
+                </a>
+            </div>
+
+            <div class="p-6 space-y-5">
+                <!-- Description -->
+                <div class="glass-card rounded-xl p-4">
+                    <p id="detail-desc" class="text-sm text-text-muted leading-relaxed">
+                        Project description will appear here...
+                    </p>
+                </div>
+
+                <!-- Star Stats -->
+                <div class="glass-card rounded-xl p-4">
+                    <div class="flex items-center justify-between mb-3">
+                        <div class="flex items-center gap-2">
+                            <span class="material-symbols-outlined text-muted-mint text-lg">show_chart</span>
+                            <h4 class="text-sm font-bold text-white uppercase tracking-wide">Star 增长</h4>
+                        </div>
+                        <span id="detail-stars-today" class="text-xs font-mono text-muted-mint">+0 / 24h</span>
+                    </div>
+                    <div class="flex items-center gap-4">
+                        <div class="flex items-center gap-2">
+                            <span class="material-symbols-outlined text-glow-amber">star</span>
+                            <span id="detail-total-stars" class="text-2xl font-bold text-white">0</span>
+                        </div>
+                        <div class="flex-1 h-2 bg-synapse-border rounded-full overflow-hidden">
+                            <div id="detail-stars-bar" class="h-full bg-gradient-to-r from-electric-cyan to-muted-mint rounded-full" style="width: 0%"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- AI Summary -->
+                <div id="detail-ai-section" class="glass-card rounded-xl p-4 border-l-2 border-l-glow-amber hidden">
+                    <div class="flex items-center gap-2 mb-3">
+                        <span class="material-symbols-outlined text-glow-amber text-lg">auto_awesome</span>
+                        <h4 class="text-sm font-bold text-white uppercase tracking-wide">AI 总结</h4>
+                    </div>
+                    <p id="detail-ai-summary" class="text-sm text-text-muted leading-relaxed mb-3"></p>
+                    <ul id="detail-ai-highlights" class="space-y-1 text-xs text-text-muted"></ul>
+                    <p id="detail-ai-usecases" class="text-xs text-text-muted mt-3 pt-3 border-t border-synapse-border"></p>
+                </div>
+
+                <!-- Maintainer -->
+                <div class="glass-card rounded-xl p-4 flex items-center gap-3">
+                    <img id="detail-avatar" src="" alt="avatar" class="w-10 h-10 rounded-full ring-1 ring-synapse-border bg-synapse-card">
+                    <div class="flex flex-col">
+                        <span class="text-xs text-text-muted uppercase">维护者</span>
+                        <span id="detail-maintainer" class="text-sm font-bold text-white">Owner</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </aside>
+    
+
+    
+    <script>
+    window.REPO_DATA = {"MadsLorentzen/ai-job-search": {"rank": 1, "name": "ai-job-search", "fullName": "MadsLorentzen/ai-job-search", "owner": "MadsLorentzen", "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.", "url": "https://github.com/MadsLorentzen/ai-job-search", "stars": "61,208", "starsToday": "3,861", "language": "Python", "langColor": "#3572A5", "score": 9, "domain": "Other", "isNew": false, "change": 0, "avatar": "https://github.com/MadsLorentzen.png?size=80", "aiSummary": "本地运行的AI求职自动化框架，帮你筛岗位、改简历、写求职信并备面试", "aiHighlights": ["基于Claude Code工作流，覆盖scrape/apply/interview全流程", "可Fork自定义个人资料与模板，数据与流程由自己掌控"], "aiUseCases": "批量投递与定制化申请，提高求职效率"}, "cloudflare/security-audit-skill": {"rank": 2, "name": "security-audit-skill", "fullName": "cloudflare/security-audit-skill", "owner": "cloudflare", "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings", "url": "https://github.com/cloudflare/security-audit-skill", "stars": "34,598", "starsToday": "1,712", "language": "JavaScript", "langColor": "#f1e05a", "score": 9, "domain": "AI & ML", "isNew": true, "change": 0, "avatar": "https://github.com/cloudflare.png?size=80", "aiSummary": "把编码智能体变成安全审计员，分阶段自动挖掘并验证漏洞。", "aiHighlights": ["六阶段流程编排：侦察、覆盖驱动狩猎、验证到报告全链路", "机器可读结构化产出与独立复核，降低误报与偏差"], "aiUseCases": "代码库安全审计、漏洞挖掘与合规报告生成"}, "stablyai/orca": {"rank": 3, "name": "orca", "fullName": "stablyai/orca", "owner": "stablyai", "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.", "url": "https://github.com/stablyai/orca", "stars": "100,055", "starsToday": "1,565", "language": "TypeScript", "langColor": "#3178c6", "score": 9, "domain": "AI & ML", "isNew": false, "change": 2, "avatar": "https://github.com/stablyai.png?size=80", "aiSummary": "Orca 是一款多智能体编程协作平台，可并行运行多种代码助手并统一管理。", "aiHighlights": ["多智能体并行工作区：每个代理独立 git worktree，便于对比合并", "桌面+移动端+远程运行：手机监控通知，支持 SSH 远程工作区"], "aiUseCases": "并行让多模型写代码、对比方案并合并"}, "DietrichGebert/ponytail": {"rank": 4, "name": "ponytail", "fullName": "DietrichGebert/ponytail", "owner": "DietrichGebert", "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.", "url": "https://github.com/DietrichGebert/ponytail", "stars": "170,124", "starsToday": "1,208", "language": "JavaScript", "langColor": "#f1e05a", "score": 9, "domain": "AI & ML", "isNew": true, "change": 0, "avatar": "https://github.com/DietrichGebert.png?size=80", "aiSummary": "为AI编程代理注入“懒人资深工程师”风格，少写代码也更可靠。", "aiHighlights": ["强调只写任务必需代码，同时保留验证、错误处理与安全", "基准测试显示显著减少代码/时间/成本/Token且测试覆盖更高"], "aiUseCases": "让代码生成更精简可靠的日常开发"}, "Comfy-Org/ComfyUI": {"rank": 5, "name": "ComfyUI", "fullName": "Comfy-Org/ComfyUI", "owner": "Comfy-Org", "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.", "url": "https://github.com/Comfy-Org/ComfyUI", "stars": "140,960", "starsToday": "1,206", "language": "Python", "langColor": "#3572A5", "score": 9, "domain": "AI & ML", "isNew": false, "change": -2, "avatar": "https://github.com/Comfy-Org.png?size=80", "aiSummary": "基于节点图的扩散模型创作平台，提供GUI与API的本地高速推理后端。", "aiHighlights": ["节点/图编排工作流，模块化扩展强", "本地推理引擎优化，生成速度快且可API化"], "aiUseCases": "本地AI绘图与视频生成工作流搭建"}, "ruvnet/ruflo": {"rank": 6, "name": "ruflo", "fullName": "ruvnet/ruflo", "owner": "ruvnet", "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated", "url": "https://github.com/ruvnet/ruflo", "stars": "77,951", "starsToday": "684", "language": "TypeScript", "langColor": "#3178c6", "score": 9, "domain": "AI & ML", "isNew": false, "change": -2, "avatar": "https://github.com/ruvnet.png?size=80", "aiSummary": "为Claude Code/Codex提供多智能体编排框架，快速搭建协作式AI工作流。", "aiHighlights": ["支持多智能体群协作与自治工作流编排，含自适应记忆与自学习能力", "兼容MCP生态，提供控制台/插件/终端TUI，并可集成向量RAG与策略路由"], "aiUseCases": "多代理协作开发、自动化任务流、对话式AI系统"}, "Graphify-Labs/graphify": {"rank": 7, "name": "graphify", "fullName": "Graphify-Labs/graphify", "owner": "Graphify-Labs", "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.", "url": "https://github.com/Graphify-Labs/graphify", "stars": "130,531", "starsToday": "802", "language": "Python", "langColor": "#3572A5", "score": 9, "domain": "System", "isNew": true, "change": 0, "avatar": "https://github.com/Graphify-Labs.png?size=80", "aiSummary": "把代码库与文档资料自动构建成可查询知识图谱的工具", "aiHighlights": ["本地确定性AST解析，边关系可解释且无需向量库", "支持代码、PDF、图片等多模态输入并输出可交互图与Obsidian库"], "aiUseCases": "快速理解陌生代码库与文档资料"}, "anomalyco/opencode": {"rank": 8, "name": "opencode", "fullName": "anomalyco/opencode", "owner": "anomalyco", "description": "The open source coding agent.", "url": "https://github.com/anomalyco/opencode", "stars": "219,142", "starsToday": "1,240", "language": "TypeScript", "langColor": "#3178c6", "score": 9, "domain": "AI & ML", "isNew": false, "change": -6, "avatar": "https://github.com/anomalyco.png?size=80", "aiSummary": "OpenCode 是开源 AI 编程代理，帮你在本地用命令行写代码改代码。", "aiHighlights": ["提供跨平台 CLI 与桌面版（Beta），安装方式丰富", "开源可自托管与二次开发，适合团队定制编码流程"], "aiUseCases": "日常开发提效、自动生成与重构代码"}, "msitarzewski/agency-agents": {"rank": 9, "name": "agency-agents", "fullName": "msitarzewski/agency-agents", "owner": "msitarzewski", "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.", "url": "https://github.com/msitarzewski/agency-agents", "stars": "162,522", "starsToday": "562", "language": "Shell", "langColor": "#89e051", "score": 9, "domain": "AI & ML", "isNew": true, "change": 0, "avatar": "https://github.com/msitarzewski.png?size=80", "aiSummary": "提供一套可一键安装的AI专家代理库，覆盖多种开发与运营任务。", "aiHighlights": ["内置多角色、强个性且可交付的专业AI代理模板", "配套跨平台应用，一键导入多种AI编程工具并自动更新"], "aiUseCases": "团队快速引入AI分工，提升开发与社区运营效率"}, "headroomlabs-ai/headroom": {"rank": 10, "name": "headroom", "fullName": "headroomlabs-ai/headroom", "owner": "headroomlabs-ai", "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.", "url": "https://github.com/headroomlabs-ai/headroom", "stars": "76,857", "starsToday": "549", "language": "Python", "langColor": "#3572A5", "score": 9, "domain": "AI & ML", "isNew": false, "change": -4, "avatar": "https://github.com/headroomlabs-ai.png?size=80", "aiSummary": "在本地压缩AI代理输入输出内容，显著减少LLM消耗的tokens。", "aiHighlights": ["支持库/代理/MCP/一键包裹多种Agent，几乎零改造接入", "可逆压缩与跨代理共享记忆，保持答案一致并节省60-95% JSON tokens"], "aiUseCases": "代理编程、日志/RAG压缩、省token降成本"}, "shiyu-coder/Kronos": {"rank": 11, "name": "Kronos", "fullName": "shiyu-coder/Kronos", "owner": "shiyu-coder", "description": "Kronos: A Foundation Model for the Language of Financial Markets", "url": "https://github.com/shiyu-coder/Kronos", "stars": "42,447", "starsToday": "733", "language": "Python", "langColor": "#3572A5", "score": 9, "domain": "AI & ML", "isNew": false, "change": -1, "avatar": "https://github.com/shiyu-coder.png?size=80", "aiSummary": null, "aiHighlights": [], "aiUseCases": null}, "anthropics/knowledge-work-plugins": {"rank": 12, "name": "knowledge-work-plugins", "fullName": "anthropics/knowledge-work-plugins", "owner": "anthropics", "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork", "url": "https://github.com/anthropics/knowledge-work-plugins", "stars": "30,885", "starsToday": "267", "language": "Python", "langColor": "#3572A5", "score": 8, "domain": "Other", "isNew": true, "change": 0, "avatar": "https://github.com/anthropics.png?size=80", "aiSummary": null, "aiHighlights": [], "aiUseCases": null}, "vllm-project/vllm": {"rank": 13, "name": "vllm", "fullName": "vllm-project/vllm", "owner": "vllm-project", "description": "A high-throughput and memory-efficient inference and serving engine for LLMs", "url": "https://github.com/vllm-project/vllm", "stars": "94,526", "starsToday": "128", "language": "Python", "langColor": "#3572A5", "score": 8, "domain": "AI & ML", "isNew": true, "change": 0, "avatar": "https://github.com/vllm-project.png?size=80", "aiSummary": null, "aiHighlights": [], "aiUseCases": null}, "wshobson/agents": {"rank": 14, "name": "agents", "fullName": "wshobson/agents", "owner": "wshobson", "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi", "url": "https://github.com/wshobson/agents", "stars": "41,326", "starsToday": "93", "language": "Python", "langColor": "#3572A5", "score": 7, "domain": "AI & ML", "isNew": true, "change": 0, "avatar": "https://github.com/wshobson.png?size=80", "aiSummary": null, "aiHighlights": [], "aiUseCases": null}, "sickn33/agentic-awesome-skills": {"rank": 15, "name": "agentic-awesome-skills", "fullName": "sickn33/agentic-awesome-skills", "owner": "sickn33", "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.", "url": "https://github.com/sickn33/agentic-awesome-skills", "stars": "48,189", "starsToday": "83", "language": "Python", "langColor": "#3572A5", "score": 7, "domain": "AI & ML", "isNew": true, "change": 0, "avatar": "https://github.com/sickn33.png?size=80", "aiSummary": null, "aiHighlights": [], "aiUseCases": null}};
+    </script>
+    
+
+    <script>
+    // 当前选中的 repo
+    var currentRepoId = null;
+
+    // 选中 repo 并更新详情面板
+    function selectRepo(repoId) {
+        var repo = window.REPO_DATA[repoId];
+        if (!repo) return;
+
+        currentRepoId = repoId;
+
+        // 更新选中状态
+        document.querySelectorAll('.feed-item').forEach(function(item) {
+            item.classList.remove('selected');
+            if (item.dataset.repoId === repoId) {
+                item.classList.add('selected');
+            }
+        });
+
+        // 显示详情内容
+        document.getElementById('detail-placeholder').classList.add('hidden');
+        document.getElementById('detail-content').classList.remove('hidden');
+
+        // 填充数据
+        document.getElementById('detail-rank').textContent = 'Rank #' + repo.rank;
+        document.getElementById('detail-name').textContent = repo.name;
+        document.getElementById('detail-author').textContent = '@' + repo.owner;
+        document.getElementById('detail-desc').textContent = repo.description;
+        document.getElementById('detail-repo-link').href = repo.url;
+        document.getElementById('detail-total-stars').textContent = repo.stars;
+        document.getElementById('detail-stars-today').textContent = '+' + repo.starsToday + ' / 24h';
+        document.getElementById('detail-maintainer').textContent = repo.owner;
+        document.getElementById('detail-avatar').src = repo.avatar;
+
+        // NEW 徽章
+        var newBadge = document.getElementById('detail-new-badge');
+        if (repo.isNew) {
+            newBadge.classList.remove('hidden');
+        } else {
+            newBadge.classList.add('hidden');
+        }
+
+        // 标签
+        var tagsContainer = document.getElementById('detail-tags');
+        tagsContainer.innerHTML = '';
+
+        // 语言标签
+        var langTag = document.createElement('span');
+        langTag.className = 'px-2 py-0.5 rounded text-xs font-medium border';
+        langTag.style.backgroundColor = repo.langColor + '20';
+        langTag.style.color = repo.langColor;
+        langTag.style.borderColor = repo.langColor + '30';
+        langTag.textContent = repo.language;
+        tagsContainer.appendChild(langTag);
+
+        // 领域标签
+        var domainTag = document.createElement('span');
+        domainTag.className = 'px-2 py-0.5 rounded text-xs font-medium bg-synapse-border text-text-muted';
+        domainTag.textContent = repo.domain;
+        tagsContainer.appendChild(domainTag);
+
+        // 评分标签
+        var scoreTag = document.createElement('span');
+        scoreTag.className = 'px-2 py-0.5 rounded text-xs font-medium bg-electric-cyan/10 text-electric-cyan border border-electric-cyan/20';
+        scoreTag.textContent = repo.score + '/10';
+        tagsContainer.appendChild(scoreTag);
+
+        // Star 进度条
+        var maxStars = 50000;
+        try {
+            var starsNum = parseInt(repo.stars.replace(/,/g, ''));
+            var pct = Math.min((starsNum / maxStars) * 100, 100);
+            document.getElementById('detail-stars-bar').style.width = pct + '%';
+        } catch(e) {
+            document.getElementById('detail-stars-bar').style.width = '0%';
+        }
+
+        // AI 总结
+        var aiSection = document.getElementById('detail-ai-section');
+        if (repo.aiSummary) {
+            aiSection.classList.remove('hidden');
+            document.getElementById('detail-ai-summary').textContent = repo.aiSummary;
+
+            var highlightsList = document.getElementById('detail-ai-highlights');
+            highlightsList.innerHTML = '';
+            if (repo.aiHighlights && repo.aiHighlights.length > 0) {
+                repo.aiHighlights.forEach(function(h) {
+                    var li = document.createElement('li');
+                    li.className = 'flex items-start gap-2';
+                    li.innerHTML = '<span class="text-electric-cyan mt-0.5">•</span><span>' + h + '</span>';
+                    highlightsList.appendChild(li);
+                });
+            }
+
+            if (repo.aiUseCases) {
+                document.getElementById('detail-ai-usecases').textContent = '适用场景: ' + repo.aiUseCases;
+            } else {
+                document.getElementById('detail-ai-usecases').textContent = '';
+            }
+        } else {
+            aiSection.classList.add('hidden');
+        }
+    }
+
+    // 复制链接
+    function copyToClipboard() {
+        if (currentRepoId && window.REPO_DATA[currentRepoId]) {
+            navigator.clipboard.writeText(window.REPO_DATA[currentRepoId].url);
+            alert('Link copied!');
+        }
+    }
+
+    // 筛选功能
+    function filterByDomain(domain) {
+        document.querySelectorAll('.feed-item').forEach(function(item) {
+            if (domain === 'all') {
+                item.style.display = '';
+            } else if (domain === 'new') {
+                item.style.display = item.dataset.isNew === 'true' ? '' : 'none';
+            } else if (domain === 'rising') {
+                var change = parseInt(item.dataset.change) || 0;
+                item.style.display = change > 0 ? '' : 'none';
+            } else {
+                item.style.display = item.dataset.domain === domain ? '' : 'none';
+            }
+        });
+    }
+
+    // 搜索功能
+    function filterBySearch(query) {
+        query = query.toLowerCase();
+        document.querySelectorAll('.feed-item').forEach(function(item) {
+            var repoId = item.dataset.repoId.toLowerCase();
+            item.style.display = repoId.includes(query) ? '' : 'none';
+        });
+    }
+
+    // 侧边栏导航点击
+    document.querySelectorAll('.nav-item, .nav-item-active').forEach(function(item) {
+        item.addEventListener('click', function(e) {
+            e.preventDefault();
+
+            // 更新激活状态
+            document.querySelectorAll('.nav-item, .nav-item-active').forEach(function(n) {
+                n.className = n.className.replace('nav-item-active', 'nav-item')
+                    .replace('text-electric-cyan', 'text-text-muted');
+            });
+            this.className = this.className.replace('nav-item', 'nav-item-active');
+
+            // 筛选
+            filterByDomain(this.dataset.filter);
+        });
+    });
+
+    // 默认选中第一个
+    document.addEventListener('DOMContentLoaded', function() {
+        var firstItem = document.querySelector('.feed-item');
+        if (firstItem) {
+            selectRepo(firstItem.dataset.repoId);
+        }
+    });
+    </script>
+</body>
+</html>
