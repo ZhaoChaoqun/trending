@@ -1,65 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 23 Oct 2026 05:33:15 +0000</pubDate><lastBuildDate>Fri, 23 Oct 2026 05:33:15 +0000</lastBuildDate><item><title>#1 DietrichGebert/ponytail (+1,948 stars)</title><link>https://github.com/DietrichGebert/ponytail</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;DietrichGebert/ponytail&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.&lt;/p&gt;
-&lt;p&gt;⭐ 173,820 | +1,948 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/DietrichGebert/ponytail#2026-10-23</guid><pubDate>Fri, 23 Oct 2026 05:33:15 +0000</pubDate></item><item><title>#2 cloudflare/security-audit-skill (+2,979 stars)</title><link>https://github.com/cloudflare/security-audit-skill</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sat, 24 Oct 2026 05:11:55 +0000</pubDate><lastBuildDate>Sat, 24 Oct 2026 05:11:55 +0000</lastBuildDate><item><title>#1 cloudflare/security-audit-skill (+2,716 stars)</title><link>https://github.com/cloudflare/security-audit-skill</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;cloudflare/security-audit-skill&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings&lt;/p&gt;
-&lt;p&gt;⭐ 39,985 | +2,979 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 42,473 | +2,716 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/cloudflare/security-audit-skill#2026-10-23</guid><pubDate>Fri, 23 Oct 2026 05:33:15 +0000</pubDate></item><item><title>#3 Graphify-Labs/graphify (+1,408 stars)</title><link>https://github.com/Graphify-Labs/graphify</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Graphify-Labs/graphify&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.&lt;/p&gt;
-&lt;p&gt;⭐ 133,207 | +1,408 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/Graphify-Labs/graphify#2026-10-23</guid><pubDate>Fri, 23 Oct 2026 05:33:15 +0000</pubDate></item><item><title>#4 supabase/supabase (+693 stars)</title><link>https://github.com/supabase/supabase</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;supabase/supabase&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.&lt;/p&gt;
-&lt;p&gt;⭐ 113,575 | +693 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/supabase/supabase#2026-10-23</guid><pubDate>Fri, 23 Oct 2026 05:33:15 +0000</pubDate></item><item><title>#5 php/php-src (+287 stars)</title><link>https://github.com/php/php-src</link><description>
+</description><guid isPermaLink="false">https://github.com/cloudflare/security-audit-skill#2026-10-24</guid><pubDate>Sat, 24 Oct 2026 05:11:55 +0000</pubDate></item><item><title>#2 php/php-src (+716 stars)</title><link>https://github.com/php/php-src</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;php/php-src&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The PHP Interpreter&lt;/p&gt;
-&lt;p&gt;⭐ 41,280 | +287 today | 🔧 C&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 41,597 | +716 today | 🔧 C&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/php/php-src#2026-10-23</guid><pubDate>Fri, 23 Oct 2026 05:33:15 +0000</pubDate></item><item><title>#6 anthropics/knowledge-work-plugins (+303 stars)</title><link>https://github.com/anthropics/knowledge-work-plugins</link><description>
+</description><guid isPermaLink="false">https://github.com/php/php-src#2026-10-24</guid><pubDate>Sat, 24 Oct 2026 05:11:55 +0000</pubDate></item><item><title>#3 anthropics/knowledge-work-plugins (+635 stars)</title><link>https://github.com/anthropics/knowledge-work-plugins</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;anthropics/knowledge-work-plugins&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork&lt;/p&gt;
-&lt;p&gt;⭐ 31,736 | +303 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 32,328 | +635 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/anthropics/knowledge-work-plugins#2026-10-24</guid><pubDate>Sat, 24 Oct 2026 05:11:55 +0000</pubDate></item><item><title>#4 NVIDIA/OpenShell (+1,119 stars)</title><link>https://github.com/NVIDIA/OpenShell</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;NVIDIA/OpenShell&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OpenShell is the safe, private runtime for autonomous AI agents.&lt;/p&gt;
+&lt;p&gt;⭐ 18,917 | +1,119 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/anthropics/knowledge-work-plugins#2026-10-23</guid><pubDate>Fri, 23 Oct 2026 05:33:15 +0000</pubDate></item><item><title>#7 fastapi/fastapi (+101 stars)</title><link>https://github.com/fastapi/fastapi</link><description>
+</description><guid isPermaLink="false">https://github.com/NVIDIA/OpenShell#2026-10-24</guid><pubDate>Sat, 24 Oct 2026 05:11:55 +0000</pubDate></item><item><title>#5 Renhuai123/ziwei-doushu (+546 stars)</title><link>https://github.com/Renhuai123/ziwei-doushu</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;fastapi/fastapi&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;FastAPI framework, high performance, easy to learn, fast to code, ready for production&lt;/p&gt;
-&lt;p&gt;⭐ 103,892 | +101 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Renhuai123/ziwei-doushu&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据&lt;/p&gt;
+&lt;p&gt;⭐ 6,999 | +546 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/fastapi/fastapi#2026-10-23</guid><pubDate>Fri, 23 Oct 2026 05:33:15 +0000</pubDate></item><item><title>#8 luongnv89/claude-howto (+177 stars)</title><link>https://github.com/luongnv89/claude-howto</link><description>
+</description><guid isPermaLink="false">https://github.com/Renhuai123/ziwei-doushu#2026-10-24</guid><pubDate>Sat, 24 Oct 2026 05:11:55 +0000</pubDate></item><item><title>#6 SnailSploit/Claude-Red (+226 stars)</title><link>https://github.com/SnailSploit/Claude-Red</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;luongnv89/claude-howto&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.&lt;/p&gt;
-&lt;p&gt;⭐ 43,448 | +177 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SnailSploit/Claude-Red&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.&lt;/p&gt;
+&lt;p&gt;⭐ 8,608 | +226 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/luongnv89/claude-howto#2026-10-23</guid><pubDate>Fri, 23 Oct 2026 05:33:15 +0000</pubDate></item><item><title>#9 Meloong-Git/PCL (+119 stars)</title><link>https://github.com/Meloong-Git/PCL</link><description>
+</description><guid isPermaLink="false">https://github.com/SnailSploit/Claude-Red#2026-10-24</guid><pubDate>Sat, 24 Oct 2026 05:11:55 +0000</pubDate></item><item><title>#7 OpenBMB/VoxCPM (+150 stars)</title><link>https://github.com/OpenBMB/VoxCPM</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Meloong-Git/PCL&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Minecraft 启动器 Plain Craft Launcher（PCL）。&lt;/p&gt;
-&lt;p&gt;⭐ 8,768 | +119 today | 🔧 Visual Basic .NET&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OpenBMB/VoxCPM&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning&lt;/p&gt;
+&lt;p&gt;⭐ 40,348 | +150 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/OpenBMB/VoxCPM#2026-10-24</guid><pubDate>Sat, 24 Oct 2026 05:11:55 +0000</pubDate></item><item><title>#8 nodejs/node (+66 stars)</title><link>https://github.com/nodejs/node</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;nodejs/node&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Node.js JavaScript runtime ✨🐢🚀✨&lt;/p&gt;
+&lt;p&gt;⭐ 122,939 | +66 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Meloong-Git/PCL#2026-10-23</guid><pubDate>Fri, 23 Oct 2026 05:33:15 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/nodejs/node#2026-10-24</guid><pubDate>Sat, 24 Oct 2026 05:11:55 +0000</pubDate></item></channel></rss>
