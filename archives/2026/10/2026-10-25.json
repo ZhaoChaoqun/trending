@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-25",
+  "updated_at": "2026-10-25 05:29:11",
+  "count": 10,
+  "rankings": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "rank": 1,
+      "stars": "45,046",
+      "stars_today": "2,264",
+      "language": "JavaScript",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "rank": 2,
+      "stars": "86,596",
+      "stars_today": "619",
+      "language": "Rust",
+      "description": "The design language that makes your AI harness better at design."
+    },
+    {
+      "name": "NVIDIA/OpenShell",
+      "rank": 3,
+      "stars": "19,593",
+      "stars_today": "896",
+      "language": "Rust",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents."
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "rank": 4,
+      "stars": "32,396",
+      "stars_today": "455",
+      "language": "CSS",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+    },
+    {
+      "name": "luongnv89/claude-howto",
+      "rank": 5,
+      "stars": "44,691",
+      "stars_today": "392",
+      "language": "Python",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value."
+    },
+    {
+      "name": "pollen-robotics/microduck",
+      "rank": 6,
+      "stars": "11,109",
+      "stars_today": "319",
+      "language": "Rust",
+      "description": "A Tiny biped duck robot 🦆"
+    },
+    {
+      "name": "jbiaojerry/ebook-treasure-chest",
+      "rank": 7,
+      "stars": "22,799",
+      "stars_today": "227",
+      "language": "Python",
+      "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。"
+    },
+    {
+      "name": "google-gemini/gemini-cli",
+      "rank": 8,
+      "stars": "108,195",
+      "stars_today": "44",
+      "language": "TypeScript",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    },
+    {
+      "name": "makecindy/cindy",
+      "rank": 9,
+      "stars": "4,220",
+      "stars_today": "477",
+      "language": "TypeScript",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。"
+    },
+    {
+      "name": "aws/agent-toolkit-for-aws",
+      "rank": 10,
+      "stars": "3,192",
+      "stars_today": "13",
+      "language": "Python",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS"
+    }
+  ]
+}
