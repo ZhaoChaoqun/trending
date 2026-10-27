@@ -1,0 +1,119 @@
+{
+  "date": "2026-10-27",
+  "updated_at": "2026-10-27 05:47:31",
+  "count": 14,
+  "rankings": [
+    {
+      "name": "Nutlope/hallmark",
+      "rank": 1,
+      "stars": "36,976",
+      "stars_today": "2,244",
+      "language": "CSS",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "rank": 2,
+      "stars": "116,465",
+      "stars_today": "1,395",
+      "language": "Python",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "rank": 3,
+      "stars": "290,038",
+      "stars_today": "896",
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "rank": 4,
+      "stars": "89,468",
+      "stars_today": "1,506",
+      "language": "Rust",
+      "description": "The design language that makes your AI harness better at design."
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "rank": 5,
+      "stars": "104,006",
+      "stars_today": "746",
+      "language": "Python",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "rank": 6,
+      "stars": "89,744",
+      "stars_today": "2,297",
+      "language": "Python",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "rank": 7,
+      "stars": "224,864",
+      "stars_today": "638",
+      "language": null,
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+    },
+    {
+      "name": "JetBrains/thinkrail",
+      "rank": 8,
+      "stars": "3,173",
+      "stars_today": "1,173",
+      "language": "TypeScript",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need"
+    },
+    {
+      "name": "makecindy/cindy",
+      "rank": 9,
+      "stars": "6,781",
+      "stars_today": "1,296",
+      "language": "TypeScript",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。"
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "rank": 10,
+      "stars": "22,404",
+      "stars_today": "214",
+      "language": "Python",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them."
+    },
+    {
+      "name": "pollen-robotics/microduck",
+      "rank": 11,
+      "stars": "12,526",
+      "stars_today": "843",
+      "language": "Rust",
+      "description": "A Tiny biped duck robot 🦆"
+    },
+    {
+      "name": "gitroomhq/postiz-app",
+      "rank": 12,
+      "stars": "38,633",
+      "stars_today": "188",
+      "language": "TypeScript",
+      "description": "📨 The ultimate agentic social media scheduling tool 🤖"
+    },
+    {
+      "name": "alchaincyf/huashu-design",
+      "rank": 13,
+      "stars": "27,186",
+      "stars_today": "251",
+      "language": "HTML",
+      "description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent"
+    },
+    {
+      "name": "nightly-labs/openbot",
+      "rank": 14,
+      "stars": "1,649",
+      "stars_today": "176",
+      "language": "TypeScript",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration."
+    }
+  ]
+}
