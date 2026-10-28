@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Tue, 27 Oct 2026 05:47:31 +0000</pubDate><lastBuildDate>Tue, 27 Oct 2026 05:47:31 +0000</lastBuildDate><item><title>#1 Nutlope/hallmark (+2,244 stars)</title><link>https://github.com/Nutlope/hallmark</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Wed, 28 Oct 2026 06:25:53 +0000</pubDate><lastBuildDate>Wed, 28 Oct 2026 06:25:53 +0000</lastBuildDate><item><title>#1 Nutlope/hallmark (+2,830 stars)</title><link>https://github.com/Nutlope/hallmark</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;Nutlope/hallmark&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Anti-AI-slop design skill for Claude Code, Cursor, and Codex.&lt;/p&gt;
-&lt;p&gt;⭐ 36,976 | +2,244 today | 🔧 CSS&lt;/p&gt;
+&lt;p&gt;⭐ 39,427 | +2,830 today | 🔧 CSS&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Nutlope/hallmark#2026-10-27</guid><pubDate>Tue, 27 Oct 2026 05:47:31 +0000</pubDate></item><item><title>#2 TauricResearch/TradingAgents (+1,395 stars)</title><link>https://github.com/TauricResearch/TradingAgents</link><description>
+</description><guid isPermaLink="false">https://github.com/Nutlope/hallmark#2026-10-28</guid><pubDate>Wed, 28 Oct 2026 06:25:53 +0000</pubDate></item><item><title>#2 obra/superpowers (+617 stars)</title><link>https://github.com/obra/superpowers</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;TauricResearch/TradingAgents&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;TradingAgents: Multi-Agents LLM Financial Trading Framework&lt;/p&gt;
-&lt;p&gt;⭐ 116,465 | +1,395 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
+&lt;p&gt;⭐ 306,679 | +617 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/TauricResearch/TradingAgents#2026-10-27</guid><pubDate>Tue, 27 Oct 2026 05:47:31 +0000</pubDate></item><item><title>#3 affaan-m/ECC (+896 stars)</title><link>https://github.com/affaan-m/ECC</link><description>
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-10-28</guid><pubDate>Wed, 28 Oct 2026 06:25:53 +0000</pubDate></item><item><title>#3 pbakaus/impeccable (+1,449 stars)</title><link>https://github.com/pbakaus/impeccable</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;pbakaus/impeccable&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.&lt;/p&gt;
+&lt;p&gt;⭐ 90,953 | +1,449 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/pbakaus/impeccable#2026-10-28</guid><pubDate>Wed, 28 Oct 2026 06:25:53 +0000</pubDate></item><item><title>#4 gitroomhq/postiz-app (+951 stars)</title><link>https://github.com/gitroomhq/postiz-app</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;gitroomhq/postiz-app&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;📨 The ultimate agentic social media scheduling tool 🤖&lt;/p&gt;
+&lt;p&gt;⭐ 39,617 | +951 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/gitroomhq/postiz-app#2026-10-28</guid><pubDate>Wed, 28 Oct 2026 06:25:53 +0000</pubDate></item><item><title>#5 affaan-m/ECC (+1,165 stars)</title><link>https://github.com/affaan-m/ECC</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;affaan-m/ECC&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.&lt;/p&gt;
-&lt;p&gt;⭐ 290,038 | +896 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 291,097 | +1,165 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/affaan-m/ECC#2026-10-27</guid><pubDate>Tue, 27 Oct 2026 05:47:31 +0000</pubDate></item><item><title>#4 pbakaus/impeccable (+1,506 stars)</title><link>https://github.com/pbakaus/impeccable</link><description>
+</description><guid isPermaLink="false">https://github.com/affaan-m/ECC#2026-10-28</guid><pubDate>Wed, 28 Oct 2026 06:25:53 +0000</pubDate></item><item><title>#6 HKUDS/DeepTutor (+1,598 stars)</title><link>https://github.com/HKUDS/DeepTutor</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;pbakaus/impeccable&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The design language that makes your AI harness better at design.&lt;/p&gt;
-&lt;p&gt;⭐ 89,468 | +1,506 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HKUDS/DeepTutor&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.&lt;/p&gt;
+&lt;p&gt;⭐ 46,527 | +1,598 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/pbakaus/impeccable#2026-10-27</guid><pubDate>Tue, 27 Oct 2026 05:47:31 +0000</pubDate></item><item><title>#5 Panniantong/Agent-Reach (+746 stars)</title><link>https://github.com/Panniantong/Agent-Reach</link><description>
+</description><guid isPermaLink="false">https://github.com/HKUDS/DeepTutor#2026-10-28</guid><pubDate>Wed, 28 Oct 2026 06:25:53 +0000</pubDate></item><item><title>#7 nightly-labs/openbot (+777 stars)</title><link>https://github.com/nightly-labs/openbot</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Panniantong/Agent-Reach&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.&lt;/p&gt;
-&lt;p&gt;⭐ 104,006 | +746 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/Panniantong/Agent-Reach#2026-10-27</guid><pubDate>Tue, 27 Oct 2026 05:47:31 +0000</pubDate></item><item><title>#6 debpalash/VoiceStudio (+2,297 stars)</title><link>https://github.com/debpalash/VoiceStudio</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;debpalash/VoiceStudio&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.&lt;/p&gt;
-&lt;p&gt;⭐ 89,744 | +2,297 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/debpalash/VoiceStudio#2026-10-27</guid><pubDate>Tue, 27 Oct 2026 05:47:31 +0000</pubDate></item><item><title>#7 multica-ai/andrej-karpathy-skills (+638 stars)</title><link>https://github.com/multica-ai/andrej-karpathy-skills</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;multica-ai/andrej-karpathy-skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.&lt;/p&gt;
-&lt;p&gt;⭐ 224,864 | +638 today | 🔧 Unknown&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/multica-ai/andrej-karpathy-skills#2026-10-27</guid><pubDate>Tue, 27 Oct 2026 05:47:31 +0000</pubDate></item><item><title>#8 JetBrains/thinkrail (+1,173 stars)</title><link>https://github.com/JetBrains/thinkrail</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;JetBrains/thinkrail&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need&lt;/p&gt;
-&lt;p&gt;⭐ 3,173 | +1,173 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;nightly-labs/openbot&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.&lt;/p&gt;
+&lt;p&gt;⭐ 2,668 | +777 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/JetBrains/thinkrail#2026-10-27</guid><pubDate>Tue, 27 Oct 2026 05:47:31 +0000</pubDate></item><item><title>#9 makecindy/cindy (+1,296 stars)</title><link>https://github.com/makecindy/cindy</link><description>
+</description><guid isPermaLink="false">https://github.com/nightly-labs/openbot#2026-10-28</guid><pubDate>Wed, 28 Oct 2026 06:25:53 +0000</pubDate></item><item><title>#8 makecindy/cindy (+1,465 stars)</title><link>https://github.com/makecindy/cindy</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;makecindy/cindy&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。&lt;/p&gt;
-&lt;p&gt;⭐ 6,781 | +1,296 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 7,678 | +1,465 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/makecindy/cindy#2026-10-27</guid><pubDate>Tue, 27 Oct 2026 05:47:31 +0000</pubDate></item><item><title>#10 NVIDIA/SkillSpector (+214 stars)</title><link>https://github.com/NVIDIA/SkillSpector</link><description>
+</description><guid isPermaLink="false">https://github.com/makecindy/cindy#2026-10-28</guid><pubDate>Wed, 28 Oct 2026 06:25:53 +0000</pubDate></item><item><title>#9 JetBrains/thinkrail (+1,204 stars)</title><link>https://github.com/JetBrains/thinkrail</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;NVIDIA/SkillSpector&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.&lt;/p&gt;
-&lt;p&gt;⭐ 22,404 | +214 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;JetBrains/thinkrail&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need&lt;/p&gt;
+&lt;p&gt;⭐ 4,316 | +1,204 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/NVIDIA/SkillSpector#2026-10-27</guid><pubDate>Tue, 27 Oct 2026 05:47:31 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/JetBrains/thinkrail#2026-10-28</guid><pubDate>Wed, 28 Oct 2026 06:25:53 +0000</pubDate></item><item><title>#10 togg53192-cmd/jailbreaks (+902 stars)</title><link>https://github.com/togg53192-cmd/jailbreaks</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;togg53192-cmd/jailbreaks&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;LIST OF ALL MY JAILBREAKS&lt;/p&gt;
+&lt;p&gt;⭐ 5,946 | +902 today | 🔧 Unknown&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/togg53192-cmd/jailbreaks#2026-10-28</guid><pubDate>Wed, 28 Oct 2026 06:25:53 +0000</pubDate></item></channel></rss>
