@@ -1,0 +1,119 @@
+{
+  "date": "2026-10-29",
+  "updated_at": "2026-10-29 06:36:55",
+  "count": 14,
+  "rankings": [
+    {
+      "name": "obra/superpowers",
+      "rank": 1,
+      "stars": "307,664",
+      "stars_today": "1,095",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "rank": 2,
+      "stars": "48,547",
+      "stars_today": "2,371",
+      "language": "Python",
+      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/."
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "rank": 3,
+      "stars": "41,056",
+      "stars_today": "2,110",
+      "language": "CSS",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "rank": 4,
+      "stars": "93,422",
+      "stars_today": "1,472",
+      "language": "Rust",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
+    },
+    {
+      "name": "hmjz100/LinkSwift",
+      "rank": 5,
+      "stars": "35,478",
+      "stars_today": "1,616",
+      "language": "JavaScript",
+      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "rank": 6,
+      "stars": "101,268",
+      "stars_today": "557",
+      "language": "Rust",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+    },
+    {
+      "name": "JetBrains/thinkrail",
+      "rank": 7,
+      "stars": "5,375",
+      "stars_today": "1,068",
+      "language": "TypeScript",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need"
+    },
+    {
+      "name": "elayadesign/ai-design-skills",
+      "rank": 8,
+      "stars": "11,427",
+      "stars_today": "2,139",
+      "language": null,
+      "description": ""
+    },
+    {
+      "name": "makecindy/cindy",
+      "rank": 9,
+      "stars": "8,300",
+      "stars_today": "728",
+      "language": "TypeScript",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。"
+    },
+    {
+      "name": "nightly-labs/openbot",
+      "rank": 10,
+      "stars": "3,440",
+      "stars_today": "1,054",
+      "language": "TypeScript",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration."
+    },
+    {
+      "name": "togg53192-cmd/jailbreaks",
+      "rank": 11,
+      "stars": "7,520",
+      "stars_today": "1,477",
+      "language": null,
+      "description": "LIST OF ALL MY JAILBREAKS"
+    },
+    {
+      "name": "macro-inc/macro",
+      "rank": 12,
+      "stars": "5,548",
+      "stars_today": "117",
+      "language": "Rust",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory."
+    },
+    {
+      "name": "xiaolai/the-craft-of-selfteaching",
+      "rank": 13,
+      "stars": "18,687",
+      "stars_today": "148",
+      "language": "Jupyter Notebook",
+      "description": "One has no future if one couldn't teach themself."
+    },
+    {
+      "name": "expo/skills",
+      "rank": 14,
+      "stars": "3,674",
+      "stars_today": "90",
+      "language": "Shell",
+      "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services"
+    }
+  ]
+}
