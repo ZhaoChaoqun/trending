@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Wed, 04 Nov 2026 07:03:41 +0000</pubDate><lastBuildDate>Wed, 04 Nov 2026 07:03:41 +0000</lastBuildDate><item><title>#1 thedotmack/claude-mem (+1,139 stars)</title><link>https://github.com/thedotmack/claude-mem</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;thedotmack/claude-mem&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More&lt;/p&gt;
-&lt;p&gt;⭐ 112,206 | +1,139 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/thedotmack/claude-mem#2026-11-04</guid><pubDate>Wed, 04 Nov 2026 07:03:41 +0000</pubDate></item><item><title>#2 JustVugg/colibri (+802 stars)</title><link>https://github.com/JustVugg/colibri</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;JustVugg/colibri&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.&lt;/p&gt;
-&lt;p&gt;⭐ 47,413 | +802 today | 🔧 C&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/JustVugg/colibri#2026-11-04</guid><pubDate>Wed, 04 Nov 2026 07:03:41 +0000</pubDate></item><item><title>#3 mattpocock/skills (+1,164 stars)</title><link>https://github.com/mattpocock/skills</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Thu, 05 Nov 2026 07:30:55 +0000</pubDate><lastBuildDate>Thu, 05 Nov 2026 07:30:55 +0000</lastBuildDate><item><title>#1 mattpocock/skills (+1,379 stars)</title><link>https://github.com/mattpocock/skills</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;mattpocock/skills&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Skills for Real Engineers. Straight from my .agents directory.&lt;/p&gt;
-&lt;p&gt;⭐ 311,801 | +1,164 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 313,763 | +1,379 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-11-04</guid><pubDate>Wed, 04 Nov 2026 07:03:41 +0000</pubDate></item><item><title>#4 p-e-w/heretic (+701 stars)</title><link>https://github.com/p-e-w/heretic</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;p-e-w/heretic&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more&lt;/p&gt;
-&lt;p&gt;⭐ 39,006 | +701 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/p-e-w/heretic#2026-11-04</guid><pubDate>Wed, 04 Nov 2026 07:03:41 +0000</pubDate></item><item><title>#5 D4Vinci/Scrapling (+1,658 stars)</title><link>https://github.com/D4Vinci/Scrapling</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;D4Vinci/Scrapling&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev&lt;/p&gt;
-&lt;p&gt;⭐ 95,321 | +1,658 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/D4Vinci/Scrapling#2026-11-04</guid><pubDate>Wed, 04 Nov 2026 07:03:41 +0000</pubDate></item><item><title>#6 shiyu-coder/Kronos (+503 stars)</title><link>https://github.com/shiyu-coder/Kronos</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;shiyu-coder/Kronos&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Kronos: A Foundation Model for the Language of Financial Markets&lt;/p&gt;
-&lt;p&gt;⭐ 46,626 | +503 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/shiyu-coder/Kronos#2026-11-04</guid><pubDate>Wed, 04 Nov 2026 07:03:41 +0000</pubDate></item><item><title>#7 vercel-labs/agent-desktop (+3,791 stars)</title><link>https://github.com/vercel-labs/agent-desktop</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;vercel-labs/agent-desktop&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Computer use CLI for AI agents&lt;/p&gt;
-&lt;p&gt;⭐ 13,424 | +3,791 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/vercel-labs/agent-desktop#2026-11-04</guid><pubDate>Wed, 04 Nov 2026 07:03:41 +0000</pubDate></item><item><title>#8 max-sixty/worktrunk (+438 stars)</title><link>https://github.com/max-sixty/worktrunk</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;max-sixty/worktrunk&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows&lt;/p&gt;
-&lt;p&gt;⭐ 10,658 | +438 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/max-sixty/worktrunk#2026-11-04</guid><pubDate>Wed, 04 Nov 2026 07:03:41 +0000</pubDate></item><item><title>#9 floci-io/floci (+482 stars)</title><link>https://github.com/floci-io/floci</link><description>
+</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-11-05</guid><pubDate>Thu, 05 Nov 2026 07:30:55 +0000</pubDate></item><item><title>#2 floci-io/floci (+1,090 stars)</title><link>https://github.com/floci-io/floci</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;floci-io/floci&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Light, fluffy, and always free - The AWS Local Emulator alternative&lt;/p&gt;
-&lt;p&gt;⭐ 29,057 | +482 today | 🔧 Java&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 29,840 | +1,090 today | 🔧 Java&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/floci-io/floci#2026-11-04</guid><pubDate>Wed, 04 Nov 2026 07:03:41 +0000</pubDate></item><item><title>#10 Usagi-org/ai-goofish-monitor (+228 stars)</title><link>https://github.com/Usagi-org/ai-goofish-monitor</link><description>
+</description><guid isPermaLink="false">https://github.com/floci-io/floci#2026-11-05</guid><pubDate>Thu, 05 Nov 2026 07:30:55 +0000</pubDate></item><item><title>#3 thedotmack/claude-mem (+1,172 stars)</title><link>https://github.com/thedotmack/claude-mem</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Usagi-org/ai-goofish-monitor&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。&lt;/p&gt;
-&lt;p&gt;⭐ 16,798 | +228 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;thedotmack/claude-mem&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More&lt;/p&gt;
+&lt;p&gt;⭐ 113,103 | +1,172 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/thedotmack/claude-mem#2026-11-05</guid><pubDate>Thu, 05 Nov 2026 07:30:55 +0000</pubDate></item><item><title>#4 github/spec-kit (+808 stars)</title><link>https://github.com/github/spec-kit</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;github/spec-kit&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;💫 Toolkit to help you get started with SDD or any other process!&lt;/p&gt;
+&lt;p&gt;⭐ 147,512 | +808 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/github/spec-kit#2026-11-05</guid><pubDate>Thu, 05 Nov 2026 07:30:55 +0000</pubDate></item><item><title>#5 harry0703/MoneyPrinterTurbo (+617 stars)</title><link>https://github.com/harry0703/MoneyPrinterTurbo</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;harry0703/MoneyPrinterTurbo&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.&lt;/p&gt;
+&lt;p&gt;⭐ 139,321 | +617 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/harry0703/MoneyPrinterTurbo#2026-11-05</guid><pubDate>Thu, 05 Nov 2026 07:30:55 +0000</pubDate></item><item><title>#6 D4Vinci/Scrapling (+2,005 stars)</title><link>https://github.com/D4Vinci/Scrapling</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;D4Vinci/Scrapling&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev&lt;/p&gt;
+&lt;p&gt;⭐ 97,010 | +2,005 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/D4Vinci/Scrapling#2026-11-05</guid><pubDate>Thu, 05 Nov 2026 07:30:55 +0000</pubDate></item><item><title>#7 NVIDIA/auto-ontology (+2,050 stars)</title><link>https://github.com/NVIDIA/auto-ontology</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;NVIDIA/auto-ontology&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.&lt;/p&gt;
+&lt;p&gt;⭐ 5,825 | +2,050 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/Usagi-org/ai-goofish-monitor#2026-11-04</guid><pubDate>Wed, 04 Nov 2026 07:03:41 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/NVIDIA/auto-ontology#2026-11-05</guid><pubDate>Thu, 05 Nov 2026 07:30:55 +0000</pubDate></item><item><title>#8 max-sixty/worktrunk (+531 stars)</title><link>https://github.com/max-sixty/worktrunk</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;max-sixty/worktrunk&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows&lt;/p&gt;
+&lt;p&gt;⭐ 11,206 | +531 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/max-sixty/worktrunk#2026-11-05</guid><pubDate>Thu, 05 Nov 2026 07:30:55 +0000</pubDate></item><item><title>#9 vercel-labs/agent-desktop (+2,470 stars)</title><link>https://github.com/vercel-labs/agent-desktop</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;vercel-labs/agent-desktop&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Computer use CLI for AI agents&lt;/p&gt;
+&lt;p&gt;⭐ 15,774 | +2,470 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/vercel-labs/agent-desktop#2026-11-05</guid><pubDate>Thu, 05 Nov 2026 07:30:55 +0000</pubDate></item><item><title>#10 The-PR-Agent/pr-agent (+280 stars)</title><link>https://github.com/The-PR-Agent/pr-agent</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;The-PR-Agent/pr-agent&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.&lt;/p&gt;
+&lt;p&gt;⭐ 14,916 | +280 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/The-PR-Agent/pr-agent#2026-11-05</guid><pubDate>Thu, 05 Nov 2026 07:30:55 +0000</pubDate></item></channel></rss>
