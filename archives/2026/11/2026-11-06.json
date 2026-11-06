@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-06",
+  "updated_at": "2026-11-06 07:29:22",
+  "count": 15,
+  "rankings": [
+    {
+      "name": "mattpocock/skills",
+      "rank": 1,
+      "stars": "315,765",
+      "stars_today": "2,071",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory."
+    },
+    {
+      "name": "garrytan/gstack",
+      "rank": 2,
+      "stars": "140,167",
+      "stars_today": "612",
+      "language": "TypeScript",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA"
+    },
+    {
+      "name": "D4Vinci/Scrapling",
+      "rank": 3,
+      "stars": "98,357",
+      "stars_today": "1,655",
+      "language": "Python",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev"
+    },
+    {
+      "name": "floci-io/floci",
+      "rank": 4,
+      "stars": "30,621",
+      "stars_today": "779",
+      "language": "Java",
+      "description": "Light, fluffy, and always free - The AWS Local Emulator alternative"
+    },
+    {
+      "name": "NVIDIA/auto-ontology",
+      "rank": 5,
+      "stars": "7,915",
+      "stars_today": "2,679",
+      "language": "Python",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows."
+    },
+    {
+      "name": "Usagi-org/ai-goofish-monitor",
+      "rank": 6,
+      "stars": "17,951",
+      "stars_today": "240",
+      "language": "Python",
+      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。"
+    },
+    {
+      "name": "vercel-labs/agent-desktop",
+      "rank": 7,
+      "stars": "17,363",
+      "stars_today": "2,173",
+      "language": "Rust",
+      "description": "Computer use CLI for AI agents"
+    },
+    {
+      "name": "max-sixty/worktrunk",
+      "rank": 8,
+      "stars": "11,656",
+      "stars_today": "546",
+      "language": "Rust",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
+    },
+    {
+      "name": "google/skills",
+      "rank": 9,
+      "stars": "22,528",
+      "stars_today": "211",
+      "language": "Python",
+      "description": "Agent Skills for Google products and technologies"
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "rank": 10,
+      "stars": "56,242",
+      "stars_today": "223",
+      "language": "Python",
+      "description": "Open-Source Frontier Voice AI"
+    },
+    {
+      "name": "JiaFeiMiao-K-Cat/DiscImageStudio",
+      "rank": 11,
+      "stars": "7,479",
+      "stars_today": "984",
+      "language": "C#",
+      "description": ""
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "rank": 12,
+      "stars": "46,103",
+      "stars_today": "150",
+      "language": "Rust",
+      "description": "Browser automation CLI for AI agents"
+    },
+    {
+      "name": "scenario-labs/skills",
+      "rank": 13,
+      "stars": "3,252",
+      "stars_today": "667",
+      "language": "Python",
+      "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity."
+    },
+    {
+      "name": "ConardLi/garden-skills",
+      "rank": 14,
+      "stars": "14,340",
+      "stars_today": "175",
+      "language": "JavaScript",
+      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more."
+    },
+    {
+      "name": "lz4/lz4",
+      "rank": 15,
+      "stars": "12,472",
+      "stars_today": "23",
+      "language": "C",
+      "description": "Extremely Fast Compression algorithm"
+    }
+  ]
+}
