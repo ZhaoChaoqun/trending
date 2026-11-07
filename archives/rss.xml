@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 06 Nov 2026 07:29:22 +0000</pubDate><lastBuildDate>Fri, 06 Nov 2026 07:29:22 +0000</lastBuildDate><item><title>#1 mattpocock/skills (+2,071 stars)</title><link>https://github.com/mattpocock/skills</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sat, 07 Nov 2026 06:42:01 +0000</pubDate><lastBuildDate>Sat, 07 Nov 2026 06:42:01 +0000</lastBuildDate><item><title>#1 zed-industries/zed (+306 stars)</title><link>https://github.com/zed-industries/zed</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;mattpocock/skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Skills for Real Engineers. Straight from my .agents directory.&lt;/p&gt;
-&lt;p&gt;⭐ 315,765 | +2,071 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;zed-industries/zed&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.&lt;/p&gt;
+&lt;p&gt;⭐ 93,832 | +306 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-11-06</guid><pubDate>Fri, 06 Nov 2026 07:29:22 +0000</pubDate></item><item><title>#2 garrytan/gstack (+612 stars)</title><link>https://github.com/garrytan/gstack</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;garrytan/gstack&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA&lt;/p&gt;
-&lt;p&gt;⭐ 140,167 | +612 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/garrytan/gstack#2026-11-06</guid><pubDate>Fri, 06 Nov 2026 07:29:22 +0000</pubDate></item><item><title>#3 D4Vinci/Scrapling (+1,655 stars)</title><link>https://github.com/D4Vinci/Scrapling</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;D4Vinci/Scrapling&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev&lt;/p&gt;
-&lt;p&gt;⭐ 98,357 | +1,655 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/D4Vinci/Scrapling#2026-11-06</guid><pubDate>Fri, 06 Nov 2026 07:29:22 +0000</pubDate></item><item><title>#4 floci-io/floci (+779 stars)</title><link>https://github.com/floci-io/floci</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;floci-io/floci&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Light, fluffy, and always free - The AWS Local Emulator alternative&lt;/p&gt;
-&lt;p&gt;⭐ 30,621 | +779 today | 🔧 Java&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/floci-io/floci#2026-11-06</guid><pubDate>Fri, 06 Nov 2026 07:29:22 +0000</pubDate></item><item><title>#5 NVIDIA/auto-ontology (+2,679 stars)</title><link>https://github.com/NVIDIA/auto-ontology</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;NVIDIA/auto-ontology&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.&lt;/p&gt;
-&lt;p&gt;⭐ 7,915 | +2,679 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/NVIDIA/auto-ontology#2026-11-06</guid><pubDate>Fri, 06 Nov 2026 07:29:22 +0000</pubDate></item><item><title>#6 Usagi-org/ai-goofish-monitor (+240 stars)</title><link>https://github.com/Usagi-org/ai-goofish-monitor</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Usagi-org/ai-goofish-monitor&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。&lt;/p&gt;
-&lt;p&gt;⭐ 17,951 | +240 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/Usagi-org/ai-goofish-monitor#2026-11-06</guid><pubDate>Fri, 06 Nov 2026 07:29:22 +0000</pubDate></item><item><title>#7 vercel-labs/agent-desktop (+2,173 stars)</title><link>https://github.com/vercel-labs/agent-desktop</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;vercel-labs/agent-desktop&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Computer use CLI for AI agents&lt;/p&gt;
-&lt;p&gt;⭐ 17,363 | +2,173 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/vercel-labs/agent-desktop#2026-11-06</guid><pubDate>Fri, 06 Nov 2026 07:29:22 +0000</pubDate></item><item><title>#8 max-sixty/worktrunk (+546 stars)</title><link>https://github.com/max-sixty/worktrunk</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;max-sixty/worktrunk&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows&lt;/p&gt;
-&lt;p&gt;⭐ 11,656 | +546 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/max-sixty/worktrunk#2026-11-06</guid><pubDate>Fri, 06 Nov 2026 07:29:22 +0000</pubDate></item><item><title>#9 google/skills (+211 stars)</title><link>https://github.com/google/skills</link><description>
+</description><guid isPermaLink="false">https://github.com/zed-industries/zed#2026-11-07</guid><pubDate>Sat, 07 Nov 2026 06:42:01 +0000</pubDate></item><item><title>#2 google/skills (+534 stars)</title><link>https://github.com/google/skills</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;google/skills&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Agent Skills for Google products and technologies&lt;/p&gt;
-&lt;p&gt;⭐ 22,528 | +211 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 22,952 | +534 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/google/skills#2026-11-06</guid><pubDate>Fri, 06 Nov 2026 07:29:22 +0000</pubDate></item><item><title>#10 microsoft/VibeVoice (+223 stars)</title><link>https://github.com/microsoft/VibeVoice</link><description>
+</description><guid isPermaLink="false">https://github.com/google/skills#2026-11-07</guid><pubDate>Sat, 07 Nov 2026 06:42:01 +0000</pubDate></item><item><title>#3 mattpocock/skills (+2,070 stars)</title><link>https://github.com/mattpocock/skills</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;microsoft/VibeVoice&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Open-Source Frontier Voice AI&lt;/p&gt;
-&lt;p&gt;⭐ 56,242 | +223 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;mattpocock/skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Skills for Real Engineers. Straight from my .agents directory.&lt;/p&gt;
+&lt;p&gt;⭐ 316,933 | +2,070 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-11-07</guid><pubDate>Sat, 07 Nov 2026 06:42:01 +0000</pubDate></item><item><title>#4 cloudflare/security-audit-skill (+2,548 stars)</title><link>https://github.com/cloudflare/security-audit-skill</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;cloudflare/security-audit-skill&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings&lt;/p&gt;
+&lt;p&gt;⭐ 64,442 | +2,548 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/cloudflare/security-audit-skill#2026-11-07</guid><pubDate>Sat, 07 Nov 2026 06:42:01 +0000</pubDate></item><item><title>#5 NVIDIA/auto-ontology (+2,015 stars)</title><link>https://github.com/NVIDIA/auto-ontology</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;NVIDIA/auto-ontology&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.&lt;/p&gt;
+&lt;p&gt;⭐ 9,332 | +2,015 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/microsoft/VibeVoice#2026-11-06</guid><pubDate>Fri, 06 Nov 2026 07:29:22 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/NVIDIA/auto-ontology#2026-11-07</guid><pubDate>Sat, 07 Nov 2026 06:42:01 +0000</pubDate></item><item><title>#6 rails/rails (+142 stars)</title><link>https://github.com/rails/rails</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;rails/rails&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ruby on Rails&lt;/p&gt;
+&lt;p&gt;⭐ 59,058 | +142 today | 🔧 Ruby&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/rails/rails#2026-11-07</guid><pubDate>Sat, 07 Nov 2026 06:42:01 +0000</pubDate></item><item><title>#7 rust-lang/rust (+192 stars)</title><link>https://github.com/rust-lang/rust</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;rust-lang/rust&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Empowering everyone to build reliable and efficient software.&lt;/p&gt;
+&lt;p&gt;⭐ 121,520 | +192 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/rust-lang/rust#2026-11-07</guid><pubDate>Sat, 07 Nov 2026 06:42:01 +0000</pubDate></item><item><title>#8 react/react (+248 stars)</title><link>https://github.com/react/react</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;react/react&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The library for web and native user interfaces.&lt;/p&gt;
+&lt;p&gt;⭐ 252,307 | +248 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/react/react#2026-11-07</guid><pubDate>Sat, 07 Nov 2026 06:42:01 +0000</pubDate></item><item><title>#9 angular/angular (+135 stars)</title><link>https://github.com/angular/angular</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;angular/angular&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Deliver web apps with confidence 🚀&lt;/p&gt;
+&lt;p&gt;⭐ 101,422 | +135 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/angular/angular#2026-11-07</guid><pubDate>Sat, 07 Nov 2026 06:42:01 +0000</pubDate></item><item><title>#10 prometheus/prometheus (+148 stars)</title><link>https://github.com/prometheus/prometheus</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;prometheus/prometheus&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Prometheus monitoring system and time series database.&lt;/p&gt;
+&lt;p&gt;⭐ 67,241 | +148 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/prometheus/prometheus#2026-11-07</guid><pubDate>Sat, 07 Nov 2026 06:42:01 +0000</pubDate></item></channel></rss>

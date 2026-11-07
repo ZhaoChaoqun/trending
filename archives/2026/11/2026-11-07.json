@@ -1,0 +1,151 @@
+{
+  "date": "2026-11-07",
+  "updated_at": "2026-11-07 06:42:01",
+  "count": 18,
+  "rankings": [
+    {
+      "name": "zed-industries/zed",
+      "rank": 1,
+      "stars": "93,832",
+      "stars_today": "306",
+      "language": "Rust",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
+    },
+    {
+      "name": "google/skills",
+      "rank": 2,
+      "stars": "22,952",
+      "stars_today": "534",
+      "language": "Python",
+      "description": "Agent Skills for Google products and technologies"
+    },
+    {
+      "name": "mattpocock/skills",
+      "rank": 3,
+      "stars": "316,933",
+      "stars_today": "2,070",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory."
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "rank": 4,
+      "stars": "64,442",
+      "stars_today": "2,548",
+      "language": "JavaScript",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+    },
+    {
+      "name": "NVIDIA/auto-ontology",
+      "rank": 5,
+      "stars": "9,332",
+      "stars_today": "2,015",
+      "language": "Python",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows."
+    },
+    {
+      "name": "rails/rails",
+      "rank": 6,
+      "stars": "59,058",
+      "stars_today": "142",
+      "language": "Ruby",
+      "description": "Ruby on Rails"
+    },
+    {
+      "name": "rust-lang/rust",
+      "rank": 7,
+      "stars": "121,520",
+      "stars_today": "192",
+      "language": "Rust",
+      "description": "Empowering everyone to build reliable and efficient software."
+    },
+    {
+      "name": "react/react",
+      "rank": 8,
+      "stars": "252,307",
+      "stars_today": "248",
+      "language": "JavaScript",
+      "description": "The library for web and native user interfaces."
+    },
+    {
+      "name": "angular/angular",
+      "rank": 9,
+      "stars": "101,422",
+      "stars_today": "135",
+      "language": "TypeScript",
+      "description": "Deliver web apps with confidence 🚀"
+    },
+    {
+      "name": "prometheus/prometheus",
+      "rank": 10,
+      "stars": "67,241",
+      "stars_today": "148",
+      "language": "Go",
+      "description": "The Prometheus monitoring system and time series database."
+    },
+    {
+      "name": "microsoft/vscode",
+      "rank": 11,
+      "stars": "195,080",
+      "stars_today": "301",
+      "language": "TypeScript",
+      "description": "Visual Studio Code"
+    },
+    {
+      "name": "lz4/lz4",
+      "rank": 12,
+      "stars": "12,648",
+      "stars_today": "315",
+      "language": "C",
+      "description": "Extremely Fast Compression algorithm"
+    },
+    {
+      "name": "etcd-io/etcd",
+      "rank": 13,
+      "stars": "52,643",
+      "stars_today": "128",
+      "language": "Go",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system"
+    },
+    {
+      "name": "astral-sh/ruff",
+      "rank": 14,
+      "stars": "50,756",
+      "stars_today": "169",
+      "language": "Rust",
+      "description": "An extremely fast Python linter and code formatter, written in Rust."
+    },
+    {
+      "name": "mpv-player/mpv",
+      "rank": 15,
+      "stars": "37,934",
+      "stars_today": "37",
+      "language": "C",
+      "description": "🎥 Command line media player"
+    },
+    {
+      "name": "symfony/symfony",
+      "rank": 16,
+      "stars": "31,478",
+      "stars_today": "128",
+      "language": "PHP",
+      "description": "The Symfony PHP framework"
+    },
+    {
+      "name": "nushell/nushell",
+      "rank": 17,
+      "stars": "41,022",
+      "stars_today": "131",
+      "language": "Rust",
+      "description": "A new type of shell"
+    },
+    {
+      "name": "openssl/openssl",
+      "rank": 18,
+      "stars": "31,333",
+      "stars_today": "26",
+      "language": "C",
+      "description": "General purpose TLS and crypto library"
+    }
+  ]
+}
