@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-08",
+  "updated_at": "2026-11-08 06:48:11",
+  "count": 15,
+  "rankings": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "rank": 1,
+      "stars": "66,049",
+      "stars_today": "2,085",
+      "language": "JavaScript",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+    },
+    {
+      "name": "mattpocock/skills",
+      "rank": 2,
+      "stars": "317,942",
+      "stars_today": "1,100",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory."
+    },
+    {
+      "name": "sherlock-project/sherlock",
+      "rank": 3,
+      "stars": "101,104",
+      "stars_today": "1,766",
+      "language": "Python",
+      "description": "Hunt down social media accounts by username across social networks"
+    },
+    {
+      "name": "zed-industries/zed",
+      "rank": 4,
+      "stars": "94,356",
+      "stars_today": "1,114",
+      "language": "Rust",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
+    },
+    {
+      "name": "google/skills",
+      "rank": 5,
+      "stars": "23,531",
+      "stars_today": "443",
+      "language": "Python",
+      "description": "Agent Skills for Google products and technologies"
+    },
+    {
+      "name": "anthropics/skills",
+      "rank": 6,
+      "stars": "188,941",
+      "stars_today": "390",
+      "language": "Python",
+      "description": "Public repository for Agent Skills"
+    },
+    {
+      "name": "prometheus/prometheus",
+      "rank": 7,
+      "stars": "67,491",
+      "stars_today": "322",
+      "language": "Go",
+      "description": "The Prometheus monitoring system and time series database."
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "rank": 8,
+      "stars": "17,317",
+      "stars_today": "1,955",
+      "language": "TypeScript",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use"
+    },
+    {
+      "name": "astral-sh/ruff",
+      "rank": 9,
+      "stars": "51,031",
+      "stars_today": "350",
+      "language": "Rust",
+      "description": "An extremely fast Python linter and code formatter, written in Rust."
+    },
+    {
+      "name": "tailwindlabs/tailwindcss",
+      "rank": 10,
+      "stars": "98,573",
+      "stars_today": "122",
+      "language": "TypeScript",
+      "description": "A utility-first CSS framework for rapid UI development."
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "rank": 11,
+      "stars": "47,023",
+      "stars_today": "190",
+      "language": "Rust",
+      "description": "Browser automation CLI for AI agents"
+    },
+    {
+      "name": "meta/astryx",
+      "rank": 12,
+      "stars": "14,768",
+      "stars_today": "96",
+      "language": "TypeScript",
+      "description": "An open source design system that's fully customizable and agent ready"
+    },
+    {
+      "name": "mbillow/localthings",
+      "rank": 13,
+      "stars": "1,100",
+      "stars_today": "186",
+      "language": "Python",
+      "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account."
+    },
+    {
+      "name": "ranxianglei/billion-context",
+      "rank": 14,
+      "stars": "4,728",
+      "stars_today": "191",
+      "language": "TypeScript",
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need"
+    },
+    {
+      "name": "dsx-ai-factory/nvke",
+      "rank": 15,
+      "stars": "618",
+      "stars_today": "123",
+      "language": "Go",
+      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal."
+    }
+  ]
+}

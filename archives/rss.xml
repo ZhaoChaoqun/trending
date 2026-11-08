@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sat, 07 Nov 2026 06:42:01 +0000</pubDate><lastBuildDate>Sat, 07 Nov 2026 06:42:01 +0000</lastBuildDate><item><title>#1 zed-industries/zed (+306 stars)</title><link>https://github.com/zed-industries/zed</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;zed-industries/zed&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.&lt;/p&gt;
-&lt;p&gt;⭐ 93,832 | +306 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/zed-industries/zed#2026-11-07</guid><pubDate>Sat, 07 Nov 2026 06:42:01 +0000</pubDate></item><item><title>#2 google/skills (+534 stars)</title><link>https://github.com/google/skills</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;google/skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Agent Skills for Google products and technologies&lt;/p&gt;
-&lt;p&gt;⭐ 22,952 | +534 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/google/skills#2026-11-07</guid><pubDate>Sat, 07 Nov 2026 06:42:01 +0000</pubDate></item><item><title>#3 mattpocock/skills (+2,070 stars)</title><link>https://github.com/mattpocock/skills</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;mattpocock/skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Skills for Real Engineers. Straight from my .agents directory.&lt;/p&gt;
-&lt;p&gt;⭐ 316,933 | +2,070 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-11-07</guid><pubDate>Sat, 07 Nov 2026 06:42:01 +0000</pubDate></item><item><title>#4 cloudflare/security-audit-skill (+2,548 stars)</title><link>https://github.com/cloudflare/security-audit-skill</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sun, 08 Nov 2026 06:48:11 +0000</pubDate><lastBuildDate>Sun, 08 Nov 2026 06:48:11 +0000</lastBuildDate><item><title>#1 cloudflare/security-audit-skill (+2,085 stars)</title><link>https://github.com/cloudflare/security-audit-skill</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;cloudflare/security-audit-skill&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings&lt;/p&gt;
-&lt;p&gt;⭐ 64,442 | +2,548 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 66,049 | +2,085 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/cloudflare/security-audit-skill#2026-11-07</guid><pubDate>Sat, 07 Nov 2026 06:42:01 +0000</pubDate></item><item><title>#5 NVIDIA/auto-ontology (+2,015 stars)</title><link>https://github.com/NVIDIA/auto-ontology</link><description>
+</description><guid isPermaLink="false">https://github.com/cloudflare/security-audit-skill#2026-11-08</guid><pubDate>Sun, 08 Nov 2026 06:48:11 +0000</pubDate></item><item><title>#2 mattpocock/skills (+1,100 stars)</title><link>https://github.com/mattpocock/skills</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;NVIDIA/auto-ontology&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.&lt;/p&gt;
-&lt;p&gt;⭐ 9,332 | +2,015 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;mattpocock/skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Skills for Real Engineers. Straight from my .agents directory.&lt;/p&gt;
+&lt;p&gt;⭐ 317,942 | +1,100 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-11-08</guid><pubDate>Sun, 08 Nov 2026 06:48:11 +0000</pubDate></item><item><title>#3 sherlock-project/sherlock (+1,766 stars)</title><link>https://github.com/sherlock-project/sherlock</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;sherlock-project/sherlock&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hunt down social media accounts by username across social networks&lt;/p&gt;
+&lt;p&gt;⭐ 101,104 | +1,766 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/sherlock-project/sherlock#2026-11-08</guid><pubDate>Sun, 08 Nov 2026 06:48:11 +0000</pubDate></item><item><title>#4 zed-industries/zed (+1,114 stars)</title><link>https://github.com/zed-industries/zed</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;zed-industries/zed&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.&lt;/p&gt;
+&lt;p&gt;⭐ 94,356 | +1,114 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/zed-industries/zed#2026-11-08</guid><pubDate>Sun, 08 Nov 2026 06:48:11 +0000</pubDate></item><item><title>#5 google/skills (+443 stars)</title><link>https://github.com/google/skills</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;google/skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Agent Skills for Google products and technologies&lt;/p&gt;
+&lt;p&gt;⭐ 23,531 | +443 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/NVIDIA/auto-ontology#2026-11-07</guid><pubDate>Sat, 07 Nov 2026 06:42:01 +0000</pubDate></item><item><title>#6 rails/rails (+142 stars)</title><link>https://github.com/rails/rails</link><description>
+</description><guid isPermaLink="false">https://github.com/google/skills#2026-11-08</guid><pubDate>Sun, 08 Nov 2026 06:48:11 +0000</pubDate></item><item><title>#6 anthropics/skills (+390 stars)</title><link>https://github.com/anthropics/skills</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;rails/rails&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Ruby on Rails&lt;/p&gt;
-&lt;p&gt;⭐ 59,058 | +142 today | 🔧 Ruby&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;anthropics/skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Public repository for Agent Skills&lt;/p&gt;
+&lt;p&gt;⭐ 188,941 | +390 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/rails/rails#2026-11-07</guid><pubDate>Sat, 07 Nov 2026 06:42:01 +0000</pubDate></item><item><title>#7 rust-lang/rust (+192 stars)</title><link>https://github.com/rust-lang/rust</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;rust-lang/rust&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Empowering everyone to build reliable and efficient software.&lt;/p&gt;
-&lt;p&gt;⭐ 121,520 | +192 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/rust-lang/rust#2026-11-07</guid><pubDate>Sat, 07 Nov 2026 06:42:01 +0000</pubDate></item><item><title>#8 react/react (+248 stars)</title><link>https://github.com/react/react</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;react/react&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The library for web and native user interfaces.&lt;/p&gt;
-&lt;p&gt;⭐ 252,307 | +248 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/react/react#2026-11-07</guid><pubDate>Sat, 07 Nov 2026 06:42:01 +0000</pubDate></item><item><title>#9 angular/angular (+135 stars)</title><link>https://github.com/angular/angular</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;angular/angular&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Deliver web apps with confidence 🚀&lt;/p&gt;
-&lt;p&gt;⭐ 101,422 | +135 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/angular/angular#2026-11-07</guid><pubDate>Sat, 07 Nov 2026 06:42:01 +0000</pubDate></item><item><title>#10 prometheus/prometheus (+148 stars)</title><link>https://github.com/prometheus/prometheus</link><description>
+</description><guid isPermaLink="false">https://github.com/anthropics/skills#2026-11-08</guid><pubDate>Sun, 08 Nov 2026 06:48:11 +0000</pubDate></item><item><title>#7 prometheus/prometheus (+322 stars)</title><link>https://github.com/prometheus/prometheus</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;prometheus/prometheus&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The Prometheus monitoring system and time series database.&lt;/p&gt;
-&lt;p&gt;⭐ 67,241 | +148 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;⭐ 67,491 | +322 today | 🔧 Go&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/prometheus/prometheus#2026-11-07</guid><pubDate>Sat, 07 Nov 2026 06:42:01 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/prometheus/prometheus#2026-11-08</guid><pubDate>Sun, 08 Nov 2026 06:48:11 +0000</pubDate></item><item><title>#8 milind-soni/OpenMausBot (+1,955 stars)</title><link>https://github.com/milind-soni/OpenMausBot</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;milind-soni/OpenMausBot&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open-source Grok Bot alternative with a virtual machine that bots can use&lt;/p&gt;
+&lt;p&gt;⭐ 17,317 | +1,955 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/milind-soni/OpenMausBot#2026-11-08</guid><pubDate>Sun, 08 Nov 2026 06:48:11 +0000</pubDate></item><item><title>#9 astral-sh/ruff (+350 stars)</title><link>https://github.com/astral-sh/ruff</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;astral-sh/ruff&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An extremely fast Python linter and code formatter, written in Rust.&lt;/p&gt;
+&lt;p&gt;⭐ 51,031 | +350 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/astral-sh/ruff#2026-11-08</guid><pubDate>Sun, 08 Nov 2026 06:48:11 +0000</pubDate></item><item><title>#10 tailwindlabs/tailwindcss (+122 stars)</title><link>https://github.com/tailwindlabs/tailwindcss</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;tailwindlabs/tailwindcss&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A utility-first CSS framework for rapid UI development.&lt;/p&gt;
+&lt;p&gt;⭐ 98,573 | +122 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/tailwindlabs/tailwindcss#2026-11-08</guid><pubDate>Sun, 08 Nov 2026 06:48:11 +0000</pubDate></item></channel></rss>
