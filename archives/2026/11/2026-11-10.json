@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-10",
+  "updated_at": "2026-11-10 07:52:33",
+  "count": 11,
+  "rankings": [
+    {
+      "name": "anthropics/skills",
+      "rank": 1,
+      "stars": "191,468",
+      "stars_today": "1,038",
+      "language": "Python",
+      "description": "Public repository for Agent Skills"
+    },
+    {
+      "name": "meta/astryx",
+      "rank": 2,
+      "stars": "20,957",
+      "stars_today": "3,278",
+      "language": "TypeScript",
+      "description": "An open source design system that's fully customizable and agent ready"
+    },
+    {
+      "name": "sherlock-project/sherlock",
+      "rank": 3,
+      "stars": "107,833",
+      "stars_today": "4,267",
+      "language": "Python",
+      "description": "Hunt down social media accounts by username across social networks"
+    },
+    {
+      "name": "anthropics/claude-quickstarts",
+      "rank": 4,
+      "stars": "20,174",
+      "stars_today": "551",
+      "language": "Python",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "rank": 5,
+      "stars": "69,283",
+      "stars_today": "506",
+      "language": "Python",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "rank": 6,
+      "stars": "20,144",
+      "stars_today": "1,587",
+      "language": "TypeScript",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use"
+    },
+    {
+      "name": "google-deepmind/mujoco",
+      "rank": 7,
+      "stars": "17,076",
+      "stars_today": "574",
+      "language": "C++",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
+    },
+    {
+      "name": "garrytan/gbrain",
+      "rank": 8,
+      "stars": "32,326",
+      "stars_today": "216",
+      "language": "TypeScript",
+      "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain"
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "rank": 9,
+      "stars": "48,740",
+      "stars_today": "916",
+      "language": "Rust",
+      "description": "Browser automation CLI for AI agents"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "rank": 10,
+      "stars": "103,696",
+      "stars_today": "172",
+      "language": "Rust",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video."
+    },
+    {
+      "name": "homeassistant-ai/ha-mcp",
+      "rank": 11,
+      "stars": "6,202",
+      "stars_today": "31",
+      "language": "Python",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants."
+    }
+  ]
+}
