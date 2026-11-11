@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-11",
+  "updated_at": "2026-11-11 07:20:38",
+  "count": 12,
+  "rankings": [
+    {
+      "name": "meta/astryx",
+      "rank": 1,
+      "stars": "23,654",
+      "stars_today": "3,108",
+      "language": "TypeScript",
+      "description": "An open source design system that's fully customizable and agent ready"
+    },
+    {
+      "name": "anthropics/skills",
+      "rank": 2,
+      "stars": "192,625",
+      "stars_today": "1,679",
+      "language": "Python",
+      "description": "Public repository for Agent Skills"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "rank": 3,
+      "stars": "115,386",
+      "stars_today": "465",
+      "language": "JavaScript",
+      "description": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "name": "anthropics/claude-quickstarts",
+      "rank": 4,
+      "stars": "20,635",
+      "stars_today": "531",
+      "language": "Python",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API"
+    },
+    {
+      "name": "sherlock-project/sherlock",
+      "rank": 5,
+      "stars": "109,435",
+      "stars_today": "2,393",
+      "language": "Python",
+      "description": "Hunt down social media accounts by username across social networks"
+    },
+    {
+      "name": "mattpocock/skills",
+      "rank": 6,
+      "stars": "321,246",
+      "stars_today": "1,225",
+      "language": "Shell",
+      "description": "Skills for Real Engineers. Straight from my .agents directory."
+    },
+    {
+      "name": "google-deepmind/mujoco",
+      "rank": 7,
+      "stars": "17,498",
+      "stars_today": "456",
+      "language": "C++",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
+    },
+    {
+      "name": "homeassistant-ai/ha-mcp",
+      "rank": 8,
+      "stars": "6,830",
+      "stars_today": "790",
+      "language": "Python",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants."
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "rank": 9,
+      "stars": "49,446",
+      "stars_today": "780",
+      "language": "Rust",
+      "description": "Browser automation CLI for AI agents"
+    },
+    {
+      "name": "ranxianglei/billion-context",
+      "rank": 10,
+      "stars": "6,547",
+      "stars_today": "375",
+      "language": "TypeScript",
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need"
+    },
+    {
+      "name": "we-promise/sure",
+      "rank": 11,
+      "stars": "12,259",
+      "stars_today": "159",
+      "language": "Ruby",
+      "description": "The personal finance app for everyone (by everyone)"
+    },
+    {
+      "name": "tokio-rs/topcoat",
+      "rank": 12,
+      "stars": "6,974",
+      "stars_today": "192",
+      "language": "Rust",
+      "description": "A batteries-included framework for building web apps"
+    }
+  ]
+}

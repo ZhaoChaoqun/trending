@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Tue, 10 Nov 2026 07:52:33 +0000</pubDate><lastBuildDate>Tue, 10 Nov 2026 07:52:33 +0000</lastBuildDate><item><title>#1 anthropics/skills (+1,038 stars)</title><link>https://github.com/anthropics/skills</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;anthropics/skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Public repository for Agent Skills&lt;/p&gt;
-&lt;p&gt;⭐ 191,468 | +1,038 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/anthropics/skills#2026-11-10</guid><pubDate>Tue, 10 Nov 2026 07:52:33 +0000</pubDate></item><item><title>#2 meta/astryx (+3,278 stars)</title><link>https://github.com/meta/astryx</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Wed, 11 Nov 2026 07:20:38 +0000</pubDate><lastBuildDate>Wed, 11 Nov 2026 07:20:38 +0000</lastBuildDate><item><title>#1 meta/astryx (+3,108 stars)</title><link>https://github.com/meta/astryx</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;meta/astryx&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;An open source design system that's fully customizable and agent ready&lt;/p&gt;
-&lt;p&gt;⭐ 20,957 | +3,278 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 23,654 | +3,108 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/meta/astryx#2026-11-10</guid><pubDate>Tue, 10 Nov 2026 07:52:33 +0000</pubDate></item><item><title>#3 sherlock-project/sherlock (+4,267 stars)</title><link>https://github.com/sherlock-project/sherlock</link><description>
+</description><guid isPermaLink="false">https://github.com/meta/astryx#2026-11-11</guid><pubDate>Wed, 11 Nov 2026 07:20:38 +0000</pubDate></item><item><title>#2 anthropics/skills (+1,679 stars)</title><link>https://github.com/anthropics/skills</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;sherlock-project/sherlock&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Hunt down social media accounts by username across social networks&lt;/p&gt;
-&lt;p&gt;⭐ 107,833 | +4,267 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;anthropics/skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Public repository for Agent Skills&lt;/p&gt;
+&lt;p&gt;⭐ 192,625 | +1,679 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/sherlock-project/sherlock#2026-11-10</guid><pubDate>Tue, 10 Nov 2026 07:52:33 +0000</pubDate></item><item><title>#4 anthropics/claude-quickstarts (+551 stars)</title><link>https://github.com/anthropics/claude-quickstarts</link><description>
+</description><guid isPermaLink="false">https://github.com/anthropics/skills#2026-11-11</guid><pubDate>Wed, 11 Nov 2026 07:20:38 +0000</pubDate></item><item><title>#3 addyosmani/agent-skills (+465 stars)</title><link>https://github.com/addyosmani/agent-skills</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;addyosmani/agent-skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Production-grade engineering skills for AI coding agents.&lt;/p&gt;
+&lt;p&gt;⭐ 115,386 | +465 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/addyosmani/agent-skills#2026-11-11</guid><pubDate>Wed, 11 Nov 2026 07:20:38 +0000</pubDate></item><item><title>#4 anthropics/claude-quickstarts (+531 stars)</title><link>https://github.com/anthropics/claude-quickstarts</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;anthropics/claude-quickstarts&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API&lt;/p&gt;
-&lt;p&gt;⭐ 20,174 | +551 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 20,635 | +531 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/anthropics/claude-quickstarts#2026-11-10</guid><pubDate>Tue, 10 Nov 2026 07:52:33 +0000</pubDate></item><item><title>#5 ZhuLinsen/daily_stock_analysis (+506 stars)</title><link>https://github.com/ZhuLinsen/daily_stock_analysis</link><description>
+</description><guid isPermaLink="false">https://github.com/anthropics/claude-quickstarts#2026-11-11</guid><pubDate>Wed, 11 Nov 2026 07:20:38 +0000</pubDate></item><item><title>#5 sherlock-project/sherlock (+2,393 stars)</title><link>https://github.com/sherlock-project/sherlock</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ZhuLinsen/daily_stock_analysis&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.&lt;/p&gt;
-&lt;p&gt;⭐ 69,283 | +506 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;sherlock-project/sherlock&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hunt down social media accounts by username across social networks&lt;/p&gt;
+&lt;p&gt;⭐ 109,435 | +2,393 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/ZhuLinsen/daily_stock_analysis#2026-11-10</guid><pubDate>Tue, 10 Nov 2026 07:52:33 +0000</pubDate></item><item><title>#6 milind-soni/OpenMausBot (+1,587 stars)</title><link>https://github.com/milind-soni/OpenMausBot</link><description>
+</description><guid isPermaLink="false">https://github.com/sherlock-project/sherlock#2026-11-11</guid><pubDate>Wed, 11 Nov 2026 07:20:38 +0000</pubDate></item><item><title>#6 mattpocock/skills (+1,225 stars)</title><link>https://github.com/mattpocock/skills</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;milind-soni/OpenMausBot&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Open-source Grok Bot alternative with a virtual machine that bots can use&lt;/p&gt;
-&lt;p&gt;⭐ 20,144 | +1,587 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;mattpocock/skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Skills for Real Engineers. Straight from my .agents directory.&lt;/p&gt;
+&lt;p&gt;⭐ 321,246 | +1,225 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/milind-soni/OpenMausBot#2026-11-10</guid><pubDate>Tue, 10 Nov 2026 07:52:33 +0000</pubDate></item><item><title>#7 google-deepmind/mujoco (+574 stars)</title><link>https://github.com/google-deepmind/mujoco</link><description>
+</description><guid isPermaLink="false">https://github.com/mattpocock/skills#2026-11-11</guid><pubDate>Wed, 11 Nov 2026 07:20:38 +0000</pubDate></item><item><title>#7 google-deepmind/mujoco (+456 stars)</title><link>https://github.com/google-deepmind/mujoco</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;google-deepmind/mujoco&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Multi-Joint dynamics with Contact. A general purpose physics simulator.&lt;/p&gt;
-&lt;p&gt;⭐ 17,076 | +574 today | 🔧 C++&lt;/p&gt;
+&lt;p&gt;⭐ 17,498 | +456 today | 🔧 C++&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/google-deepmind/mujoco#2026-11-10</guid><pubDate>Tue, 10 Nov 2026 07:52:33 +0000</pubDate></item><item><title>#8 garrytan/gbrain (+216 stars)</title><link>https://github.com/garrytan/gbrain</link><description>
+</description><guid isPermaLink="false">https://github.com/google-deepmind/mujoco#2026-11-11</guid><pubDate>Wed, 11 Nov 2026 07:20:38 +0000</pubDate></item><item><title>#8 homeassistant-ai/ha-mcp (+790 stars)</title><link>https://github.com/homeassistant-ai/ha-mcp</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;garrytan/gbrain&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Garry's Opinionated OpenClaw/Hermes Agent Brain&lt;/p&gt;
-&lt;p&gt;⭐ 32,326 | +216 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;homeassistant-ai/ha-mcp&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.&lt;/p&gt;
+&lt;p&gt;⭐ 6,830 | +790 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/garrytan/gbrain#2026-11-10</guid><pubDate>Tue, 10 Nov 2026 07:52:33 +0000</pubDate></item><item><title>#9 vercel-labs/agent-browser (+916 stars)</title><link>https://github.com/vercel-labs/agent-browser</link><description>
+</description><guid isPermaLink="false">https://github.com/homeassistant-ai/ha-mcp#2026-11-11</guid><pubDate>Wed, 11 Nov 2026 07:20:38 +0000</pubDate></item><item><title>#9 vercel-labs/agent-browser (+780 stars)</title><link>https://github.com/vercel-labs/agent-browser</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;vercel-labs/agent-browser&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Browser automation CLI for AI agents&lt;/p&gt;
-&lt;p&gt;⭐ 48,740 | +916 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;⭐ 49,446 | +780 today | 🔧 Rust&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/vercel-labs/agent-browser#2026-11-10</guid><pubDate>Tue, 10 Nov 2026 07:52:33 +0000</pubDate></item><item><title>#10 ruvnet/RuView (+172 stars)</title><link>https://github.com/ruvnet/RuView</link><description>
+</description><guid isPermaLink="false">https://github.com/vercel-labs/agent-browser#2026-11-11</guid><pubDate>Wed, 11 Nov 2026 07:20:38 +0000</pubDate></item><item><title>#10 ranxianglei/billion-context (+375 stars)</title><link>https://github.com/ranxianglei/billion-context</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ruvnet/RuView&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.&lt;/p&gt;
-&lt;p&gt;⭐ 103,696 | +172 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ranxianglei/billion-context&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need&lt;/p&gt;
+&lt;p&gt;⭐ 6,547 | +375 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/ruvnet/RuView#2026-11-10</guid><pubDate>Tue, 10 Nov 2026 07:52:33 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/ranxianglei/billion-context#2026-11-11</guid><pubDate>Wed, 11 Nov 2026 07:20:38 +0000</pubDate></item></channel></rss>
