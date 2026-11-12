@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-12",
+  "updated_at": "2026-11-12 07:50:49",
+  "count": 10,
+  "rankings": [
+    {
+      "name": "meta/astryx",
+      "rank": 1,
+      "stars": "25,598",
+      "stars_today": "2,776",
+      "language": "TypeScript",
+      "description": "An open source design system that's fully customizable and agent ready"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "rank": 2,
+      "stars": "116,179",
+      "stars_today": "787",
+      "language": "JavaScript",
+      "description": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "rank": 3,
+      "stars": "50,064",
+      "stars_today": "708",
+      "language": "Rust",
+      "description": "Browser automation CLI for AI agents"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "rank": 4,
+      "stars": "70,757",
+      "stars_today": "278",
+      "language": "Python",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
+    },
+    {
+      "name": "shadcn/improve",
+      "rank": 5,
+      "stars": "11,199",
+      "stars_today": "361",
+      "language": null,
+      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute."
+    },
+    {
+      "name": "we-promise/sure",
+      "rank": 6,
+      "stars": "13,239",
+      "stars_today": "1,078",
+      "language": "Ruby",
+      "description": "The personal finance app for everyone (by everyone)"
+    },
+    {
+      "name": "homeassistant-ai/ha-mcp",
+      "rank": 7,
+      "stars": "7,560",
+      "stars_today": "645",
+      "language": "Python",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants."
+    },
+    {
+      "name": "openai/codex-security",
+      "rank": 8,
+      "stars": "11,951",
+      "stars_today": "52",
+      "language": "TypeScript",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security"
+    },
+    {
+      "name": "TheAlgorithms/Java",
+      "rank": 9,
+      "stars": "67,158",
+      "stars_today": "51",
+      "language": "Java",
+      "description": "All Algorithms implemented in Java"
+    },
+    {
+      "name": "GoogleChrome/modern-web-guidance-src",
+      "rank": 10,
+      "stars": "2,035",
+      "stars_today": "159",
+      "language": "TypeScript",
+      "description": ""
+    }
+  ]
+}
