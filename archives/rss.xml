@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Fri, 13 Nov 2026 07:27:49 +0000</pubDate><lastBuildDate>Fri, 13 Nov 2026 07:27:49 +0000</lastBuildDate><item><title>#1 addyosmani/agent-skills (+816 stars)</title><link>https://github.com/addyosmani/agent-skills</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sat, 14 Nov 2026 07:09:27 +0000</pubDate><lastBuildDate>Sat, 14 Nov 2026 07:09:27 +0000</lastBuildDate><item><title>#1 alibaba/open-code-review (+215 stars)</title><link>https://github.com/alibaba/open-code-review</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;addyosmani/agent-skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Production-grade engineering skills for AI coding agents.&lt;/p&gt;
-&lt;p&gt;⭐ 116,860 | +816 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/addyosmani/agent-skills#2026-11-13</guid><pubDate>Fri, 13 Nov 2026 07:27:49 +0000</pubDate></item><item><title>#2 meta/astryx (+1,830 stars)</title><link>https://github.com/meta/astryx</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;meta/astryx&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An open source design system that's fully customizable and agent ready&lt;/p&gt;
-&lt;p&gt;⭐ 26,906 | +1,830 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/meta/astryx#2026-11-13</guid><pubDate>Fri, 13 Nov 2026 07:27:49 +0000</pubDate></item><item><title>#3 openai/codex-security (+643 stars)</title><link>https://github.com/openai/codex-security</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;openai/codex-security&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security&lt;/p&gt;
-&lt;p&gt;⭐ 12,670 | +643 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;alibaba/open-code-review&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.&lt;/p&gt;
+&lt;p&gt;⭐ 50,850 | +215 today | 🔧 Go&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/openai/codex-security#2026-11-13</guid><pubDate>Fri, 13 Nov 2026 07:27:49 +0000</pubDate></item><item><title>#4 nvm-sh/nvm (+63 stars)</title><link>https://github.com/nvm-sh/nvm</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;nvm-sh/nvm&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.&lt;/p&gt;
-&lt;p&gt;⭐ 96,065 | +63 today | 🔧 Shell&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/nvm-sh/nvm#2026-11-13</guid><pubDate>Fri, 13 Nov 2026 07:27:49 +0000</pubDate></item><item><title>#5 we-promise/sure (+967 stars)</title><link>https://github.com/we-promise/sure</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;we-promise/sure&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The personal finance app for everyone (by everyone)&lt;/p&gt;
-&lt;p&gt;⭐ 14,190 | +967 today | 🔧 Ruby&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/we-promise/sure#2026-11-13</guid><pubDate>Fri, 13 Nov 2026 07:27:49 +0000</pubDate></item><item><title>#6 QwenLM/qwen-code (+151 stars)</title><link>https://github.com/QwenLM/qwen-code</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;QwenLM/qwen-code&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An open-source AI coding agent that lives in your terminal.&lt;/p&gt;
-&lt;p&gt;⭐ 29,991 | +151 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/QwenLM/qwen-code#2026-11-13</guid><pubDate>Fri, 13 Nov 2026 07:27:49 +0000</pubDate></item><item><title>#7 CopilotKit/OpenBot (+298 stars)</title><link>https://github.com/CopilotKit/OpenBot</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;CopilotKit/OpenBot&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.&lt;/p&gt;
-&lt;p&gt;⭐ 11,863 | +298 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/CopilotKit/OpenBot#2026-11-13</guid><pubDate>Fri, 13 Nov 2026 07:27:49 +0000</pubDate></item><item><title>#8 Alishahryar1/free-claude-code (+415 stars)</title><link>https://github.com/Alishahryar1/free-claude-code</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;Alishahryar1/free-claude-code&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)&lt;/p&gt;
-&lt;p&gt;⭐ 69,561 | +415 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/Alishahryar1/free-claude-code#2026-11-13</guid><pubDate>Fri, 13 Nov 2026 07:27:49 +0000</pubDate></item><item><title>#9 ggml-org/llama.cpp (+176 stars)</title><link>https://github.com/ggml-org/llama.cpp</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ggml-org/llama.cpp&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;LLM inference in C/C++&lt;/p&gt;
-&lt;p&gt;⭐ 134,725 | +176 today | 🔧 C++&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/ggml-org/llama.cpp#2026-11-13</guid><pubDate>Fri, 13 Nov 2026 07:27:49 +0000</pubDate></item><item><title>#10 GoogleChrome/modern-web-guidance-src (+739 stars)</title><link>https://github.com/GoogleChrome/modern-web-guidance-src</link><description>
+</description><guid isPermaLink="false">https://github.com/alibaba/open-code-review#2026-11-14</guid><pubDate>Sat, 14 Nov 2026 07:09:27 +0000</pubDate></item><item><title>#2 GoogleChrome/modern-web-guidance-src (+1,925 stars)</title><link>https://github.com/GoogleChrome/modern-web-guidance-src</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;GoogleChrome/modern-web-guidance-src&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Keep your coding agent up to date with the latest web best practices&lt;/p&gt;
-&lt;p&gt;⭐ 3,667 | +739 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 5,093 | +1,925 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/GoogleChrome/modern-web-guidance-src#2026-11-14</guid><pubDate>Sat, 14 Nov 2026 07:09:27 +0000</pubDate></item><item><title>#3 openai/codex-security (+751 stars)</title><link>https://github.com/openai/codex-security</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;openai/codex-security&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security&lt;/p&gt;
+&lt;p&gt;⭐ 13,274 | +751 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/openai/codex-security#2026-11-14</guid><pubDate>Sat, 14 Nov 2026 07:09:27 +0000</pubDate></item><item><title>#4 ZhuLinsen/daily_stock_analysis (+256 stars)</title><link>https://github.com/ZhuLinsen/daily_stock_analysis</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;ZhuLinsen/daily_stock_analysis&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.&lt;/p&gt;
+&lt;p&gt;⭐ 71,877 | +256 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/ZhuLinsen/daily_stock_analysis#2026-11-14</guid><pubDate>Sat, 14 Nov 2026 07:09:27 +0000</pubDate></item><item><title>#5 we-promise/sure (+925 stars)</title><link>https://github.com/we-promise/sure</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;we-promise/sure&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The personal finance app for everyone (by everyone)&lt;/p&gt;
+&lt;p&gt;⭐ 14,888 | +925 today | 🔧 Ruby&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/we-promise/sure#2026-11-14</guid><pubDate>Sat, 14 Nov 2026 07:09:27 +0000</pubDate></item><item><title>#6 backnotprop/plannotator (+108 stars)</title><link>https://github.com/backnotprop/plannotator</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;backnotprop/plannotator&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.&lt;/p&gt;
+&lt;p&gt;⭐ 10,568 | +108 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/GoogleChrome/modern-web-guidance-src#2026-11-13</guid><pubDate>Fri, 13 Nov 2026 07:27:49 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/backnotprop/plannotator#2026-11-14</guid><pubDate>Sat, 14 Nov 2026 07:09:27 +0000</pubDate></item><item><title>#7 louislam/uptime-kuma (+71 stars)</title><link>https://github.com/louislam/uptime-kuma</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;louislam/uptime-kuma&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A fancy self-hosted monitoring tool&lt;/p&gt;
+&lt;p&gt;⭐ 93,965 | +71 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/louislam/uptime-kuma#2026-11-14</guid><pubDate>Sat, 14 Nov 2026 07:09:27 +0000</pubDate></item><item><title>#8 block/buzz (+97 stars)</title><link>https://github.com/block/buzz</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;block/buzz&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A hive mind communication platform&lt;/p&gt;
+&lt;p&gt;⭐ 37,362 | +97 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/block/buzz#2026-11-14</guid><pubDate>Sat, 14 Nov 2026 07:09:27 +0000</pubDate></item><item><title>#9 tailscale/tailcat (+256 stars)</title><link>https://github.com/tailscale/tailcat</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;tailscale/tailcat&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;like netcat, but over Tailscale's data plane, without Tailscale's control plane&lt;/p&gt;
+&lt;p&gt;⭐ 9,576 | +256 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/tailscale/tailcat#2026-11-14</guid><pubDate>Sat, 14 Nov 2026 07:09:27 +0000</pubDate></item><item><title>#10 ChromeDevTools/chrome-devtools-mcp (+67 stars)</title><link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;ChromeDevTools/chrome-devtools-mcp&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Chrome DevTools for coding agents&lt;/p&gt;
+&lt;p&gt;⭐ 55,690 | +67 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/ChromeDevTools/chrome-devtools-mcp#2026-11-14</guid><pubDate>Sat, 14 Nov 2026 07:09:27 +0000</pubDate></item></channel></rss>
