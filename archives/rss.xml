@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sat, 14 Nov 2026 07:09:27 +0000</pubDate><lastBuildDate>Sat, 14 Nov 2026 07:09:27 +0000</lastBuildDate><item><title>#1 alibaba/open-code-review (+215 stars)</title><link>https://github.com/alibaba/open-code-review</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;alibaba/open-code-review&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.&lt;/p&gt;
-&lt;p&gt;⭐ 50,850 | +215 today | 🔧 Go&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/alibaba/open-code-review#2026-11-14</guid><pubDate>Sat, 14 Nov 2026 07:09:27 +0000</pubDate></item><item><title>#2 GoogleChrome/modern-web-guidance-src (+1,925 stars)</title><link>https://github.com/GoogleChrome/modern-web-guidance-src</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;GoogleChrome/modern-web-guidance-src&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Keep your coding agent up to date with the latest web best practices&lt;/p&gt;
-&lt;p&gt;⭐ 5,093 | +1,925 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/GoogleChrome/modern-web-guidance-src#2026-11-14</guid><pubDate>Sat, 14 Nov 2026 07:09:27 +0000</pubDate></item><item><title>#3 openai/codex-security (+751 stars)</title><link>https://github.com/openai/codex-security</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;openai/codex-security&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security&lt;/p&gt;
-&lt;p&gt;⭐ 13,274 | +751 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/openai/codex-security#2026-11-14</guid><pubDate>Sat, 14 Nov 2026 07:09:27 +0000</pubDate></item><item><title>#4 ZhuLinsen/daily_stock_analysis (+256 stars)</title><link>https://github.com/ZhuLinsen/daily_stock_analysis</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ZhuLinsen/daily_stock_analysis&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.&lt;/p&gt;
-&lt;p&gt;⭐ 71,877 | +256 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/ZhuLinsen/daily_stock_analysis#2026-11-14</guid><pubDate>Sat, 14 Nov 2026 07:09:27 +0000</pubDate></item><item><title>#5 we-promise/sure (+925 stars)</title><link>https://github.com/we-promise/sure</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;we-promise/sure&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The personal finance app for everyone (by everyone)&lt;/p&gt;
-&lt;p&gt;⭐ 14,888 | +925 today | 🔧 Ruby&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/we-promise/sure#2026-11-14</guid><pubDate>Sat, 14 Nov 2026 07:09:27 +0000</pubDate></item><item><title>#6 backnotprop/plannotator (+108 stars)</title><link>https://github.com/backnotprop/plannotator</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;backnotprop/plannotator&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.&lt;/p&gt;
-&lt;p&gt;⭐ 10,568 | +108 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/backnotprop/plannotator#2026-11-14</guid><pubDate>Sat, 14 Nov 2026 07:09:27 +0000</pubDate></item><item><title>#7 louislam/uptime-kuma (+71 stars)</title><link>https://github.com/louislam/uptime-kuma</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;louislam/uptime-kuma&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A fancy self-hosted monitoring tool&lt;/p&gt;
-&lt;p&gt;⭐ 93,965 | +71 today | 🔧 JavaScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/louislam/uptime-kuma#2026-11-14</guid><pubDate>Sat, 14 Nov 2026 07:09:27 +0000</pubDate></item><item><title>#8 block/buzz (+97 stars)</title><link>https://github.com/block/buzz</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;block/buzz&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A hive mind communication platform&lt;/p&gt;
-&lt;p&gt;⭐ 37,362 | +97 today | 🔧 Rust&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/block/buzz#2026-11-14</guid><pubDate>Sat, 14 Nov 2026 07:09:27 +0000</pubDate></item><item><title>#9 tailscale/tailcat (+256 stars)</title><link>https://github.com/tailscale/tailcat</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;tailscale/tailcat&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;like netcat, but over Tailscale's data plane, without Tailscale's control plane&lt;/p&gt;
-&lt;p&gt;⭐ 9,576 | +256 today | 🔧 Go&lt;/p&gt;
-&lt;p&gt;推荐指数: 7/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/tailscale/tailcat#2026-11-14</guid><pubDate>Sat, 14 Nov 2026 07:09:27 +0000</pubDate></item><item><title>#10 ChromeDevTools/chrome-devtools-mcp (+67 stars)</title><link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Sun, 15 Nov 2026 07:20:05 +0000</pubDate><lastBuildDate>Sun, 15 Nov 2026 07:20:05 +0000</lastBuildDate><item><title>#1 ChromeDevTools/chrome-devtools-mcp (+664 stars)</title><link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;ChromeDevTools/chrome-devtools-mcp&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Chrome DevTools for coding agents&lt;/p&gt;
-&lt;p&gt;⭐ 55,690 | +67 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 56,471 | +664 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/ChromeDevTools/chrome-devtools-mcp#2026-11-15</guid><pubDate>Sun, 15 Nov 2026 07:20:05 +0000</pubDate></item><item><title>#2 alibaba/open-code-review (+893 stars)</title><link>https://github.com/alibaba/open-code-review</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;alibaba/open-code-review&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.&lt;/p&gt;
+&lt;p&gt;⭐ 51,577 | +893 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/alibaba/open-code-review#2026-11-15</guid><pubDate>Sun, 15 Nov 2026 07:20:05 +0000</pubDate></item><item><title>#3 backnotprop/plannotator (+408 stars)</title><link>https://github.com/backnotprop/plannotator</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;backnotprop/plannotator&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.&lt;/p&gt;
+&lt;p&gt;⭐ 11,372 | +408 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/backnotprop/plannotator#2026-11-15</guid><pubDate>Sun, 15 Nov 2026 07:20:05 +0000</pubDate></item><item><title>#4 GoogleChrome/modern-web-guidance-src (+1,231 stars)</title><link>https://github.com/GoogleChrome/modern-web-guidance-src</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;GoogleChrome/modern-web-guidance-src&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Keep your coding agent up to date with the latest web best practices&lt;/p&gt;
+&lt;p&gt;⭐ 6,318 | +1,231 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/GoogleChrome/modern-web-guidance-src#2026-11-15</guid><pubDate>Sun, 15 Nov 2026 07:20:05 +0000</pubDate></item><item><title>#5 tradermonty/claude-trading-skills (+553 stars)</title><link>https://github.com/tradermonty/claude-trading-skills</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;tradermonty/claude-trading-skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.&lt;/p&gt;
+&lt;p&gt;⭐ 5,010 | +553 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/tradermonty/claude-trading-skills#2026-11-15</guid><pubDate>Sun, 15 Nov 2026 07:20:05 +0000</pubDate></item><item><title>#6 dream-num/univer (+495 stars)</title><link>https://github.com/dream-num/univer</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;dream-num/univer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.&lt;/p&gt;
+&lt;p&gt;⭐ 25,102 | +495 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/dream-num/univer#2026-11-15</guid><pubDate>Sun, 15 Nov 2026 07:20:05 +0000</pubDate></item><item><title>#7 JuliusBrussee/caveman (+227 stars)</title><link>https://github.com/JuliusBrussee/caveman</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;JuliusBrussee/caveman&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.&lt;/p&gt;
+&lt;p&gt;⭐ 120,187 | +227 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/JuliusBrussee/caveman#2026-11-15</guid><pubDate>Sun, 15 Nov 2026 07:20:05 +0000</pubDate></item><item><title>#8 louislam/uptime-kuma (+430 stars)</title><link>https://github.com/louislam/uptime-kuma</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;louislam/uptime-kuma&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A fancy self-hosted monitoring tool&lt;/p&gt;
+&lt;p&gt;⭐ 94,326 | +430 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/louislam/uptime-kuma#2026-11-15</guid><pubDate>Sun, 15 Nov 2026 07:20:05 +0000</pubDate></item><item><title>#9 we-promise/sure (+659 stars)</title><link>https://github.com/we-promise/sure</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;we-promise/sure&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The personal finance app for everyone (by everyone)&lt;/p&gt;
+&lt;p&gt;⭐ 15,439 | +659 today | 🔧 Ruby&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/we-promise/sure#2026-11-15</guid><pubDate>Sun, 15 Nov 2026 07:20:05 +0000</pubDate></item><item><title>#10 QwenLM/qwen-code (+64 stars)</title><link>https://github.com/QwenLM/qwen-code</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;QwenLM/qwen-code&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An open-source AI coding agent that lives in your terminal.&lt;/p&gt;
+&lt;p&gt;⭐ 30,425 | +64 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 7/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/ChromeDevTools/chrome-devtools-mcp#2026-11-14</guid><pubDate>Sat, 14 Nov 2026 07:09:27 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/QwenLM/qwen-code#2026-11-15</guid><pubDate>Sun, 15 Nov 2026 07:20:05 +0000</pubDate></item></channel></rss>
