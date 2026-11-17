@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-17",
+  "updated_at": "2026-11-17 08:39:40",
+  "count": 15,
+  "rankings": [
+    {
+      "name": "dream-num/univer",
+      "rank": 1,
+      "stars": "28,555",
+      "stars_today": "1,828",
+      "language": "TypeScript",
+      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core."
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "rank": 2,
+      "stars": "53,241",
+      "stars_today": "951",
+      "language": "Go",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible."
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "rank": 3,
+      "stars": "57,863",
+      "stars_today": "841",
+      "language": "TypeScript",
+      "description": "Chrome DevTools for coding agents"
+    },
+    {
+      "name": "ag-ui-protocol/ag-ui",
+      "rank": 4,
+      "stars": "19,580",
+      "stars_today": "791",
+      "language": "TypeScript",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications."
+    },
+    {
+      "name": "backnotprop/plannotator",
+      "rank": 5,
+      "stars": "12,819",
+      "stars_today": "696",
+      "language": "TypeScript",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click."
+    },
+    {
+      "name": "tradermonty/claude-trading-skills",
+      "rank": 6,
+      "stars": "6,611",
+      "stars_today": "837",
+      "language": "Python",
+      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development."
+    },
+    {
+      "name": "elementalsouls/Claude-BugHunter",
+      "rank": 7,
+      "stars": "7,836",
+      "stars_today": "1,094",
+      "language": "Python",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices."
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "rank": 8,
+      "stars": "9,868",
+      "stars_today": "529",
+      "language": "TypeScript",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "rank": 9,
+      "stars": "68,419",
+      "stars_today": "135",
+      "language": "Python",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+    },
+    {
+      "name": "NVIDIA/SkillEvaluator",
+      "rank": 10,
+      "stars": "3,049",
+      "stars_today": "873",
+      "language": "Python",
+      "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior."
+    },
+    {
+      "name": "sveltejs/svelte",
+      "rank": 11,
+      "stars": "89,142",
+      "stars_today": "115",
+      "language": "JavaScript",
+      "description": "web development for the rest of us"
+    },
+    {
+      "name": "DeanChensj/jiangshan-map",
+      "rank": 12,
+      "stars": "7,399",
+      "stars_today": "288",
+      "language": "JavaScript",
+      "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes"
+    },
+    {
+      "name": "google-research/paper-orchestra",
+      "rank": 13,
+      "stars": "1,937",
+      "stars_today": "313",
+      "language": "Python",
+      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing."
+    },
+    {
+      "name": "kajisho5/ffmpeg-skill",
+      "rank": 14,
+      "stars": "7,305",
+      "stars_today": "367",
+      "language": "Python",
+      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys."
+    },
+    {
+      "name": "getarcaneapp/arcane",
+      "rank": 15,
+      "stars": "8,956",
+      "stars_today": "46",
+      "language": "Go",
+      "description": "Modern Docker Management, Designed for Everyone"
+    }
+  ]
+}
