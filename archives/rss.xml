@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Tue, 17 Nov 2026 08:39:40 +0000</pubDate><lastBuildDate>Tue, 17 Nov 2026 08:39:40 +0000</lastBuildDate><item><title>#1 dream-num/univer (+1,828 stars)</title><link>https://github.com/dream-num/univer</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;dream-num/univer&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.&lt;/p&gt;
-&lt;p&gt;⭐ 28,555 | +1,828 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/dream-num/univer#2026-11-17</guid><pubDate>Tue, 17 Nov 2026 08:39:40 +0000</pubDate></item><item><title>#2 alibaba/open-code-review (+951 stars)</title><link>https://github.com/alibaba/open-code-review</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;alibaba/open-code-review&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.&lt;/p&gt;
-&lt;p&gt;⭐ 53,241 | +951 today | 🔧 Go&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/alibaba/open-code-review#2026-11-17</guid><pubDate>Tue, 17 Nov 2026 08:39:40 +0000</pubDate></item><item><title>#3 ChromeDevTools/chrome-devtools-mcp (+841 stars)</title><link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ChromeDevTools/chrome-devtools-mcp&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Chrome DevTools for coding agents&lt;/p&gt;
-&lt;p&gt;⭐ 57,863 | +841 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/ChromeDevTools/chrome-devtools-mcp#2026-11-17</guid><pubDate>Tue, 17 Nov 2026 08:39:40 +0000</pubDate></item><item><title>#4 ag-ui-protocol/ag-ui (+791 stars)</title><link>https://github.com/ag-ui-protocol/ag-ui</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ag-ui-protocol/ag-ui&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.&lt;/p&gt;
-&lt;p&gt;⭐ 19,580 | +791 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/ag-ui-protocol/ag-ui#2026-11-17</guid><pubDate>Tue, 17 Nov 2026 08:39:40 +0000</pubDate></item><item><title>#5 backnotprop/plannotator (+696 stars)</title><link>https://github.com/backnotprop/plannotator</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;backnotprop/plannotator&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.&lt;/p&gt;
-&lt;p&gt;⭐ 12,819 | +696 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/backnotprop/plannotator#2026-11-17</guid><pubDate>Tue, 17 Nov 2026 08:39:40 +0000</pubDate></item><item><title>#6 tradermonty/claude-trading-skills (+837 stars)</title><link>https://github.com/tradermonty/claude-trading-skills</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;tradermonty/claude-trading-skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.&lt;/p&gt;
-&lt;p&gt;⭐ 6,611 | +837 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/tradermonty/claude-trading-skills#2026-11-17</guid><pubDate>Tue, 17 Nov 2026 08:39:40 +0000</pubDate></item><item><title>#7 elementalsouls/Claude-BugHunter (+1,094 stars)</title><link>https://github.com/elementalsouls/Claude-BugHunter</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;elementalsouls/Claude-BugHunter&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.&lt;/p&gt;
-&lt;p&gt;⭐ 7,836 | +1,094 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/elementalsouls/Claude-BugHunter#2026-11-17</guid><pubDate>Tue, 17 Nov 2026 08:39:40 +0000</pubDate></item><item><title>#8 google-labs-code/stitch-skills (+529 stars)</title><link>https://github.com/google-labs-code/stitch-skills</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;google-labs-code/stitch-skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.&lt;/p&gt;
-&lt;p&gt;⭐ 9,868 | +529 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/google-labs-code/stitch-skills#2026-11-17</guid><pubDate>Tue, 17 Nov 2026 08:39:40 +0000</pubDate></item><item><title>#9 mvanhorn/last30days-skill (+135 stars)</title><link>https://github.com/mvanhorn/last30days-skill</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Wed, 18 Nov 2026 08:02:26 +0000</pubDate><lastBuildDate>Wed, 18 Nov 2026 08:02:26 +0000</lastBuildDate><item><title>#1 mvanhorn/last30days-skill (+696 stars)</title><link>https://github.com/mvanhorn/last30days-skill</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;mvanhorn/last30days-skill&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary&lt;/p&gt;
-&lt;p&gt;⭐ 68,419 | +135 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;⭐ 69,417 | +696 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/mvanhorn/last30days-skill#2026-11-17</guid><pubDate>Tue, 17 Nov 2026 08:39:40 +0000</pubDate></item><item><title>#10 NVIDIA/SkillEvaluator (+873 stars)</title><link>https://github.com/NVIDIA/SkillEvaluator</link><description>
+</description><guid isPermaLink="false">https://github.com/mvanhorn/last30days-skill#2026-11-18</guid><pubDate>Wed, 18 Nov 2026 08:02:26 +0000</pubDate></item><item><title>#2 alibaba/open-code-review (+763 stars)</title><link>https://github.com/alibaba/open-code-review</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;NVIDIA/SkillEvaluator&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.&lt;/p&gt;
-&lt;p&gt;⭐ 3,049 | +873 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;alibaba/open-code-review&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.&lt;/p&gt;
+&lt;p&gt;⭐ 53,990 | +763 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/alibaba/open-code-review#2026-11-18</guid><pubDate>Wed, 18 Nov 2026 08:02:26 +0000</pubDate></item><item><title>#3 dream-num/univer (+1,774 stars)</title><link>https://github.com/dream-num/univer</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;dream-num/univer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.&lt;/p&gt;
+&lt;p&gt;⭐ 29,555 | +1,774 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/dream-num/univer#2026-11-18</guid><pubDate>Wed, 18 Nov 2026 08:02:26 +0000</pubDate></item><item><title>#4 obra/superpowers (+1,917 stars)</title><link>https://github.com/obra/superpowers</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
+&lt;p&gt;⭐ 319,576 | +1,917 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-11-18</guid><pubDate>Wed, 18 Nov 2026 08:02:26 +0000</pubDate></item><item><title>#5 ag-ui-protocol/ag-ui (+1,445 stars)</title><link>https://github.com/ag-ui-protocol/ag-ui</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;ag-ui-protocol/ag-ui&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.&lt;/p&gt;
+&lt;p&gt;⭐ 20,181 | +1,445 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/ag-ui-protocol/ag-ui#2026-11-18</guid><pubDate>Wed, 18 Nov 2026 08:02:26 +0000</pubDate></item><item><title>#6 affaan-m/ECC (+883 stars)</title><link>https://github.com/affaan-m/ECC</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;affaan-m/ECC&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.&lt;/p&gt;
+&lt;p&gt;⭐ 305,866 | +883 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/affaan-m/ECC#2026-11-18</guid><pubDate>Wed, 18 Nov 2026 08:02:26 +0000</pubDate></item><item><title>#7 elementalsouls/Claude-BugHunter (+1,005 stars)</title><link>https://github.com/elementalsouls/Claude-BugHunter</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;elementalsouls/Claude-BugHunter&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.&lt;/p&gt;
+&lt;p&gt;⭐ 9,994 | +1,005 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/NVIDIA/SkillEvaluator#2026-11-17</guid><pubDate>Tue, 17 Nov 2026 08:39:40 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/elementalsouls/Claude-BugHunter#2026-11-18</guid><pubDate>Wed, 18 Nov 2026 08:02:26 +0000</pubDate></item><item><title>#8 getarcaneapp/arcane (+618 stars)</title><link>https://github.com/getarcaneapp/arcane</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;getarcaneapp/arcane&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Modern Docker Management, Designed for Everyone&lt;/p&gt;
+&lt;p&gt;⭐ 9,504 | +618 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/getarcaneapp/arcane#2026-11-18</guid><pubDate>Wed, 18 Nov 2026 08:02:26 +0000</pubDate></item><item><title>#9 google-labs-code/stitch-skills (+350 stars)</title><link>https://github.com/google-labs-code/stitch-skills</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;google-labs-code/stitch-skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.&lt;/p&gt;
+&lt;p&gt;⭐ 10,226 | +350 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/google-labs-code/stitch-skills#2026-11-18</guid><pubDate>Wed, 18 Nov 2026 08:02:26 +0000</pubDate></item><item><title>#10 cursor/plugins (+201 stars)</title><link>https://github.com/cursor/plugins</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;cursor/plugins&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cursor plugin specification and official plugins&lt;/p&gt;
+&lt;p&gt;⭐ 17,001 | +201 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/cursor/plugins#2026-11-18</guid><pubDate>Wed, 18 Nov 2026 08:02:26 +0000</pubDate></item></channel></rss>
