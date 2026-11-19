@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Wed, 18 Nov 2026 08:02:26 +0000</pubDate><lastBuildDate>Wed, 18 Nov 2026 08:02:26 +0000</lastBuildDate><item><title>#1 mvanhorn/last30days-skill (+696 stars)</title><link>https://github.com/mvanhorn/last30days-skill</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Thu, 19 Nov 2026 08:08:08 +0000</pubDate><lastBuildDate>Thu, 19 Nov 2026 08:08:08 +0000</lastBuildDate><item><title>#1 HKUDS/CLI-Anything (+389 stars)</title><link>https://github.com/HKUDS/CLI-Anything</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;HKUDS/CLI-Anything&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/&lt;/p&gt;
+&lt;p&gt;⭐ 60,061 | +389 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/HKUDS/CLI-Anything#2026-11-19</guid><pubDate>Thu, 19 Nov 2026 08:08:08 +0000</pubDate></item><item><title>#2 mvanhorn/last30days-skill (+1,059 stars)</title><link>https://github.com/mvanhorn/last30days-skill</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;mvanhorn/last30days-skill&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary&lt;/p&gt;
-&lt;p&gt;⭐ 69,417 | +696 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 70,331 | +1,059 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/mvanhorn/last30days-skill#2026-11-18</guid><pubDate>Wed, 18 Nov 2026 08:02:26 +0000</pubDate></item><item><title>#2 alibaba/open-code-review (+763 stars)</title><link>https://github.com/alibaba/open-code-review</link><description>
+</description><guid isPermaLink="false">https://github.com/mvanhorn/last30days-skill#2026-11-19</guid><pubDate>Thu, 19 Nov 2026 08:08:08 +0000</pubDate></item><item><title>#3 sveltejs/svelte (+692 stars)</title><link>https://github.com/sveltejs/svelte</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;alibaba/open-code-review&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.&lt;/p&gt;
-&lt;p&gt;⭐ 53,990 | +763 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;sveltejs/svelte&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;web development for the rest of us&lt;/p&gt;
+&lt;p&gt;⭐ 89,714 | +692 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/alibaba/open-code-review#2026-11-18</guid><pubDate>Wed, 18 Nov 2026 08:02:26 +0000</pubDate></item><item><title>#3 dream-num/univer (+1,774 stars)</title><link>https://github.com/dream-num/univer</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;dream-num/univer&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.&lt;/p&gt;
-&lt;p&gt;⭐ 29,555 | +1,774 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/dream-num/univer#2026-11-18</guid><pubDate>Wed, 18 Nov 2026 08:02:26 +0000</pubDate></item><item><title>#4 obra/superpowers (+1,917 stars)</title><link>https://github.com/obra/superpowers</link><description>
+</description><guid isPermaLink="false">https://github.com/sveltejs/svelte#2026-11-19</guid><pubDate>Thu, 19 Nov 2026 08:08:08 +0000</pubDate></item><item><title>#4 obra/superpowers (+822 stars)</title><link>https://github.com/obra/superpowers</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 319,576 | +1,917 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 321,527 | +822 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-11-18</guid><pubDate>Wed, 18 Nov 2026 08:02:26 +0000</pubDate></item><item><title>#5 ag-ui-protocol/ag-ui (+1,445 stars)</title><link>https://github.com/ag-ui-protocol/ag-ui</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;ag-ui-protocol/ag-ui&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.&lt;/p&gt;
-&lt;p&gt;⭐ 20,181 | +1,445 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/ag-ui-protocol/ag-ui#2026-11-18</guid><pubDate>Wed, 18 Nov 2026 08:02:26 +0000</pubDate></item><item><title>#6 affaan-m/ECC (+883 stars)</title><link>https://github.com/affaan-m/ECC</link><description>
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-11-19</guid><pubDate>Thu, 19 Nov 2026 08:08:08 +0000</pubDate></item><item><title>#5 affaan-m/ECC (+1,108 stars)</title><link>https://github.com/affaan-m/ECC</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;affaan-m/ECC&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.&lt;/p&gt;
-&lt;p&gt;⭐ 305,866 | +883 today | 🔧 JavaScript&lt;/p&gt;
+&lt;p&gt;⭐ 306,803 | +1,108 today | 🔧 JavaScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/affaan-m/ECC#2026-11-18</guid><pubDate>Wed, 18 Nov 2026 08:02:26 +0000</pubDate></item><item><title>#7 elementalsouls/Claude-BugHunter (+1,005 stars)</title><link>https://github.com/elementalsouls/Claude-BugHunter</link><description>
+</description><guid isPermaLink="false">https://github.com/affaan-m/ECC#2026-11-19</guid><pubDate>Thu, 19 Nov 2026 08:08:08 +0000</pubDate></item><item><title>#6 n8n-io/n8n (+325 stars)</title><link>https://github.com/n8n-io/n8n</link><description>
 &lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;elementalsouls/Claude-BugHunter&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.&lt;/p&gt;
-&lt;p&gt;⭐ 9,994 | +1,005 today | 🔧 Python&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;n8n-io/n8n&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.&lt;/p&gt;
+&lt;p&gt;⭐ 211,284 | +325 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/elementalsouls/Claude-BugHunter#2026-11-18</guid><pubDate>Wed, 18 Nov 2026 08:02:26 +0000</pubDate></item><item><title>#8 getarcaneapp/arcane (+618 stars)</title><link>https://github.com/getarcaneapp/arcane</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;getarcaneapp/arcane&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Modern Docker Management, Designed for Everyone&lt;/p&gt;
-&lt;p&gt;⭐ 9,504 | +618 today | 🔧 Go&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/getarcaneapp/arcane#2026-11-18</guid><pubDate>Wed, 18 Nov 2026 08:02:26 +0000</pubDate></item><item><title>#9 google-labs-code/stitch-skills (+350 stars)</title><link>https://github.com/google-labs-code/stitch-skills</link><description>
-&lt;![CDATA[
-&lt;p&gt;&lt;strong&gt;google-labs-code/stitch-skills&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.&lt;/p&gt;
-&lt;p&gt;⭐ 10,226 | +350 today | 🔧 TypeScript&lt;/p&gt;
-&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
-]]&gt;
-</description><guid isPermaLink="false">https://github.com/google-labs-code/stitch-skills#2026-11-18</guid><pubDate>Wed, 18 Nov 2026 08:02:26 +0000</pubDate></item><item><title>#10 cursor/plugins (+201 stars)</title><link>https://github.com/cursor/plugins</link><description>
+</description><guid isPermaLink="false">https://github.com/n8n-io/n8n#2026-11-19</guid><pubDate>Thu, 19 Nov 2026 08:08:08 +0000</pubDate></item><item><title>#7 cursor/plugins (+314 stars)</title><link>https://github.com/cursor/plugins</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;cursor/plugins&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Cursor plugin specification and official plugins&lt;/p&gt;
-&lt;p&gt;⭐ 17,001 | +201 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 17,354 | +314 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/cursor/plugins#2026-11-18</guid><pubDate>Wed, 18 Nov 2026 08:02:26 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/cursor/plugins#2026-11-19</guid><pubDate>Thu, 19 Nov 2026 08:08:08 +0000</pubDate></item><item><title>#8 getarcaneapp/arcane (+547 stars)</title><link>https://github.com/getarcaneapp/arcane</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;getarcaneapp/arcane&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Modern Docker Management, Designed for Everyone&lt;/p&gt;
+&lt;p&gt;⭐ 9,972 | +547 today | 🔧 Go&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/getarcaneapp/arcane#2026-11-19</guid><pubDate>Thu, 19 Nov 2026 08:08:08 +0000</pubDate></item><item><title>#9 nvm-sh/nvm (+237 stars)</title><link>https://github.com/nvm-sh/nvm</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;nvm-sh/nvm&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.&lt;/p&gt;
+&lt;p&gt;⭐ 96,201 | +237 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/nvm-sh/nvm#2026-11-19</guid><pubDate>Thu, 19 Nov 2026 08:08:08 +0000</pubDate></item><item><title>#10 astral-sh/uv (+258 stars)</title><link>https://github.com/astral-sh/uv</link><description>
+&lt;![CDATA[
+&lt;p&gt;&lt;strong&gt;astral-sh/uv&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An extremely fast Python package and project manager, written in Rust.&lt;/p&gt;
+&lt;p&gt;⭐ 92,337 | +258 today | 🔧 Rust&lt;/p&gt;
+&lt;p&gt;推荐指数: 8/10&lt;/p&gt;
+]]&gt;
+</description><guid isPermaLink="false">https://github.com/astral-sh/uv#2026-11-19</guid><pubDate>Thu, 19 Nov 2026 08:08:08 +0000</pubDate></item></channel></rss>

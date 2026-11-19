@@ -1,0 +1,159 @@
+{
+  "date": "2026-11-19",
+  "updated_at": "2026-11-19 08:08:08",
+  "count": 19,
+  "rankings": [
+    {
+      "name": "HKUDS/CLI-Anything",
+      "rank": 1,
+      "stars": "60,061",
+      "stars_today": "389",
+      "language": "Python",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "rank": 2,
+      "stars": "70,331",
+      "stars_today": "1,059",
+      "language": "Python",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+    },
+    {
+      "name": "sveltejs/svelte",
+      "rank": 3,
+      "stars": "89,714",
+      "stars_today": "692",
+      "language": "JavaScript",
+      "description": "web development for the rest of us"
+    },
+    {
+      "name": "obra/superpowers",
+      "rank": 4,
+      "stars": "321,527",
+      "stars_today": "822",
+      "language": "Shell",
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "name": "affaan-m/ECC",
+      "rank": 5,
+      "stars": "306,803",
+      "stars_today": "1,108",
+      "language": "JavaScript",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "name": "n8n-io/n8n",
+      "rank": 6,
+      "stars": "211,284",
+      "stars_today": "325",
+      "language": "TypeScript",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
+    },
+    {
+      "name": "cursor/plugins",
+      "rank": 7,
+      "stars": "17,354",
+      "stars_today": "314",
+      "language": "TypeScript",
+      "description": "Cursor plugin specification and official plugins"
+    },
+    {
+      "name": "getarcaneapp/arcane",
+      "rank": 8,
+      "stars": "9,972",
+      "stars_today": "547",
+      "language": "Go",
+      "description": "Modern Docker Management, Designed for Everyone"
+    },
+    {
+      "name": "nvm-sh/nvm",
+      "rank": 9,
+      "stars": "96,201",
+      "stars_today": "237",
+      "language": "Shell",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions."
+    },
+    {
+      "name": "astral-sh/uv",
+      "rank": 10,
+      "stars": "92,337",
+      "stars_today": "258",
+      "language": "Rust",
+      "description": "An extremely fast Python package and project manager, written in Rust."
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "rank": 11,
+      "stars": "10,524",
+      "stars_today": "365",
+      "language": "TypeScript",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor."
+    },
+    {
+      "name": "jquery/jquery",
+      "rank": 12,
+      "stars": "60,075",
+      "stars_today": "266",
+      "language": "JavaScript",
+      "description": "jQuery JavaScript Library"
+    },
+    {
+      "name": "appwrite/appwrite",
+      "rank": 13,
+      "stars": "58,339",
+      "stars_today": "232",
+      "language": "TypeScript",
+      "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more"
+    },
+    {
+      "name": "DeanChensj/jiangshan-map",
+      "rank": 14,
+      "stars": "8,274",
+      "stars_today": "218",
+      "language": "JavaScript",
+      "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes"
+    },
+    {
+      "name": "NVIDIA/SkillEvaluator",
+      "rank": 15,
+      "stars": "3,916",
+      "stars_today": "312",
+      "language": "Python",
+      "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring every check to any repository."
+    },
+    {
+      "name": "google-research/paper-orchestra",
+      "rank": 16,
+      "stars": "4,622",
+      "stars_today": "1,524",
+      "language": "Python",
+      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing."
+    },
+    {
+      "name": "solidjs/solid",
+      "rank": 17,
+      "stars": "36,702",
+      "stars_today": "40",
+      "language": "TypeScript",
+      "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+    },
+    {
+      "name": "punkpeye/awesome-mcp-servers",
+      "rank": 18,
+      "stars": "98,160",
+      "stars_today": "53",
+      "language": null,
+      "description": "A collection of MCP servers."
+    },
+    {
+      "name": "openvinotoolkit/openvino",
+      "rank": 19,
+      "stars": "11,418",
+      "stars_today": "24",
+      "language": "C++",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference"
+    }
+  ]
+}
