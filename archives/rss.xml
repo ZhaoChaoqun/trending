@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Wed, 25 Nov 2026 09:21:48 +0000</pubDate><lastBuildDate>Wed, 25 Nov 2026 09:21:48 +0000</lastBuildDate><item><title>#1 elementalsouls/Claude-BugHunter (+1,826 stars)</title><link>https://github.com/elementalsouls/Claude-BugHunter</link><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Trending 每日热榜</title><link>https://github.com/trending</link><description>每日追踪 GitHub Trending 热门项目，AI 智能解读</description><language>zh-CN</language><pubDate>Thu, 26 Nov 2026 09:00:12 +0000</pubDate><lastBuildDate>Thu, 26 Nov 2026 09:00:12 +0000</lastBuildDate><item><title>#1 elementalsouls/Claude-BugHunter (+1,652 stars)</title><link>https://github.com/elementalsouls/Claude-BugHunter</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;elementalsouls/Claude-BugHunter&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.&lt;/p&gt;
-&lt;p&gt;⭐ 22,065 | +1,826 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.&lt;/p&gt;
+&lt;p&gt;⭐ 23,554 | +1,652 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/elementalsouls/Claude-BugHunter#2026-11-25</guid><pubDate>Wed, 25 Nov 2026 09:21:48 +0000</pubDate></item><item><title>#2 obra/superpowers (+1,003 stars)</title><link>https://github.com/obra/superpowers</link><description>
+</description><guid isPermaLink="false">https://github.com/elementalsouls/Claude-BugHunter#2026-11-26</guid><pubDate>Thu, 26 Nov 2026 09:00:12 +0000</pubDate></item><item><title>#2 obra/superpowers (+903 stars)</title><link>https://github.com/obra/superpowers</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;obra/superpowers&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;An agentic skills framework &amp; software development methodology that works.&lt;/p&gt;
-&lt;p&gt;⭐ 326,132 | +1,003 today | 🔧 Shell&lt;/p&gt;
+&lt;p&gt;⭐ 326,938 | +903 today | 🔧 Shell&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-11-25</guid><pubDate>Wed, 25 Nov 2026 09:21:48 +0000</pubDate></item><item><title>#3 HKUDS/CLI-Anything (+1,074 stars)</title><link>https://github.com/HKUDS/CLI-Anything</link><description>
+</description><guid isPermaLink="false">https://github.com/obra/superpowers#2026-11-26</guid><pubDate>Thu, 26 Nov 2026 09:00:12 +0000</pubDate></item><item><title>#3 HKUDS/CLI-Anything (+1,106 stars)</title><link>https://github.com/HKUDS/CLI-Anything</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;HKUDS/CLI-Anything&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/&lt;/p&gt;
-&lt;p&gt;⭐ 65,210 | +1,074 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 65,953 | +1,106 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/HKUDS/CLI-Anything#2026-11-25</guid><pubDate>Wed, 25 Nov 2026 09:21:48 +0000</pubDate></item><item><title>#4 jingyaogong/minimind (+727 stars)</title><link>https://github.com/jingyaogong/minimind</link><description>
+</description><guid isPermaLink="false">https://github.com/HKUDS/CLI-Anything#2026-11-26</guid><pubDate>Thu, 26 Nov 2026 09:00:12 +0000</pubDate></item><item><title>#4 jingyaogong/minimind (+826 stars)</title><link>https://github.com/jingyaogong/minimind</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;jingyaogong/minimind&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.&lt;/p&gt;
-&lt;p&gt;⭐ 70,622 | +727 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 71,303 | +826 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/jingyaogong/minimind#2026-11-25</guid><pubDate>Wed, 25 Nov 2026 09:21:48 +0000</pubDate></item><item><title>#5 firecrawl/firecrawl (+991 stars)</title><link>https://github.com/firecrawl/firecrawl</link><description>
+</description><guid isPermaLink="false">https://github.com/jingyaogong/minimind#2026-11-26</guid><pubDate>Thu, 26 Nov 2026 09:00:12 +0000</pubDate></item><item><title>#5 firecrawl/firecrawl (+1,135 stars)</title><link>https://github.com/firecrawl/firecrawl</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;firecrawl/firecrawl&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.&lt;/p&gt;
-&lt;p&gt;⭐ 209,345 | +991 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 210,396 | +1,135 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/firecrawl/firecrawl#2026-11-25</guid><pubDate>Wed, 25 Nov 2026 09:21:48 +0000</pubDate></item><item><title>#6 cathrynlavery/diagram-design (+802 stars)</title><link>https://github.com/cathrynlavery/diagram-design</link><description>
+</description><guid isPermaLink="false">https://github.com/firecrawl/firecrawl#2026-11-26</guid><pubDate>Thu, 26 Nov 2026 09:00:12 +0000</pubDate></item><item><title>#6 cathrynlavery/diagram-design (+1,141 stars)</title><link>https://github.com/cathrynlavery/diagram-design</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;cathrynlavery/diagram-design&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.&lt;/p&gt;
-&lt;p&gt;⭐ 72,453 | +802 today | 🔧 HTML&lt;/p&gt;
+&lt;p&gt;⭐ 73,392 | +1,141 today | 🔧 HTML&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/cathrynlavery/diagram-design#2026-11-25</guid><pubDate>Wed, 25 Nov 2026 09:21:48 +0000</pubDate></item><item><title>#7 mvanhorn/last30days-skill (+703 stars)</title><link>https://github.com/mvanhorn/last30days-skill</link><description>
+</description><guid isPermaLink="false">https://github.com/cathrynlavery/diagram-design#2026-11-26</guid><pubDate>Thu, 26 Nov 2026 09:00:12 +0000</pubDate></item><item><title>#7 mvanhorn/last30days-skill (+945 stars)</title><link>https://github.com/mvanhorn/last30days-skill</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;mvanhorn/last30days-skill&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary&lt;/p&gt;
-&lt;p&gt;⭐ 74,618 | +703 today | 🔧 Python&lt;/p&gt;
+&lt;p&gt;⭐ 75,372 | +945 today | 🔧 Python&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/mvanhorn/last30days-skill#2026-11-25</guid><pubDate>Wed, 25 Nov 2026 09:21:48 +0000</pubDate></item><item><title>#8 toeverything/AFFiNE (+584 stars)</title><link>https://github.com/toeverything/AFFiNE</link><description>
+</description><guid isPermaLink="false">https://github.com/mvanhorn/last30days-skill#2026-11-26</guid><pubDate>Thu, 26 Nov 2026 09:00:12 +0000</pubDate></item><item><title>#8 toeverything/AFFiNE (+574 stars)</title><link>https://github.com/toeverything/AFFiNE</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;toeverything/AFFiNE&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.&lt;/p&gt;
-&lt;p&gt;⭐ 78,169 | +584 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 78,677 | +574 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 9/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/toeverything/AFFiNE#2026-11-25</guid><pubDate>Wed, 25 Nov 2026 09:21:48 +0000</pubDate></item><item><title>#9 cursor/plugins (+360 stars)</title><link>https://github.com/cursor/plugins</link><description>
+</description><guid isPermaLink="false">https://github.com/toeverything/AFFiNE#2026-11-26</guid><pubDate>Thu, 26 Nov 2026 09:00:12 +0000</pubDate></item><item><title>#9 cursor/plugins (+416 stars)</title><link>https://github.com/cursor/plugins</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;cursor/plugins&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Cursor plugin specification and official plugins&lt;/p&gt;
-&lt;p&gt;⭐ 19,367 | +360 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 19,630 | +416 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/cursor/plugins#2026-11-25</guid><pubDate>Wed, 25 Nov 2026 09:21:48 +0000</pubDate></item><item><title>#10 google-labs-code/stitch-skills (+403 stars)</title><link>https://github.com/google-labs-code/stitch-skills</link><description>
+</description><guid isPermaLink="false">https://github.com/cursor/plugins#2026-11-26</guid><pubDate>Thu, 26 Nov 2026 09:00:12 +0000</pubDate></item><item><title>#10 google-labs-code/stitch-skills (+355 stars)</title><link>https://github.com/google-labs-code/stitch-skills</link><description>
 &lt;![CDATA[
 &lt;p&gt;&lt;strong&gt;google-labs-code/stitch-skills&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.&lt;/p&gt;
-&lt;p&gt;⭐ 12,794 | +403 today | 🔧 TypeScript&lt;/p&gt;
+&lt;p&gt;⭐ 13,106 | +355 today | 🔧 TypeScript&lt;/p&gt;
 &lt;p&gt;推荐指数: 8/10&lt;/p&gt;
 ]]&gt;
-</description><guid isPermaLink="false">https://github.com/google-labs-code/stitch-skills#2026-11-25</guid><pubDate>Wed, 25 Nov 2026 09:21:48 +0000</pubDate></item></channel></rss>
+</description><guid isPermaLink="false">https://github.com/google-labs-code/stitch-skills#2026-11-26</guid><pubDate>Thu, 26 Nov 2026 09:00:12 +0000</pubDate></item></channel></rss>
